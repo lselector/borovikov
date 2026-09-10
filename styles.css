@@ -1,0 +1,249 @@
+/*
+ * Print styles for GUIDE_to_M92.pdf.
+ * Used by s3_make_pdf.py through WeasyPrint.
+ * US Letter, 0.7in margins on all four sides.
+ * Created: 2026-09-04. Last updated: 2026-09-10.
+ */
+
+@page {
+    size: Letter;
+    margin: 0.7in;
+
+    @bottom-center {
+        content: counter(page) " of " counter(pages);
+        font-family: "Helvetica Neue", Arial, sans-serif;
+        font-size: 8.5pt;
+        color: #8a8a8a;
+    }
+
+    @bottom-right {
+        content: "Perkins Sabre M92 - AR50750U038560F";
+        font-family: "Helvetica Neue", Arial, sans-serif;
+        font-size: 8pt;
+        color: #b0b0b0;
+    }
+}
+
+/* ---------------------------------------------- body */
+
+body {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 10.5pt;
+    line-height: 1.5;
+    color: #1c1c1c;
+    hyphens: none;
+}
+
+p {
+    margin: 0 0 0.65em 0;
+    orphans: 2;
+    widows: 2;
+}
+
+/* ------------------------------------------ headings */
+
+h1, h2, h3, h4 {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    color: #123c5a;
+    break-after: avoid;
+    page-break-after: avoid;
+}
+
+h1 {
+    font-size: 22pt;
+    line-height: 1.2;
+    margin: 0 0 0.2em 0;
+    padding-bottom: 0.25em;
+    border-bottom: 3px solid #2a6f97;
+}
+
+h2 {
+    font-size: 15pt;
+    margin: 1.4em 0 0.5em 0;
+    padding-bottom: 0.15em;
+    border-bottom: 1px solid #cfd9e2;
+}
+
+h3 {
+    font-size: 12pt;
+    margin: 1.1em 0 0.4em 0;
+}
+
+h4 {
+    font-size: 10.5pt;
+    margin: 1em 0 0.3em 0;
+}
+
+/* --------------------------------------------- lists */
+
+ul, ol {
+    margin: 0 0 0.7em 0;
+    padding-left: 1.4em;
+}
+
+li {
+    margin-bottom: 0.25em;
+}
+
+/* ---------------------------- table of contents block */
+
+h2#table-of-contents + ol {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 9.5pt;
+    line-height: 1.5;
+    padding-left: 1.6em;
+}
+
+h2#table-of-contents + ol ul,
+h2#table-of-contents + ol ol {
+    padding-left: 1.2em;
+    font-size: 9pt;
+    color: #555;
+}
+
+/* -------------------------------------------- tables */
+
+/*
+ * Tables are allowed to break across pages, because the
+ * fault diagnosis and torque tables are longer than a page.
+ * Rows are kept intact instead, and the header repeats.
+ */
+table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    margin: 0.6em 0 1em 0;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 9pt;
+}
+
+thead {
+    display: table-header-group;
+}
+
+tr {
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+th, td {
+    border: 1px solid #ccd6e0;
+    padding: 5px 7px;
+    text-align: left;
+    vertical-align: top;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+th {
+    background: #eaf1f6;
+    color: #123c5a;
+    font-weight: 600;
+}
+
+tr:nth-child(even) td {
+    background: #fafbfc;
+}
+
+/* -------------------------------------------- images */
+
+/*
+ * Standard images are 800x600. Left at full content width
+ * they run 5.3in tall and strand half a page each, so cap
+ * them at a size that lets two sit together with their
+ * text. Table cells override this and fill the column.
+ */
+img {
+    max-width: 4.4in;
+    height: auto;
+    display: block;
+    margin: 0.5em auto;
+    border: 1px solid #e0e0e0;
+}
+
+td img {
+    max-width: 2.8in;
+    margin: 0 auto;
+}
+
+figure {
+    margin: 0.8em 0 1em 0;
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+figcaption {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 8.5pt;
+    color: #555;
+    text-align: center;
+    margin-top: 0.3em;
+}
+
+/* ---------------------------------------- callout box */
+
+blockquote {
+    margin: 0.8em 0;
+    padding: 0.6em 0.9em;
+    background: #f2f7fa;
+    border-left: 4px solid #2a6f97;
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+/* ----------------------------------------------- code */
+
+code {
+    font-family: Menlo, Consolas, monospace;
+    font-size: 9pt;
+    background: #f1f4f6;
+    padding: 1px 4px;
+    border-radius: 3px;
+}
+
+pre {
+    background: #f1f4f6;
+    border: 1px solid #dde3e8;
+    border-radius: 4px;
+    padding: 0.6em 0.8em;
+    font-size: 9pt;
+    line-height: 1.4;
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+pre code {
+    background: none;
+    padding: 0;
+}
+
+/* ---------------------------------------------- links */
+
+a {
+    color: #1a5490;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* ------------------------------------------ rules, hr */
+
+hr {
+    border: none;
+    border-top: 1px solid #e2e6ea;
+    margin: 1.3em 0;
+}
+
+strong {
+    color: #111;
+}
+
+em {
+    color: #444;
+}

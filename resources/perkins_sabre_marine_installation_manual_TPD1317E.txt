@@ -1,0 +1,3711 @@
+                               Part No TPD 1317E
+
+                         ®               GB
+
+
+
+         Installation Manual
+              M92B
+
+                                   M115T
+M92
+
+
+
+
+                                   M185C
+
+
+M130C/M135
+
+
+
+
+                          M265Ti/M300Ti
+
+M215C/225Ti
+TPD1317e                                                                                          Contents
+
+Perkins Marine Engines
+Installation Manual
+M300Ti           6 Cylinder turbocharged, intercooled, diesel engine for
+                 pleasure boat applications
+
+M265Ti           6 Cylinder turbocharged, intercooled, diesel engine for
+                 pleasure boat applications
+
+M225Ti           6 Cylinder turbocharged, intercooled, diesel engine for
+                 pleasure boat applications
+
+M215C            6 Cylinder turbocharged, intercooled, diesel engine for
+                 commercial applications
+
+M185C            6 Cylinder turbocharged, intercooled, diesel engine for
+                 commercial applications
+
+M135             6 Cylinder naturally aspirated, diesel engine for pleasure boat
+                 applications
+
+M130C            6 Cylinder naturally aspirated, diesel engine for commercial
+                 applications
+
+M115T            4 Cylinder turbocharged diesel engine for all applications
+
+M92              4 Cylinder naturally aspirated diesel engine for all
+                 applications
+
+M92B             4 Cylinder naturally aspirated diesel engine for all
+                 applications
+
+
+
+
+Publication TPD 1317e, Issue 14
+Published in December 2013 by Wimborne Marine Power Centre, Wimborne, Dorset, England. BH21 7PW
+Tel: +44(0)1202 796000 Fax: +44(0)1202 796001 Email: Marine@Perkins.com
+Website: www.perkins.com/marine
+Contents                                       TPD1317e
+
+
+
+
+           This page is intentionally blank.
+TPD1317e                                                                                                          Contents
+
+                                                                                                                Contents
+
+
+Location of Engine Installation Points............................................1
+
+1 Engine Mounting............................................................................3
+  1.1    Installation Angles.................................................................................. 3
+  1.2    Engine Mounting Brackets. ................................................................... 4
+  1.3    Flexible Engine Mounts. ........................................................................ 5
+  1.4    Engine Bearers....................................................................................... 6
+
+2 Propeller Shafts and Couplings....................................................7
+  2.1    Propeller Shafts...................................................................................... 7
+  2.2    Gearbox Output Couplings.................................................................... 8
+
+3 Exhaust Systems. ......................................................................... 11
+  3.1    Wet Systems. ......................................................................................... 11
+  3.2    Dry Systems........................................................................................... 13
+  3.3    Part Dry, Part Wet Systems. ................................................................. 20
+  3.4    Water Lift Systems. ............................................................................... 20
+
+4 Engine Room Ventilation..............................................................23
+
+5 Engine Cooling Systems..............................................................25
+  5.1    Raw Water Systems. ............................................................................. 25
+  5.2    Keel Cooling Statement: M300Ti and M265Ti Engines -
+         keel cooling is not offered with these models.................................... 27
+  5.3    Keel Cooling System: M225Ti, M215C and M185C Engines.............. 27
+  5.4    Keel Cooling System: M135 and M130C Engine................................. 28
+  5.5    Keel Cooling System: M115T M92 and M92B engine......................... 29
+
+6 Fuel Systems.................................................................................33
+  6.1    Fuel Connections. ................................................................................. 33
+
+7 Engine Electrical Systems. ..........................................................37
+  7.1    Engine Wiring Looms............................................................................ 37
+  7.2    Fuse board. ............................................................................................ 43
+         Inverter/Converter Fitting Instructions................................................ 44
+  7.4    Interconnecting Cable........................................................................... 45
+  7.5    Instrument Panels. ................................................................................ 47
+  7.6    Battery and Starter Cables. .................................................................. 52
+  7.7    Zinc Anode bonding system. ............................................................... 53
+ Contents                                                                                                         TPD1317e
+
+8 Engine Controls. ...........................................................................57
+  8.1     M300Ti, and M265Ti Engines................................................................ 57
+  8.2     M225Ti, M215C and M185C Engines.................................................... 58
+  8.3     M135 and M130C Engines..................................................................... 59
+  8.4     M115T and M92 Engines....................................................................... 60
+  8.5     M92B Engines....................................................................................... 61
+
+9 Provision for Power Take-off. ......................................................63
+  9.1     Axial Drives............................................................................................ 64
+  9.2     Belt Drives.............................................................................................. 64
+  9.3     PTO Fitting Instructions........................................................................ 65
+  9.4     Electro Mechanical Bilge Pump........................................................... 66
+
+10 Calorifier and Block Heater Connections.................................67
+  10.1 Calorifier................................................................................................. 67
+  10.2 Block Heater - for 6 cylinder engine models....................................... 69
+
+11 Reference Data............................................................................71
+  11.1    M300Ti and M265Ti Engines................................................................. 71
+  11.2    M225Ti, M215C and M185C Engines.................................................... 74
+  11.3    M135, and M130C Engines.................................................................... 77
+  11.4    M115T, and M92 Engines....................................................................... 80
+  11.5    M92B Engines........................................................................................ 83
+TPD1317e
+
+                                   Location of Engine Installation Points
+
+
+                                                                    Electrical Systems
+                                                                     (See section 7)
+     Exhaust Systems
+      (See section 3)
+
+
+
+
+       Starter Cables (See
+           section 7.5)
+                                          Bonding Stud          Fuel Feed (See
+                                        (See section 7.6)         section 6.1)
+                                                    Warning!
+                                           Use spreader bar when
+                                          lifting 6 cylinder engines
+     Engine Controls                                           Fuel Return
+     (See section 8)                                          (See section
+                                                                  6.1)
+
+
+
+
+                                                                       Ventilation (See
+                                                                         section 4)
+
+
+
+
+                                                                   Mounting Brackets
+                                                                   (See section 1.2)
+
+     Cooling Systems
+      (See section 5)
+                                                            Flexible Mounts
+                                                           (See section 1.3)
+
+
+
+
+                             Engine side views
+
+
+
+                                                                                  Page 1
+                                                                             TPD1317e
+
+
+
+
+               Ventilation (See                           Exhaust Systems
+                 section 4)                                (See section 3)
+
+
+
+
+                                                          Cooling Systems
+         Electrical Systems                                (See section 5)
+          (See section 7)
+
+
+
+
+             Flexible Mounts                         Mounting Brackets
+            (See section 1.3)                        (See section 1.2)
+
+
+
+
+                                  Engine end views
+
+
+
+
+Page 2
+TPD 1317e                                                                                             Chapter 1
+
+                                                                                         Engine Mounting
+
+
+1.1 Installation Angles
+(a) The engine is intended to be mounted so that the cylinders are vertical, when viewed from ahead or astern
+(figure 1). The heel angles that are permissible in service are shown in figure 2a for 6 cylinder models, and 2b
+for 4 cylinder models.
+                                           30o                30o                25o                        35o
+                                         Maximum            Maximum           Continuous                Intermittent
+
+
+
+
+         Figure 1 - Vertical                   Figure 2a - Acceptable              Figure 2b - Acceptable heel
+            installation.                      heel angle for 6 cylinder           angle for 4 cylinder models.
+                                                       models.
+
+(b) In standard form all engine models are suitable for installation so that in side view the crankshaft is ‘flywheel
+down’ from a minimum of 3o to a maximum of 17o. An allowance has been made for an additional 3o rise to
+occur in service, when climbing waves or on to the plane.
+
+
+
+
+                    3o Minimum
+SWL                                                                                                            SWL
+
+
+
+
+                         17o Maximum
+
+                Figure 3 - When in standard form all engine models may be installed ‘flywheel
+                             down’ from a minimum of 3o to a maximum of 17O.
+
+
+
+
+                                                                                                           Page 3
+ Chapter 1                                                                                            TPD 1317e
+(c) A kit of parts is available to modify 6 cylinder models (only) so that they are suitable for installation with the
+flywheel end of the crankshaft above the pulley end by up to 5o. An allowance has been made for an additional
+3o rise to occur in service, when climbing waves or on to the plane.
+
+
+
+
+                                                                                          Header tank
+                  5o Maximum                                                             raised using a
+                  flywheel up                                                             special kit of
+                                                                                              parts
+
+                  SWL                                                                  SWL
+
+             3o flywheel
+                down
+
+
+                   Figure 4 - Six cylinder models may be installed in a horizontal or nose
+                      down attitude if a special kit of parts is fitted, to raise the header
+
+
+1.2 Engine Mounting Brackets
+The standard brackets, provide mounting points which are 76mm (3 in.) below, and parallel with, the crankshaft
+centre line. The brackets may be used to mount the engine directly on the engine bearers, but for all applications
+it is recommended that flexible engine mounts are used.
+
+
+
+
+                      Slotted hole 36 x 17
+                        (1.7/16” x 21/32”)
+                    allows sideways engine
+                            movement
+
+
+
+
+                       Figure 5 - Typical engine mounting brackets - refer to installation
+                                       drawings for specific applications.
+
+The holes for the holding down bolts are slotted, to allow for some movement during the final stages of
+alignment. Where fine alignment is not necessary, for example when a flexibly jointed drive shaft is used, the
+bolts on all four corners of the engine should be positioned at the end of the slot - all either fully in or fully out.
+This will provide additional security in the fixing arrangements.
+
+Page 4
+TPD 1317e                                                                                         Chapter 1
+
+1.3     Flexible Engine Mounts
+It is recommended that flexible engine mounts should be used for all applications. The principal purpose of the
+mounts is to reduce the transmission of vibration from the engine to the hull, but another valuable advantage is
+that the mountings reduce the shock transmitted from the hull to the engine under adverse weather conditions
+and also prevent the engine being inadvertently used as a structural part of the boat, due to hull flexure, a
+function the engine will not satisfactorily fulfil.
+
+Figure 6 shows the leading dimensions of the flexible engine mount which is satisfactory for most
+applications.
+
+Engines used with unusual drive arrangements, such as ‘V’ drives when integral with the engine unit, pose
+special mounting problems and recommendations as to the most suitable mounting arrangement can be made
+for specific applications.
+
+Where transmission ratios in excess of 2.5:1 are employed, or where extreme service conditions can be
+expected, (e.g. fast rescue boats) the standard mount should not be used, and a recommendation should be
+obtained for the specific application.
+
+Installation drawings are available showing the preferred mounting arrangements when using a variety of
+gearboxes.
+
+
+       Height adjuster bolt
+            and nut
+
+
+
+
+                                                                           *Minimum 125(4.9)
+        Height adjuster pad
+                                                                           *Maximum 137(5.4)
+                                                                           (Bottom of mount to crankshaft
+  A maximum of 13 shims can be                                             centre line)
+ used per mount, 11 at 1mm thick
+      and 2 at 0.5mm thick..
+
+             Radially
+           slotted hole
+
+
+
+
+Dimensions: mm(inches)
+*Dimensions given are for the
+mount in the unloaded condition
+
+
+                   Figure 6 - Typical flexible engine mount - refer to installation drawing for
+                                              specific applications.
+
+
+                                                                                                       Page 5
+ Chapter 1                                                                                        TPD 1317e
+
+1.4     Engine Bearers
+The materials and methods of construction of engine bearers which have proved to be satisfactory in service
+vary to such an extent that it is difficult to lay down universal guide lines. However, as a rough guide it can be
+said the engine bearers should be capable of supporting a static load of about eight times the weight of the
+engine, to cater for the effects of rough seas.
+
+The bearers should be cross connected to give lateral rigidity, in order to maintain the shaft alignment and to
+prevent twisting and racking forces being applied to the engine.
+
+To enable minimum shaft centre distances to be achieved in a twin installation, a common centre bearer
+supporting the inner mountings of both engines is sometimes used as shown in figure 7. By this method shaft
+centres down to 690mm (27”) may be adopted, but wider spacing is desirable.
+
+The shaft centres could be theoretically reduced further, but this would result in the engine accessibility
+becoming very restricted, and it would be impossible to carry out service operations. It should be noted that
+if minimum shaft centres are to be adopted, space must be left in front of and behind the engine to provide
+access. A minimum clearance on all sides will mean that the engine cannot be serviced!
+
+
+
+
+                        Figure 7 - Illustration of the closest practicable engine spacing.
+                       With this arrangement access space must be provided ahead and
+                                         behind the engines for servicing.
+
+
+
+
+Page 6
+TPD1317e                                                                                             Chapter 2
+
+                                                                 Propeller Shafts and Couplings
+
+
+2.1     Propeller Shafts
+It is recommended that all engines are mounted on flexible mountings, which will reduce the transmission of
+noise and vibration, and will prevent hull movements resulting in forces being applied to the engine.
+
+The responsibility for the design and installation of the transmission system connected to the marine gearbox
+lies with the boat designer, the boat builder, the naval architect or the engine installer. It is recommended that
+a Torsional Vibration Analysis (TVA) is carried out on the complete drive system. Mass Elastic Data on the
+engine can be provided on request from Wimborne Marine Power Centre. The following observations are
+offered, to show some of the systems currently in use.
+
+Figure 1 shows a simple arrangement, where the propeller shaft is supported only by the gearbox coupling
+and an outboard rubber bearing at the propeller end. Entry of water into the boat is prevented by a shaft seal,
+which must be flexibly mounted to allow for engine movement. A flexible shaft coupling is fitted to the gearbox
+coupling, to allow momentary angular misalignment in operation.
+
+This system is only suitable for applications where the speed, diameter, and unsupported length of the propeller
+shaft will not induce ‘whirling’ (i.e. the centrifugal force generated by the speed of rotation is not sufficient to
+bend the shaft into a bow shape).
+
+
+
+
+                                          Reinforced
+                                         rubber hose
+                Graphited asbestos
+                      string
+   Stuffing
+     box
+
+
+
+
+                                                                     Flexibly mounted
+                                                                         shaft seals
+
+              Shaft
+
+
+
+
+                                                            Cutless           Flexible shaft         Flexible
+                                                            bearing             coupling            mountings
+
+
+
+
+                                                                                                          Page 7
+ Chapter 2                                                                                         TPD1317e
+Where the propeller shaft length is such that it cannot be simply supported by the gearbox coupling and ‘P’
+bracket, without the risk of whirling, the arrangement shown in figure 2 may be adopted.
+
+In this case one or more additional bearings are included in the shaft log, and flexible shaft couplings (which
+will accept thrust) are used to permit the engine to move on the flexible mountings.
+
+A variation of this system is to use a thrust block (bearing) at the point where the shaft emerges from the log
+into the engine room, together with constant velocity joints at each end of the short shaft connected to the
+gearbox coupling.
+
+
+                                                           Water supply for bearings (use hose from 1/4” BSP
+Warning! Use a                                             tapping on heat exchanger end cap). End cap with
+syphon break where                                                         tapping is optional.
+a water lift exhaust
+system is specified.
+See section 3.4
+
+
+
+
+                       Flexible mountings       Flexible shaft couplings          Shaft bearings
+
+                                   Figure 2 - Alternative shaft arrangement
+
+2.2     Gearbox Output Couplings
+Flanged propeller shaft couplings, to suit the gearbox output couplings offered by the many gearbox
+manufacturers, come in a number of different shapes and sizes, and a variety of methods can be employed to
+grip the propeller shaft.
+
+A traditional and sound method is to provide the same taper at both ends of the propeller shaft, so that the
+gearbox coupling can be machined at the same time as the propeller. This system is still commonly employed,
+particularly where high thrusts and heavy boats are involved. If the shaft becomes worn it can be turned end
+for end, and re-used at minimum cost.
+
+As an alternative to the above procedure the method shown in figure 3 may be adopted. Flanged couplings
+supplied with Twin Disc gearboxes are intended for this system. The shaft is gripped by means of a split
+coupling, with a key to provide positive drive, and a dowel pin to eliminate the possibility of the shaft being
+drawn out of the coupling when going astern.
+
+For lighter duty applications the system shown on figure 4 may be employed, utilising the flanged couplings
+supplied with Hurth gearboxes. In this case ahead thrust is taken directly by the gearbox output shaft, as the
+propeller shaft is butted against it. The shaft is secured by means of two half dog setscrews which also prevent
+loss of the shaft when going astern. Positive drive is provided by a key.
+
+
+
+
+Page 8
+TPD1317e                                                                                   Chapter 2
+
+
+
+
+                                    Dimensions in inches
+
+  A        B    C         D           E       F        G           H         I         J         K
+
+ 1.25   0.31   1.39
+                      Drill 15/32
+ 1.38   0.31   1.52     Ream         5.75     3.0     3.4        1.12      4.25      3.12       4.76
+                      0.5005-0
+ 1.50   0.38   1.67
+
+ 1.75   0.44   1.95
+
+ 2.00   0.50   2.23
+
+
+
+                                                                    Machining Procedure
+
+                                                            1. Bore to size (dimension ‘A’).
+
+                                                            2. Broach keyway 4.0” long (dimension
+                                                               ‘B’).
+
+                                                            3. Split, 0.135 Max. width (dimension
+                                                               ‘J’).
+
+                                                            4. Clamp the coupling to the propeller
+                                                               shaft in the position shown.
+
+                                                            5. Drill 15/32” Diameter hole through
+                                                               the propeller shaft and far side of
+                                                               the coupling, using the starter hole
+                                                               (dimension ‘D’).
+
+                                                            6. 0.5005-0.4990     Diameter     ream
+                                                               through both the coupling and shaft.
+
+                                                            7. Dismantle and clean, then assemble.
+                          Figure 3 - Twin Disc gearbox couplings
+
+
+                                                                                               Page 9
+Chapter 2                                                                                 TPD1317e
+
+
+
+
+                                   Dimensions in inches
+     A        B      C      D       E        F         G          H          I           J         K
+    1.00     0.25   1.12
+    1.12     0.25   1.24
+    1.25     0.31   1.39
+    1.38     0.31   1.52    3/8
+                                   5.00     2.50      3.16       0.38       2.16       0.88       4.25
+    1.50     0.38   1.67   UNC
+    1.75     0.44   1.95
+    2.00     0.50   2.23
+    2.25     0.56   2.50
+
+
+
+
+                                                     Key
+                                                                                    Propeller
+                                                                                      shaft
+
+
+
+
+                                                                                   Half dog set
+                                                                                     screws
+
+
+
+
+         Gearbox
+          output                                     Butt propeller shaft
+           shaft                                   against gearbox output
+                                                            shaft
+
+                            Figure 4 - Hurth gearbox couplings
+
+
+
+
+Page 10
+TPD1317e                                                                                           Chapter 3
+
+                                                                                     Exhaust Systems
+
+
+A wide range of exhaust components are available for use with all types of exhaust system. The components
+are designed to connect together, allowing complex systems to be built from stock items, to suit most
+installations.
+
+Caution: In all types of exhaust system the exhaust back pressure must not exceed 10 kPa of mercury, (except
+the M92B which is 15 kPa), when measured within 305mm (12 inches) of the exhaust outlet from the engine.
+
+
+3.1     Wet Systems
+Wet exhaust systems, where the raw water used to circulate through the heat exchangers on the engine is
+finally dumped into the exhaust pipe to cool the exhaust gases, are the most common choice for small craft.
+Their principal advantage is that a rubber exhaust hose may be used, with a fairly low surface temperature,
+which presents no risk of fire.
+
+A general arrangement for such a system is shown on Figure 1. In many cases the exhaust outlet passes
+through the transom, just above the waterline. It will be seen that a minimum fall of 5o is required, and that
+the point of water injection must be at least 8 inches above the waterline, although the actual height necessary
+for a particular boat can only be decided in the light of the exhaust system design, and the pitch and roll which
+may be encountered in service.
+
+Caution: It is essential that the exhaust system is designed so that water from the exhaust does not enter the
+engine under any conceivable operational condition.
+
+
+
+
+                                Point of water injection to be 200mm(8”)
+                                   minimum height above water line
+                   5o minimum average fall
+
+
+
+
+                                                                                                 Water line
+
+
+
+
+                                           Exhaust hose bore                   Engine model
+                                                125mm (5”)                 6 cylinder turbocharged
+                                               90mm (3.5”)                 4 cylinder turbocharged
+                                                76mm (3”)             4 & 6 cylinder naturally aspirated
+
+                                  Figure 1 - General exhaust arrangement.
+
+
+
+
+                                                                                                      Page 11
+ Chapter 3                                                                                   TPD1317e
+In order to achieve sufficient height above the waterline it may be necessary to use the system shown in
+Figure 2. This also enables the two elbows to be rotated relative to each other to allow the exhaust hose to
+run towards the side of the boat. The arrangement shown raises the exhaust height above the turbocharger
+outlet by about 230mm (9 inches) - greater heights can be achieved if necessary by using the arrangement
+described in Section 3.3.
+
+
+
+
+         Elbow with facility for
+            water injection
+
+
+
+
+                                                                                     Insulating blanket
+
+
+
+
+    Possible
+    rotation
+
+
+
+
+                                   Dry elbow
+
+
+
+
+                                     Figure 2 - High rise exhaust elbow.
+
+
+
+
+Page 12
+TPD1317e                                                                                             Chapter 3
+Due consideration must be given to providing flexibility in the exhaust hose, particularly if the engine is flexibly
+mounted. Where the exhaust hose must pass through a bulkhead immediately behind the engine it is preferable
+that the arrangement shown in Figure 3 is adopted, using rubber bellows to provide flexibility. Note that the
+bellows should be in an unstrained condition when fitted.
+
+
+                                                                                      For turbocharged 6
+                    Point of water                                                   cylinder engines, use
+                    injection to be        For turbocharged 6 cylinder               a single double hump
+                  200mm (8 inches)         engines use silicone rubber              bellows where space is
+                   minimum height                    bellows                               restricted.
+                   above water line
+
+         5o minimum average fall
+
+
+
+
+             Figure 3 - Movement of the engine on the flexible mounts must not be restricted by
+                 the exhaust hose. Use rubber bellows as shown where space is restricted.
+
+
+
+3.2     Dry Systems
+Dry exhaust systems for marine installations need careful design to minimize the disadvantages of enclosing
+components that are at a high temperature in confined spaces.
+
+The first part of a dry system should include a flexible connection so that excessive weight is not carried by the
+connection to the engine. Connections of the stainless steel bellows type are suitable, but care must be taken
+to ensure that they are only required to accommodate movements that do not involve twisting the ends of the
+bellows relative to each other.
+
+The remainder of the exhaust system should be well insulated to avoid fire risk.
+
+If there is a long exhaust run which gains height as it leaves the engine, it may be necessary to incorporate a
+trap to collect condensate and allow it to be drained.
+
+Figures 4, 5 , 6, 7 & 8 show typical systems. The minimum bore of the exhaust pipe should be 76mm (3 inches)
+for turbocharged engines, 63mm (2.5 inches) for naturally aspirated engines.
+
+
+
+
+                                                                                                         Page 13
+ Chapter 3                                                                                       TPD1317e
+
+
+                                                             Bracket with link to allow for movement due to
+                                                              expansion in the exhaust system (horizontal
+                                                            exhaust systems should be suspended from the
+                                                            deck head using similar brackets - rigid brackets
+                                                                          should not be used).
+
+
+
+
+                                                                            Insulating lagging
+
+
+
+
+                                                                  Rigid bracket to support the weight of
+                                                                       the vertical exhaust system
+
+
+
+
+                                                                              Heat blanket
+
+
+                                                                   Twin stainless steel bellows fitted to
+  Flanges shown                                                    avoid torsional load on bellows unit
+  without clips for
+       clarity
+
+                                                                         Heat blanket
+
+
+
+                                                                                     Turbocharger adaptor
+
+
+
+       90O Elbow
+
+
+
+
+          Heat blanket
+
+
+
+                         Figure 4 - Dry Exhaust System Features - M265Ti, M300Ti.
+
+
+
+
+Note: When fitted, the bellows units should be in an unstrained condition so that the full bellows movement is
+available to absorb expansion and engine movement.
+
+Page 14
+TPD1317e                                                                                           Chapter 3
+
+                                                              Bracket with link to allow for movement due to
+                                                               expansion in the exhaust system (horizontal
+                                                               exhaust systems should be suspended from
+                                                                the deck head using similar brackets - rigid
+                                                                      brackets should not be used).
+
+
+
+
+                                                                              Insulating lagging
+
+
+
+
+                                                                 Rigid bracket to support the weight of the
+                                                                          vertical exhaust system
+
+
+
+                                                                                Heat blanket
+
+
+
+
+Flanges shown without                                               Twin stainless steel bellows fitted to
+    bolts for clarity                                               avoid torsional load on bellows unit
+
+
+
+
+         90O Elbow
+
+
+
+
+                   Heat blanket
+
+
+
+           Figure 5 - Dry Exhaust System Features - M185C, M215C, M225Ti, M265Ti & M300Ti
+
+
+
+
+Note: When fitted, the bellows units should be in an unstrained condition so that the full bellows movement is
+available to absorb expansion and engine movement.
+
+                                                                                                     Page 15
+ Chapter 3                                                                                       TPD1317e
+                                                               Bracket with link to allow for movement due to
+                                                                expansion in the exhaust system (horizontal
+                                                                exhaust systems should be suspended from
+                                                                 the deck head using similar brackets - rigid
+                                                                       brackets should not be used).
+
+
+
+
+                                                                            Insulating lagging
+
+
+
+
+                                                                   Rigid bracket to support the weight of
+                                                                        the vertical exhaust system
+
+
+
+                                                                                Heat blanket
+
+
+                                                                      Twin stainless steel bellows fitted to
+                                                                      avoid torsional load on bellows unit
+
+Flanges shown without
+    bolts for clarity
+
+                                                                                           Manifold adaptor
+
+
+
+
+       90O Elbow
+
+
+
+
+           Heat blanket
+
+                                                                                            Heat blanket
+
+
+
+                          Figure 6 - Dry Exhaust System Features - M130C, M135.
+
+
+
+
+Note: When fitted, the bellows units should be in an unstrained condition so that the full bellows movement is
+available to absorb expansion and engine movement.
+
+
+Page 16
+TPD1317e                                                                                        Chapter 3
+                                                              Bracket with link to allow for movement due to
+                                                               expansion in the exhaust system (horizontal
+                                                             exhaust systems should be suspended from the
+                                                             deck head using similar brackets - rigid brackets
+                                                                           should not be used).
+
+
+
+                                                                           Insulating lagging
+
+
+                                                                Rigid bracket to support the weight of the
+                                                                         vertical exhaust system
+
+
+
+                                                                          Flanges shown without
+                                                                              bolts for clarity
+
+                                                                                Heat blanket
+
+
+                                                                                  90O Elbow
+
+
+                                                                                 Heat blanket
+
+
+
+                                                                                          90O Elbow
+
+
+
+
+ Stainless steel bellows
+
+
+
+
+                             Figure 7 - Dry Exhaust System Features - M115T.
+
+
+
+
+Note: When fitted, the bellows units should be in an unstrained condition so that the full bellows movement is
+available to absorb expansion and engine movement.
+
+
+                                                                                                   Page 17
+ Chapter 3                                                                                       TPD1317e
+                                                              Bracket with link to allow for movement due to
+                                                               expansion in the exhaust system (horizontal
+                                                             exhaust systems should be suspended from the
+                                                             deck head using similar brackets - rigid brackets
+                                                                           should not be used).
+
+
+                                                                            Insulating lagging
+
+
+
+                                                                 Rigid bracket to support the weight of the
+                                                                          vertical exhaust system
+
+
+                                                                         Flanges shown without
+                                                                             bolts for clarity
+
+
+
+
+                                                                               Heat blanket
+
+
+
+
+                                                 90O Elbow
+
+
+
+
+Stainless steel bellows
+
+
+                                                       Heat blanket                       Connection
+
+
+
+
+                              Figure 8 - Dry Exhaust System Features - M92.
+
+
+
+Note: When fitted, the bellows units should be in an unstrained condition so that the full bellows movement is
+available to absorb expansion and engine movement.
+
+Page 18
+TPD1317e                                                                                         Chapter 3
+                                                  Bracket with link to allow for movement due to
+                                                   expansion in the exhaust system (horizontal
+                                                 exhaust systems should be suspended from the
+                                                 deck head using similar brackets - rigid brackets
+                                                               should not be used).
+
+
+
+                                                                 Insulating lagging
+
+
+                                                    Rigid bracket to support the weight of the
+                                                             vertical exhaust system
+
+
+                                                             Flanges shown without
+                                                                 bolts for clarity
+
+
+
+
+                                                                       Heat blanket
+
+
+
+
+                                            90O Elbow
+
+
+
+
+ Stainless steel bellows                                Heat blanket                    Connection
+
+
+
+
+                              Figure 9 - Dry Exhaust System Features - M92B.
+
+
+
+
+Note: When fitted, the bellows units should be in an unstrained condition so that the full bellows movement is
+available to absorb expansion and engine movement.
+
+                                                                                                     Page 19
+ Chapter 3                                                                                          TPD1317e
+
+3.3       Part Dry, Part Wet Systems
+Even where the engine is mounted well below the waterline the advantages of a wet system can still be gained,
+providing that water injection takes place at a point sufficiently above the waterline.
+
+In these circumstances the part dry, part wet system shown in Figure 9 can be utilised. The modular exhaust
+components allow a system to be readily constructed, utilising a tall dry riser, followed by a water injection
+elbow.
+
+                                     Point of water
+                                     injection to be
+                                   200mm (8 inches)
+                                    minimum height
+                                    above water line                          Flexible hanger
+                    5O minimum
+                    average fall
+                                                                             Optional high rise extension
+
+
+
+      Water line
+                                                 Stainless
+                                               steel bellows
+
+
+
+
+      Figure 9 - Part Wet, Part Dry Exhaust System - The illustration shows a turbocharged engine, but the
+                               principle also applies to naturally aspirated engines.
+
+
+
+
+3.4       Water Lift Systems
+Whenever an engine is mounted with the exhaust outlet at or below the waterline, the exhaust systems shown
+in 3.2 and 3.3 should first be considered. If the layout of the boat is such that neither are suitable then a water
+lift system may be appropriate, but note that these systems make engine starting more difficult. (This should
+only be noticeable at low temperatures.)
+
+Figure 10 shows the main features of such a system, which utilises pressure developed by the exhaust gases
+to force a mixture of gas and water to a height which may be considerably above the engine. When the engine
+is stopped the exhaust tank contains the water which falls back from the exhaust riser.
+
+If a proprietary unit is used the manufacturers instructions should be carefully followed, but figure 10 identifies
+the key features.
+
+Note that the system must meet the requirement for the maximum exhaust back pressure to be not greater
+than 10 kPa, (except the M92B which is 15kPa), of mercury, measured within 305mm(12 inches) of the
+turbocharger/ exhaust outlet.
+
+
+
+
+Page 20
+TPD1317e                                                                                     Chapter 3
+
+
+
+                                                         1/2” bore
+                                                          siphon              To overboard outlet
+                                                           break
+
+
+
+
+450mm (18”)
+                                                                                                  Water
+                                                                                                injection
+                                                                                                  elbow
+
+                                    Exhaust riser
+
+
+
+           Top of exhaust riser and point
+            at which the siphon break is
+           connected to the engine pipe
+          work must be above the water                                               Exhaust tank
+           line under the worst possible                                             (water lock)
+          conditions (normally a distance
+            of 450mm (18”) under static
+            conditions will be sufficient)
+                                          Figure 10 - Water lift system
+
+a. Minimum volume of exhaust tank should be 3 times the volume of the water in the riser.
+
+b. The tank should be installed near the centre-line of sailing craft.
+
+
+
+
+                                                                                                    Page 21
+Chapter 3   TPD1317e
+
+
+
+
+Page 22
+TPD1317e                                                                                          Chapter 4
+
+                                                                         Engine Room Ventilation
+
+
+The engine room must be ventilated for two reasons:
+
+      • To supply the engine with air for combustion.
+      • To provide a flow of air through the engine room to prevent an excessive temperature build up, which
+        may cause components such as the alternator to overheat.
+
+In most applications in temperate climates, the engine will draw air from the engine room. If this is the case
+then, as a rough guide, it can be taken that every horsepower produced by the engines requires, as a minimum,
+0.25 sq.ins. of vent area. If the boat is likely to be used in hot climates, and if engine room ventilation fans
+are fitted, then a vent area of 0.5 sq.ins. per horsepower should be provided, (see the table below). Wherever
+possible a flow of air through the engine room should be encouraged by using forward facing intake vents to
+take advantage of ram airflow, together with other vents to allow hot air to escape.
+
+With an effective ventilation system the engine air intake temperature will be no more than 10 Centigrade
+degrees higher than the outside air temperature.
+
+                              Minimum cross section of air duct per engine
+
+               Model                           For hot climates                  For temperate climates
+
+              M300Ti                       900 sq.cm (140 sq. ins)                450 sq.cm (70 sq.ins)
+
+              M265Ti                        800 sq.cm (125 sq.ins)                400 sq.cm (60 sq.ins)
+
+     M225Ti / M215C / M185C                 600 sq.cm (100 sq.ins)                300 sq.cm (50 sq.ins)
+
+           M135 / M130C                     300 sq.cm (50 sq.ins)                 150 sq.cm (25 sq.ins)
+
+               M115T                        350 sq.cm (54 sq.ins)                 175 sq.cm (27 sq.ins)
+
+            M92 / M92B                      280 sq.cm (43 sq.ins)                 140 sq.cm (22 sq.ins)
+
+The air entry vents should be situated where spray is not likely to enter them and some form of water trap is
+desirable (see figure 1). Preferably the air ducts should reach the engine compartment at the sides of the hull
+so that water will fall into the bilge.
+
+When the engines are shut down after a run at high output in high ambient temperature conditions, it will be
+found that very high air temperatures will build up in the engine compartment. In boats with open cockpits this
+is usually of no real consequence but if the engines are mounted below a wheel house, then unpleasantly
+warm conditions may result. In these circumstances engine room ventilation fans are beneficial, preferably
+arranged to exhaust air from over the engine.
+
+
+
+
+                                                                                                     Page 23
+ Chapter 4                                                                                 TPD1317e
+
+
+
+                                     Noise absorbing chambers with
+                                      deflector baffles positioned to
+                                     direct ventilation air flow over a
+                                     large surface area of absorbent
+                                                  material.
+
+                                     Cross sectional area of air flow
+                                      path must not be too small.
+
+
+
+
+                                                                         Noise absorbent material
+                                                                           on panels surrounding
+                                                                                  the engine
+                         Figure 1 - Example of an engine room ventilation layout.
+
+Note: The air temperature entering the engine should not exceed 52oC (125oF)
+
+
+
+
+Page 24
+TPD1317e                                                                                              Chapter 5
+
+                                                                             Engine Cooling Systems
+
+
+5.1     Raw Water Systems
+A completely separate sea water system should be provided for each engine to prevent a blockage resulting
+in the need to shut down more than one engine.
+
+The water intake fitting should not project appreciably below the bottom of the hull and it should be situated
+well clear of other components such as shafts, logs, rudders to prevent flow problems at high speeds. If
+desired the rear edge of the water intake may be allowed to project more than the front, by no more than 6mm
+(0.25”) to give a slight scoop effect, but if this is done it is necessary to locate the fitting so that it cannot be
+inadvertently partially rotated.
+
+The intake fittings and pipe work should have a minimum bore of 25mm (1”) (see figure 1). Inboard of the
+intake fitting a sea cock must be provided. This should be of the full flow type giving unobstructed passage to
+the water in the open position, with a minimum bore of 25mm (1”).
+
+Between the intake fitting and the sea water pump on the engine, there should be a strainer which should be
+easily accessible for routine examination, and should be easily removable.
+
+From the sea water strainer a pipe should be run to the sea water pump inlet connection on the engine (see
+figure 1). The pipe may either be mainly rigid, of for example copper or cupro-nickel, or flexible, but only
+flexible hose which is reinforced to prevent collapse should be used. Rubber hose connections in the sea water
+system should be kept as short as possible and should be reinforced with a minimum of three layers of canvas.
+The system must be sufficiently flexible to permit the engine to move on its flexible mountings. The sea water
+pump connection is for hose with a 32mm (1.25”) bore.
+
+Care should be taken to use compatible materials in the sea water systems, to prevent excessive electrolytic
+corrosion. Systems incorporating copper, cupro-nickel, stainless steel Type 316, gun-metal, silver solder, and
+aluminium brass will generally be satisfactory. Components made from lead, iron, steel, aluminium or its alloys,
+zinc or magnesium, should be generally avoided.
+
+A typical system is shown in figure 1.
+
+
+
+
+                                                                                                          Page 25
+ Chapter 5                                                                                          TPD1317e
+
+
+
+
+                                                          Sea water
+                                                            pump
+
+
+
+
+                                                                                       Connection for
+                                                                                     32mm (1.25”) bore
+                                                                                           hose
+                1.00” B.S.P. valve
+              giving straight through
+                        flow
+
+
+
+                                                                                    1.00” B.S.P.
+                                                                                     skin fitting
+                            Sea Water Pump
+
+
+
+           Water line
+
+
+
+                                              32mm (1.25”) bore reinforced
+                                                 flexible suction hose
+
+                                                  Valve
+
+
+
+
+                                        Figure 1 - Sea water intake system.
+
+Note: Where possible mount the strainer so that the top is just above the waterline - to facilitate cleaning.
+
+
+
+
+Page 26
+TPD1317e                                                                                          Chapter 5
+
+5.2     Keel Cooling Statement: M300Ti and M265Ti Engines - keel cooling is not 		
+        offered with these models.
+
+
+
+5.3     Keel Cooling System: M225Ti, M215C and M185C Engines
+
+
+All engine models may be purchased in a form suitable for keel cooling, using two separate coolers, one for
+the cylinder jacket circuit and one for the intercooler circuit. Figure 2 shows the connections provided for the
+coolers. The requirements for each section are as follows:
+
+                                                      M215C/M225Ti                         M185C
+ Cylinder Jacket Circuit
+                                                132kW (7500 Btu/min)          123kW (7000 Btu/min)
+ Heat rejection.
+ Design value for the water temperature
+                                                60oC (140oF)                  60oC (140oF)
+ at the exit from the keel cooler.
+ Design value for the water flow
+ through the cooler.
+                                                77 l/min (17galls/min)        66 l/min (14.5galls/min)
+ *Pipe work to suit 45mm (1.75”) bore hose
+ connections.
+ Intercooler Circuit (Includes gearbox oil
+ cooler)                                        25kW (1400 Btu/min)           19kW (1100 Btu/min)
+ Heat rejection
+ Design value for the water temperature
+                                                38oC (100oF)                  38oC (100oF)
+ at the exit from the cooler.
+ Design value for the water flow
+ through the cooler.
+                                                123 l/min (27galls/min)       109 l/min (24 galls/min)
+ Pipe work to suit 32mm (1.25”) bore hose
+ connections.
+
+
+
+Note: Under extreme conditions the water flow in the jacket circuit may increase to 40 gallons/min. Pipe work
+should have a clear bore of 38mm (1.5”)
+
+The pipe work between the engine and coolers should be as short and direct as is possible, but should be
+sufficiently flexible to allow the engine to move on it’s flexible mountings. The layout should discourage the
+formation of air locks, and venting points should be provided wherever an air lock is likely to occur.
+
+The keel cooling system should normally be filled with a water/antifreeze mixture containing 50% antifreeze.
+This mixture is necessary even in warm climates, as the anti freeze contains corrosion inhibitors which protect
+the engine cooling system.
+
+
+
+
+                                                                                                     Page 27
+ Chapter 5                                                                                        TPD1317e
+
+
+
+                                                                    
+
+                                                                    
+
+                                                                    
+                                                                    
+
+                                                       
+                                                      
+                                    Cylinder
+                                 jacket cooler
+ Pipe work to suit
+ 32mm (1.25”) ID                   Cooler for
+      hose                    intercooler system
+
+ Pipe work to suit                                  Intercooler circuit inlet for 32mm (1.25”) diameter hose.
+ 45mm (1.75”) ID                                    Intercooler circuit outlet for 32mm (1.25”) diameter hose.
+      hose                                          Engine circuit inlet for 45mm (1.75”) diameter hose.
+                                                    Engine circuit outlet for 45mm (1.75”) diameter hose.
+
+                     Figure 2 - Connections for keel coolers (M185C, M215C, M225Ti)
+
+5.4     Keel Cooling System: M135 and M130C Engine
+Both engine models may be purchased in a form suitable for keel cooling, using a cooler for the engine circuit.
+Figure 3 shows the connections provided for the cooler.
+
+                                                                      M135                      M130C
+ Engine Circuit
+                                                            123kW (7000Btu/min)         123kW (7000Btu/min)
+ Heat rejection
+ Design value for the water temperature at the exit from
+                                                         60oC (140oF)                   60oC (140oF)
+ the keel cooler
+ Design value for the water flow through the cooler.
+                                                            77 l/min (17galls/min)      77 l/min (17galls/min)
+ Pipe work to suit 45mm (1.75”) bore hose connections
+
+Note: Under extreme conditions the water flow in the system may increase to 180 l/min (40 gallons/min). Pipe
+work should have a clear bore of 38mm (1.5”)
+
+The pipe work between the engine and the cooler should be as short and direct as is possible but should be
+sufficiently flexible to allow the engine to move on it’s flexible mountings. The layout should discourage the
+formation of air locks, and venting points should be provided wherever an air lock is likely to occur.
+
+The keel cooling system should normally be filled with a water/antifreeze mixture containing 50% antifreeze.
+This mixture is necessary even in warm climates, as the anti freeze contains corrosion inhibitors which protect
+the engine cooling system.
+
+
+
+
+Page 28
+TPD1317e                                                                                        Chapter 5
+
+
+
+
+                                                                  
+                                            
+                                                                         
+                                      
+                                                                             
+                                                                  
+                                                      
+
+
+
+                                                      
+      Optional Gearbox                                Engine circuit inlet for 45mm (1.75”) diameter hose
+         Oil Cooler                                   Engine circuit outlet for 45mm (1.75”) diameter hose
+
+                           Figure 3 - Connections for keel coolers (M130C, M135)
+
+
+5.5     Keel Cooling System: M115T M92 and M92B engine
+Both engine models may be purchased in a form suitable for keel cooling. Figure 4 shows the connections
+provided for the keel cooler.
+
+                                                   M115T                             M92 / M92B
+ Engine circuit
+                                            74kW (4200Btu/min)                      60kW (3400Btu/min)
+ Heat rejection
+ Design value for the water tem-
+ perature at the exit from the keel
+ cooler.
+                                                60oC (140oF)                         60oC (140oF)
+ Design value for the water flow
+                                                 45-70 l/min                          45-70 l/min
+ through the cooler.
+                                              (10-15 galls/min)                    (10-15 galls/min)
+ Pipe work to suit 45mm (1.75”)
+ bore hose connections.
+
+The pipe work between the engine and the cooler should be as short and direct as possible but should be
+sufficiently flexible to allow the engine to move on it’s flexible mountings. The layout should discourage the
+formation of air locks, and venting points should be provided wherever an air lock is likely to occur.
+
+The keel cooling system should normally be filled with a water/antifreeze mixture containing 50% antifreeze.
+This mixture is necessary even in warm climates, as the antifreeze contains corrosion inhibitors which
+protect the engine cooling system.
+
+
+
+
+                                                                                                   Page 29
+Chapter 5                                                                       TPD1317e
+
+
+                                                
+
+
+
+
+          
+
+          To keel       
+          cooler                      
+            From keel
+              cooler          
+
+
+
+
+                                                     From cylinder
+                                                        block
+
+
+
+                                                     
+
+
+
+
+                         Engine circuit inlet for 45mm (1.75”) diameter hose
+                        Engine circuit outlet for 45mm (1.75”) diameter hose
+
+
+                        Figure 4 - Connections for keel coolers (M115T, M92)
+
+
+
+Page 30
+TPD1317e                                                                        Chapter 5
+
+                                                                       
+   
+                                                                            
+
+
+
+
+                                                                                To keel
+                                                                                cooler
+                                                                    
+
+
+                                                                                 
+
+
+
+                                                                            
+
+
+
+
+                                                                            From keel
+                                                                              cooler
+                                                                        
+
+
+
+
+            Engine circuit inlet for 45mm (1.75”) diameter hose
+            Engine circuit outlet for 45mm (1.75”) diameter hose
+
+
+
+
+              Figure 5 - Connections for keel coolers (M92B)
+
+
+
+
+                                                                                     Page 31
+Chapter 5   TPD1317e
+
+
+
+
+Page 32
+TPD1317e                                                                                           Chapter 6
+
+                                                                                           Fuel Systems
+
+
+Design and assembly faults in the fuel system are responsible for many problems with marine diesel
+engines. A good system is not hard to achieve, being largely a matter of avoiding obvious pitfalls.
+
+
+6.1 Fuel Connections
+A common reason for service problems with fuel systems is the use of poor or incompatible connectors, where
+the pressure tightness depends upon the use of sealing compounds, hose clamps, fibre washers trapped
+between inadequate and unmachined faces, or compression fittings which have been over-tightened to the
+point where they no longer seal.
+
+Cleanliness during initial assembly is also of vital importance, particularly when fuel tanks are installed, as
+glass fibres and other rubbish may enter tanks through uncovered apertures.
+
+                     Thread details of the connections on the engines for fuel pipes
+
+                                                                       Model
+                                                                            M225Ti / M215C / M185C / M135
+                                               M300Ti / M265Ti
+                                                                             / M130C / M115T / M92B / M92
+
+             Fuel feed                             3/8” BSP                             1/2” UNS
+
+             Fuel return                           3/8” BSP                            7/16” UNS
+
+It is strongly recommended that the flexible fuel pipes available as an option with the engine are used, which
+are as follows:
+
+Fuel Feed - M300Ti & M265Ti (Pt No 34051)
+
+The free end of the flexible pipe has a 3/8” BSP cone ended fitting, and is supplied with an adaptor, nut, and
+olive to suit 10mm OD steel or copper tube.
+
+- M225Ti / M215C / M185C / M135 / M130 / M115T / M92B & M92 (Pt No 34055)
+
+The free end of the flexible pipe has a 1/2” UNS male thread, and is supplied with a nut and olive to suit 5/16”
+OD steel or copper tube.
+
+Fuel Return - M300Ti & M265Ti (Pt No 34052)
+
+The free end of the flexible pipe has a 3/8” BSP cone ended fitting, and is supplied with an adaptor, nut, and
+olive to suit 10mm OD steel or copper tube.
+
+- M225Ti / M215C / M185C / M135 / M130 / M115T / M92B & M92 (Pt No 34054)
+
+The free end of the flexible pipe has a 7/16” UNS male thread, and is supplied with a nut and olive to suit 1/4”
+OD steel or copper tube.
+
+
+
+
+                                                                                                     Page 33
+ Chapter 6                                                                                         TPD1317e
+Fuel tanks should have the following features:
+
+      • The filler neck should be raised so that water will not enter when filling.
+
+      • The filler cap should seal effectively to prevent water entering when under way.
+
+      • A vent pipe should be fitted, again in such a way as to avoid the entry of water.
+
+      • The tank should have a sump or angled bottom with a drain tap so that water and sediment can be
+        removed. (This is not always possible).
+
+      • Internal baffles may be required to prevent fuel surge.
+
+      • The tank should have a removable panel to simplify cleaning.
+
+      • The fuel pipe work should be as simple as possible with the minimum of valves and cross connections,
+        so that obscure fuel feed problems are minimised.
+
+      • A fuel sedimenter (i.e. water trap) is required in the fuel system between the fuel tank and the engine
+        mounted lift pump. To avoid problems when venting air after draining the sedimenter, it should preferably
+        be installed below the normal minimum level of fuel in the fuel tank. (This is not always possible!).
+
+      • The tank should have at least two connections; a fuel feed connection, and a fuel return connection.
+        Whenever possible a tank should only supply one engine, but in any case each engine should have its
+        own fuel pipes, from tank to engine.
+
+6.2     Typical Fuel Systems
+The more simple the fuel system, the better it will perform in service. Figure 1 shows an ideal system.
+
+
+
+
+                                                     Fuel return pipe
+
+
+
+
+                                                    Stop cock
+                                                                                      Fuel tank
+
+
+
+
+                Main fuel feed                                                   Water separator
+
+
+                                       Figure 1 - A Simple Fuel System.
+
+
+
+
+Page 34
+TPD1317e                                                                                           Chapter 6
+In some applications there may be legislation that requires that fuel lines draw from, and return to , the top of
+the tank. Figure 2 shows an acceptable arrangement.
+                                                                                The fuel returned to the tank
+                                                                                 should be kept away from
+                                                                                the main fuel feed, to avoid
+                                                                                       recirculation.
+
+
+
+
+                                                                                Fuel tank
+
+
+
+
+                    Main fuel feed                                          Water separator
+
+
+                 Figure 2 - A simple fuel system with connections through the top of the tank
+
+
+
+
+The fuel tank may be steel, aluminium, or G.R.P. or, alternatively, a rubber bag tank may be used. The main
+fuel connection is taken from the rear of the tank so that all the fuel is available for use when under way when
+the hull will be at an angle. The fuel return is extended within the tank to near the bottom in order to prevent
+air locks which can arise due to syphoning of the fuel when the engines are stopped.
+
+
+
+From the tank the main engine feed line goes first to a water separator, preferably one fitted with a thick clear
+plastic bottom and a drain cock. The fuel lines may be of metal, either copper or ‘bundy’ steel tubing used
+either with compression fittings or preferably soldered nipples, with a flexible armoured rubber hose to connect
+to the fuel lift pump.
+
+
+
+This simple fuel system is satisfactory when one or more engines are run from a single fuel tank, and it may
+also be used when there are two tanks each supplying one engine. In the latter case the system may include
+a cross connection, between the tanks by means of a balancing pipe, with a valve, at each end. In some
+installations cross connecting pipes between the two engine feed pipes and the two engine return pipes have
+been used, but valves are necessary in every line so that the appropriate system may be selected, and the
+complexity of installation and operation is such that the advantages in operating flexibility are out-weighed by
+the possibility of obscure problems due to component malfunctions, incorrect operation or engine interaction.
+
+
+
+
+                                                                                                      Page 35
+ Chapter 6                                                                                          TPD1317e
+In some cases it is necessary to have a number of fuel tanks in order to achieve the required operating range.
+In such cases, where possible, one tank should be regarded as the main tank for each engine and the other
+tanks should be arranged so that they will drain into the main tank by gravity. If a gravity system is not possible,
+then the system shown in Figure 3 should be used.
+
+Figure 3 shows a collector tank, fed by all the storage tanks and connected to the engine feed and return
+systems, but with a vent pipe taken to any convenient tank.
+
+                                                                                         Supply tank below
+Vent to be run to top                                                                     storage tanks for
+  of highest tank                                                                            gravity feed
+
+
+                                                      Vent                            Fuel returns (top of tank)
+
+
+
+
+      Water separator
+
+(Size to suit total flow for all                                                     Fuel feeds (to be taken from
+     installed engines)                                                               the bottom of the collector
+                                                                                                tank)
+
+                      Figure 3 - Fuel System for multiple tanks - supplying multiple engines
+
+
+
+There is no doubt however, that a simple fuel system as illustrated in Figure 1 should be used wherever possible,
+as having a completely separate tank and supply to each engine guarantees that if an engine stops, due to
+running out of fuel or to water or foreign matter in the fuel, the other engine will not be affected simultaneously.
+This will give some time for appropriate manoeuvring action to be taken. The simple system will also require
+the minimum number of valves and fittings, which ensures maximum reliability in service.
+
+
+
+
+Page 36
+TPD1317e                                                                                            Chapter 7
+
+                                                                          Engine Electrical Systems
+
+
+A plug-together electrical system is available with the engine, providing the following choices:-
+
+      • Earth return or insulated return (except M115T, which is earth return only).
+
+      • Interconnecting cables of 4, 6, 8, 10 or 12m length.
+
+      • A ‘Y’ harness to allow multiple instrument panels to be fitted.
+
+      • 12V or 24V operation.
+
+      • Instrument panels - basic or comprehensive, which may be used individually or in combination.
+
+             Connection to                            Control panel
+              engine loom
+                                Interconnecting
+                                      lead
+
+
+                                           ‘Y’ harness
+
+
+
+
+                                                      Instrument panel
+
+
+                               Figure 1 - Elements of the plug together system.
+
+
+
+                  4 cylinder                                                6 cylinder
+
+
+
+
+                   Figure 2 - Position of the multi-way connector for the engine wiring loom.
+
+7.1     Engine Wiring Looms
+The engine wiring loom connects the starter, alternator, fuse board, electric stop, engine senders and warning
+switches to a waterproof (IP67) multiway connector situated on a flying lead attached to the engine at the
+positions shown on Figure 2.
+
+The circuit diagrams for the various models are listed below:-
+
+Figure 3        All 4 cylinder models - earth return.
+Figure 4        M92 - insulated return.
+Figure 5        M92B - 12 and 24 volt insulated earth.
+Figure 6        All 6 cylinder - insulated and earth return.
+Figure 7        6 cylinder - insulated and earth return, fitted with Motorpal PP6M 10Pi fuel injection pump.
+
+                                                                                                      Page 37
+Chapter 7                                                                       TPD1317e
+
+
+
+
+            Figure 3 - All 4 cylinder models - earth return - circuit diagram
+                Information derived from drawing number 99-1069-3
+
+Page 38
+TPD1317e                                                           Chapter 7
+
+
+
+
+             Figure 4 - M92 - insulated return - circuit diagram
+           Information derived from drawing number 99-1151-3
+
+                                                                     Page 39
+Chapter 7                                                                        TPD1317e
+
+
+
+
+            Figure 5 - M92B - 12 and 24 volt insulated earth - circuit diagram
+                  Information derived from drawing number 04-1270-3
+
+Page 40
+TPD1317e                                                                                     Chapter 7
+
+
+
+
+           Figure 6 - All 6 cylinder models - insulated and earth return - circuit diagram
+                       Information derived from drawing number 00-1020-3
+
+                                                                                               Page 41
+Chapter 7                                                                                 TPD1317e
+
+
+
+
+            Figure 7 - 6 cylinder models - insulated and earth return - circuit diagram
+                       fitted with Motorpal PP6M 10Pi fuel injection pump.
+                      Information derived from drawing number 01-1064-3
+
+Page 42
+TPD1317e                                                                                             Chapter 7
+
+7.2       Fuse board
+Note: Fuses are provided to protect the electrical system against accidental short circuits. The risk is highest
+when the engine is being installed, or when additional equipment is wired in, and is negligible during normal
+operation.
+
+On all models the fuse board may be found behind a plastic cover, adjacent to the starter motor.
+
+For identification of fuses. (See Figure 8).
+
+  Fuse       4 cylinder models         6 cylinder models
+
+      1           Start 40A                    Start 40A
+
+      2           Not fitted                   Heat 25A
+
+      3          Panel 10A                     Stop 25A
+
+      4         Negative 25A                   Panel 10A
+
+            Fast fuse - 80A nom.
+      5                                            -
+            Check value of fuse.
+
+
+                                                  Figure 8 - Fuses
+
+Negative fuse - 6 cylinder models only
+
+An additional fuse is located at the front of the engine, behind the plastic belt cover (see Figure 9). This fuse is
+to protect the engine wiring from damage due to the cylinder block being inadvertently connected to the battery
+positive, and then grounded through the earth relay.
+
+Note: When replacing the -ve fuse, the earth relay must also be replaced.
+
+
+
+
+                                               Figure 9 - Negative fuse
+
+
+
+
+                                                                                                         Page 43
+ Chapter 7                                                                                      TPD1317e
+  e of the engine behind the alternator.
+
+The 10A circuit breaker is to protect the instrument and control panel/panels mounted away from the engine.
+
+The 80A circuit breaker is to protect the negative line during momentarily grounding the engine whilst of the
+glow plugs are operating. This protects the engine harness in the event of a stray positive supply accidentally
+finding its way to the block. This is most likely to happen during installation.
+
+Voltage Sensitive Equipment
+
+The M92B contains two components that are voltage sensitive and therefore require an additional piece of
+equipment when the voltage is outside of their operating range. They are:
+
+The stop solenoid fitted to all engines is for 24v operation.
+
+The fuel lift pump fitted to all engines is for 12v operation.
+
+M92B – 12v models are supplied with a voltage inverter that inputs 12v and outputs 24v. This allows the stop
+solenoid to function when required. The inverter is coloured red.
+
+M92B – 24v models are supplied with a voltage converter that inputs 24v and outputs 12v. This allows for the
+continuous operation of the fuel lift pump when the engine is running. The converter is coloured black.
+
+Both the inverter and converter are supplied with an extension lead so that they can be mounted away from
+the engine.
+
+
+Inverter/Converter Fitting Instructions
+Note: The inverter/converter must not be engine mounted.
+
+1.     Select a cool, dry and ventilated position.
+
+2.     Use the bracket to mark the position of the holes.
+
+3.     Drill 3.5mm holes.
+
+4.     Fix the clip using screws provided.
+
+5.     Click the unit onto the clip.
+
+6.     First connect both input wires. Second connect the
+       output wires.
+
+7.     Max. temp. 55OC. Mount unit remote from engine in
+       a cool, dry and ventilated position.
+
+
+
+
+Page 44
+TPD1317e                                                                                           Chapter 7
+
+7.4     Interconnecting Cable
+Interconnecting cables (Figure 10) are used to join the engine loom to the instrument panel(s). Cables are
+made in 4, 6, 8, 10 and 12m lengths and all cables have a male plug (1) at one end and a female (2) at the
+other. Cables may be plugged together to give up to 12m length, but in general if a longer cable is required it
+should be ordered as a special item, to be made in one piece.
+
+A ‘Y’ harness (Figure 11) is available, with a male plug at (1) and two female plugs (2). If necessary, more than
+one ‘Y’ harness may be used, to connect several instrument panels together, in any of the combinations shown
+on Figure 15.
+
+Details of the plugs and sockets, and the wiring of the ‘Y’ harness are shown on Figure 11.
+
+
+
+
+                                       Figure 10 - Interconnecting cable
+
+
+
+
+                                            Figure 11 - ‘Y’ harness
+
+
+
+
+                                                                                                      Page 45
+Chapter 7                                                             TPD1317e
+
+
+              MALE                                                     FEMALE
+             MULTIWAY                                                 MULTIWAY
+            CONNECTOR                                                CONNECTOR
+
+
+
+
+            Figure 12 - Schematic of ‘Y’ harness part number 34621
+              Information derived from drawing number 98-1044-1
+
+
+Page 46
+TPD1317e                                                                                                          Chapter 7
+
+7.5     Instrument Panels                                                             Panel Set-up Information.
+Two types of panel are available, providing different levels of                   Master - Slave Configuration.
+instrumentation. The ‘Instrument Panel’ shown in Figure 13        All panels are supplied configured as master panels.
+
+includes:-                                                        In the event that more than one panel is being used to control
+                                                                  one engine then there is the choice of making one of them a
+                                                                  slave to the other (master) panel. Where there is one panel in
+1.    Panel illumination level switch                             the wheelhouse and another on the flybridge then there is the
+                                                                  option of making the control functions on the flybridge panel
+2.    Water in fuel warning lamp                                  (slave) only operational when the wheelhouse panel (master)
+                                                                  is switched on.
+3.    Charge warning lamp                                         The illustration below shows the removable link on the rear of
+                                                                  the panel. To convert a panel to slave remove the link from the
+4.    Voltmeter                                                   master (M) terminal and refit to the slave (S) terminal.
+
+5.    Heat/start switch
+6.    On/off switch
+7.    Stop switch
+8.    Oil pressure gauge
+9.    Low oil pressure warning lamp
+10.   Tachourmeter
+                                                                  Note that one panel must always be a master and that no more
+11.   Water temperature gauge                                     than two panels should be connected to one engine without
+                                                                  reference to Wimborne Marine Power Centre.
+12.   High water temperature warning lamp
+                                                                  Tachometer Set-up Procedure
+The circuit diagram of this panel is shown in Figure 14.          All panels are supplied set to match their associated engine.
+                                                                  In the event that the tachometer needs re calibrating refer to
+                                                                  diagram and instructions below:
+                                                                  Designations in the wiring diagram:
+                                                                  30 - terminal 30 - steady-state plus 12 V
+                                                                  15 - terminal 15 - connected (ignition) plus
+                                                                  58 - terminal 58 - lighting
+                                                                  31 - terminal 31 - ground
+                                                                  F1 - fuse 5A quick-response
+                                                                  S1 - light switch
+                                                                  C1 - 8-pin MQS connector
+                                                                  C2 - 14-pin MQS connector
+                                                                  Config - Configuration key
+                                                                  Mode - Mode key
+                                                                  W1 - Alarm output (max. 100 mA)
+                                                                  You must comply with the wiring diagram
+                                                                  8-pin connection 14-pin connection
+
+
+
+
+                                         Figure 13 - Instrument panel
+
+
+                                                                                                                    Page 47
+ Chapter 7                                                                TPD1317e
+14-pin connection
+
+
+
+
+Basics:
+• Press the key briefly (< 2sec.) to change the currently displayed
+  value.
+• Press the key longer (< 2sec.) to change to the next value.
+• The display returns to normal operating mode if a key is not
+  pressed for 30 seconds. Any settings you have made are not
+  saved.
+Start-up
+• Setting the impulse number
+• Activate T. 30 (8-pin - Pin1)
+• Deactivate T. 15 (8-pin - Pin4)
+• Press and hold Config key (14-pin - Pin 11)
+• Activate T. 15
+• Release Config Key
+• Press and hold Config Key. Set impulse number is displayed, the
+  first digit flashes.
+• Press Config key briefly. The flashing digit increases by 1. If the
+  flashing digit is “9”, the display returns to “0”.
+• Press Config key briefly. The next lower digit flashes.
+• Press Config key briefly. The flashing digit increase by 1. If the
+  flashing digit is “9”, the display returns to “0”. Continue until the
+  complete impulse number is set.
+• Press and hold Config key.
+• Deactivate T. 15. This saves the impulse number in the display.
+Note: to establish the correct setting for the tachometer the
+following formula should be applied.
+Diameter of Alternator
+Driven Pulley
+--------------------------- X 6 = Number of Pulses
+Diameter of Alternator
+Driven Pulley
+
+
+
+
+Page 48
+TPD1317e               Chapter 7
+
+
+
+
+           Figure 14
+
+                         Page 49
+ Chapter 7                                                                                  TPD1317e
+The ‘Control Panel’ shown in Figure 15 includes:-
+
+1.    Low oil pressure warning lamp
+
+2.    High coolant temperature lamp
+
+3.    Charge warning lamp
+
+4.    On/off switch
+
+5.    Heat/start switch
+
+6.    Stop switch
+
+7.    Tachourmeter
+
+The circuit diagram for the ‘Control’ panel is shown in
+Figure 17.
+
+
+
+
+                                           *Panel depth is 110mm
+
+
+
+
+                                         Figure 15 - Control panel.
+
+
+
+
+                                Figure 16 - Possible panel configurations.
+            Up to three panels may be run simultaneously, in any of the combinations as shown.
+
+
+
+
+Page 50
+TPD1317e                                                 Chapter 7
+
+
+
+
+           Figure 17 - Control panel - circuit diagram
+
+                                                           Page 51
+ Chapter 7                                                                                         TPD1317e
+
+7.6      Battery and Starter Cables
+(a) Batteries
+
+There are two methods by which battery performance is commonly stated:-
+
+      • BS3911 uses the current which can be maintained for 60 seconds, without the voltage of a nominal 12V
+        battery dropping below 8.4 volts, whilst at a temperature of -18oC.
+
+      • SAE J537 is similar except that the current is only maintained for 30 seconds and the voltage is allowed
+        to fall to 7.2 volts.
+
+      Model                              Batteries for temperatures down to -5oC (23oF)
+
+                                        12 Volt                                       24 Volt
+      M300Ti
+      M265Ti
+                          One battery - 520 Amps BS3911
+      M225Ti
+                             or 800 Amps SAE J537                     Two 12V batteries in series - each 315
+      M215C
+      M185C                                                           Amps BS3911 or 535 Amps SAE J537
+      M135             Two 12V batteries in parallel - each 315
+      M130C             Amps BS3911 or 535 Amps SAE J537
+      M115T            One battery - 520 Amps BS3911 or 800           Two 12V batteries in series - each 440
+      M92B                        Amps SAE J537                                 Amps BS3911
+                                         Batteries for temperatures down to -15oC (5oF)
+      M300Ti
+      M265Ti       Two 12V batteries in parallel, each 520 Amps        Two 12V batteries in series, each 520
+      M115T              BS3911 or 800 Amps SAE J537                   Amps BS3911 or 800 Amps SAE J537
+       M92
+      M225Ti
+      M215C
+                       Two 12V batteries in parallel - each 315       Two 12V batteries in series - each 315
+      M185C
+                        Amps BS3911 or 535 Amps SAE J537                 Amps or 535 Amps SAE J537
+      M135
+      M130C
+
+Note: Where starting at temperatures below freezing is an important requirement, a 24 volt system is the
+preferred choice.
+
+(b) Starter Cables
+
+
+
+                                     Starter cables for 12 or 24 volt systems
+  *Maximum total                                             Nominal resistance in
+                                        Nominal C.S.A.                                 Approx. equivalent size
+      length            Cable size                                  ohms
+                         metric                                                         English      America
+ Metres         Feet                    mm2        in2      Per metre      Per foot
+                                                                                        imperial     B&S SAE
+   5,6         19.00      61/1,13        61       0.0948    0,000293      0.0000890     61/.044         00
+   9,0         28.30      19/2,52        95       0.1470    0,000189      0.0000600    513/.018         000
+
+* The length of all cables in the starter circuit (whether positive or negative), should be added together to give
+the ‘Total Length’
+
+
+
+
+Page 52
+TPD1317e                                                                                             Chapter 7
+(c) Grounding the battery negative
+
+It is recommended that the battery negative busbar should be grounded as close as possible to the battery, by
+a substantial connection to the bonding system within the boat. This will reduce the likelihood of interference
+between items of electrical and electronic equipment fitted to the boat.
+
+(d) Battery isolator switches
+
+A switch should be fitted in the positive lead to the starter, as close to the battery as is convenient. The switch
+should be suitable for a momentary current of at least 1000 Amps.
+
+
+7.7     Zinc Anode bonding system
+Caution: The engine may be damaged by electrolytic corrosion if the correct bonding procedure is not adopted.
+Please read the guidelines below carefully.
+
+(a) Electrolytic corrosion within the engine cooling system and transmission can be much reduced or eliminated
+by bonding the engine to a Zinc anode which is used to protect through the hull metal fittings and other metal
+components that are in contact with sea water. The engine is fitted with a stud that may be used for this
+purpose, see, ‘Location of engine installation points’ at the beginning of this manual, for location of the stud.
+The stud is identified by a label, shown below:
+
+
+
+                                        BOATBUILDER
+                             Use this stud to connect the
+                           engine to the Zinc Anode system
+                                 installed in the boat.
+                                    (For further details see the Installation Manual)
+                                                                                        7089-1-95
+
+
+
+
+                                                                                                        Page 53
+ Chapter 7                                                                                        TPD1317e
+(b) Typical system in common use
+
+The bonding system in the boat should provide a low resistance connection between all metals in contact with
+sea water, together with a connection to a Zinc sacrificial anode which is fixed to the outside of the hull below
+sea level.
+
+The bonding should consist of heavy stranded wire (not braiding or wire with fine strands). It is an advantage
+if the wire is tinned. Insulation is also an advantage and should preferably be green in colour. Although the
+current carried by the bonding system will not normally exceed 1 amp, the cable sizes should be generous as
+shown in the table below:
+
+            Length of run to Zinc Anode                                 Suggested cable size
+
+                     Up to 30 feet                                     7 strand / 0.85mm (4mm2)
+                     30 - 40 feet                                      7 strand / 1.04mm (6mm2)
+
+As many of the connections may be splashed with sea water they should be soldered wherever possible and
+clamped elsewhere, with the joint protected from corrosion by neoprene paint, or a similar material, to exclude
+water.
+
+
+
+
+Page 54
+TPD1317e                                                                                            Chapter 7
+(c) It is important to include the propeller shaft in the bonding system, as the electrical path through the
+gearbox is not effective due to the gearbox oil acting as an insulator. The electrical connection to the shaft may
+be made by means of graphite brushes riding on the shaft or a braided battery strap may be used as illustrated
+below.
+
+In either case the shaft earthing system should be connected to the bonding system to which the engine and
+the shaft log (if metal) are also connected.
+
+Note: Strap should make contact with 90o of shaft circumference.
+                                                                     One way to earth the
+                                                                       propeller shaft
+
+
+
+
+                                                                                         Connection to
+                                                                                        common bonding
+                                                                                           system
+                                                                                    Battery earthing
+                                                                                         strap
+
+
+
+                                                                                            Ahead
+
+
+(d) Before the boat enters service the effectiveness of the bonding and sacrificial Zinc anode system should be
+tested, both when at rest and with all systems (including engines) in operation, by a specialist in this field.
+
+Note: This section on bonding covers a typical system and has been included for guidance purposes only. It
+may not be appropriate for your boat. As installations vary it is advised that specific recommendations from a
+specialist in the subject of electrolytic corrosion are obtained.
+
+
+
+
+                                                                                                       Page 55
+Chapter 7   TPD1317e
+
+
+
+
+Page 56
+TPD1317e                                                                                      Chapter 8
+
+                                                                                  Engine Controls
+
+
+It is recommended that a Morse single lever system is used to control engine speed and gearbox
+engagement.
+
+
+8.1 M300Ti, and M265Ti Engines
+These engines are equipped with an electric stop solenoid as standard, but a piano wire stop cable may also
+be fitted, as shown below.
+
+Clamp for Morse A410                                                  Anchor for Morse A410
+   stop cable inner                                                    stop cable assembly
+
+
+                                                                            Anchor for Morse 33C cable to
+                                                                             operate speed selector lever
+
+
+
+
+                                                                        Full           Idle
+                                                                       speed
+
+
+
+
+                   Run
+                                     Stop
+
+
+
+
+                                                                                                 Speed
+                                                                                                selector
+           Stop                                                                                   lever
+           lever
+
+
+
+
+                                                                                                 Page 57
+ Chapter 8                                                                                          TPD1317e
+
+8.2     M225Ti, M215C and M185C Engines
+The engine is supplied with connections to suit a Morse 33C cable. Figure 1 shows the position of the speed
+selector lever on the injection pump, and the anchor for the cable outer sleeve.
+
+
+                                   Speed
+                                  selector
+        Idle                        lever
+
+
+                       Full
+                      speed
+                                                                                 Anchor point
+
+                                                                                                Morse 33C cable
+                                                                                                 (not supplied)
+
+        Stop
+
+                       Run
+
+
+
+
+         Stop
+         lever
+
+
+
+
+                                Figure 1 - Speed selector lever and stop lever.
+
+Although an electric stop is fitted as standard equipment, in some cases a mechanical stop mechanism may be
+required. The injection pump is fitted with a stop lever, identified in figure 1, which may be operated remotely if
+required, using a piano wire type cable assembly.
+
+Gearboxes supplied at the time that the engine is purchased will be fitted with connections to suit the Morse
+33C cables.
+
+
+
+
+Page 58
+TPD1317e                                                                                         Chapter 8
+
+8.3     M135 and M130C Engines
+Figure 4 shows the position of the speed selector lever on the injection pump.
+
+An electric stop is fitted as standard equipment, but a mechanical stop is also supplied. The injection pump is
+fitted with a stop lever, identified in figure 2, which may be connected by a piano wire type cable assembly to
+a position near the boat operator.
+
+Gearboxes supplied at the time that the engine is purchased will be fitted with connections to suit Morse 33C
+cables.
+
+
+
+
+                                Stop
+                                lever
+
+
+
+
+                                          Run
+
+                                                            Stop
+
+
+
+
+                                                     Full
+                               Idle                 speed
+
+
+
+
+         Speed selector
+             lever
+
+
+                               Figure 4 - Speed selector lever and stop lever
+
+
+
+
+                                                                                                    Page 59
+ Chapter 8                                                                                          TPD1317e
+
+8.4     M115T and M92 Engines
+Figure 2 shows the position of both the speed selector and manual stop lever on the injection pumps fitted to
+the M115T and M92 engines.
+
+An electric stop solenoid is provided as standard equipment, but the mechanical stop lever, which is intended
+for remote operation by a piano wire type cable assembly, is an alternative means of stopping the engine and
+it is independent of electrical supply. The manual stop lever is, therefore, a back-up control to be used in the
+rather remote eventuality of the failure of the electric stop to work. It is recommended that it is connected, with
+the cable arranged so that it can be operated without opening the engine box (in case of fire)
+
+Gearboxes supplied at the time that the engine is purchased will be fitted with connections to suit Morse 33C
+cables.
+                                                          Speed selector
+                                                              lever
+                                               Stop
+                                  Run
+                                                  Stop control
+
+                                                         Viewed from above
+
+
+
+
+                                 Idle       Full speed
+
+
+
+
+                         M92                                                      M115T
+                                 Figure 2 - Speed selector lever and stop lever
+
+
+
+
+Page 60
+TPD1317e                                                                                          Chapter 8
+
+8.5     M92B Engines
+Figure 3 shows the position of the speed selector lever on the injection pump fitted to the M92B engine.
+
+An electric stop solenoid is provided as standard equipment.
+
+Gearboxes supplied at the time that the engine is purchased will be fitted with connections to suit Morse 33C
+cables.
+
+
+
+
+                                                                               Speed selector
+                                                                                   lever
+
+
+
+
+                                                                              Viewed from above
+
+
+
+
+                                                       Idle      Full speed
+
+
+
+
+                                       Figure 3 - Speed selector lever
+
+                                                                                                    Page 61
+Chapter 8   TPD1317e
+
+
+
+
+Page 62
+TPD1317e                                                                                         Chapter 9
+
+                                                                     Provision for Power Take-off
+
+
+The ability to drive additional equipment from the crankshaft nose varies according to the engine model, as
+shown in the table below:
+
+                     Maximum PTO capability including both
+Engine Models                                                              Maximum belt drive power
+                            axial and belt drives
+  M92/M115T
+                                  Full engine power                                    6 kW
+  M130C/M135
+                    59 kW at up to ............. 1000 rev/min
+                    79. ................................ 1200
+                    73. ................................ 1400
+                    60. ................................ 1600
+                                                                                       6 kW
+     M185C          70. ................................ 1800
+                    79. ................................ 2000
+                    89. ................................ 2200
+                    98. ................................ 2400
+                    103. .............................. 2500
+                    Full power at up to........ 1200 rev/min
+                    80 kW........................... 1400
+                    62. ................................ 1600
+                    62. ................................ 1800
+ M215C/M225Ti                                                                          6 kW
+                    84. ................................ 2000
+                    93. ................................ 2200
+                    104. .............................. 2400
+                    110................................ 2500
+                                                                           8 kW at up to 2000 rev/min
+     M265Ti                             14 kW
+                                                                            5 kW above 2000 rev/min
+     M300Ti                  8 kW at up to 1800 rev/min                    8 kW at up to 1800 rev/min
+
+Note: Above 1800 rev/min, no additional equipment should be driven by a M300Ti
+
+Note: i) Maximum recommended offtake 2 kW per belt.
+
+     ii) Multiple belt driven accessories should as far as possible be distributed evenly on either side of the
+     engine to minimise side loads
+
+     iii) Customers wanting to fit a nonstandard drive pulley or coupling, should ensure the inertia of the
+     added components does not exceed 0.0313 kg/m2.
+
+     iv) If you are in any doubt, please contact your distributor.
+
+
+
+
+                                                                                                    Page 63
+ Chapter 9                                                                                   TPD1317e
+
+Axial Drives
+A Fenner F80 tyre type coupling should be used, and can be supplied with the engine.
+
+Warning! Please refer to the manuafacturers guidelines when working with this product.
+                           Flexible
+                             tyre
+                                                                 Taper lock
+                                                                   flanges
+
+
+
+
+                    PTO shaft                                             Taper lock
+
+                                    Figure 1 - The Fenner F80 coupling.
+
+Belt Drives
+Standard options are:-
+
+Either a Fenner 5” A section pulley with three grooves.
+
+or
+
+A Fenner 5” B section pulley with two grooves.
+
+In this case the maximum power which can be taken will be limited by the belts, and it will be necessary to
+calculate for marginal applications.
+
+Caution: Additional inertia must not be added to the P.T.O. shaft without specialist advice. Consult your
+distributor if you need advice about nonstandard drive arrangements.
+
+
+                                                  Pulley
+
+
+
+
+                                                                Taper lock
+
+
+
+
+          Figure 2 - The Fenner 5” A-section with                Figure 3 - The Fenner 5” B-section
+                      three grooves.                                     with two grooves.
+
+
+
+
+Page 64
+TPD1317e                                                                       Chapter 9
+
+PTO Fitting Instructions
+                                  Key         Size           Torque
+                                    1         M12            100 Nm
+                                    2         7/16”          70 Nm
+                                    3         M10            55 Nm
+
+
+
+
+                                                         
+Note: Fitting the PTO should be undertaken by a qualified marine engineer.
+
+Warning! For safety reasons, all moving parts should be shielded by a guard.
+
+
+                                                                                 Page 65
+ Chapter 9                                                                                   TPD1317e
+
+Electro Mechanical Bilge Pump
+
+
+                                                   1.5”
+
+
+
+
+                                                                                             1”
+
+
+
+
+                  55Nm
+
+
+
+
+RTV 732 sealant
+
+
+
+
+                                                          10mm
+
+
+
+
+Note: Fitting the electro mechanical bilge pump should be undertaken by a qualified marine engineer.
+
+Warning! For safety reasons, all moving parts should be shielded by a guard.
+
+Page 66
+TPD1317e                                                                                              Chapter 10
+
+                                                   Calorifier and Block Heater Connections
+
+
+10.1    Calorifier
+Fittings are available to allow a calorifier to be connected to the engine, as shown in figure 1. The fittings may
+be ordered as part of the engine assembly, or as loose parts to be fitted later.
+
+The hose connections to the calorifier must be of a radiator or heater hose quality, and must be installed so
+that chafing will not occur.
+
+
+                  Supply to                                                       Front lifting eye
+                  calorifier
+
+
+
+
+               Return from
+                calorifier
+
+
+
+
+             Connections are to
+             suit 1/2” bore hose
+
+                               Figure 1a - Calorifier fittings for 6 cylinder engines.
+
+
+
+                                                                                                      Return from
+                                                                                                       calorifier
+                                               Supply to
+                                               calorifier
+
+
+
+
+                      Figure 1b - Calorifier fittings for M92 and M115T M92 and M115T.
+
+
+
+
+                                                                                                         Page 67
+Chapter 10                                                                                TPD1317e
+
+
+
+                                                  Supply to
+                                                  calorifier
+
+
+
+
+                                       Return from
+                                        calorifier
+
+
+
+
+                         Figure 1b - Calorifier fittings for M92B M92 and M115T.
+Caution: The hoses connecting the calorifier to the engine are part of the closed engine cooling system.
+Failure of a hose will lead to the engine overheating!
+
+
+
+
+Page 68
+TPD1317e                                                                                        Chapter 10
+
+10.2    Block Heater - for 6 cylinder engine models
+                                  Return from
+                                  block heater
+
+
+
+
+ Connections are to
+ suit 5/8” bore hose
+
+
+
+
+                                                                                    Supply to block
+                                                                                       heater
+
+
+                                             Block heater
+                                 Figure 2 - Block heater connection points.
+
+A mains powered cylinder block heater may be fitted to keep the engine warm when the boat is stored in low
+temperatures. A suitable heater may be ordered as part of the engine assembly, or may be fitted later.
+
+Figure 2 shows the connection points, the supply being taken from a hole in the cylinder block tapped 1/4” - 18
+NPSI and the return from a hole in the cylinder head tapped 1/2” - 14 NPSI.
+
+For most purposes a 500W heater will be satisfactory. If the heater is ordered at the same time as the engine,
+it will be attached to the engine. If fitted later it may be more convenient to mount the heater on the engine
+bearer.
+
+The hose connections to the block heater must be of a radiator or heater hose quality, and must be installed
+so that chafing will not occur.
+
+Caution: The hoses connecting the block heater to the engine are part of the closed engine cooling system.
+Failure of a hose will lead to the engine overheating!
+
+
+
+
+                                                                                                      Page 69
+Chapter 10   TPD1317e
+
+
+
+
+Page 70
+TPD1317e                                                                                 Chapter 11
+
+                                                                                 Reference Data
+
+
+11.1      M300Ti and M265Ti Engines
+
+                                      Model M300Ti                             Model M265Ti
+Basic Technical Data
+
+Rated power                           286 ps (210.4 kW)                      253.4 ps (186.2 kW)
+
+Rated engine speed                                          2500 rpm
+
+Number of cylinders                                              6
+
+Cylinder arrangement                                          In-line
+
+Cycle                                                        4 Stroke
+
+Induction System                      Waste gated turbocharger with charge air cooling
+
+Bore                                                   100 mm (3.937”)
+
+Stroke                                                  127 mm (5.00”)
+
+Compression Ratio                                             17.5:1
+
+Cubic Capacity                                       5.995 Litre (365 in3)
+
+Valves per cylinder                                              2
+
+Direction of Rotation                        Anti-clockwise viewed from flywheel
+
+Firing Order                                              1, 5, 3, 6, 2, 4
+
+Total Weight (wet)               635 kg (1400 lbs) engine only including alternator and starter.
+                                     718 kg (1583 lbs) engine with ZF IRM 220A gearbox
+
+Cooling System                    The coolant shown is mandatory for use in all climates to
+                                ensure that adequate levels of corrosion inhibitor are present.
+                                             It will give frost protection to -37oC.
+Coolant                                         50% inhibited ethylene glycol or
+
+                                 50% inhibited propylene glycol with 50% fresh clean water.
+
+Fresh Water Flow                                   205 litre/min at 2500 rpm
+
+Coolant pump speed and
+method of drive                                        1:1 Gear Driven
+
+System Capacity                                     26.3 litres (5.6 gallons)
+
+Pressure cap setting                                      50 kPa (7 psi)
+
+Protection switch setting                                      96oC
+
+Sea water pump type                         Jabsco gear driven model 080 full cam
+
+Sea water suggested inlet                            32 mm Bore (1.25”)
+hose diameter
+
+
+
+
+                                                                                              Page 71
+Chapter 11                                                                                  TPD1317e
+
+                                      Model M300Ti                             Model M265Ti
+Sea cock                                           Full flow 25.4 mm (1 inch)
+
+Strainer                        Raw water strainer must be included in suction side of the circuit
+
+Maximum sea water                                         38oC (100oF)
+temperature
+
+Sea water flow                                       123 l/min (27 galls/min)
+
+Fuel System
+
+Recommended fuel                           BS2569 Class A ASTM D975 Number 2D
+specifications
+
+Fuel injection pump                     Bosch MW in-line with boost control and electric
+                                                  stop (energised to stop)
+
+Fuel lift pump                                         Bosch plunger type
+
+Fuel feed pressure (static)                         0.3 to 0.6 bar (5 to 8 psi)
+
+Governor type                                                 Mechanical
+
+Pipe size:
+
+• Supply - outside diameter                              10 mm (0.394”)
+• Supply - bore                                          8.4 mm (0.331”)
+• Return - outside diameter                              10 mm (0.394”)
+• Return - bore                                          8.4 mm (0.331”)
+
+Maximum lift pump lift                     1.8 m (6 ft) to bottom of tank suction pipe
+
+Maximum fuel lift pump                     127 mm (5 inches) Hg depression at inlet
+
+Fuel consumption at full           56.4 l/hr (12.4galls/hr)                   50 l/hr (11galls/hr)
+power
+
+Air Intake
+
+Combustion airflow                14.8m3 /min (524ft3/min)                 13.8m3 /min (488ft3/min)
+
+Maximum engine compartment                                      60oC
+air temperature
+
+Maximum air temperature at                                      52oC
+engine inlet
+
+Ventilation - maximum engine                          125 mm WG (5” WG)
+room depression
+
+Suggested ventilation airflow     30m3 /min (1050ft3/min)                  28m3 /min (1000ft3/min)
+including combustion air
+
+
+
+
+Page 72
+TPD1317e                                                                                     Chapter 11
+
+                                            Model M300Ti                          Model M265Ti
+Minimum cross section
+of air duct (per engine)          910cm2(142sq ins) for hot climates 806cm2(126sq ins) for hot climates
+                                   455cm2(71sq ins) for temperate     406cm2(63sq ins) for temperate
+                                             climates                           climates
+
+Exhaust
+
+Exhaust gas flow                       43.1m3 /min (1520ft3/min)               36.4m3 /min (1290ft3/min)
+
+Maximum restriction measured                                  10.2kPa (3.0”Hg)
+within (305mm) 12” of
+turbocharger outlet
+
+Recommended pipe bore (wet                                      127mm (5.0”)
+exhaust)
+
+Recommended pipe bore (dry)                                    76.2mm (3.0”)
+
+Minimum rise from sea level to                                  203mm (8.0”)
+exhaust outlet centre-line
+
+Lubricating System
+
+Recommended lubricating oil                              API CF-4/SE or CCMC D5
+
+Sump capacity maximum                                       15 litres (3.3 gallons)
+
+Maximum installation angle                           17o engine front up plus 3o rise
+plus planing angle for                       5 nose down plus 3o rise, with special kit of parts.
+                                              o
+
+continuous operation                                  30o heel when motor sailing
+
+Oil pressure in operating                               2.5 to 3.5 bar (36 to 50 psi)
+speed range (steady state)
+
+Low oil pressure switch setting                                0.8 bar (12 psi)
+
+Electrical System
+
+Alternator                                   Lucas A127 40 amp (24 volt) or 70 amp (12 volt)
+
+Starter type                                                     Lucas S115
+
+Number of teeth in flywheel                                          126
+
+Number of teeth on starter                                            10
+
+Cold Start Limits
+
+Minimum cold start temperature                                   -15oC (5oF)
+(with aid)
+
+Batteries for minimum                             2 off 12 volt - each 520 amps to BS 3911
+cold start                                     or 2 off 12 volt - each 800 amps to SAE J537
+
+
+
+
+                                                                                                    Page 73
+Chapter 11                                                                                      TPD1317e
+
+11.2     M225Ti, M215C and M185C Engines
+
+                                         Model M225Ti/M215C                            Model M185C
+Basic Technical Data
+
+Rated power                                213 PS (156.6 kW)                       190 PS (140 kW)
+
+Rated engine speed                            2500 rev/min                             2100 rev/min
+
+Number of cylinders                                                    6
+
+Cylinder arrangement                                                 In-line
+
+Cycle                                                               4 stroke
+
+lnduction system                              Waste gated turbocharger with charge air cooler
+
+Bore                                                           100 mm (3.937”)
+
+Stroke                                                         127 mm (5.00”)
+
+Compression ratio                                                     16:1
+
+Cubic capacity                                               6.00 litres (365.0 in3)
+
+Valves per cylinder                                                    2
+
+Direction of rotation                                 Anti-clockwise viewed on flywheel
+
+Firing order                                                    1, 5, 3, 6, 2, 4
+
+Total weight (wet)                      609 kg (1342 lb) engine only including starter and alternator.
+
+Cooling System                         The coolant shown below is mandatory for use in all climates to
+                                        ensure that adequate levels of corrosion inhibitor are present.
+                                                     It will give frost protection to -37oC.
+
+Coolant                                                50% inhibited ethylene glycol or
+
+                                         50% inhibited propylene glycol with 50% fresh clean water
+
+Fresh water flow            205 l/min (45 galls/min) at 2500/min 159 l/min (35 galls/min) at 2100 rev min
+
+Coolant pump speed and
+method of drive.                                               1:1 Gear driven
+
+System capacity                                            25.3 litres (5.6 gallons)
+
+Pressure cap setting                                            50 kPa (7 psi)
+
+Protection switch setting                                            96oC
+
+Sea water pump type                           Jabsco gear driven model 25.4 mm (1”) full cam.
+
+Sea water suggested inlet
+hose diameter.                                                  32 mm (1.25”)
+
+Sea cock                                                  Full flow 25.4mm (1.00”)
+
+
+
+
+Page 74
+TPD1317e                                                                                              Chapter 11
+
+
+
+                                           Model M225Ti/M215C                              Model M185C
+Strainer A raw water strainer must be included in the suction side of the circuit.
+
+Maximum sea
+water temperature.                                                      38oC (100oF)
+
+Sea water flow                              123 l/min (27galls/min)                    109 l/min (24galls/min)
+
+Fuel System
+
+Recommended fuel
+specifications.                                     BS2869 Class A2 ASTM D 975 Number 2D.
+
+Fuel injection pump                              Bosch rotary with boost control and electric stop.
+                                                               (energised to stop).
+
+Fuel lift pump                                                    AC Delco type LU
+
+Fuel feed pressure (static)                                    0.3 to 0.6 bar (5 to 8 psi)
+
+Governor type                                                           Mechanical
+
+Pipe size:
+• Supply - Outside diameter                                         7.9 mm (0.315”)
+• Supply - Bore                                                    6.53 mm (0.257”)
+• Return - Outside diameter                                          6.3 mm (0.25”)
+• Return - Bore                                                    4.93 mm (0.194”)
+Maximum lift pump lift                               1.8 m (6 ft) to bottom of tank suction pipe.
+Maximum fuel lift pump
+depression at inlet.                                                   127 mm (5”) Hg
+Fuel consumption at
+full power.                                    43 l/hr (9.4galls/hr)                      35 l/hr (7.7galls/hr)
+Air Intake
+Combustion airflow                         13.0 m3/min (460 ft3/min)                 10.76 m3/min (380 ft3/min)
+Maximum engine
+compartment air
+temperature.                                                                60oC
+Maximum air temperature
+at engine inlet.                                                            52oC
+Ventilation - maximum
+engine room depression.                                           125mm WG (5”WG)
+Suggested ventilation
+airflow including
+combustion air.                                                 25m3/min (1000ft3/min)
+
+Minimum cross section of		
+air duct (per engine).                                 640 cm2 (100 sq ins) for hot climates.
+                                                     320 cm2 (50 sq ins) for temperate climates.
+
+
+
+
+                                                                                                           Page 75
+Chapter 11                                                                          TPD1317e
+
+                              Model M225Ti/M215C                          Model M185C
+Exhaust
+
+Exhaust gas flow                             35.08 m3/min (1240 ft3/min).
+
+Maximum restriction
+measured within(305 mm)
+
+12” of turbocharger outlet.                       10.2 kPa (3.0” Hg)
+
+Recommended pipe bore
+(wet exhaust).                    127 mm (5.0”)                           100 mm (4.0”)
+
+Recommended pipe bore
+(dry).                                             76.2 mm (3.0”)
+
+Minimum rise from sea
+water level to exhaust
+outlet centreline.                                  203 mm (8.0”)
+
+Lubricating System
+
+Recommended lubricating
+oil.                                           AP1 CD/SE CCMC D4
+
+Sump capacity maximum                           15 litres (3.3 gallons)
+
+Maximum installation
+angle plus planing
+angle for continuous
+operation.                      17o engine front up + 3o rise. 5o nose down + 3o rise
+                                with special kit of parts, 30o heel when motor sailing.
+
+Oil pressure, in operating
+speed range (steady state).                  2.8 to 3.8 bar (40 to 55 psi)
+
+Low oil pressure
+switch setting.                                    0.8 bar (12 psi)
+
+Electrical System
+
+Alternator                              Lucas A127 40A (24V) or 70A (12V).
+
+Starter type                                         Lucas S115
+
+Number of teeth in flywheel                              126
+
+Number of teeth on starter                                10
+
+Cold Start Limits
+
+Minimum cold start
+temperature (with aid).                              -15oC (5oF)
+
+Batteries for minimum                    2 off - 12V 315 Amps to BS3911 or
+cold start                               2 off - 12V, 535 amps to SAE J537
+
+
+
+
+Page 76
+TPD1317e                                                                                Chapter 11
+
+11.3     M135, and M130C Engines
+
+                                        Model M135                              Model M130C
+Basic Technical Data
+
+Rated power                                              130 PS (96 kW)
+
+Rated engine speed                                         2600 rev/min
+
+Number of cylinders                                              6
+
+Cylinder arrangement                                           In-line
+
+Cycle                                                         4 stroke
+
+lnduction system                                        Naturally aspirated
+
+Bore                                                     100 mm (3.937”)
+
+Stroke                                                    127 mm (5.00”)
+
+Compression ratio                                              16.5:1
+
+Cubic capacity                                          6.00 litres (365 in3)
+
+Valves per cylinder                                              2
+
+Direction of rotation                           Anti-clockwise viewed on flywheel
+
+Firing order                                              1, 5, 3, 6, 2, 4
+
+Total weight (wet)                 595 kg (1312 lb) engine only including starter and alternator.
+
+Cooling System                  The coolant shown below is mandatory for use in all climates to
+                                 ensure that adequate levels of corrosion inhibitor are present.
+                                              It will give frost protection to -37oC.
+
+Coolant                                          50% inhibited ethylene glycol or
+                                    50% inhibited propylene glycol with 50% fresh clean water
+
+Fresh water flow                            213 litre/min (47 gall/min) at 2600 rev/min 		
+
+Coolant pump speed and
+method of drive.                                         1:1 Gear driven
+
+System capacity                                       25.3 litres (5.6 gallons)
+
+Pressure cap setting                                      48 kPa (7 psi)
+
+Protection switch setting                                      96oC
+
+Sea water pump type                      Jabsco gear driven model 25.4 mm (1”) full cam.
+
+Sea water suggested inlet
+hose diameter.                                            32 mm (1.25”)
+
+Sea cock                                             Full flow 25.4mm (1.00”)
+
+Strainer                     A raw water strainer must be included in the suction side of the circuit.
+
+
+
+
+                                                                                              Page 77
+Chapter 11                                                                        TPD1317e
+
+                                 Model M135                              Model M130C
+Maximum sea
+water temperature.                                 38oC (100oF)
+
+Sea water flow                                127 l/min (28galls/min)
+
+Fuel System
+
+Recommended fuel
+specifications.                    BS2869 Class A2 ASTM D 975 Number 2D.
+
+Fuel injection pump                      Stanadyne with electric stop.
+
+Fuel lift pump                                  AC Delco type LU
+
+Fuel feed pressure (static)                     33/55 kPa (5/8 psi)
+
+Governor type                                       Mechanical
+
+Pipe size:
+• Supply - Outside diameter                       7.9 mm (0.315”)
+• Supply - Bore                                  6.53 mm (0.257”)
+• Return - Outside diameter                        6.3 mm (0.25”)
+• Return - Bore                                  4.93 mm (0.194”)
+
+Maximum lift pump lift             1.8 m (6 ft) to bottom of tank suction pipe.
+
+Maximum fuel lift pump
+depression at inlet.                              127 mm (5”) Hg
+
+Fuel consumption at
+full power.                                        14.37 ml/sec
+
+Fuel consumption at full power                  28 l/hr (6.2 galls/hr)
+
+Air Intake
+
+Combustion airflow                            6.5 m3/min (230 ft3/min)
+
+Maximum engine
+compartment air
+temperature.                                       60oC (140oF)
+
+Maximum air temperature
+at engine inlet.                                   52oC (125oF)
+
+Ventilation - maximum
+engine room depression.                        125mm WG (5”WG)
+
+Suggested ventilation
+airflow including
+combustion air.                               13m3/min (520ft3/min)
+
+Minimum cross section of		
+air duct (per engine).    320 cm2 (50 sq ins)
+
+
+
+
+Page 78
+TPD1317e                                                                      Chapter 11
+
+                              Model M135                              Model M130C
+Exhaust
+
+Exhaust gas flow                           20 m3/min (706 ft3/min).
+
+Maximum restriction
+measured within(305 mm)
+12” of turbocharger outlet.                  10.2 kPa (3.0” Hg)
+
+Recommended pipe bore
+(wet exhaust).                                  76 mm (3.0”)
+
+Recommended pipe bore
+(dry).                                         63.5 mm (2.5”)
+
+Minimum rise from sea
+water level to exhaust
+outlet centreline.                             203 mm (8.0”)
+
+Lubricating System
+
+Recommended lubricating
+oil.                                             AP1 CC/SE
+
+                               API CD/SE or CCMC D4 can also be used but
+                                 are not recommended for first 20/40 hours
+
+Sump capacity maximum                       15 litres (3.3 gallons)
+Maximum installation
+angle plus planing
+angle for continuous
+operation.                    17o engine front up + 3o rise. 5o nose down + 3o
+                                   rise with special kit of parts, 30o heel
+
+Oil pressure, in operating
+speed range (steady state).                  280 kN/m2 (40 psi)
+Low oil pressure
+switch setting.                               83 kN/m2 (12 psi)
+Electrical System
+Alternator                          Lucas A127 40A (24V) or 70A (12V).
+Starter type                                     CAV CA45H
+Number of teeth in flywheel                           126
+Number of teeth on starter                            10
+Cold Start Limits
+Minimum cold start
+temperature (with aid).                           -15oC (5oF)
+
+Batteries for minimum                  2 off - 315 Amps to BS3911 or
+cold start                             2 off - 535 Amps to SAE J537
+
+
+
+
+                                                                                    Page 79
+Chapter 11                                                                                      TPD1317e
+
+11.4     M115T, and M92 Engines
+
+                                        Model M115T                                  Model M92
+Basic Technical Data
+
+Rated power                            80 kW (107 bhp)                            63.5 kW (85 bhp)
+
+Rated engine speed                                            2400 rev/min
+
+Number of cylinders                                                  4
+
+Cylinder arrangement                                          Vertical in-line
+
+Cycle                                                            4 stroke
+
+lnduction system                        Turbocharged                             Naturally aspirated
+
+Combustion system                                      Fastram direct injection
+
+Bore                                   100 mm (3.937”)                           103.0 mm (4.055 in)
+
+Stroke                                  127 mm (5.00”)                             127 mm (5.00”)
+
+Compression ratio                           17.25:1                                    18.5:1
+
+Cubic capacity                        3.99 litres (243 in3)                      4.23 litres (258 in3)
+
+Valves per cylinder                                                  2
+
+Direction of rotation                            Anti-clockwise viewed on flywheel
+
+Firing order                                                     1, 3, 4, 2
+
+Total weight (wet)                    422.6 kg (933 lbs)                   417.8 kg (921 lbs)
+                                            engine only including starter and alternator
+
+Cooling System                    The coolant shown below is mandatory for use in all climates to
+                                   ensure that adequate levels of corrosion inhibitor are present.
+                                                It will give frost protection to -37oC.
+
+Coolant                                          50% inhibited ethylene glycol or
+                                    50% inhibited propylene glycol with 50% fresh clean water
+
+Fresh water flow 202 litre/min (44.4 gall/min) at 2400 rev/min 			
+		
+
+Coolant pump speed and
+method of drive.                                               Gear driven
+
+System capacity                                         19 litres (4.18 gallons)
+
+Pressure cap setting                                          50 kPa (7 psi)
+
+Protection switch setting                                          96oC
+
+Sea water pump type               Jabsco gear driven model                  Jabsco gear driven models
+                                    25.4 mm (1”) full cam.                    25.4 mm (1”) 2/3 cam
+
+
+
+
+Page 80
+TPD1317e                                                                                       Chapter 11
+
+
+
+                                           Model M115T                                Model M92
+Sea water strainer                    A strainer must be included in the suction side of the circuit
+
+Maximum sea
+water temperature.                                                38oC (100oF)
+
+Sea water flow                        109 l/min (24 galls/min)                   98 l/min (21.5 galls/min)
+
+Fuel System
+
+Recommended fuel
+specifications.                               BS2869 Class A2 ASTM D 975 Number 2D.
+
+Fuel injection pump                Lucas rotary with boost control.                Lucas rotary.
+                                       Cold start advance and                Cold start advance and
+                              with electric stop (energise to stop) with electric stop (energise to stop)
+                                        manual override stop.                 manual override stop.
+
+Fuel lift pump                                            Superpar (mechanical)
+
+Governor type                                                     Mechanical
+
+Pipe size:
+• Supply - Outside diameter                                    8 mm (0.313”)
+• Supply - Bore                                                6.5 mm (0.26”)
+• Return - Outside diameter                                   6.35 mm (0.25”)
+• Return - Bore                                              4.93 mm (0.194”)
+
+Maximum lift pump lift                         1.5 m (60 in) to bottom of tank suction pipe.
+
+Maximum fuel lift pump
+depression at inlet.                                          127 mm (5”) Hg
+
+Fuel consumption at
+full power.                              22.7 l/hr (5 galls/hr)              17.94 l/hr (3.95 galls/hr)
+
+Air Intake
+
+Combustion airflow                    6.64 m3/min (235 ft3/min)                4.6 m3/min (162 ft3/min)
+
+Maximum engine
+compartment air
+temperature.                                                      60oC (140oF)
+
+Maximum air temperature
+at engine inlet.                                                  52oC (125oF)
+
+Ventilation - maximum
+engine room depression.                                     125mm WG (5”WG)
+
+Suggested ventilation
+airflow including
+combustion air.                       13.5 m3/min (480 ft3/min)                9.20 m3/min (324 ft3/min)
+
+
+
+
+                                                                                                    Page 81
+Chapter 11                                                                            TPD1317e
+
+                                   Model M115T                               Model M92
+Minimum cross section of		
+air duct (per engine).   174 cm2 (27 sq ins)                           139 cm2 (21.5 sq ins)
+                         temperate climates                             temperate climates
+                         348 cm2 (54 sq ins)                           277 cm2 (42.9 sq ins)
+                           for hot climates                               for hot climates
+
+Exhaust
+
+Exhaust gas flow              16.4 m3/min (579 ft3/min).             15.1 m3/min (533 ft3/min).
+
+Maximum restriction
+measured within(305 mm)
+12” of turbocharger outlet.                     10.2 kPa (3.0” Hg, 76 mm)
+Recommended pipe bore
+(wet exhaust).                      88.9 mm (3.5”)                           76 mm (3”)
+Minimum rise from sea
+water level to exhaust
+outlet centreline.                                     203 mm (8.0”)
+Lubricating System
+Recommended lubricating
+oil.                                               AP1 CG4, ACEA E3
+Sump capacity maximum                                7 litres (12.3 pints)
+Maximum installation
+angle plus planing
+angle for continuous
+operation.                                              20o nose up
+Oil pressure, in operating
+speed range (steady state).                  3.0 to 3.7 bar (43.5 to 54 Ibf/in2)
+Low oil pressure
+switch setting.                                      0.8 bar (12 Ibf/in2)
+Electrical System
+Alternator (insulated)                   Prestolite A127 40A (24V) or 70A (12V).
+Starter type (earth return)                   Prestolite M127 - 12 volt only
+Starter type (insulated)                   Prestolite S115 - 12 volt and 24 volt
+Number of teeth in flywheel                                  126
+Number of teeth on starter                                    10
+Cold Start Limits
+Minimum cold start
+temperature (without aid).                                  -10oC
+
+Batteries for minimum                12 volt system - 1 off 12 volt 520 amp to BS3911
+cold start                           24 volt system - 2 off 12 volt 440 amp to BS3911
+
+
+
+
+Page 82
+TPD1317e                                                                             Chapter 11
+
+11.5     M92B Engines
+
+                                                     Model M92B
+Basic Technical Data
+
+Rated power                                        64 kW (85.6 bhp)
+
+Rated engine speed                                   2400 rev/min
+
+Number of cylinders                                         4
+
+Cylinder arrangement                                Vertical in-line
+
+Cycle                                                  4 stroke
+
+lnduction system                                  Naturally aspirated
+
+Combustion system                                   Direct injection
+
+Bore                                              105.0 mm (4.13 in)
+
+Stroke                                              127 mm (5.00”)
+
+Compression ratio                                       18.23:1
+
+Cubic capacity                                     4.4 litres (269 in3)
+
+Valves per cylinder                                         2
+
+Direction of rotation                      Anti-clockwise viewed on flywheel
+
+Firing order                                           1, 3, 4, 2
+
+Total weight (wet)                                  423 kg (933 lbs)
+                                      engine only including starter and alternator
+
+Cooling System              The coolant shown below is mandatory for use in all climates to
+                             ensure that adequate levels of corrosion inhibitor are present.
+                                          It will give frost protection to -37oC.
+
+Coolant                                    Extended life coolant 50/50 mix.
+
+Fresh water flow                    193 litre/min (42.5 UK gall/min) at 2400 rev/min
+
+Coolant pump speed and
+method of drive.                                      Gear driven
+
+System capacity                                 19 litres (4.18 gallons)
+
+Pressure cap setting                                50 kPa (7 psi)
+
+Protection switch setting                                96oC
+
+Sea water pump type                Jabsco gear driven model, 25.4 mm (1”) full cam.
+
+
+
+
+                                                                                        Page 83
+Chapter 11                                                                          TPD1317e
+
+
+                                                     Model M92B
+Sea water strainer            A strainer must be included in the suction side of the circuit
+
+Maximum sea
+water temperature.                                    38oC (100oF)
+
+Sea water flow                                98 l/min (21.5 UK galls/min)
+
+Fuel System
+
+Recommended fuel
+specifications.                      BS2869 Class A2 ASTM D 975 Number 2D.
+
+Fuel injection pump                                   Bosch EPVE
+
+Governor type                                         Mechanical
+
+Pipe size:
+• Supply - Outside diameter                          8 mm (0.313”)
+• Supply - Bore                                      6.5 mm (0.26”)
+• Return - Outside diameter                         6.35 mm (0.25”)
+• Return - Bore                                    4.93 mm (0.194”)
+
+Maximum lift pump lift                 2m (78in) to bottom of tank suction pipe.
+
+Maximum fuel lift pump
+depression at inlet.                                127 mm (5”) Hg
+
+Fuel consumption at
+full power.                                     17.62 l/hr (3.88 galls/hr)
+
+Air Intake
+
+Combustion airflow            6.64 m3/min (235 ft3/min)            4.6 m3/min (162 ft3/min)
+
+Maximum engine
+compartment air
+temperature.                                          60oC (140oF)
+
+Maximum air temperature
+at engine inlet.                                      52oC (125oF)
+
+Ventilation - maximum
+engine room depression.                           125mm WG (5”WG)
+
+Suggested ventilation
+airflow including
+combustion air.                                 8.4 m3/min (296 ft3/min)
+
+Minimum cross section of		
+air duct (per engine).                            139 cm2 (21.5 sq ins)
+                                                   temperate climates
+                                                  277 cm2 (42.9 sq ins)
+                                                     for hot climates
+
+
+
+
+Page 84
+TPD1317e                                                                    Chapter 11
+
+
+                                               Model M92B
+Exhaust
+
+Exhaust gas flow                         12.3 m3/min (434 ft3/min).
+
+Maximum restriction
+measured within(305 mm)
+12” of turbocharger outlet.             15 kPa (4.43” Hg, 112 mm)
+Recommended pipe bore
+(wet exhaust).                                   76 mm (3”)
+Minimum rise from sea
+water level to exhaust
+outlet centreline.                             203 mm (8.0”)
+Lubricating System
+Recommended lubricating
+oil.                                   AP1 CG4/CH4, ACEA E3/E5
+Sump capacity maximum                        7 litres (12.3 pints)
+Maximum installation
+angle plus planing
+angle for continuous
+operation.                                      20o nose up
+Oil pressure, in operating
+speed range (steady state).           3.0 to 3.7 bar (43.5 to 54 Ibf/in2)
+Low oil pressure
+switch setting.                              0.8 bar (12 Ibf/in2)
+Electrical System
+Alternator (insulated)           Prestolite A128E 55A (24V) or 90A (12V).
+Starter type (insulated)           Prestolite S115 - 12 volt and 24 volt
+Number of teeth in flywheel                          126
+Number of teeth on starter                            10
+Cold Start Limits
+Minimum cold start
+temperature (without aid).                          -10oC
+
+Batteries for minimum         12 volt system - 1 off 12 volt 520 amp to BS3911
+cold start                    24 volt system - 2 off 12 volt 440 amp to BS3911
+
+
+
+
+                                                                                 Page 85
+Chapter 11   TPD1317e
+
+
+
+
+Page 86
+                      California
+               Proposition 65 Warning
+Diesel engine exhaust and some of its constituents are
+known to the State of California to cause cancer, birth
+        defects, and other reproductive harm.
+All information in this document is substantially
+correct at time of printing and may be altered      Wimborne Marine Power Centre
+subsequently.                                       22 Cobham Road,
+Part No. TPD 1317E issue 14
+Produced in England ©2013 by Wimborne
+                                                    Ferndown Industrial Estate,
+Marine Power Centre                                 Wimborne, Dorset, BH21 7PW, England.
+                                                    Tel: +44 (0)1202 796000,
+                                                    Fax: +44 (0)1202 796001
+                                                    E-mail: Marine@Perkins.com
+
+
+                                                    Web: www.perkins.com/Marine
+
