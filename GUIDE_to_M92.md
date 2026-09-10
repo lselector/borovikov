@@ -10,6 +10,8 @@ Last updated: 2026-09-10.
 
 ## Table of contents
 
+[Quick reference: engine and manuals](#quick-reference-engine-and-manuals)
+
 1. [Your engine, identified](#1-your-engine-identified)
 2. [Available resources](#2-available-resources)
 3. [What the M92 actually is](#3-what-the-m92-actually-is)
@@ -24,6 +26,74 @@ Last updated: 2026-09-10.
 12. [Ordering parts](#12-ordering-parts)
 13. [Laying up and winterising](#13-laying-up-and-winterising)
 14. [Safety](#14-safety)
+
+---
+
+## Quick reference: engine and manuals
+
+Everything you need to quote on the phone, and every manual that
+covers this engine. Detail follows in sections 1 and 2.
+
+### The engine
+
+| | |
+|---|---|
+| Model | Perkins Sabre **M92** (not M92B, a different engine) |
+| Engine number | **`AR50750U038560F`** |
+| Second plate number | `1396/2400`, shown above the caption `TPL No` |
+| Type code | `AR` = Perkins **1004-42**, the base engine |
+| Built | UK, between 1 April and 31 December 1999 |
+| Engine | 4 cylinder in line, naturally aspirated, direct injection, 4.233 litres, bore 103 mm, stroke 127 mm, 18.5:1 |
+| Rating | 91 hp at 2400 rpm, firing order 1, 3, 4, 2 |
+| Injection pump | Lucas/Delphi rotary, DP200 Series. **Confirm from the plate on the pump** |
+| Gearbox | PRM 500D or ZF HBW / HSW 450A. **Confirm which is fitted** |
+
+Quote this to a parts desk: `AR50750U038560F` (TPL 1396/2400).
+
+### The manuals
+
+| Document | Publication | Covers | Held |
+|---|---|---|---|
+| **Workshop manual** | TPD 1350E Iss 4 | Engine repair, type AR | Yes |
+| **User's handbook** | TPD 1397EGN Iss 10 | Marine servicing and faults | Yes |
+| **Installation manual** | TPD 1317E | Install and **wiring** | Yes |
+| Engine number guide | PP3000/05/15 | Serial number decoding | Yes |
+| M92 data sheet | Trans Atlantic Diesels | Ratings and construction | Yes |
+| **PRM 500 workshop** | Iss 2, June 2000 | PRM 500D teardown | Yes |
+| PRM owners handbook | PRM Newage | Gearbox servicing | Yes |
+| **ZF HBW repair manual** | ZF 310.01.0001 | HBW 450 gearbox repair | Yes |
+| DP200 pump chapter | Extract, TPD 1312 | Pump removal and timing | Yes |
+| CAV DPA rebuild | Delphi / Lucas CAV | Pump internals. **Wrong family** | Yes |
+| M92B handbook | N37347 | **Not your engine** | Yes |
+| **Illustrated parts book** | **AR81148**, 116 pp | Part numbers, 1004-42 | **No** |
+
+Everything marked Yes is a PDF in `resources/`. Exact filenames
+are listed in `resources/README.md` and in section 2.
+
+### What is not here, and where to get it
+
+**The illustrated parts book, Perkins AR81148.** This is the only
+document class missing. Every copy online sits behind a paywall
+on a manual reseller. Three ways to get it:
+
+- **Perkins My Engine**, which gives parts information tied to
+  your serial number directly. Start here, it is free
+- **A Perkins distributor**, quoting `AR50750U038560F` in full.
+  Perkins states that end users can order paper service,
+  maintenance and workshop manuals this way
+- **Sabre Plant & Marine**, [sabrepm.com/downloads](https://www.sabrepm.com/downloads),
+  which can supply workshop and parts manuals for older Sabre
+  applications when a local dealer cannot identify the engine
+
+**Wiring diagrams are not a separate publication.** They are in
+chapter 7 of the installation manual, from page 37. Yours is
+Figure 4, M92 insulated return. Figure 3 is the earth return
+version and Figure 5 is the M92B, so take care which you read.
+
+**Injection pump internals** are a pump shop job. The DP200
+service literature is trade material and is not published
+openly. The two pump files above cover removal, refitting and
+timing, which is the work you can do on the engine.
 
 ---
 
@@ -116,6 +186,17 @@ platform. It is worth having for comparison, and a copy is in
 | `perkins_sabre_M92_sales_brochure.pdf` | Trans Atlantic Diesels M92 data sheet | One page summary of ratings and construction |
 | `perkins_engine_number_guide.pdf` | Perkins Engine Number Guide, PP3000/05/15 | The official serial decoding tables used in section 1 |
 | `perkins_sabre_M92B_users_handbook_N37347.pdf` | M92B handbook, part N37347, 64 pages | Comparison only. **Not** your engine |
+| `prm_500_workshop_manual.pdf` | PRM 500 Workshop Manual, Issue 2, June 2000, 60 pages | Full teardown for the PRM 500D gearbox. Contemporary with your engine |
+| `prm_owners_handbook_all_models.pdf` | PRM Owners Handbook, 22 pages | Operation and servicing, PRM 80 to 1750 |
+| `zf_hurth_HBW_360_450_630_repair_manual.pdf` | ZF Marine Repair Manual 310.01.0001, 107 pages | Covers the HBW 450 gearbox. Four languages |
+| `perkins_TPD1312_extract_DP200_pump_chapter.pdf` | Extract from Perkins TPD 1312, 4 pages | The DP200 pump chapter from the Phaser/1000 manual, including the 100 deg BTDC piston probe timing method |
+| `delphi_lucas_CAV_DPA_pump_rebuild_manual.pdf` | CAV DPA rebuild manual, 21 pages | Rotary pump internals. Background only, see the caution below |
+
+Two cautions on that list. The gearbox manuals cover both options,
+so check which box you actually have before using either. And the
+DPA rebuild manual is a different pump family from the DP200 your
+engine most likely carries: it is useful for understanding how a
+Lucas rotary pump works, not for working on yours to spec.
 
 Three of the PDFs are also present as extracted plain text
 (`.txt`) so you can grep them from the command line. For example:
@@ -123,6 +204,19 @@ Three of the PDFs are also present as extracted plain text
 ```bash
 grep -n -i "valve tip clearance" resources/*.txt
 ```
+
+### The one gap left
+
+**There is no parts catalogue here.** The illustrated parts book
+for the 1004-42 is Perkins publication **AR81148**, 116 pages.
+Every copy I could find sits behind a paywall on a manual
+reseller, so it is a purchase rather than a download. Order it
+against your full engine number, or use Perkins My Engine, which
+gives parts information tied to the serial directly.
+
+That is the only document class still missing. Engine repair,
+marine servicing, installation, wiring, both gearbox options and
+pump removal are all covered by the files above.
 
 ### Official Perkins sources
 
@@ -311,6 +405,13 @@ your code rather than assuming.
 Both capacities exclude the oil cooler and its pipes, and both
 vary with installation angle. Fill to the dipstick, not to the
 book figure.
+
+For anything past an oil change, use the gearbox manual rather
+than this guide. `prm_500_workshop_manual.pdf` covers the PRM
+500D down to component level, and `zf_hurth_HBW_360_450_630_repair_manual.pdf`
+covers the HBW 450. Establish which gearbox you have first: the
+two are unrelated designs and use different oil, engine oil for
+the PRM and ATF for the ZF.
 
 ---
 
@@ -852,6 +953,16 @@ Look especially at the stop solenoid circuit (cause 7) and the
 start retard wiring. Salt air gets into plugs and produces
 symptoms that read as mechanical.
 
+The circuit diagram you need is in the installation manual, not
+the handbook. TPD 1317E chapter 7 starts at page 37 and lists a
+diagram per model. Yours is **Figure 4, M92 insulated return**.
+Do not use Figure 3, which is the earth return version, or
+Figure 5, which is the M92B. The same chapter covers the engine
+wiring loom, the multi-way connector, the fuse and circuit
+breaker ratings, the interconnecting cables and the Y harness
+for multiple panels, and it carries separate circuit diagrams
+for the instrument and control panels.
+
 ### Starter solenoid contacts
 
 Reported on marineengine.com: a copper disc inside the solenoid
@@ -963,6 +1074,9 @@ Short list, and all of it is in the handbooks.
 - Perkins M92 and M115T Marine Diesel Engines User's Handbook, TPD 1397EGN Issue 10, March 2013, Wimborne Marine Power Centre
 - Perkins Sabre Marine Engines Installation Manual, TPD 1317E
 - Perkins Engine Number Guide, publication PP3000/05/15
+- PRM 500 Workshop Manual, Issue 2, June 2000, PRM Newage
+- ZF Marine Repair Manual, HBW 360 / 360A / 450 / 630, document 310.01.0001
+- Extract from Perkins Workshop Manual TPD 1312, Lucas/Delphi DP 200 Series chapter
 - [Trans Atlantic Diesels: Perkins Sabre M92 data sheet](http://www.tadiesels.com/releases/P-Sabre_M92.pdf)
 - [Parts4Engines: Perkins M92 parts](https://parts4engines.com/en-us/collections/perkins-m92-parts)
 - [DBA Barge Association: Perkins M92 thread](https://barges.org/forum/barges/1309-perkins-m92)

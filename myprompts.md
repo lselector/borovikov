@@ -94,3 +94,9 @@ Note - the PDF should be for US Letter paper with 0.7-inch margins
 ---------------------------------------
 
 please remove the tmp subdirectory - the images from it are already under "images" directory
+
+---------------------------------------
+
+Please make sure to have in hte GUIDE a page which in one place lists:
+the exact model we have
+the exact manuals - and whether they are available in "resources" or not, and if not - then where they are available

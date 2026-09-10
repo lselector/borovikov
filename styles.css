@@ -85,6 +85,17 @@ li {
     margin-bottom: 0.25em;
 }
 
+/*
+ * The quick reference is meant to be read as one page:
+ * the engine identity and every manual, side by side. Start
+ * it on a fresh page so the two tables stay together.
+ */
+h2#quick-reference-engine-and-manuals {
+    break-before: page;
+    page-break-before: always;
+    margin-top: 0;
+}
+
 /* ---------------------------- table of contents block */
 
 h2#table-of-contents + ol {
@@ -128,7 +139,7 @@ tr {
 
 th, td {
     border: 1px solid #ccd6e0;
-    padding: 5px 7px;
+    padding: 4px 7px;
     text-align: left;
     vertical-align: top;
     word-wrap: break-word;
@@ -139,6 +150,18 @@ th {
     background: #eaf1f6;
     color: #123c5a;
     font-weight: 600;
+}
+
+/*
+ * Markdown forces a header row on every table, including
+ * two column key/value tables that do not want one. Collapse
+ * the empty band rather than leaving a blank stripe.
+ */
+th:empty {
+    padding: 0;
+    font-size: 0;
+    line-height: 0;
+    border: none;
 }
 
 tr:nth-child(even) td {
