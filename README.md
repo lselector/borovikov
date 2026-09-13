@@ -9,7 +9,7 @@ diesel engine, serial `AR50750U038560F`, built 1999.
 |---|---|
 | `GUIDE_to_M92.md` | **The main document.** Repair, service and tuning guide for this engine |
 | `GUIDE_to_M92.pdf` | Printable version, US Letter, built from the Markdown |
-| `resources/` | Manuals and reference PDFs downloaded from official and public sources |
+| `resources/` | Manuals for this engine in a boat. `_more_resources/` holds background material for other builds and applications, `_txt_versions/` holds extracted text |
 | `images/` | Images used by the guide, standardised to 800x600 JPEG |
 | `myprompts.md` | Research notes and prompts that led to the guide |
 
@@ -31,6 +31,11 @@ The data plate photographs in `images/` decode as follows:
 The plate also carries `1396/2400` above the caption `TPL No`.
 Quote both numbers when ordering parts.
 
+For parts information, service literature and manuals tied to
+this serial number, register the engine at
+[myengine.perkins.com](https://myengine.perkins.com/). It is
+free and runs in a browser.
+
 The type code is the useful part. Because it is `AR`, the correct
 factory repair manual is the Perkins New 1000 Series workshop
 manual covering models AJ to AS, publication TPD 1350E. That
@@ -43,11 +48,11 @@ See `resources/README.md` for the file list, or section 2 of
 `GUIDE_to_M92.md` for the same list plus online sources, parts
 suppliers, forums and video.
 
-Three of the PDFs are also present as extracted plain text, so
+Nine of the PDFs are also present as extracted plain text, so
 they can be searched from the command line:
 
 ```bash
-grep -n -i "valve tip clearance" resources/*.txt
+grep -n -i "valve tip clearance" resources/_txt_versions/*.txt
 ```
 
 ## Rebuilding the guide
@@ -59,6 +64,9 @@ python3 s1_download_images.py   # collect images into images/
 python3 s2_clean_images.py      # standardise them
 python3 s3_make_pdf.py          # render GUIDE_to_M92.pdf
 ```
+
+`s4_ocr_pdfs.py` is separate from that pipeline and only
+needs running when a new scanned manual is added.
 
 **`s1_download_images.py`** downloads a thumbnail for each
 YouTube video the guide links to. Files already present are
@@ -87,3 +95,19 @@ python3 s3_make_pdf.py README.md out.pdf
 ```
 
 Requires `pip install markdown weasyprint`.
+
+**`s4_ocr_pdfs.py`** adds a searchable text layer to any PDF in
+`resources/` that has none, writing the result alongside the
+original with `_OCR` in the name. Originals are never touched,
+and files that already have text, or an `_OCR` copy, are
+skipped. Requires `brew install ocrmypdf`.
+
+```bash
+python3 s4_ocr_pdfs.py                       # all scanned PDFs
+python3 s4_ocr_pdfs.py resources/one.pdf     # just one
+python3 s4_ocr_pdfs.py --force               # redo existing
+```
+
+OCR misreads characters. A part number read out of an `_OCR`
+file is a lead, not a fact, and should be checked against the
+page image before anything is ordered.

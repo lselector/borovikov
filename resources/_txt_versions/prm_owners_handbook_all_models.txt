@@ -1,0 +1,900 @@
+       Owners Handbook
+
+
+80
+90
+120
+150
+260
+500
+750
+1000
+1500
+1750
+					WARRANTY REGISTRATION FORM
+
+  Gearbox Model . ...................................................              Engine Make ...............................................................
+
+  Gearbox Serial Number . ......................................                   Engine Model ..............................................................
+
+  Date of Commissioning ........................................                   Type of Application (please tick)
+
+  Owners/Operators Name .....................................                      Pleasure                           Commercial
+
+  & Address .............................................................
+
+  ..............................................................................   Type of Vessel (please tick)
+
+  ..............................................................................   Canal Craft                        Sailing                     Fishing
+
+  Country . ...............................................................        If Other, please specify: ..............................................
+
+  Telephone Number ...............................................                 .....................................................................................
+
+  Signature ..............................................................         Date . ...........................................................................
+
+
+
+
+                                           Failure to return this form may invalidate the warranty
+                                     PLEASE
+                                      AFFIX
+                                    POSTAGE
+                                     STAMP
+                                      HERE
+
+
+
+
+PRM Newage Ltd
+Barlow Road
+Aldermans Green Industrial Estate
+COVENTRY
+CV2 2LD
+ENGLAND
+Contents                                                                                                                        Page
+Warranty Statement & General Information                                                                                            2
+Installation Advice                                                                                                                 3
+Nominal Power Ratings                                                                                                               4
+Service Classification                                                                                                              5
+Oil Type                                                                                                                            5
+Oil Capacities and Pressures                                                                                                        6
+Oil Level Checking                                                                                                                  6
+Oil Pump Mounting                                                                                                                   7
+Operation                                                                                                                           8
+Emergency Operation (not PRM60/90/125)                                                                                            9-10
+Routine Maintenance                                                                                                                11
+Optional Equipment                                                                                                                 11
+Fault Finding Chart                                                                                                              12-13
+Distributor Network                                                                                                              14-16
+Warranty Registration Card                                                                                               Inside Front Cover
+Maintenance Record                                                                                                                 17
+
+           Warning: This symbol warns of possible personal injury.
+
+
+           Caution: This symbol warns of any possible damage to transmission.
+PRM Newage Ltd operate a policy of product improvement and therefore reserve the right to change specifications without prior notification.
+Whilst every effort is made to ensure complete accuracy of the information in this manual no liabilities for inaccuracies or the consequences thereof
+can be accepted by the manufacturer or the distributor/dealer who supplied the manual.
+
+                          References made to the new models PRM60/90/125 also apply to the older
+                             models PRM80 or 120 (apart from power ratings and oil capacities)
+           References to the new model PRM280D also apply to the old model PRM260D (apart from power ratings,
+                                             PTO adaption and in-line fitment)
+
+                                                                         1
+Warranty Statement & General Information
+PRM Newage Ltd warrants to Engine manufacturers and to PRM Newage Ltd distributors that all PRM marine gearboxes manufactured by PRM Newage Ltd will
+be free from defects in material and workmanship under normal use and service for the period as follows,
+Twenty four months from date of despatch from PRM Newage Ltd.
+It is essential that all PRM hydraulic and mechanical marine gearboxes are correctly installed, aligned and maintained.
+This handbook contains important instructions to ensure this and it is of the utmost importance that these are carefully followed. PRM Newage Ltd can accept
+no responsibility under warranty or otherwise for any loss or damage resulting from failure to observe these instructions.
+To avoid prejudicing warranty rights, do not undertake any repair or other work on the gearbox during the warranty period without first contacting PRM Newage
+Ltd or an authorised distributor or dealer for advice. In the event of failure, this should be done via the local PRM Newage Ltd distributor/dealer or PRM
+Newage Ltd direct.
+This warranty does not apply to any gearbox or part that has been subject to misuse, negligence, damage, improper maintenance, incorrect storage or use
+beyond rated capacity.
+
+
+Serial Number Plate (Note it is important that this serial number is submitted with any warranty query)
+On the top half of the gearcase of every PRM Newage Ltd gearbox is an identification plate with two lines of numbers. The top line is the gearbox serial
+number, whilst the lower line comprises the gearbox specification (model, ratio, etc.).
+
+Pre Delivery Test
+Before leaving the factory each gearbox is subject to a final test and inspection, which includes the following:
+1. Flush clean                                                                 7. Check operating temperature
+2. Check time to reach operating temperature                                   8. Check operating oil pressure (Not PRM60/90/125)
+3. Pressurise case, check for leaks                                            9. Check output nut torque
+4. Check noise level                                                           10. Check input spline dimensions
+5. Check drag in neutral                                                       11. Check bolt torques
+6. Check valve block operating force                                           12. Check coupling concentricity
+Note: Throughout this owners’ handbook, engine and propeller rotations are always described as seen looking forward from propeller to gearbox.
+
+INTRODUCTION
+PRM Newage Ltd marine gearboxes are purpose designed and built for smooth, reliable and efficient operation. This handbook contains important information
+on the installation, operation and maintenance of your gearbox. It is essential that all owners acquaint themselves thoroughly with their gearbox and follow
+carefully the instructions contained in this handbook.
+Important
+In order to avoid possible danger to persons or property due to accidents arising from mis-use of the gearbox it is essential that the gearbox be used in
+conformity with the technical information provided by PRM Newage Ltd and that the owner/operator carefully follows the installation, operation and
+maintenance instructions provided to ensure that operation is as safe as possible. All working machinery must be regularly checked and inspected to ensure this.
+
+
+                                                                               2
+Installation Advice
+Engine/Gearbox Drive
+Drive is transmitted to the gearbox via a flexible input coupling mounted on the engine flywheel, into the centre of which the gearbox input shaft locates. It is
+most vital that the engine, gearbox and coupling are correctly aligned; if not, vibration, transmission noise and even failure may result. For complete alignment
+instructions refer to the gearbox workshop manual.
+Oil Cooler
+All PRM Newage Ltd gearboxes (except PRM60/90/125) must be fitted with an oil cooler to maintain correct working temperatures. Two 3/8 in. BSP (1/4 in. BSP
+on PRM150, ½ in. BSP on PRM1500) connections are provided on the valve block to allow a suitable cooler to be fitted; these are blanked off with “Redcap”
+plugs for delivery from the factory. The gearbox oil cooler in usually mounted on the gearbox adaptor flange or the bulkhead of the boat and then connected
+into the engine cooling system. Full instructions on cooler installation are provided in the workshop manual. See caution note reference cooler pressures page 7.
+Input Rotation
+In their standard form, PRM Newage Ltd marine gearboxes are built for use with left hand (anti-clockwise) rotating engines, at the ratings listed on page 4. The
+majority can, however, easily be adapted right-hand (clockwise) rotating engines, simply by turning the oil pump through 180°.
+(Note: this does not apply to the PRM60/90/125/150/1500/1750 gearboxes, which must be used with left-hand rotating engines only.)
+Propeller Shaft Alignment
+Correct alignment of the propeller shaft coupling flange and the gearbox output flange is essential, since misalignment can cause excessive vibration
+and stress, leading to damage and possible oil seal and bearing failure.
+Alignment should only be carried out with the boat afloat, the maximum permissible misalignment being 0.05mm; see workshop manual for instructions.
+Installation Angle
+The transmission should normally be installed so that the maximum fore and aft angle relative to the waterline does not exceed 17° (15° on PRM60/90/125/150)
+with the vessel at rest. If installation angles greater than this are required, please consult PRM Newage Ltd for advice.
+Twin Installations (Not PRM60/90/125)
+For efficient operation, it is usually considered preferable for the starboard (right hand) propeller to rotate clockwise and the port (left hand) propeller to rotate
+anti-clockwise.
+Remote Control Operating System
+It is strongly recommended that PRM Newage Ltd gearboxes are used with a remote control operating system, which should be connected strictly in
+accordance with the manufacturers’ recommendations. Care must be taken to ensure that the cable moves the gearbox operating lever approximately
+2mm short of its forward or backward travel, to prevent the lever being brought ‘hard-up’ against its end stop with every gear shift. This does not apply to
+PRM60/90/125 which must be adjusted against the stop in both directions. Failure to correctly adjust the shift lever may result in premature wear to the drivetrain
+and gearbox failure. PRM Newage Ltd gearboxes are provided with a positive neutral position, which greatly assists in setting up the remote control operating
+system.
+
+
+
+
+                                                                                  3
+                               Nominal Power Ratings - PRM Mechanical/Hydraulic Reserving Marine Gearboxes
+    Model           Shaft              Ratio          Input     Output      Maximum Input Speed                   Nominal Power Ratings per 100 rev/min
+                Arrangement                          Rotation   Rotation           Rev/Min                Pleasure         Light Commercial      Heavy Commercial
+                                                                           Continuous   Intermittent   kW        BHP         kW        BHP         kW      BHP
+PRM60D        Offset Only     1.52:1                  LH         RH          4500             -        0.73      0.98       0.60       0.80          -       -
+                              2.00:1                  LH         RH          4500             -        0.63      0.85       0.51       0.68          -       -
+                              2.50:1                  LH         RH          4500             -        0.63      0.85       0.43       0.58          -       -
+PRM90D        Offset Only     2.04:1                  LH         RH          5000             -        0.94      1.26       0.62       0.83          -       -
+                              2.50:1                  LH         RH          5000             -        0.82      1.10       0.54       0.73          -       -
+PRM125D       Offset Only     2.04:1                  LH         RH          5000             -        1.31      1.75       0.71       0.95          -       -
+                              2.50:1                  LH         RH          5000             -        1.04      1.39       0.71       0.95          -       -
+                              2.94:1                  LH         RH          5000             -        0.86      1.15       0.60       0.80          -       -
+PRM150D       Offset Only     1.53:1/2.09:1/2.82:1    LH        LH/RH        4500           5000       1.57      2.10       1.12       1.50          -       -
+PRM260C       In-Line          1.96:1/2.94:1         LH/RH      LH/RH        4000           4500       2.72      3.65       2.51       3.36        2.31    3.08
+PRM280D       Offset Only      1.96:1/2.94:1         LH/RH      LH/RH        4000           4500       2.93      3.93       2.83       3.79        2.67    3.58
+PRM500D       Offset Only      1.46:1/1.94:1         LH/RH      LH/RH        4000           4500       4.76      6.38       4.62       6.19        4.40    5.90
+                               2.57:1/2.90:1         LH/RH      LH/RH        4000           4500       4.62      6.19       4.40       5.90        4.40    5.90
+PRM750A       8o Down Angle 1.09:1/1.46:1            LH/RH      LH/RH        4000           4500       7.17      9.62       5.68       7.62        5.39    7.23
+                               1.94:1/2.57:1         LH/RH      LH/RH        4000           4500       7.07      9.48       5.68       7.62        5.39    7.23
+                               2.90:1                LH/RH      LH/RH        4000           4500       5.96      8.00       5.60       7.51        5.24    7.02
+PRM750D/C     Offset & In-Line 1:09/1.46:1           LH/RH      LH/RH        4000           4500       7.85     10.52       6.07       8.13        5.86    7.85
+              (4:1 In-Line Not 1.94:1/2.57:1         LH/RH      LH/RH        4000           4500       7.07      9.48       5.86       7.85        5.55    7.43
+              Available)       2.90:1/3.95:1         LH/RH      LH/RH        4000           4500       5.96      8.00       5.60       7.50        5.24    7.02
+
+PRM1000D      Offset Only     1.53:1                 LH/RH      LH/RH         3000          3500       10.47    14.04      7.75      10.39      7.33        9.82
+                              2.03:1                 LH/RH      LH/RH         3000          3500        9.43    12.64      7.44      9.96       7.02        9.40
+                              2.86:1/4.00:1          LH/RH      LH/RH         3000          3500        8.58    11.50      7.44      9.96       7.02        9.40
+PRM1000A      10o Down        1.53:1                 LH/RH      LH/RH         3000          3500        9.66    12.95      7.10      9.52       6.67        8.95
+              Angle Only      2.03:1                 LH/RH      LH/RH         3000          3500        9.43    12.64      7.10      9.52       6.67        8.95
+                              2.86:1                 LH/RH      LH/RH         3000          3500        8.58    11.50      7.10      9.52       6.67        8.95
+PRM1500D      Offset Only     3.12:1/3.88:1/4.50:1    LH        LH/RH         2500          3000       15.70    21.06      14.65     19.65      13.63      18.28
+                              4.90:1                  LH        LH/RH         2500          3000       13.63    18.28      12.58     16.87      11.53      15.46
+PRM1500S      Offset Only     1.22:1/1.56:1/1.94:1    LH        LH/RH         2500          3000       15.70    21.06      14.65     19.65      13.63      18.28
+                              2.25:1/2.45:1           LH        LH/RH         2500          3000       15.70    21.06      14.65     19.65      13.63      18.28
+                              3.00:1                  LH        LH/RH         2500          3000       14.12    18.93      13.07     17.52      11.76      15.77
+PRM1750D      Offset Only     3.12:1/3.88:1/4.50:1    LH        LH/RH         2500          3000       18.33    24.58      17.04     22.85      15.76      21.13
+                              4.90:1                  LH        LH/RH         2500          3000       16.76    22.48      15.58     20.89      14.41      19.32
+PRM1750S      Offset Only     1.22:1/1.56:1/1.94:1
+                                                       LH       LH/RH         2500          3000       18.33    24.58      17.04     22.85      15.76      21.13
+                              2.25:1/2.45:1/3.00:1
+
+
+Note:- 		 PRM60D Astern ratio 2.05:1 max power rating in reverse de-rated by 40% of listed rating
+		 PRM90D Astern ratio 2.5:1 max power rating in reverse de-rated by 50% of listed rating
+		 PRM125D Astern ratio 2.5:1 max power rating in reverse de-rated by 30% of listed rating
+
+
+                                                                                     4
+ operation is limited, with most operating time at partial throttle.
+
+Note:
+  HeavyThese  powers are expressed
+          Commercial:                 in BHP and
+                           all displacement   andKW  per 100 rev/min engine
+                                                   semi-displacement      craftoperating
+                                                                                used forspeed  and are measured
+                                                                                          commercial              at the engine flywheel. Ratings have
+                                                                                                        applications
+been established to ensure the long and trouble free life of the gearbox which should not therefore, be used at powers in excess of those shown. PRM
+  shouldLtd
+Newage    beaccepts
+              classednoasliability,
+                            heavywhether
+                                    commercial
+                                           under duty.  In or
+                                                 warranty  this type of in
+                                                              otherwise, vessel  (such
+                                                                           respect  of as  trawlers, which
+                                                                                      transmissions  pursehave
+                                                                                                            seiners,
+                                                                                                                been used at ratings higher than those
+  lobster
+listed    and crab boats, tugs, ferries, offshore supply boats etc.) the gearbox is expected to work at full
+       above.
+ governed engine speed. The power setting of the engine must be known and must be within the
+Service   Classification
+ permitted heavy commercial rating of the gearbox.
+
+Pleasure:  limited to planing hull pleasure craft with a maximum of 500 hours operating time per year, of which not more than 5% should be at full engine
+ Important Note
+throttle, with the balance of usage at 90% or less of full throttle. The use of PRM marine gearboxes according to this classification in any commercial boat, or in
+sport-fishing charter boats or long-range pleasure cruisers, is not approved.
+      1. It is essential that the engine, transmission model, reduction ratio and propeller size are
+Light correctly
+     Commercial:matched  so or
+                     planing that the engine can
+                               semi-displacement    attain
+                                                 craft usedits
+                                                            in rated  speed
+                                                               pleasure or    appropriate
+                                                                           commercial       to the
+                                                                                      application   relevant
+                                                                                                  may qualify for light commercial rating if annual
+usage is less than 1500 hours
+            service           and fullwithout
+                     classification    throttle operation
+                                                labouring.is limited, with most operating time at partial throttle.
+   2. It is also necessary to ensure the torsional compatibility of the complete propulsion system
+Heavy Commercial: all displacement and semi-displacement craft used for commercial applications should be classed as heavy commercial duty.
+            from
+In this type of    engine
+                vessel       through
+                        (such as       to purse
+                                 trawlers, propeller,  since
+                                                  seiners,     disregarding
+                                                           lobster and        this tugs,
+                                                                       crab boats, may ferries,
+                                                                                         result in   gear supply
+                                                                                                 offshore  noise,boats
+                                                                                                                   particularly
+                                                                                                                        etc.) the gearbox is expected to work at full
+governed atengine  speed.
+                 low       The power
+                       speed          setting of
+                                operation     andthemay
+                                                     engineeven
+                                                             must be  known
+                                                                    result inand must be to
+                                                                               damage     within
+                                                                                              thetheengine
+                                                                                                      permittedas
+                                                                                                                heavy commercial
+                                                                                                                   well as     to rating of the gearbox.
+       transmission components.
+Important  Note
+1.PRM
+   It is Newage
+         essential Ltd
+                   that the
+                        will engine, transmission
+                             provide all  possiblemodel, reduction
+                                                   information  andratio and propeller
+                                                                     assistance        sizefind
+                                                                                 to help    are correctly matched
+                                                                                                solutions to      so that the engine can attain its rated
+                                                                                                             potential
+   speed appropriate to the relevant service classification without labouring.
+ torsional problems, but it is the ultimate responsibility of the person assembling the drive and driven
+2.equipment
+    It is also necessary
+                to ensuretothat
+                            ensure
+                                theythe torsional
+                                      are         compatibility
+                                           torsionally          of the complete propulsion system from engine through to propeller, since disregarding
+                                                       compatible.
+    this may result in gear noise, particularly at low speed operation and may even result in damage to the engine as well as to transmission
+    components.
+ Oil Type
+PRM Newage Ltd will provide all possible information and assistance to help find solutions to potential torsional problems, but it is the ultimate respon-
+sibility of the person assembling the drive and driven equipment to ensure that they are torsionally compatible.
+ Hydraulic Gearboxes
+Oil Type
+              PRM 150 / 280 / 500 / 750 / 1000 / 1500 / 1750
+Hydraulic Gearboxes
+     Temperature                                Type of Oil
+      BelowPRM
+             Zero150 / 260C / 280 / 500
+                                   10W30/ 750
+                                           or /20W
+                                                1000 / 1500 /
+                                                   Mineral    1750 Oil.
+                                                            Engine
+     Temperature
+      0°C to 30°C                10W30 or 15W40 Type of Oil Engine Oil.
+                                                    Mineral
+      Below 30°C
+      Above  Zero                  10W30 or 20W
+                                              40W Mineral Engine Oil.
+      0°C to 30°C                10W30 or 15W40 Mineral Engine Oil.
+      Above 30°C                   10W30 or 40W Mineral Engine Oil.
+ Mechanical Gearboxes
+Mechanical Gearboxes
+                        PRM 60 / 90 / 125 – ATF Dextron II or III
+Failure to comply with the above oil types or to seek advice from PRM Newage Ltd for approval for any type of oil not listed may result in forfeiture of warranty
+cover since no claims under warranty will be entertained if oil of the wrong type is used.
+ Failure to comply with the above oil types or to seek advice from PRM Newage Ltd for approval for
+ any type of oil not listed may result in forfeiture of warranty cover since no claims under warranty will
+ be entertained if oil of the wrong type is used.                    5
+Oil Capacities and Pressures
+                                            Approximate Oil                               Operating Pressures
+                       Model                    Capacity                            Minimum                 Maximum
+                                          Litres         Pints                  bar        lb/in        bar        lb/in
+                   PRM60                    0.2          0.35                     -           -           -           -
+                   PRM90                    0.3          0.53                     -           -           -           -
+                   PRM125                   0.4          0.70                     -           -           -           -
+                   PRM150D                  1.4          2.50                   25.51       370         28.96       420
+                   PRM260C                  1.4          2.50                   18.27       265         22.06       320
+                   PRM280D                  1.5          2.64                   20.00       290         22.06       320
+                   PRM500D                  2.5          4.40                   18.27       265         22.06       320
+                   PRM750D                  2.5          4.40                   30.34       440         33.44       485
+                   PRM750D4                 3.5          6.16                   30.34       440         33.44       485
+                   PRM750A                  3.0          5.28                   30.34       440         33.44       485
+                   PRM750C                  3.0          5.28                   30.34       440         33.44       485
+                   PRM1000D                 3.0          5.28                   30.34       440         33.44       485
+                   PRM1000D4                4.0          7.04                   30.34       440         33.44       485
+                   PRM1000A                 3.5          6.16                   30.34       440         33.44       485
+                   PRM1500D                10.0         17.60                   28.27       410         31.03       450
+                   PRM1500S                 8.0         14.00                   28.27       410         31.03       450
+                   PRM1750D                10.0         17.60                   28.27       410         31.03       450
+                   PRM1750S                 8.0         14.00                   28.27       410         31.03       450
+The pressures listed above assume a gearbox operating temperature of 70°C and an input speed of no less than 1500 rev/min. Pressure gauge reading 600PSI
+maximum can be connected to the 1/8” BSP pressure port on the valve block (see opposite illustration).
+Oil Level Checking
+The oil capacities listed are approximate since they do not include the amount needed to fill the cooling circuit (not PRM60/90/125), which therefore
+has to be added to give the total volume of oil required for the total gearbox system.
+In any event the above table is provided for guidance only and care must be taken to ensure that the gearbox is topped up to the maximum level on
+the dipstick.
+NOTE:- Never overfill mechanical gearboxes !!!!!
+The correct way of checking the oil level by using the dipstick is:
+1. First fill the gearbox with the correct quantity and specification of oil (see above and page 5).
+   (for PRM 60/90/125 there is an oil level plug on the left hand side which should be used to                    WARNING: Do not remove dipstick
+   ensure the gearbox is not overfilled)                                                                          with engine running.
+2. Ensure that the gearbox is in neutral.                                                                         HOT OIL CAN CAUSE BURNS.
+3. Run the engine and gearbox to ensure that there is oil in the cooling circuit.
+4. Switch off, then remove and wipe the dipstick.                                                                 CAUTION: Clean area around
+5. Screw the dipstick fully down, then remove it and read the oil level.                                          dipstick prior to filing with oil or
+6. Top up with the approved oil (see page 5) to the maximum mark on the dipstick.                                 checking level.
+7. Replace the dipstick, ensuring that it is fully screwed down.                    6
+Note: using the gearbox with insufficient oil is likely to lead to low oil pressure, unsatisfactory operation, overheating and eventual failure. Equally, filling the
+gearbox with too much oil may cause overheating and oil leaks; it is the owner/operators responsibility, therefore, to ensure that the oil level is correct at
+all times.
+Dipstick Location
+PRM60/90/125 Hand screw in dipstick on top of gearcase; PRM150 18mm A/F hex plug, rear of case, L/H side; PRM260C/280/500/750 18mm A/F hex plug,
+front of case, R/H side; PRM1000 18mm A/F hex plug, front of case, L/H side; PRM1500/1750 18mm A/F hex plug, R/H side mounting pad.
+
+        Caution: If the operating pressure is below the minimum value listed for your specific gearbox model, corrective action must be taken
+        (see fault-finding chart) or gearbox damage may result. (Not applicable to PRM60/90/125.)
+        If operating pressure is higher than the maximum listed, (other than for very short periods after start-up when the oil is still cold), qualified assistance
+        must be sought to correct the condition. (Not applicable to PRM60/90/125.)
+
+        Caution: It is important to ensure that any oil cooler used is capable of withstanding lubrication pressures in the order of 20.7 bar (300lb/in²). This
+        may be seen on initial start-up from cold at maximum engine speed.
+
+Oil Pump Mounting
+The mounting positions of the oil pump are as follows:-
+
+                                                       (Not applicable to PRM60/90/125/150/1500 &1750)
+                                                                   Pressure Gauge
+                                                                     Connection
+
+
+
+
+                                   Anti-clockwise engines                                                    Clockwise engines
+                           (or clockwise on angle drive and in-line                                (or anti-clockwise on angle drive and
+                                         gearboxes)                                                           in-line gearboxes)
+
+Note: Engine rotation is described as seen looking on the flywheel from behind the engine.
+
+                                                                                  7
+Output Rotation (does not apply to PRM60/90/125)
+Because PRM Newage Ltd gearboxes have identical clutches, gears and bearings on both input shaft and layshaft, either a L.H. or R.H. propeller can be used at
+their full speed and horse power ratings, irrespective of input rotation (see rating chart). (PRM150/1500/1750: L.H. input rotation only.)
+On all offset gearboxes (expect PRM150) used with the more common left-hand (anti-clockwise) rotating engines, moving the gearbox operating lever back
+provides right-hand propeller rotation and moving it forward provides left-hand propeller rotation.
+If the gearbox is used with the less common right-hand (clockwise) rotating engines, the operation is reversed:- moving the gearbox operating lever back provides
+left-hand propeller rotation and moving it forward gives right-hand propeller rotation. On angle drive (PRM750A, PRM1000A) and inline (PRM260C, PRM750C)
+gearboxes, the movement of the operating lever is the reverse of that described above.
+On PRM150 only moving the gearbox operating lever to port provides right-hand propeller rotation and moving it to starboard provides left-hand propeller
+rotation.
+Important: right-hand propeller required for PRM60/90/125
+Note: engine and propeller rotations are described as seen looking forward from propeller to gearbox. In order to achieve the best possible gear shifting, it is
+recommended that a single lever control system (i.e. connected to the engine throttle as well as the gearbox should be used)
+
+Operation
+Ensure the cable that operates the selector lever allows the lever to travel fully up to the stops in the forward and reverse positions at all times.
+
+
+
+
+                             The lever has a section of over
+                            throw that the lever should sit in
+                               when the gear is selected                                                     The adjustment should
+                                                                                                             be regularly checked as
+                                                                                                               cables can stretch
+
+
+
+
+                                                                    Gearbox depicted is a PRM90
+First Time Usage
+Before starting the engine remove the dipstick, fill the gearbox with one of the recommended lubricants (see table on page 6) to the maximum mark on the
+dipstick, then replace the dipstick by screwing it fully down for correct level.
+
+
+
+                                                                                  8
+Ensure that the gearbox is in neutral (we recommend that the optional neutral safety start switch (not available on PRM60/90/125) be wired into the starter circuit
+to avoid uncontrolled boat movement on start-up), then start the engine and run for a few minutes to allow the oil to circulate through the cooling circuit. Stop the
+engine, let the oil settle, then re-check the level and ‘top up’ to the maximum mark on the dipstick (see page 5).
+Operating Temperature
+Normal operating temperature should be between 50°C - 80°C with a maximum of 90°C permissible for very short periods only. If the gearbox consistently runs
+at temperatures above 80°C, carry out the checks listed in the fault-finding chart; if no fault is found, fit a larger capacity cooler.
+Gear Shifting (Except PRM60/90/125)
+PRM Newage Ltd hydraulic marine gearboxes have been designed and tested to ensure rapid shifts from ahead to astern and vice versa at full horsepower ratings
+and speeds if necessary. However, since full-power shifts do place abnormal, even if short lived, loads on the gearbox and if used indiscriminately as it will reduce
+the operating life, they should be reserved for emergency use only.
+Gear Shifting PRM60/90/125 Only
+Caution: Engine must be at idle before changing direction. Pause in neutral when selecting ahead or astern. The PRM60/90/125 can be used with remote control
+operating systems which must be of the single lever type of remote control, i.e. Morse MT3 or SL3 which controls both the engine throttle and gear selection.
+Trailing (Free-wheeling) the Propeller
+The bearings used in PRM Newage Ltd gearboxes have been carefully selected to ensure that prolonged trailing (free-wheeling) of the propeller will not harm the
+transmission. This allows the propeller to turn freely with the engine shut down, making the gearbox particularly well suited for use in auxiliary sailboats, motor
+sailers, or multi-engine installations where the boat may be operated with one or more engines shut down.
+
+Emergency Operation (Except PRM60/90/125)
+Included as standard in every PRM Newage Ltd hydraulic marine gearbox is a “get-you-home” device which, in the unlikely event of hydraulic failure, enables the
+gearbox to be locked in ‘ahead’ allowing the boat to be brought to safety.
+         Warning: To operate, first switch off the engine, disconnect the operating cable and ensure that the gearbox operating lever is in the neutral position,
+         then proceed as follows:
+
+
+a)   PRM150
+1)   Remove the 9 hexagonal bolts securing the rear manifold to the gearcase and taking care not to lose the small socket wrench located inside it, take off the
+     manifold complete with oil pump.
+2)   Rotate the input shaft until two socket screws in the clutch align with the two holes in the rear of the gearcase.
+3)   Insert the socket wrench through the two holes and tighten each screw in turn; this locks up the clutch plates, providing drive for a right-hand rotating
+     propeller. (Note: left-hand rotation cannot be provided).
+4)   Refit the rear manifold and tighten the bolts to a torque of 30Nm.
+5)   Ensure that sufficient oil remains in the gearbox to avoid further damage.
+b) PRM260C and PRM280D
+1) Remove the top cover (located alongside the valve block).
+2) Select the shaft which provides the appropriate propeller rotation (see note ‘a’ on page 10) and rotate until one of the grooves on the outer edges of the clutch
+   end plate is uppermost.
+3) Take one of the top cover securing screws and screw it tightly into the threaded hole in the clutch plate directly beneath the groove: this clamps the clutch
+   and provides drive.
+4) Check that the dipstick does not foul the head of the screw now fitted in the clutch: if it does, remove the dipstick and plug the hole with a clean cloth.
+5) Ensure that sufficient oil remains in the gearbox to avoid further damage and refit the top cover, tightening the bolts to a torque of 28Nm.
+                                                                                 9
+c) PRM500 and PRM750
+1) Remove the top cover (located alongside the valve block).
+2) Select the shaft to provide the required propeller rotation (see note ‘a’ on page 10) and rotate until the spring slip, which holds the two clamping screws in
+position, is accessible.
+3) Remove the spring clip and tighten the two screws: this locks up the clutch pack and provides the drive.
+4) Check that the dipstick does not foul the head of either clamping screw; if it does, remove the dipstick and plug the hole with a clean cloth.
+5) Ensure that sufficient oil remains in the gearbox to avoid further damage and refit the top cover, tightening the bolts to a torque of 28Nm.
+d) PRM1000
+1) Remove the top cover (located alongside the valve block): the hexagonal key for operating the emergency device is held in a clip on the underside of this
+   cover.
+2) Select the shaft to provide the required propeller rotation (see note ‘a’ on page 10).
+3) Locate the clutch end plate: this has three tapped holes, angled to provide access. Rotate the shaft until one of the holes is uppermost.
+4) Insert the hexagonal key and screw the grub screw as tight as possible, rotating the clutch gear to ensure the screw locates in between the spline teeth.
+5) Rotate the shaft and similarly tighten the other two grub screws.
+6) Ensure that sufficient oil remains in the gearbox to avoid further damage and refit the top cover, tightening the bolts to a torque of 28Nm.
+e)   PRM1500/1750
+1)   Remove the oil pump, held on by 6 hexagonal bolts.
+2)   Remove shimming and bearing cup.
+3)   Rotate the input shaft by using the pump slot to expose 4 socket headed grub screws. These need to be tightened with a 4mm hexagon key to engage the
+     clutch.
+4)   Repeat above operation by removing the cover, if appropriate clutch is used for ahead. This is located next to the oil pump.
+5)   Replace bearing cup and shimming.
+6)   Re-seal the oil pump back into place and fix on with the six bolts.
+7)   Ensure that sufficient oil remains in the gearbox to avoid further damage.
+The engine can now be run, but to minimise the possibility of further damage being caused to the gearbox, engine speed should be limited to 1/3 full
+throttle.
+Important Notes
+a)   Assuming an anti-clockwise engine, the shaft to select is:
+  - Left-hand propeller: left-hand shaft (PRM280C, 500D, 750D, 1000D, 1500S/D, 1750S/D)
+		                       right-hand shaft (PRM260C, 750A, 750C, 1000A)
+  -Right-hand propeller: right-hand shaft (PRM280C, 500D, 750D, 1000D, 1500S/D, 1750S/D)
+		                       left-hand shaft (PRM260C, 750A, 750C, 1000A)
+     (all rotations are described as seen looking forward from the propeller to the gearbox).
+     (only right-hand propeller rotation can be provided by the PRM150 emergency device).
+		b) Caution: When emergency drive is engaged, neither astern or neutral can be used and there is thus no means of stopping the boat using the
+				 gearbox; consequently great care must be taken when manoeuvring the boat, particularly during docking.
+c)   After emergency drive has been used, qualified assistance must be sought to check the transmission thoroughly before it is used again.
+d)   Never use the top cover for topping up the oil.
+
+
+
+                                                                                10
+Routine Maintenance
+It is recommended that all PRM Newage Ltd gearboxes be run for 15 minutes before the oil is drained and replaced.
+After the first 25 hours of running
+Run the engine until the oil reaches a minimum temperature of 50°C, then switch off, drain the oil from the gearbox and cooling system and re-fill with one of
+the recommended lubricants. Operate the engine and gearbox, allowing the oil to circulate, then stop the engine and let the oil settle. Re-check the oil level by
+screwing the dipstick down fully and top up if necessary to the maximum mark on the dipstick.
+Note: Drain plug located rear right-hand side on PRM1500/1750, 1000, 750 and 150, front on 260C, 280D and 500D and on the side of the main case
+under the selector lever of PRM60/90/125.
+
+        Warning: Hot oil burns
+
+Daily
+Check the oil level and check visually for oil leaks, especially around the output shaft oil seal and at gasket sealing surfaces.
+Annually
+Check oil cooler hoses and connections and correct/replace as necessary. Check propeller shaft alignment and correct if necessary. Ensure that the remote
+control operating linkage is adjusted to give the correct travel on the gearbox operating lever (see page 3). Check that all fasteners are tightened to the correct
+torque (see workshop manual for this information).
+Oil Changes
+Gearbox oil should routinely be changed annually or at intervals corresponding with engine oil changes, whichever occurs first. However, if the oil should become
+contaminated by water, or if the gearbox suffers major mechanical damage, the gearbox, oil cooler and hoses must be thoroughly flushed out and the gearbox
+re-filled with fresh oil to the correct specification.
+
+        Warning: Hot oil burns
+
+Optional Equipment
+Neutral Safety Switch (Not available for PRM60/90/125)
+This switch ensures the engine cannot be started unless the gearbox is in neutral; PRM Newage Ltd strongly recommends that is should be fitted in all
+installations. The device is standard supply on the PRM1000.
+Power Take Off – PRM280/500/750/1000/1500/1750
+The power take off mounts directly to the rear face of the gearbox and is available factory fitted or as an assembly for retro-fitting on existing gearbox installations.
+It is designed for use with hydraulic pumps to SAE J744C series “B” specification and is a very compact, economical and effective method of powering hydraulic
+equipment on vessels where the provision of an auxiliary drive from the main engine may be difficult or expensive.
+Whilst gear, vane or piston hydraulic pumps can be used with these units, they must not be fitted with any adaption for driving an outrigger pulley since the
+mounting provided is not designed to handle the side loads which this would entail.
+The clutched PTO unit available on the PRM1000 provides pump rotation in the same direction as the engine, whereas the clutched PTO for the PRM1500/1750
+and the direct drive PTO offered for the PRM500 and PRM750 provides rotation opposite to the engine.
+
+
+
+                                                                                  11
+Important Note – PRM1000/1500/1750 ONLY – PTO Retrofit
+- A soft shift valve is fitted as standard. When retro-fitting a clutch PTO this valve block assembly MUST be changed using the replacement valve block
+supplied with the PTO kit.
+- All hydraulic circuits driven by PRM Newage Ltd PTOs must be designed, installed and maintained in accordance with the hydraulic equipment
+manufacturer’s recommendations and be properly safeguarded against overloading.
+Angle Drives – PRM750A/1000A
+The angle drive assembly mounts on the front of the gearbox and provides a down angle on the output shaft of 8° on the PRM750, and of 10° on the PRM1000.
+It also reduces the centreline distance between the engine crankshaft and the gearbox output shaft.
+Note: If an angle drive is retro-fitted, the gearbox output rotation will be reversed, it will therefore be necessary to reverse the control lever movements to give the
+correct output rotation for ‘ahead’ or ‘astern’ (see page 8). The oil capacity also increases (see chart, page 6) and a replacement dipstick will have to be fitted.
+(See reference to pump position below).
+In-line – PRM260C/750C
+A factory fitted ‘step-up’ gearbox fitted to the main gearcase brings the output shaft on to the same centreline as the input shaft and reproduces the input shaft
+length and spline, the adaptor flange and the mounting pads used on certain competitors in-line gearboxes. For oil pump mounting positions, operating lever
+movements and output rotations (see pages 7 and 8).
+Trolling Valve – PRM260,280,500,750,1000,1500,1750
+A separate instruction leaflet is issued with each trolling valve.
+
+Fault Finding Chart
+          SYMPTOM                           CAUSE                                    REASON                                              REASON
+No drive ahead or astern         No oil pressure*                Damaged oil pump*                                   Replace oil pump*
+                                                                 Broken input coupling                               Replace coupling
+                                                                 Oil leaks                                           Check for evidence and rectify
+                                                                 Insufficient oil                                    Check level, top up as necessary
+Propeller speed does not         Low oil pressure to both        Damaged oil pump*                                   Replace oil pump*
+increase with engine             clutches*                       Remote control cable or linkage not allowing        Remove cable and operate lever by hand to
+speed, ahead and astern                                                                                              check movement.
+                                                                 F-N-R lever to move correct distance                Adjust cable if necessary
+                                                                 Pressure relief valve spring defective*             Remove valve block and replace spring*
+Propeller speed does not         Low oil pressure to one         Piston rings or feeder worn*                        Remove appropriate clutch shaft and replace
+increase with engine speed       clutch*                                                                             worn feeder or piston rings*
+in one direction only                                            Blocked oil strainer*                               Remove, clean and replace if necessary*
+                                                                 Damaged ‘O’ ring in hydraulic circuit*              Check ‘O’ rings in feeder connectors and
+                                                                                                                     piston; replace if necessary*
+                                                                 Blocked hydraulic passage in valve block*           Remove valve block, examine and clean*
+                                                                 Damaged clutch plates or clutch cones               Remove and examine clutch/clutch cone on
+                                                                 (PRM60/90/125)                                      appropriate shaft and replace if necessary
+
+
+
+                                                                                  12
+         SYMPTOM                          CAUSE                                  REASON                                    REASON
+Excessive noise from          Engine idle speed set too    Faulty adjustment                           Increase idling speed
+gearbox at low speeds         low
+                              Torsional vibration          Torsional incompatibility of elements in    If not cured by increasing engine idling speed,
+                                                           driveline                                   refer to engine supplier
+Excessive noise throughout    Defective input coupling     Input coupling worn or damaged              Remove, examine and replace if necessary
+operating range               operating range
+
+                              Propeller shaft              Hull flexing or faulty installation         Check the alignment of the propeller shaft
+                              misalignment                                                             coupling; if necessary rectify by adjusting the
+                                                                                                       shims under the engine mounts or the engine
+                                                                                                       mounts themselves
+Excessive vibration           Propeller out of balance     Propeller damaged or badly machined         Remove the propeller and check that the pitch,
+throughout operating range                                                                             weight, diameter and balance of all the blades
+                                                                                                       are equal and rectify if necessary
+                              Engine/gearbox               Faulty installation                         Remove the transmission and check that the
+                              misalignment                                                             flywheel face is flat and that the flexible input
+                                                                                                       coupling is aligned correctly
+                              Defective bearing            Bearing worn or damaged                     Isolate defective bearing, remove and replace
+Excessive oil temperature     Fault in cooling system*     Defective oil cooler*                       Replace oil cooler*
+                                                           Oil cooler too small*                       Fit larger capacity cooler*
+                                                           Defective pressure relief                   Remove and examine relief valve and replace
+                                                           valve*                                      of necessary*
+                                                           System blocked*                             Check and flush out oil cooler and hoses*
+                              Power too high               Oil pipes too small*                        Fit larger diameter hoses*
+                                                           Incorrect engine rating                     Re-assess engine power
+Oil level needs constant      Oil leaks                    Defective oil seal, sealant or ‘O’ ring     Clean the outside of the gearcase, particularly
+topping up                                                                                             around the ends of shafts including the output
+                                                                                                       shaft. Run the engine and inspect the gearbox
+                                                                                                       for leaks.
+                                                                                                       Replace seals as required
+                                                           Defective oil cooler or hoses*              Check for traces of water in the gearbox oil or
+                                                                                                       oil in the cooling water system. Replace cooler
+                                                                                                       or hoses as necessary
+Escape of high pressure       Defective breather causing                                               Contact distributor or factory for advice
+from gearbox when dipstick    leaks past oil seals
+is removed
+Difficulty in moving single   Faulty installation          Remote control operating cable kinked or    Check the installation and eliminate all tight
+lever control                                              frayed                                      bends in the cable
+* does not apply to PRM60/90/125
+        Important:
+        Warning: The above operations should be carried out by suitably qualified personnel and strictly in accordance with the procedures detailed
+        in the workshop manual. Before carrying out any service work always ensure that the engine is switched off and disconnect the operating
+        cable from the gearbox.
+                                                                             13
+Distributor Network
+ALBANIA                                       Marindustrial (div. Nadco)              Bladt Diesel
+Motomariner Ltd                               8550, Delmeade                          Bygmarken 7
+Milutin Barac 19                              Montreal                                6230 Rodekro
+51000 Rijeka                                  QC H4T1L7                               Tel: +45 40 31 82 41
+Tel: +385 (0) 51 685-444                      Tel: 514 342-2748                       Email: info@bladtdiesel.dk
+Fax:+385 (0) 51 685-433                       Fax: 514 342-6151                       Web: www.bladtdiesel.dk
+Email: motomariner@motomariner.hr             Email: info-quebec@marind.ca            EGYPT
+Web: www.motomariner.hr                       Web: www.marind.ca                      Ramco For Engineering And Marine Supply
+AUSTRALIA                                     Frontier Power Products Ltd             148 Semouha Garden City
+Marine Transmissions Australia                7983 Progress Way                       Alexandria
+6 Baldry Street                               Delta                                   Tel: +20 (0)3 4253155
+Brighton                                      BC V4G1A3                               Fax: +20 (0)3 4253033
+Brisbane                                      Toll Free: 1-877-946-5531               Email: ramcomarine@hotmail.com
+Queensland 4017                               Tel: 604 946-5531                       ENGLAND
+Australia                                     Fax: 604 946-8524                       A.R. Peachment
+Tel: +61 (0)73 869 3242                       Email: sales@frontierpower.com          Riverside Estate
+Fax: +61 (0)40 819 4131                       Web: www.frontierpower.com              Brundall
+Email: wjordan@bytesite.com.au                CHANNEL ISLANDS                         Norwich NR13 5PL
+Web: http://www.marinetransmissions.com.au/   Herm Seaway Marine                      Tel: 01603 714077
+BELGIUM & LUXEMBOURG                          Castle Emplacement                      Fax: 01603 712211
+Dintra Transmisses VOF                        St. Peter Port                          Email: sales@peachment.co.uk
+Keizerswoert 30                               Guernsey GY1 1AU                        Web: www.peachment.co.uk
+3881 Le Putten                                Tel: +44 (0) 1481 726829                A.S.A.P. Supplies Ltd
+Netherlands                                   Fax: +44 (0) 1481 714011                Reed House
+Tel: +31 (0)3413 53712/57308                  Email: hermsea@gtonline.net             8b Ellough Industrial Estate
+Fax: +31 (0)3413 60046                        CHILE                                   Beccles
+Email: info@dintra.nl                         Distribuidora Perkins Chilena S.A.C.    Suffolk NR34 7TD
+Web: www.dintra.nl                            Av. Colorado No 641                     Tel (UK) 0845 1300 870
+BOSNIA AND HERZEGOVINA                        Santiago                                Tel (International): +44 (0) 1502 716993
+Motomariner Ltd                               Tel: +56 (0)2 620 3700                  Fax: 0800 316 2727
+Milutin Barac 19                              Fax: +56 (0)2 739 1818                  Email: prm@asap-supplies.com
+51000 Rijeka                                  Email: diperk@diperk.cl                 Web: www.asap-supplies.com
+Tel: +385 (0) 51 685-444                      Web: www.diperk.cl                      Calcutt Boats
+Fax: +385 (0) 51 685-433                      CROATIA                                 Tomlow Road
+Email: motomariner@motomariner.hr             Motomariner Ltd                         Stockton
+Web: www.motomariner.hr                       Milutin Barac 19                        Southam CV47 8HX
+BULGARIA                                      51000 Rijeka                            Tel: 01926 813 757
+Genesis Industrial Ltd                        Tel: +385 (0) 51 685-444                Fax: 01926 814 091
+39 Morska Sirena Str.                         Fax: +385 (0) 51 685-433                Email: boats@calcuttboats.com
+9002 Varna, Bulgaria                          Email: motomariner@motomariner.hr       Web: www.calcuttboats.com
+Tel: +359 52 610234                           Web: www.motomariner.hr                 Engines Plus
+Fax: +359 52 610234                           CYPRUS                                  Unit F
+CANADA                                        Char. Pilakoutas Ltd.                   The Aquarius Centre, Edison Cl
+Marindustrial Ontario Inc                     P.O. Box 1168                           Quedgley
+2320 Bristol Circle                           7 Larnaca Road                          Gloucestershire GL2 2FN
+Unit 8 Oakville                               Nicosia                                 Tel: 01452 729707
+Ontario L6H 5S3                               Tel: +357 (0)2 34912/349572             Fax: 01452 725194
+Tel: 905 829-3004                             Fax: +357 (0)2 430294                   Email: sales@enginesplus.co.uk
+Email: info-ontario@marind.ca                 Email: matheos@pilakoutasgroup.com.cy   Web: www.enginesplus.co.uk
+Web: www.marind.ca                            Web: www.pilakoutas-industrial.com      Golden Arrow Marine
+Marindustrial Inc.                            DENMARK                                 Unit 17 Shamrock Quay
+80, Harrisville Blvd. Unit                    BU Power Systems Denmark ApS            William Street
+Moncton                                       Ove Gjeddes Vej 23                      Southampton SO14 5QH
+NB E1H3N4                                     5220 Odense SOE                         Tel:023 8071 0371
+Tel: 506 852-3332                             Phone Number: +65 560 560               Fax: 023 8071 0671
+Fax: 506 857-8484                                                                     Email: sales@goldenarrow.co.uk
+Email: info-atlantic@marind.ca                                                        Web: www.goldenarrow.co.uk
+Web: www.marind.ca
+
+
+                                                                    14
+Lancing Marine                        GREECE                                Web: www.marinetechnologies.it
+51 Victoria Road                      Lelis Diesel Marine                   LATVIA
+Portslade                             15 Retsina Street                     Varmaa SIA
+Sussex BN4 1XP                        Pireus                                Zemturi
+Tel: 01273 410025 / 411765            Tel: +30 210 41 27 754                Kekavas novads
+Fax: 01273 430290                     Fax: +30 210 41 10 166                LV-2111, Latvia
+Email: mark@lancingmarine.com         Email: info@lelisdieselmarine.com     Tel: 00371 67 409500
+Web: www.lancingmarine.com            Web: www.lelisdieselmarine.com        Fax:00371 67 409506
+Marinemart                            ICELAND                               Email: info@varmaa.lv
+Century Park Industrial Estate        GO - ON ehf                           Web: www.varmaa.lv
+Ballin Road                           Reykjavíkurvegur 68
+Nuneaton                              IS-220 Hafnarfjörður                  MALDIVES
+Warwickshire CV10 9GA                 Tel: +354 566 6200                    Marketech Maldives Pvt. Ltd.
+Tel: 024 7639 0111                    Fax: +354 566 6262                    M. Iramaa
+Fax: 024 7639 0110                    Email: goon@goon.is                   1st Floor, Fareedhee Magu
+                                      Web: www.goon.is                      Male
+Mermaid Marine                                                              Maldives
+14 - 17 The Mews                      INDIA                                 Tel: +960 333 1911
+West Quay Road                        Vinayak Ventures                      Fax:+960 332 0471
+Poole                                 81, Defence Officers Colony           Email:info@marketechmaldives.com
+Dorest BH15 1JD                       Ekkatuthangal                         Web: www.marketechmaldives.com
+Tel: 01202 677776                     Chennai
+Fax: 01202 677777                     India - 600 032                       MALTA
+Email: engines@mermaid-marine.co.uk   Tel/Fax: +91 (0)44 22326679           Leonard Bugeja
+Web: www.mermaid-marine.co.uk         Tel/Fax: +91 (0)44 22336325           29 Main Street
+                                      Email: vinayakv1@dataone.in           Rabat RBT1015
+FAROE ISLANDS                                                               Tel: +365 2145 4120
+KJ Hydraulik                          Lourenco Marine                       Fax: +365 2145 0302
+Fagralid 1                            S20, First Phase                      Email: leobugeja@hotmail.com
+FO-530 Fuglafjordur                   Verna Industrial Estate
+Faroe Islands                         Verna                                 MONTENEGRO
+Tel: +298 40 70 00                    Salcette                              Motomariner Ltd
+Fax: +298 40 70 01                    Goa - 403 722                         Milutin Barac 19
+Email: viggo@kj.fo                    Tel: +91 832 2887357                  51000 Rijeka
+Web: www.kj.fo                        Tel: +91 832 6480302                  Tel: +385 (0) 51 685-444
+                                      Fax: +91 832 2887358                  Fax: +385 (0) 51 685-433
+FINLAND                                                                     Email: motomariner@motomariner.hr
+Mepratuote Oy                         Email: sales@lourencomarine.com
+                                      Web: www.lourencomarine.com           Web: www.motomariner.hr
+Kaviokuja 8
+FIN-20380 Turku                       AVTEC Limited                         NETHERLANDS
+Tel: +358 (0)2 2750 111               Punapalli Village                     Dintra Transmissies VOF
+Fax: +358 (0)2 2750 120               Hosur 635114                          Keizerswoert 30
+Email: info@mepratuote.fi             Tamil Nadu                            3881 LE
+Web: www.mepratuote.fi                Tel: +91 4344 405242                  Putten
+                                      Email: coporate@avtec.in              Tel: +31 (0) 341 353712 / 357308
+FRANCE                                                                      Fax: +31 (0) 341 360046
+I.D.S.                                INDONESIA                             Email: info@dintra.nl
+Rue des Chantiers Crucy               Marunda Utama Engineering Pte. Ltd.   Web: www.dintra.nl
+44100 Nantes                          17 Kaki Bukit Industrial Terrace
+Tel: +33 2 40 95 95 30                Singapore 416098                      NEW ZEALAND
+Fax: +33 2 40 95 95 34                Tel: +65 6749 6888                    Moon Engines Ltd
+Email: sramadour@sa-ids.fr            Fax: +65 6749 2198                    606 Rosebank Rd
+                                      Email: marunda@singnet.com.sg         Avondale
+GERMANY                                                                     Auckland
+Dintra Transmissies VOF               Web: www.marunda.com.sg
+                                                                            New Zealand 1026
+Keizerswoert 30                       ITALY                                 Tel: +64 (0)9 828 3524
+Netherlands                           Scandiesel S.r.l.                     Email: info@prmmarinetransmissionsaustralasia.com
+Tel: +31 (0)3413 53712/57308          Via Possessione, 25                   Web: www.prmmarinetransmissionsaustralasia.com
+Fax: +31 (0)341 360046                28100 - NOVARA
+Email: info@dintra.nl                 Italy                                 NORWAY
+Web: www.dintra.nl                    Tel: +39 348 221 3126                 Møre Båtservice AS
+                                      Fax: +39 0321 637227                  Garverigt. 10
+                                      Email: a.origo@scandiesel.it          6507 Kristiansund
+                                                                            Tel: +47 (0)71587730
+                                                                            Fax: +47 (0)71587739
+                                                                            Email: post@baatservice.com
+                                                                            Web: www.baatservice.com
+
+                                                            15
+PORTUGAL                                 SERBIA                                U.A.E.
+Motope                                   Motomariner Ltd                       Teignbridge Propulsion Gulf, LLC
+Rua da Vitoria 88-3                      Milutin Barac 19                      Warehouse 122
+Apartado 2565                            51000 Rijeka                          Gate No. 2
+1114-801 Lisbon                          Tel: +385 (0)51 685-444               Al Jadaf Ship Dockyard
+Tel: +351 (0)213 427 195                 Fax: +385 (0)51 685-433               P.O. Box 17065
+Fax: +351 (0)213 471 840                 Email: motomariner@motomariner.hr     Dubai
+Email: jsantos@motope.pt                 Web: www.motomariner.hr               Tel: +971 4 3240084
+Web: www.motope.pt                       SINGAPORE                             Fax: +971 4 3240153
+POLAND                                   Marunda Utama Engineering Pte. Ltd.   Email: teignpro@emirates.net.ae
+Techbud Sp. z o.o.                       17 Kaki Bukit Industrial Terrace      USA
+ul. Gorzowska 12                         Singapore 416098                      Atlantis Marine Gear Supply Inc.
+65-127 Zielona Góra                      Tel: +65 6749 6888                    418 Boston St.
+Tel: +48 (0)68 470 72 62                 Fax: +65 6749 2198                    Topsfield
+Fax: +48 (0)68 470 72 51                 Email: marunda@singnet.com.sg         Massachusetts 01983
+Email: sebastian.mrowcznski@techbud.eu   Web: www.marunda.com.sg               Tel: +1 978 887-0001
+Web: www.techbud.eu                      SOUTH AFRICA                          Fax: +1 978 887-5599
+REPUBLIC OF IRELAND                      Power Torque (Pty) Ltd                Email: sales@amgs.com
+T.M. Marine                              773 5th Street                        Web: www.marinetransmissions.com
+Bunninassa Dromod P.O.                   Wynberg, Sandton                      Transmissions Marine Inc.
+Carrick-On-Shannon                       P.O. Box 448                          223 Southwest 33 Court
+Co. Leitrim                              Bergvlei 2012                         P.O. Box 21086
+Tel: +353 (0) 371963 8041                Tel: +27 (0)11 786 4247/9             FT. Lauderdale
+Fax: +353 (0) 371963 8550                Fax: +27 (0)11 440 1547               FL. 33335-1086
+Email: tmmarine@eircom.net               Email: info@powertorque.co.za         Tel: +1 954 467-1540
+Charles Featherstone                     Web: www.powertorque.co.za            Fax: +1 954 467 1525
+Avalon                                   SPAIN                                 Email: sales@marinegears.com
+4 Greenhill Road                         Clamp España S.L.                     Web: www.marinegears.com
+Wicklow Town                             Calle Morales 10, Bajo                ZIMBABWE
+Co. Wicklow                              28410 Manzanares el Real (Madrid)     Triple Solutions
+Tel/Fax: +353 (0) 404 61516              Tel: +34 91 853 03 48                 46 Cresta Road
+Email: charlesfeatherstone@gmail.com     Fax: +34 91 853 99 11                 Southerton
+RUSSIA                                   Email: noelsans@clamp.es              Harare
+Perpetuum Mobile Ltd.                    Web: www.clamp.es                     Tel: +263 (0) 429074 13
+125 445 Russia, Moscow                   SWEDEN                                Email: customer.services@triplesolutionsltd.com
+Ul. Smolnaya 24A                         Dintra AB                             Web: www.triplesolutionsltd.com
+Tel: +7 495 967 3307                     Norra Sanna 401
+Fax: +7 495 967 3308                     655 91 Karlstad
+Email: generator@generator.ru            Tel: +46 (0) 545 278 282
+Web: www.generator.ru                    Fax: +46 (0) 73050 56 04
+                                         Email: info@dintra.se
+SCOTLAND                                 Web: www.dintra.se
+DDZ Marine Ltd.
+Largs Yacht Haven                        SWITZERLAND (DEALER)
+Irvine Road                              M.Knoepfli
+Largs KA30 8EZ                           Wiesackerstrasse 128
+Tel: 01475 686072                        CH 8105 Regensdorf ZH
+Fax: 01475 672887                        Tel: +41 (0)44 840 6221 (sales)
+Email: sales@ddzmarine.com               Tel: +41 (0)44 840 6214 (technical)
+Web: www.ddzmarine.com                   Tel: +41 (0)44 840 6213 (workshop)
+                                         Email: info@m-knoepfli.com
+Ecodrive Transmissions Limited           Web: www.m-knoepfli.com
+Unit 3A, 2 Burntbroom Court
+Queenslie Industrial Estate              TURKEY
+Glasgow G33 4DZ                          Kadek
+Tel: 0141 774 0808                       1580/2 Sokak 4/A
+Fax: 0141 774 3999                       Mersinli
+Web: www.ecodrive.co.uk                  Izmir
+                                         Tel: +90 (0)232 461 27 32
+                                         Tel: +90 (0)232 461 68 61
+                                         Fax: +90 (0)232 435 35 59
+                                         Email: info@kadek.com.tr
+                                         Web: www.kadekticaret.com
+
+
+                                                               16
+Maintenance Record
+Record your gearbox details here:
+
+Oil Changed
+                    DATE                                             DATE                                             DATE                           DATE   DATE
+
+
+
+
+MODEL NUMBER ...................................................................................................
+
+SERIAL NUMBER . ..................................................................................................
+
+RATIO ......................................................................................................................
+
+DATE OF PURCHASE .............................................................................................
+
+FIRST OPERATED ...................................................................................................
+
+DISTRIBUTOR/WHERE PURCHASED ....................................................................
+
+Service Record
+                    DATE                                                                                                       Service Carried Out
+
+
+
+
+Warranty:- PRM Newage Ltd warrants to engine manufacturers and to PRM Newage Ltd distributors that all PRM marine gearboxes manufactured by
+PRM Newage Ltd will be free from defects in material and workmanship under normal use and service for the period as follows:-
+Twenty four months from date of despatch from PRM Newage Ltd.
+This warranty does not apply to any gearbox or part that has been subject to misuse, negligence, damage, improper maintenance, incorrect storage
+or use beyond rated capacity.
+Notes
+
+
+
+
+                    Issue: 1
+        Date: November 2016
+PRM Newage Ltd, Barlow Road, Coventry, CV2 2LD, England
+T: +44 (0)24 7661 7141 | F: +44 (0)24 7661 1845 | E: mail@prm-newage.com | W: www.prm-newage.com
+

@@ -100,3 +100,53 @@ please remove the tmp subdirectory - the images from it are already under "image
 Please make sure to have in hte GUIDE a page which in one place lists:
 the exact model we have
 the exact manuals - and whether they are available in "resources" or not, and if not - then where they are available
+
+
+I have downloaded the file:
+
+resources/spwm-Perkins-Engine-1004-42-Parts-Manual-AR81148.pdf
+
+Please rename it as necessary and reference it in the GUIDE 
+
+---------------------------------------
+
+You have recommended using a smartphone mobile app to download the book.
+
+Is there any way to download from the website using a laptop?
+
+Yes, https://myengine.perkins.com
+
+Please add link https://myengine.perkins.com
+into the GUIDE
+
+---------------------------------------
+
+Some of the docs in "resources" directory are not really for marine purposes - but for tractors, etc.
+
+Please try to find on the web documents which are specific for the marine use.
+
+Also please move documents which are not very relevant into subdirectory resources/_more_resources/ 
+
+Please update all references to these docs.
+
+Also some documents exist in two formats - pdf and txt. Please move txt files into the subdirectory resources/_txt_versions/ - and fix all references to them (if any).
+
+---------------------------------------
+
+Why txt versions exist for only 3 files?
+
+---------------------------------------
+
+Please OCR the PDFs which don't have text layer - but save as copies including the word "OCR" in the names of the files
+
+---------------------------------------
+
+Please update the GUIDE with information of _txt_versions and with warning that OCR files may contain errors
+
+---------------------------------------
+
+
+---------------------------------------
+
+
+---------------------------------------

@@ -1,0 +1,1263 @@
+Section Ca.6
+DESCRIPTION OF THE FUEL INJECTION PUMP
+   The injection pump is a single-cylinder, opposed-
+plunger, inlet-metering, distributor-type pump fitted
+with a mechanical flyweight-type governor and a hydrau-
+lically operated automatic advance mechanism. The
+pump is flange-mounted on the rear of the engine front
+mounting plate and is driven by the timing chain. A
+splined quill shaft, having a master spline at each end
+
+
+
+
+                         Fig. Ca.l
+               Main fuel filter air bleed points
+ 1. Fuel cut-off tap.   2. Blanking plug.      3. Union screw.
+                                            Taxi. Issue 2. 55430
+                 THE FUEL SYSTEM (Distributor-type Injection Pump)                                                 Ca
+                                                              close fit, in the stationary hydraulic head. The pumping
+                                                              section of the rotor has a transverse bore containing
+                                                              twin opposed pumping plungers. These plungers are
+                                                              operated by means of a cam ring, carried in the pump
+                                                              housing, through rollers and shoes which slide in the
+                                                              rotor. The cam ring has four internal lobes operating
+                                                              in diagonally opposite pairs. The opposed plungers have
+                                                              no return springs but are moved outwards by fuel under
+                                                              pressure from the transfer pump, the flow of fuel and
+                                                              outward displacement of the plungers being determined
+                                                              by the setting of the metering valve and the speed at
+                                                              which the pump is rotating. As a result the rollers, which
+                                                              operate the plungers, do not follow the contour of the
+                                                              internal cam ring entirely, but will contact the cam lobes
+                         Fig. Ca.2
+                                                              at points which will vary according to the amount of
+           Fuel injection pump air bleed points               plunger displacement.
+ 1. Union nut.    2. Air bleed screw.   3. Air bleed screw.
+                                                                The automatic light load advance mechanism operates
+                                                              by rotating the cam ring within the pump body. A ball-
+                                                              ended lever, screwed into the cam ring, is operated by
+to ensure correct location, transmits the drive from the      a piston, one side of which is spring-loaded, sliding in a
+chain wheel to the injection pump drive hub.                  cylinder. The other side of the piston is subjected to fuel
+   A central rotating member forms the pumping and            at transfer or drain pressure, according to engine load,
+distributing rotor, and this is driven by the drive hub       which is admitted to the cylinder through the hollow
+through a splined drive shaft on which is mounted the         locating bolt and a port in the cylinder wall. The pressure
+governor flyweight assembly.                                  of fuel is controlled by the rotary and endwise movement
+   Mounted on the outer end of the pumping and                of the metering valve.
+distributing rotor is a sliding-vane-type transfer pump.         Machined in the surface of the metering valve is a
+This pump raises the fuel pressure to an intermediate         helical groove. A vertical flat extends upwards from the
+level, and as its capacity is many times the maximum          helical groove and protrudes beyond the hydraulic head.
+requirements of the injection pump a regulating valve,
+housed in the pump end plate, allows excess fuel to be
+by-passed back to the suction side of the transfer pump.
+                                                                            A                            B
+   The pressure regulating valve, in addition to regulating
+the pressure of the fuel from the transfer pump, also
+provides a means of by-passing the transfer pump when
+priming the injection pump. Referring to Fig. Ca.3, it
+will be seen that the valve is cylindrical and contains
+a small ‘free’ piston, the travel of which is limited by
+two light springs. When priming the injection pump, fuel
+at lift pump pressure enters the central port in the
+regulatingvalve sleeve and moves the ‘free’ piston against
+the pressure of the piston retaining spring to uncover the
+priming port in the lower end of the valve sleeve. The
+priming port is connected by a passage in the end plate
+to the delivery side of the transfer pump, thus enabling
+the fuel to by-pass the stationary transfer pump and
+prime the injection pump.
+   When the injection pump is in operation fuel at transfer
+pressure enters the lower end of the valve sleeve, forcing
+the ‘free’ piston upwards against the regulating spring.
+As the engine speed increases, the transfer pressure rises,                            Fig. Ca.3
+moving the piston against the pressure of the regulating           Section through the end plate and regulating valve
+spring to progressively uncover the regulating port in        A. Priming.                     7. Regulating piston.
+the valve sleeve and allow a metered flow of fuel to by-      B. Regulating.                  8. Piston retaining spring.
+pass back to the inlet side of the transfer pump.             1. Inlet connection.            9. Fuel passage to transfer
+   The transfer pressure, therefore, is controlled by a       2. Sleeve retaining spring.        pump inlet.
+balance between the regulating spring pressure and the        3. Nylon filter.               10. Regulating port.
+                                                              4. Sleeve guide plug.          11. Fuel passage to transfer
+requirements of the injection pump at any moment.             5. Regulating spring.              pump outlet.
+   The pumping and distributing rotor revolves, and is a      6. Regulating sleeve.
+Taxi. Issue2. 3125                                                                                                   Ca.5
+Ca                THE FUEL SYSTEM (Distributor-type Injection Pump)
+
+
+
+
+                                                          Fig. Ca.4
+                                            Section through the fuel injection pump
+       1. Back-leakage connection.               5. Transfer pump.                     9. Pumping plunger.
+       2. Governor spring.                       6. Hydraulic head.                   10. Drive plate.
+       3. Metering valve.                        7. Cam ring.                         11. Governor weight assembly.
+       4. End plate and regulating valve.        8. Automatic advance device.         12. Quill shaft.
+
+
+
+This flat is open to fuel at drain pressure in the governor          The under side of the metering valve is subject to fuel
+housing.                                                          at transfer pressure which tends to force the valve
+   In the surface at the lower end of the metering valve is       upwards. This upward movement of the valve is con-
+machined a flat, the upper edge of which is of the same           trolled by an adjustable stop screw, which sets the
+pitch as the helical groove. This flat is open to fuel at         relative positions of the helical groove, the flat on the
+transfer pressure.                                                lower end of the valve, and the timing port so that light-
+   The width of the land between the helical groove and           load advance is obtained at the required engine speed.
+the flat at the lower end of the metering valve is slightly          Machined on each lobe of the cam ring, immediately
+less than the diameter of the timing port in the metering         after the peak of the cam, is a retraction curve. Under
+valve chamber in the hydraulic head. The timing port,             running conditions, when the injection cycle is completed
+which is situated opposite the metering port, is connected        the distributing port in the rotor and the outlet port on
+by a passage in the hydraulic head and the hollow                 the hydraulic head are still in partial alignment with
+locating bolt to the port in the advance cylinder.                each other. As the plunger rollers move off the peaks of
+   When the metering valve is in the full-load position           the cams the retraction curves allow the plungers to
+the helical groove in the valve is aligned with the timing        move slightly outwards. This movement of the plungers
+port in the hydraulic head and fuel at drain pressure is          effects a sudden reduction of pressure in the injection
+applied to the advance piston. As the drain pressure is           line, so preventing secondary injection and allowing the
+insufficient to overcome the piston spring pressure the           injector nozzle needle valve to snap onto its seating to
+cam ring is held in the fully retarded position.                  terminate the spray of fuel into the combustion chamber
+   Under light-load conditions the metering valve is              without ‘dribble’. When starting the engine the metering
+moved to the low fuelling position, aligning the flat at          valve is in the full-load position and the advance piston
+the lower end of the metering valve with the timing port.         is subject to fuel at drain pressure. As drain pressure is
+The advance piston is now subject to fuel at transfer             not sufficient to overcome the pressure of the advance
+pressure, and the piston and cam ring move to the fully           piston return spring, the piston and the cam ring remain
+advanced position.                                                in the fully retarded position.
+Ca.6                                                                                                      Taxi. Issue 2. 3125
+                  THE FUEL SYSTEM (Distributor-type Injection Pump)                                                   Ca.
+   The distributor part of the rotor has a central axial
+passage which connects the pumping space between the
+plungers with the four inlet ports and single distributing
+port drilled radially in the rotor. The radial hole at the
+outer end of the rotor is the distributing port, and, as
+the rotor turns, this port is aligned successively with
+the outlet ports in the hydraulic head, from which the
+injectors are fed via external high-pressure pipes. The
+inlet or charging ports are equally spaced around the
+rotor at an intermediate position, and, as the rotor turns,
+these are aligned successively with the inlet or metering
+port in the hydraulic head. This port admits fuel to the
+rotor under control of the metering valve, which is
+mechanically governed.
+   The mechanical governor is of the flyweight type, the
+weights being held in a retainer, which is clamped
+between the injection pump drive hub and the drive
+shaft and rotates with these components as a single unit.
+The weights are a sliding fit in the retainer pockets and
+are so shaped that, when under the influence of centri-
+fugal force, they pivot about one edge. A thrust sleeve,
+which is a sliding fit on the injection pump drive shaft,                              Fig. Ca.6
+is moved axially by the flyweights. Movement of the                              Mechanical governor
+thrust sleeve is transmitted by means of the governor            1. Governor weight.          9.   Metering port.
+arm and the spring-loaded hook link to rotate the                2. Governor arm.            10.   Metering valve,
+metering valve. The governor arm pivots about a fulcrum          3. Shut-off bar.            11.   Timing port.
+on the control bracket and is held in contact with the           4. Shut-offshaft.           12.   Control bracket.
+thrust sleeve by spring tension. Connection between the          5. Idling spring.           13.   Drive shaft.
+                                                                 6. Governor spring.         14.   Thrust sleeve.
+governor arm and the throttle arm and shaft assembly is          7. Throttle shaft.          15.   Weight retainer.
+made through the governor spring and the idling spring           8. Linkage hook.
+and its guide.
+   A shut-off bar, operated by an external lever, rotates
+the metering valve to close the metering port.
+                                                                 The metering valve is provided with a vertical slot
+                                                              along which fuel passes at transfer pressure into the
+                                                              metering port. The valve is situated in a chamber in the
+                                                              hydraulic head, into which the diagonally drilled metering
+                                                              port opens, and rotation of the valve varies the effective
+                                                              area of the metering port to regulate the flow of fuel to
+                                                              the pumping and distributing rotor.
+                                                                 When the throttle arm is moved to give increased
+                                                              speed, the light idling spring is compressed as the guide
+                                                              is drawn through the governor arm and the governor
+                                                              spring is tensioned. Tension of the governor spring acting
+                                                              upon the governor arm and thrust sleeve resists move-
+                                                              ment of the governor flyweights. As the engine speed
+                                                              increases, the increasing centrifugal force moves the
+                                                              flyweights outwards, overcoming the governor spring
+                                                              tension to move the governor arm and the metering
+                                                              valve towards the closed position. When the selected
+                                                              speed has been attained it will be maintained by governor
+                                                              action. Should the engine speed fall, the flyweights will
+                                                              move inwards, causing an increase of fuelling which
+              A
+                                                              restores the selected engine speed.
+                                                                 When the throttle arm is in the idling position the
+       .                  Fig. Ca.5                           governor spring is untensioned and governing action is
+                  Light-load advance device                   controlled by the light idling spring.
+ A.   Full load.               1. Transfer pressure.             In operation fuel at lift pump pressure enters the pump
+ B.   Low load.                2. To pumping element.         through the connection on the pump end plate and passes
+Taxi. Issue2. 81968                                                                                                  Ca.7
+Ca               THE FUEL SYSTEM (Distributor-type Injection Pump)
+                                                                                            ~~               ~
+
+
+
+
+through a fine nylon gauze filter to the inlet side of the                                           1
+transfer pump.
+   From the transfer pump the fuel passes through a
+ passage in the hydraulic head to an annular groove
+surrounding the rotor, and thence to the metering valve.
+The position of the metering valve depends upon the
+                                                              A
+setting of the throttle arm which varies the governor
+spring pressure on the governor arm. Any variation in
+pump speed is accompanied by an increase or decrease
+in transfer pressure, which assists in regularing the flow
+of fuel into the pumping section of the rotor. The
+volume of fuel passing into the pumping element is thus
+controlled by the transfer pressure, the position of the
+metering valve, and the time during which an inlet port
+in the rotor is aligned with the metering port in the
+hydraulic head.                                                B
+   When one of the rotor inlet ports is aligned with the
+metering port in the hydraulic head, fuel at metering
+pressure flows into the rotor and forces the pumping
+plungers apart, the amount of plunger displacement
+being governed by the quantity of fuel which can flow                                      Fig. Ca.8
+into the rotor while the ports are aligned. As the rotor                               The injection cycle
+turns, the inlet port is cut off and the pump plungers
+begin to be forced inwards by their rollers bearing on a        A.   Inlet stroke.        2. Pumping and distributing rotor.
+                                                                B. Injection stroke.      3. Pumping plungers.
+pair of cam lobes. This causes an immediate rise in             1. Fuel inlet.            4. Fuel to injector.
+pressure,,and as the single distributor port in the rotor
+comes into register with an outlet port in the hydraulic      engage eccentric slots in the top and bottom adjusting
+head the plungers force the fuel up the central bore of       plates. Two lugs on the top adjusting plate engage slots
+the rotor and out to the respective injector.                 in the bottom adjusting plate to locate the plates one to
+   The maximum amount of fuel delivered at one charge         the other.
+is controlled by limiting the maximum outward move-             The top adjusting plate is’clamped to the rotor by
+ment of the plungers. In Fig. Ca.7 is shown an end-on         the drive plate, the adjusting plate being cut away in
+view of the rotor, and it will be seen that the cam rollers   the areas of the drive plate securing screws to permit
+are carried in shoes which bear against the ends of the       adjustment of the plates by rotation. The maximum out-
+plungers. The roller shoes, which slide in slots in the       ward travel of the pump plungers is limited by the ‘ears’
+rotor, have specially shaped projecting ‘ears’ which          of the roller shoes coming into contact with the curved
+                                                              slot sides in the adjusting plates. As the slots are eccentric.
+                                                              rotation of the adjusting plates relative to the rotor
+                                                              provides a means of adjusting the maximum plunger
+                                                              stroke.
+
+                                                              Section Ca.7
+                                                                  REMOVING AND REPLACING THE FUEL
+                                                                                INJECTION PUMP
+                                                                 Thoroughly clean the outside of the injector pump
+                                                              body, and then disconnect the throttle, stop and kick-
+                                                              down (if fitted) controls. Disconnect the fuel feed and
+                                                              return pipes from the pump.
+                                                                 Disconnect the high pressure pipes from the pump and
+                                                              the injectors, remove the clamp and damper bushes and
+                                                              detach the pipes individually from the engine. Seal the
+                                                              pump outlet unions with sealing caps 18G 216 to prevent
+                                                              the ingress of foreign matter.
+                      Fig. Ca.7                                  Unscrew the three nuts with plain washers securing the
+                Maximum fuel adjustment                       injection pump flange to the rear of the engine front plate
+ 1. Top adjusting plate.       4. Pumping end of rotor.       and draw the pump rearwards to disengage it from the
+ 2. Roller shoe ear.           5. Pumping plunger.            engine. Withdraw the quill shaft from inside the injection
+ 3. Roller.                                                   pump chain wheel hub.
+Ca.8                                                                                                     Taxi. Issue 3. 94241
+                  THE FUEL SYSTEM (Distributor-type Injection Pump)
+   Before replacing the fuel injection pump it is necessary         Place a new joint washer in position on the engine front
+to set the static injection timing.                              plate and offer up the injection pump to the engine.
+   To ensure correct timing relationship between the             Engage the pump drive hub with the quill shaft and
+injection pump and the engine the injection pump driving         retain the pump in position by fitting the securing nuts
+hub, the quill shaft, and the driving flange of the injection    and washers finger tight. Rotate the injection pump to
+pump chain wheel are provided with master splines; also,         align the timing mark on the pump mounting flange
+a timing mark, is scribed on the fuel injection pump             with the timing pointer. Tighten the three nuts to secure
+mounting flange and an adjustable timing pointer is              the injection pump in this position.
+secured to the flange of the chain wheel hub.                       Refit the high-pressure pipes, and the fuel feed and
+    Before fitting the injection pump to the engine the          drain pipes. Connect the throttle and shut-off controls
+position of the timing pointer on the flange of the chain        and ensure that both controls have their full range of
+wheel hub should be checked, using timing gauge                  movement.
+ 18G 698, and reset if necessary.                                   Bleed the fuel system as described in Section Ca.5.
+    A degree plate, fitted to the crankshaft pulley, with a
+corresponding pointer on the timing case, is provided to         Maximum and idling speed adjustments
+facilitate ease of timing.                                          After fitting either a new or overhauled injection pump
+    Initial adjustment of the injection timing is provided for   the engine maximum light running speed and the idling
+in the injection pump driving flange, the holes for the          speed must be checked, and adjusted if necessary. Before
+bolts which secure it to the chain wheel being elongated.        making either of these adjustments it is imperative that
+    Crank the engine until the appropriate timing mark           the engine air cleaner is correctly serviced and fitted.
+coincides with the timing groove on the crankshaft                  Run the engine until it has attained its normal running
+pulley. Ensure that No. 1 piston is on its compression           temperature-thisis most important. Ensure that the shut-
+stroke.                                                          off control is in the fully open position and remove the
+    Remove the injection pump chain wheel cover-plate            locking sleeve from the maximum speed adjusting screw.
+ From the front of the timing chain case and note the               Using a tachometer to check the engine speed, adjust
+ position of the master spline in the pump driving flange,       the maximum speed stop screw to give a maximum light
+ which should now be in the seven o’clock position as            running speed of 3,700 r.p.m., thus giving a maximum
+ seen-from the front of the engine.                              road governed speed of 3,500 r.p.m. Tighten the locknut.
+    Insert injection timing gauge 18G 698 through the            Fit the locking sleeve and seal it with wire and a lead
+ chain wheel hub, engaging the splined end of the gauge          seal, using sealing pliers 18G 541.
+ with the internal splines of the pump driving flange. The         Adjust the idling stop screw to give an idling speed of
+ master spline will allow the gauge to engage the driving        600 r.p.m. and tighten the locknut.
+ flange in one position only. Turn the gauge by hand
+ (undue force is not necessary) in a clockwise direction,
+ as seen from the rear of the engine, to take up any
+backlash in the injection pump drive mechanism. Hold             Section Ca.8
+ the gauge in this position, slacken the two securing
+                                                                    DISMANTLING AND REASSEMBLING THE
+ screws, and move the timing pointer to align it with the
+                                                                              FUEL INJECTION PUMP
+ slot on the edge of the gauge. Should the movement
+ required to line up the timing pointer be appreciable,            Dismantling and servicing of the fuel injection pump
+then initial adjustment should be made by altering the           should only be carried out by specially trained personnel,
+position of the injection pump driving flange relative to
+the chain wheel. This adjustment is made by slackening
+the four bolts securing the driving flange to the chain
+wheel and carefully turning the driving flange the
+required amount by means of the timing gauge. Tighten
+the driving flange securing screws and carry out final
+adjustment of the timing pointer as described previously
+and then remove the timing gauge.
+   NOTE.-After every occasion of injection pump re-
+moval or attention to the crankshaft, camshaft, and timing
+gear the position of the timing pointer should be checked,
+and reset, if necessary, as described above.
+   Fit the injection pump quill shaft into the driving
+flange.
+   Rotate the injection pump drive hub and position the
+master spline in the drive hub at seven o’clock, when
+                                                                                        Fig. Ca.9
+looking on the drive end of the pump. This will facilitate
+the engagement of the quill shaft splines with the drive           Checking the position of the injection pump timing
+hub.                                                                      pointer, using timing gauge 18G 698
+Taxi. Issue 6. 83137                                                                                                   Ca.9
+Ca              THE FUEL SYSTEM (Distributor-type Injection Pump)
+
+and the Service tools and special test equipment referred    slide washer, and piston from inside the advance device
+to in the following instructions should be available. The    housing. Remove and discard the ‘O’ seals from the
+workshop in which these operations are carried out           spring cap and end plug.
+should be absolutely clean and the atmosphere free from         Slacken the fuel inlet connection and then remove the
+dust or dirt. It is also recommended that components         screws and studs securing the end plate to the hydraulic
+are immersed in clean Shell Calibration Fluid ‘C’            head. Carefully remove the carbon vanes from their slots
+immediately after they are dismantled from the main          in the transfer pump rotor and withdraw the transfer
+assembly to protect them from possible damage and            pump liner.
+corrosion and to prevent the ingress of foreign matter.         Unscrew the fuel inlet connection and carefully with-
+   Abrasives should never be used for cleaning as the        draw the components of the regulating valve from the
+resulting damage would seriously impair both the             end plate in the following order: sleeve retaining spring,
+efficiency and the working life of the pump. The com-        nylon filter, regulating plug, reguIating spring, valve
+ponents should be washed in clean Shell Calibration          sleeve with piston and joint washer, and lastly the piston
+Fluid ‘C’, but they must not be wiped with cotton waste,     retaining spring.
+rags, or cloth wipers of any kind.
+                                                                Hold the drive hub with drive shaft screw assembly
+   Cut the sealing wire, remove the cover-plate and joint    tool 18G 659 and, using box spanner 18G 634 in conjunc-
+washer from the side of the pump housing, and drain the      tion with a standard ratchet wrench, slacken the transfer
+fuel oil from the pump.                                      pump rotor. The word ‘OFF‘ and an arrow etched on
+   Withdraw the quill shaft from the drive hub and           the exposed face of the rotor indicate the direction in
+mount the pump on assembly base 18G 633 A secured            which the rotor is unscrewed.
+in a vice.                                                      Unscrew and remove the two hydraulic head locking
+   Remove the banjo pipes from the hydraulic head.           screws, one of which carries an air vent valve, and care-
+Unscrew the self-locking nuts with plain washers and         fully withdraw the hydraulic head and distributing rotor
+reniove the shut-off lever and throttle arm from their       assembly from the pump housing. Remove the ‘0’seal
+shafts. Remove the dust cover from each shaft. Cut the       from the groove in the periphery of the hydraulic head.
+locking wire, unscrew the two control cover securing            Unscrew the transfer pump rotor, taking care not to
+nuts, and remove the two flat washers. Press the throttle    allow the pumping and distributing rotor assembly to fall
+shaft downwards and withdraw the control cover com-          out from the hydraulic head.
+plete with shut-off shaft and adjusting screws. Remove
+                                                                Stand the hydraulic head assembly on the bench with
+and discard the control cover to pump housing gaskets.
+                                                             the drive plate uppermost. Hold the drive plate with
+   Press back the locking tabs and unscrew the two           assembly spanner 18G641 and unscrew the two drive
+control cover studs and the small set screw securing the     plate securing screws. Remove the drive plate, lift off
+control bracket to the pump housing. Remove the keep         the top adjusting plate, and withdraw the rollers and
+plate and tab washers, then lift the complete control        roller shoes from the pumping and distributing rotor.
+bracket assembly together with the metering valve and
+                                                                Withdraw the rotor from the hydraulic head and re-
+shut-off bar from the pump housing. Remove the shut-off
+                                                             move the bottom adjusting plate. Refit the rotor to the
+bar from the control bracket. Disconnect the metering
+                                                             hydraulic head, and to protect the working surfaces
+valve from the linkage hook and protect its precision-
+                                                             immerse the assembly in a bath of clean Shell Calibration
+ground surface by immersing it in a bath of Shell Calibra-
+                                                             Fluid ‘C’.
+tion Fluid ‘C’. Unscrew the self-locking nut and remove
+the nylon pivot washer to release the linkage hook from         Withdraw the cam ring from the pump housing,
+the governor arm. Disconnect the throttle shaft link from    noting the arrow etched on the visible face of the cam
+the governor spring and remove and discard the two ‘O’       ring. The arrow is to assist when reassembling, and ifs
+seals from the throttle shaft. Disconnect the governor       direction corresponds with the direction of pump rota-
+spring from the idling spring guide and withdraw the         tion, as shown on the pump nameplate.
+guide and spring from the governor arm. Remove the              Compress the cam ring locating circlip, using circlip
+governor arm spring to release the governor arm from         pliers 18G 1004, and withdraw the circlip from inside the
+the control bracket.                                         pump housing.
+   Turn the pump upside-down and slacken both the               Hold the drive hub with drive shaft screw assembly
+spring cap and the end plug in the advance device            tool 18G 659 and, using torque adaptor 18G 664 and a
+housing until the pressure of the maximum advance stop       standard socket wrench, unscrew the drive shaft screw
+spring inside the advance device housing is relieved.        from inside the drive hub, reversing the procedure shown
+IJnscrew the cap nut and the head locating bolt, both        in Fig. Ca.12. The splined drive shaft complete with
+of which have aluminium and rubber sealing washers.          governor weights assembly may now be withdrawn from
+and remove the advance device housing. Unscrew and           inside the pump housing.
+remove the advance screw from the cam ring. Remove              Remove and discard the ‘0’seal from the drive shaft
+and discard the advance device housing gasket.               and remove the weight retainer, weights, thrust washer,
+   Unscrew the end plug and the spring cap, noting the       and sleeve from the drive shaft.
+adjusting shim inside the cap. Withdraw the spring, stop,       Withdraw the drive hub from inside the pump housing
+ca.10                                                                                             Taxi. Issue 6. 83137
+                THE FUEL SYSTEM (Distributor-type Injection Pump)                                                  Ca
+and remove the spring washer and support washer from
+their location inside the drive hub. The washers are
+removed by turning them end on inside the drive hub and
+withdrawing them along the master spline. Two flats are
+machined on the outside diameter of the support washer
+to facilitate this operation.
+   Remove the drive hub oil seal from the pump housing,
+using oil seal extractor tool 18G 658.
+   Wash all components thoroughly in clean Shell Cali-
+bration Fluid ‘C’. Cotton waste, rags, or cloth wipers
+must not be used to wipe the components. If necessary,
+unscrew the plug with sealing washer, using rotor plug
+spanner 18G 652, and blow out the internal passages in
+the pumping and distributing rotor with compressed air.
+Coat the threads of the plug with Araldite and refit and
+tighten the plug to 28 Ib. in. (.32 kg. m.).
+   Push out the pumping plungers, one at a time, for
+inspection, noting that the end of the plunger which has
+been in contact with the roller shoe is polished and
+should be replaced in this position. Examine the working
+                                                                                    Fig. Ca.ll
+surface of the plungers and the plunger bore in the pump-
+ing and distributing rotor for wear and abrasions. The         Removing the drive hub oil seal, using oil seal extractor
+bore of the hydraulic head and its mating surface in the                             18G 658
+rotor should also be examined for wear and scoring.
+Should any of these parts be worn, the pumping and
+distributing rotor and hydraulic head, which are mated        guides in the pumping and distributing rotor for correct
+assemblies, must be renewed as a unit.                        action and freedom of movement.
+   Some injection pumps are fitted with hydraulic heads         Check the drive shaft splines for wear, assemble the
+having an oversize metering valve bore and an oversize        drive shaft to the drive plate, and ensure that there is no
+metering valve to suit. Oversize metering valves, which       excessive radial movement between the drive shaft and
+are identified by a machined groove, are available, but      plate.
+only hydraulic heads having a standard-size metering valve      Test the fit of the vanes in their slots in the transfer
+bore are supplied as replacements. Injection pumps fitted     pump rotor. The vanes should be a sliding fit when
+with oversize metering valves are identified by the number    lubricated with fuel oil.
+6.375 etched upon the hydraulic head between the outlet         Inspect the bore of the regulating valve sleeve for wear
+connections adjacent to the metering valve bore.              and ensure that the valve piston can move freely along
+   Inspect the plunger rollers for flats and the cam ring    the whole length of the sleeve bore.
+lobes for signs of wear. Test the roller shoes in their         Inspect all springs for fractures and check them against
+                                                             new counterparts for length. Weak or fractured springs
+                                                              should be renewed. Check the governor weight retainer,
+                                                             thrust washer, and thrust sleeve against new counterparts
+                                                             for signs of wear.
+                                                                When reassembling, thoroughly rinse all components
+                                                             in freshly filtered clean Shell Calibration Fluid ‘C‘ and
+                                                             assemble all parts wet.
+                                                                Fit a new drive hub oil seal to the pump housing,
+                                                             driving it onto its seat with oil seal guide 18G 663. Insert
+                                                             oil seal inspection plug 18G 660 into the oil seal. A
+                                                             correctly fitted oil seal will show a continuous black line
+                                                             when viewed through the flange end of the oil seal
+                                                             inspection plug.
+                                                                Fit the support washer and spring washer into the
+                                                             drive hub. Remove the oil seal inspection plug and pass
+                                                  A51471
+                                                             the drive hub through the seal, seating the drive hub
+                                                             flange against the pump housing.
+                      Fig. Ca.10                                Place the governor weight retainer on plate 18G662
+  Holding the drive plate with spanner 18G 641 when          and pass locating pin 18G 661 through the weight
+       unscrewing the drive plate securing screws            retainer to locate in the plate so that the weight retainer
+Taxi. Issue3. 6394                                                                                                 Ca.11
+ Ca               THE FUEL SYSTEM (Distributor-type Injection Pump)
+
+  is trapped between the plate and the shoulder of the
+  locating pin. Place the weights, equally spaced, in
+  position on the weight retainer.
+     The slot in each weight should be uppermost and
+  nearest the locating pin (Fig. Ca. 13). Each weight should
+  be aligned with a pocket in the weight retainer and with
+  its inner end against the locating pin. Place the thrust
+  washer and thrust sleeve on the locating pin and resting
+  on the governor weights. The thrust sleeve must be fitted
+  with the flange having the projection uppermost. Exert
+ downward pressure on the thrust sleeve and the assembly
+  will enter the weight retainer. Withdraw the locating pin
+  and remove the assembly from the plate. Slide the assem-
+ bly onto the drive shaft. Fit protection cap 18G 657 over
+ the drive shaft splines and fit a new ‘0’ seal in the
+ machined groove on the shaft. Insert the drive shaft and
+ weight assembly into the pump housing and engage the
+ drive shaft splines with the splines in the drive hub. Fit
+ the drive shaft screw, and, holding the drive hub with                                 Fig. Ca.13
+ drive shaft screw assembly tool 18G659, tighten the
+                                                                  Assembling the governor weights, thrust washer, and
+ drive shaft screw to the figure given in ‘GENERAL
+                                                                  thrust sleeve into the weight retainer, using Service
+ DATA’, using torque adaptor 18G664 and torque
+                                                                               tools 18G 661 and 18G 662
+ wrench 18G 537 (Fig. Ca.12).
+     Compress the cam ring locating circlip, using circlip
+                                                                stamped on the periphery of the pumping end of the rotor
+ pliers, 18G 1004, and seat it against the shoulder in the
+                                                               corresponds with the pump rotation, as indicated on the
+‘boreof the pump housing. Place the cam ring in position
+                                                               pump nameplate.
+ against the circlip. The direction of the arrow on the
+                                                                   Withdraw the pumping and distributing rotor complete
+ visible face of the cam ring must conform with the
+                                                               with plungers from the hydraulic head. Place the top
+ direction of pump rotation as marked on the pump
+                                                               adjusting plate in its correct position on the rotor-that
+ nameplate. Fit the cam advance screw finger tight to
+                                                               is, with the slot in the periphery of the adjusting plate
+ locate the cam ring and check the ring for freedom of
+                                                               aligned with the scribed mark on the periphery of the
+ movement in the pump housing.
+                                                               pumping end of the rotor (Fig. Ca.14).
+    If the hydraulic head and pumping and distributing             Fit the drive plate to the rotor with its relieved face
+ rotor are renewed, ensure that the direction of the arrow     next to the top adjusting plate. The slot in the periphery
+                                                               of the drive plate must be in line with the scribe mark
+                                                               on the periphery of the rotor (Fig. Ca.14). Tighten the
+                                                               drive plate securing screws lightly to hold the top
+                                                               adjusting plate in position on the rotor. Invert this
+                                                               assembly so that the distributing end of the rotor is upper-
+                                                               most. Slide the rollers into their shoes and insert the
+                                                               roller and shoe assemblies into their guides in the rotor,
+                                                               ensuring that the contour of the roller shoe ears conforms
+                                                               with the contour of eccentric slots in the top adjusting
+                                                               plate. Assemble the bottom adjusting plate to the rotor
+                                                               with the contour of the eccentric slots in the adjusting
+                                                               plate conforming to the contour of the roller shoe ears
+                                                               and the slots in the periphery of the bottom adjusting
+                                                               plate engaging the lugs on the top adjusting plate. Fit
+                                                               the assembly of the pumping and distributingrotor to the
+                                                               hydraulic head and fit and lightly tighten the transfer
+                                                               pump rotor. Stand the assembly of the hydraulic head
+                                                               and the pumping and distributing rotor on the bench with
+                                                        !SA    the pumping end of the rotor uppermost.
+                                                                  Fit relief valve timing adaptor 18G 653 A, preset at 15
+                       Fig. Ca.12
+                                                               atmospheres, to high-pressure outlet ‘V’ on the hydraulic
+  Holding the drive hub with drive shaft screw assembly        head and connect up the whole assembly to injector
+  tool 18G 659 while tightening the drive shaft screw          nozzle testing machine 18G 109 A (Fig. Ca.15).
+  with torque adaptor 18G664 and torque wrench                    Operate the handle of the test machine and turn the
+                        18G 537                                pumping and distributing rotor in the normal direction of
+Ca.12                                                                                                  Taxi. Issue3. 6394
+                       THE FUEL SYSTEM (Distributor-type Injection Pump)                                             Ca
+ rotation until the pumping plungers are forced outwards
+ to the maximum fuel position. Set the roller-to-roller
+ dimension, using a micrometer, to the dimension given
+ in ‘GENERAL DATA’. Move the adjusting plates
+ (clockwise to increase and anti-clockwise to decrease the
+ dimension) with maximum fuel adjusting probe 18G 656.
+ Tighten the drive plate securing screws to the figure given
+ in ‘GENERAL DATA’, using torque wrench 18G 537.
+ This setting is approximate, final adjustment being made
+ with the pump mounted on a power-driven test machine
+ (see Section Ca.9). The drive plate is held, when tighten-
+ ing the securingscrews, with assembly drive plate spanner
+ 18G 641. Disconnect the test machine and the hydraulic
+ adaptor from the hydraulic head.
+    Fit a new oil seal into its groove in the machined
+ periphery of the hydraulic head.
+   Turn the pump drive shaft in the pump housing and
+ position the master spline at 12 o’clock. Align the master
+spline in the drive plate with the metering valve bore in
+the hydraulic head. Lubricate the periphery of the
+hydraulic head and the bore of the pump housing                                         Fig. Ca.15
+liberally with clean Shell Calibration Fluid ‘C'. Hold the
+hydraulic head assembly square with the axis of the pump         Setting the roller-to-roller dimension, using a micro-
+housing and, with the metering valve bore at 12 o’clock,         meter and Service tools 18G 109 A and 18G 653 A
+push the hydraulic head into the pump housing. Rotate
+the drive shaft slightly to assist the engagement of the
+shaft with the drive plate.                                    to the small-diameter end of the regulating valve sleeve
+   Insert the two hydraulic head locking screws, leaving       and insert the valve piston into the sleeve. Insert the
+them finger tight and ensuring that the screw with the         regulating spring into the large-diameter end of the valve
+vent valve is fitted immediately above the pump name-          sleeve. Place the regulating plug on the top of the sleeve
+plate.                                                         with its spigoted end engaging the sleeve bore. Fit the
+   Mount drive shaft screw assembly tool 18G 659 in the        sleeve retaining spring onto the guide. Pass the nylon
+splined drive hub and, using torque wrench 18G 536 and         filter, small-diameter end leading, over the spring and
+assembly box spanner 18G 634, tighten the transfer pump        regulating plug onto the shoulder of the valve sleeve.
+rotor to the figure given in ‘GENERAL DATA’.                   Insert this assembly, valve sleeve first, into the bore of
+   Fit the transfer pump liner and insert the carbon vanes     the end plate and secure it in position with the fuel inlet
+into the slots in the transfer pump rotor.                     connection and washer.
+   Ensure that the transfer pump liner locating peg is in         Position a new oil seal in its recess in the upper face of
+position ‘C’ in the pump end plate.                            the hydraulic head and fit the assembled end plate to the
+   Insert the piston retaining spring into the regulating      head, engaging the locating peg on the inner face of the
+valve bore in the end plate, ensuring that it is properly
+seated in the bottom of the bore. Fit a new seal washer
+
+
+
+
+                       Fig. Ca.14
+  Assembly the top adjusting plate and the drive plate                                 Fig. Ca.16
+  with the slots in their peripheries aligned with the           Tightening the transfer pump rotor, using torque
+      scribed mark on the pumping end of the rotor               wrench 18G536 and Service tools 18G 659 and 18G634
+Taxi. Issue 4. 88664                                                                                            Ca.13
+Ca               THE FUEL SYSTEM (Distributor-type Injection Pump)
+
+end plate with the slot in the periphery of the transfer
+pump liner. The end plate securing screw holes are
+unequally spaced to ensure correct assembly of the end
+plate to the hydraulic head. Tighten the set screws and
+studs to the torque figure given in ‘GENERAL DATA’,
+using torque wrench 18G 536. Tighten the fuel inlet con-
+nection to the torque figure in ‘GENERAL DATA’,
+using torque wrench 18G 537.
+    Tighten the cam ring advance screw to the figure given
+in ‘GENERAL DATA’, using torque wrench 18G 372.
+Check the cam ring for freedom of movement.
+    Place a new advance device housing gasket in position
+on the pump housing with the flat of the ‘D’-shaped
+hole at the drive hub end of the pump. To ensure satis-
+factory sealing this gasket should be assembled dry.
+Assemble the advance device housing to the pump                                      Fig. Ca.17
+housing, using new rubber and aluminium sealing                 Setting the internal dimension between the metering
+washers for the head locating bolt and cap nut. Using           valve lever pin and the control cover stud with the
+torque wrench 18G 537, tighten the head locating bolt,               vernier heldparallel to the axis of the pump
+the cap nut, and the two head locking screws to the
+figures given in ‘GENERAL DATA’. Check the cam                lever pin and its nearest control cover stud to the length
+ring for freedom of movement.                                 given in ‘GENERAL DATA’, using a vernier gauge as
+    Fit new ‘0’seals to the light-load advance piston plug    shown in Fig. Ca.17. Adjustment is made by slackening
+and the spring cap, using protection cap 18G 640 to pass      or tightening the hook linkage nut. During this operation
+the seals over the threads.                                   light pressure should be applied to the governor arm
+    Insert the slide washer and piston, in that order, into   in the direction of the metering valve and the vernier
+the advance device housing on the side where the fuel         gauge should be held parallel to the pump axis.
+oil drilling enters the piston bore. Screw in the piston         Locate the idling spring on the idling spring guide.
+plug. Insert the maximum advance stop, and spring, in         Insert the guide into hole No. 2 in the governor arm
+that order, into the remaining open end of the advance        (Fig. Ca.6) and connect the governor spring to the idling
+unit housing and screw in the cap. Tighten the piston         spring guide.
+plug and spring cap to the torque figures given in               Insert the plain end of the shut-off bar into the slot
+‘GENERAL DATA’, using torque wrench 18G 537.                  in the control bracket and position the shut-off bar under
+    Insert the metering valve into the metering valve bore
+                                                              the tab of the control cover stud locking washer.
+in the hydraulic head.
+    Engage the governor arm with the control bracket             Using protection cap 18G 564, fit the lower ‘O’seal to
+and connect the governor arm spring to both components.       the shut-off shaft. Fit the upper ‘0’seal, using protection
+    Fit the assembly governor arm and control bracket to      cap 18G 665. Pack the groove between the ‘0’seals with
+the pump housing. The lower end of the governor arm           Shell Alvania No. 2 grease. Press the shut-off shaft into
+should engage the outside face of the thrust sleeve flange.   its bore in the control cover. The peg which engages the
+Place the keep plate in position with its open end towards    shut-off bar should be close to the inside edge of the
+ the shut-off bar. Fit new tab washers with their pointed     control cover, and should be left projecting slightly above
+tabs towards the governor arm. Secure the keep plate in       the control cover face.
+position with the two governor control cover studs. Fit          Place a new control cover gasket in position on the
+the small screw and tab washer at the metering valve end      pump housing, ensuring that the locating tabs of the
+of the control bracket. Tighten the control cover studs to    gasket engage the slots under the keep plate. To ensure
+the torque figure given in ‘GENERAL DATA’, using              satisfactory sealing this gasket should be soaked in Shell
+torque wrench 18G 536. Lock the studs in position by          Calibration Fluid ‘C‘ before assembly.
+ bending up the pointed tabs. Tighten the small screw to         Fit new lower and upper ‘0’seals to the throttle shaft,
+the torque figure given in ‘GENERAL DATA’, and lock           using protection caps 18G 654 and 18G 665. Pack the
+ it with the tab washer.                                      groove between the ‘0’seals with Shell Alvania No. 2
+    Assemble the spring retainer, spring, and fibre washer    grease. Connect the free end of the governor spring to
+ onto the governor linkage hook, in that order. Pass the      hole No. 2 (2-2-litre engine) or hole No. 1 (2.52-litre
+threaded end of the linkage hook through the governor         engine) in the throttle shaft link (Fig. Ca.6).
+arm. Fit the pivot ball washer onto the linkage hook             Press the throttle shaft into its bore in the control
+and screw on the linkage nut about three turns. Press         cover. Place the control cover in position on the control
+ back the spring retainer and attach the linkage hook to      cover studs. Ensure that the shut-off shaft peg engages
+the metering valve. The hook end should turn towards          the shut-off bar and pull the shut-off shaft fully home
+ the metering valve.                                          as the control cover is lowered onto the gasket. Fit new
+    Set the internal dimension between the metering valve     sealing washers on the control cover studs and fit and
+ Cu.14                                                                                                 Taxi. Issue 4. 88664
+                 THE FUEL SYSTEM (Distributor-type Injection Pump)                                                  Ca
+tighten the stud nuts to the torque figures given in
+‘GENERAL DATA’, using torque wrench 18G 536. Place
+the dust caps on the throttle and shut-off shafts. Fit the
+throttle arm and the shut-off lever to their respective
+shafts and secure them in place with their nuts and
+washers.
+
+Section Ca.9
+       TESTING AND ADJUSTING THE FUEL
+                    INJECTION PUMP
+   After overhaul the fuel injection pump must be checked
+functionally, and the maximum fuel output adjusted if
+necessary. These tests and adjustments are carried out on
+a power-driven test bench embodying the necessary
+vacuum and pressure gauges and equipment to test the
+fuel transfer pump and a graduated glass to measure the                                   Fig. Ca.18
+injection pump back-leakage. In addition, the tools                   Checking the automatic advance device, using
+mentioned in the following paragraphs are also required.                         advance gauge 18G 638 B
+   NOTE.-The following precautions must be observed                Remove the small set screw from the centre of the
+when testing the pump:                                          advance unit housing spring cap and assemble automatic
+   (1) Ensure that the power-driven test bench is set to run    advance gauge 18G 638 B to the spring cap with the
+       in the direction of rotation of the injection pump, as    degree scale and pointer uppermost and the scale set to
+       indicated by the arrow on the pump nameplate.            zero.
+       Serious damage may be caused to the pump if it is           Throughout the following operations and tests the pump
+       run in the reverse direction.                            throttle and shut-off levers must be in the fully open
+   (2) Ensure that the fuel flow at the pump inlet is not       position, except where stated otherwise.
+       less than 1,000 c.c./min. If this flow cannot be            The pump and the feed pipe must now be filled and
+       obtained, a maximum feed pressure of 2 lb./sq. in.       primed as follows:
+       (15 kg./cm.2) is permissible.                               (1) Connect the fuel feed pipe to the drain connection
+   (3) Do not run the pump for long periods at high speed              on the pump housing.
+       with low fuel output.                                       (2) Open both of the vent screws on the injection
+   (4) Do not run the pump for long periods with the shut-             pump-
+       off control in the closed position.                         (3) Turn on the gravity feed. When test oil free from
+                                                                       air bubbles flows from the vent screw on the
+  After checking the direction of rotation mount the
+                                                                       hydraulic head, close this vent screw. Wait till the
+pump on the test bench and connect up the drive. Fit
+                                                                       test oil flowing from the vent screw in the governor
+radial connections to the hydraulic head in place of the
+                                                                       control housing is free from air bubbles, then close
+banjo pipes. Using high-pressure pipes 6 mm. x 2 mm. x
+                                                                       this vent screw also.
+865 mm. (34 in.) long, connect the radial connections to
+                                                                   (4) Rotate the pump drive through 180° and repeat
+a matched set of test nozzles. The test nozzles should be
+                                                                       operations (2) and (3).
+Type BDN.12.SD.12 mounted in nozzle holders Type
+                                                                   (5) Fit the feed and return pipes to their respective
+BKB.50.SD.533b (formerly BKB.5O.SD.19b) and set to
+                                                                       connections.
+open at 175 atmospheres.
+                                                                   (6) Slacken the high-pressure pipe unions at the
+   Ensure that the pump throttle arm has the full range
+                                                                       injector end.
+of movement by unscrewing fully the idling and maximum
+                                                                   (7) Start the test machine and run at 100 r.p.m. until
+speed stop screws.
+                                                                       oil free from air bubbles issues from the injector
+   Remove the hydraulic head locking screw, not the one
+                                                                       pipe connections.
+incorporating the vent valve, and connect the pressure
+                                                                   (8) Tighten the injector pipe connection while the test
+gauge by means of a flexible pipe to transfer pressure
+                                                                       machine is running.
+adaptor 18G 636, which is screwed into the head locking
+                                                                   The following tests are designed to check, in turn, each
+screw hole.
+                                                                of the separate functions of the injection pump. Before,
+   Connect the feed pipe, preferably of the transparent
+                                                                however, making these individual tests a general check
+type, to the fuel inlet connection on the injection pump
+                                                                should be carried out to ensure oil-tightness of all joint
+end plate. The vacuum gauge should be fitted, by means
+                                                                washers, oil seals, and pipe connections while the pump
+of a ‘T’ coupling, to the feed pipe.
+                                                                is running and when stationary.
+  Connect the inlet connection on the measuring-glass
+to the drain connection on the pump housing and the               (1) Transfer pump vacuum test
+drain cock on the measuring-glass to the return pipe on           I     Start the test machine and run the pump at
+the test bench by means of flexible pipes.                            100 r.p.m.
+Taxi. Issue 4. 6394                                                                                          Ca.15
+Ca                 THE FUEL SYSTEM (Distributor-type Injection Pump)
+
+                                                                  (6) Fuel delivery check
+                                                                         Without altering any of the adjustments, check
+                                                                      that the fuel delivery at 800 r.p.m. is 3.6 to 4.4 C.C.
+                                                                      per 200 shots. Remove the shut-off lever adjust-
+                                                                      ment tool.
+                                                                  (7) Advance check
+                                                                         Run the fuel pump at 800 r.p.m. Move the shut-
+                                                                      off lever to the fully closed position and check
+                                                                      that the advance reading is 31/2 to 41/2°. Fit and seal
+                                                                      the metering valve adjustment screw sealing cap
+                                                                      with wire and a lead seal, using sealing pliers
+                                                                       18G 541.
+                                                                         NOTE-If for any reason it is found necessary
+                                                                      to tighten or slacken the governor control cover cap
+                                                     A9255            nuts, the settings made at (4) and (5) will be dis-
+                                                                      turbed, and operations (4), (5), (6), and (7) should
+                    Fig. Ca.19                                        be repeated.
+ Adjusting the maximum fuel setting, using Service                (8) Back-leakage
+                   tool 18G 656                                          Set the shut-off lever fully open and the throttle
+                                                                      arm fully closed. Run the pump at 1,000 r.p.m.
+           Turn the test oil feed cock to the 'off' position
+                                                                      and measure the back-leakage through the gradu-
+        and note the depression registered on the vacuum
+                                                                      ated measuring-glass. The back-leakage should be
+        gauge. This should build up to 16 in. (406mm.) Hg
+                                                                      5 to 50 C.C. per 100-shot cycle.
+        within 60 seconds maximum. Check the fuel feed
+        pipe unions for air leaks, indicated by the presence      (9) Maximum fuel setting
+        of air bubbles in the pipe line. If necessary,                   NOTE:-Throughout this test the advance gauge
+        tighten the feed pipe unions and carry out a further          must show a zero reading.
+        test.                                                            Run the pump at 1,000 r.p.m. with both controls
+           NOTE.-Do not run the pump for periods ex-                  in their fully open position, when the average
+        ceeding 60 seconds with the test oil supply turned off.       delivery for 200 shots from all four test injectors
+           After the vacuum test is completed turn on the             should be 6..9+/-.1 C.C. In arriving at this figure
+        test oil supply, and with the pump running at                 compare the delivery from all injectors to ensure
+        100 r.p.m. air-vent the pump by means of the vent             that the difference in output from any two does
+        valve on the hydraulic head locking screw.                    not exceed ,6 C.C. Before taking a reading the test
+                                                                      oil in the measuring-glasses should be allowed to
+ (2) Transfer pump pressure                                           settle for 15 seconds and the measuring-glasses
+       With the pump running at 100 r.p.m. note the                   should be allowed to drain for 30 seconds before
+     pressure registered on the pressure gauge which                  a fresh test is made.
+     should read 12 lb./sq. in. (-8 kg./cm.2).                           To adjust the pump output stop the test bench
+ (3) Transfer pump pressure                                           and turn the test oil feed cock to the 'off' position.
+       Increase the pump speed to 800 r.p.m., when a                  Remove the cover-plate from the side of the pump
+     pressure of 32 to 44 lb./sq. in. (2.3 to 3.1kg/cm.2
+     should be registered on the pressure gauge.
+ (4) Fuel delivery setting
+       Run the pump at 800 r.p.m., and after slackening
+     the locknut alter the metering valve adjustment
+     screw till a zero reading is obtained on the auto-
+     matic advance gauge. Tighten the locknut and re-
+     check the advance reading. Fit the shut-off lever
+     adjustment tool 18G697 to the fuel pump and
+     adjust the shut-off lever to obtain an average fuel
+     delivery of 3.6 to 4.4 C.C. per 200 shots. Ensure that
+     the advance gauge still shows a zero reading.
+ (5) Advance setting
+        Run the pump at 800 r.p.m. Slacken the metering
+     valve adjustment screw locknut and alter the
+     adjustment screw to obtain an advance reading of                                   Fig. Ca.20
+    13/4° to 21/4°.Tighten the locknut and re-check the           The shut-off lever adjuster 18G697 mounted on the
+     advance reading.                                                      fuel injection pump and test bench
+Ca.16                                                                                                 Taxi. Issue4. 6394
+                THE FUEL SYSTEM (Distributor-type Injection Pump)                                              Ca
+                                                            (11) Cut-off test
+                                                                   With the shut-off lever held in the fully closed
+                                                                 position run the pump at 200 r.p.m. The average
+                                                                 delivery for 200 shots, with the throttle arm in
+                                                                 the fully open position, should not exceed 1.0 C.C.
+                                                            (12) Throttle operation
+                                                                   Run the fuel pump at 200 r.p.m. with the throttle
+                                                                 arm in the fully closed position. The average
+                                                                 delivery with the shut-off lever fully open should
+                                                                 not exceed 1.0 C.C. per 200 shots.
+                                                            (13) Fuel delivery check
+                                                                   With both controls fully open run the fuel pump
+                                                                 at 1,650 r.p.m. and record the average delivery
+                                                                 per 200 shots.
+                       Fig. Ca.21                           (14) Governor setting
+ Tightening the drive plate screws, using torque wrench            Increase the pump speed to 1,850 r.p.m. and set
+       18G 537 and torque adaptor 18G 655A                       the throttle arm by means of the maximum speed
+                                                                 adjustment screw to give a maximum average
+                                                                 delivery of 1.0 C.C. per 200 shots. No line should
+                                                                 exceed 1.8 C.C. Tighten the adjustment screw
+                                                                 locknut.
+                                                            (15) Fuel delivery check
+                                                                   Reduce the pump speed to 1,650 r.p.m. and re-
+     housing to provide access to the interior of the            check the fuel delivery. The average delivery now
+     pump. Slacken the two drive plate securing screws           should not be less than that recorded in operation
+     sufficiently to permit movement of the adjusting            (13) minus .4 C.C. per 200 shots.
+     plates. Turn the pump drive until the slots in the
+     peripheries of the drive plate and the top adjusting   (16) Timing setting
+     plate are visible through the aperture in the pump             This setting is made, after all the foregoing tests
+     housing. Engage the end of the maximum fuel                 have been completed, with the pump removed
+     adjusting probe 18G 656 in the slot in the top              from the power-driven test bench.
+     adjusting plate and tap the tool with a light                  It should be noted that, unlike the ‘in-line’ fuel
+     hammer to move the plate in the required direction.         injection pump, which has a static commencement
+     The adjusting plate is turned in the same direction         of injection point, the point at which commence-
+     as the normal direction of the pump rotation to             ment of injection occurs in the distributor-type
+     increase the maximum output. Movement of the                fuel injection pump varies according to the fuel
+     adjusting plate in the opposite direction will              requirements of the engine. The timing of the
+     decrease the maximum output. This operation                 distributor-type pump is carried out with the
+     must be carried out very carefully as the amount            pumping plungers set to delivery maximum fuel on
+     of movement required will be very small. Tighten            No. 1 injection line and with the plunger rollers
+     the drive plate securing screws to the torque figure        in contact with the cam lobes: therefore, after all
+     given in ‘GENERALDATA’, using tools 18G 537,                occasions of pump overhaul or adjustment to the
+     and 18G 655A. While tightening the screws the               pump output it is imperative that the pump timing
+     torque wrench must be in line with the spanner              is checked, and the timing mark on the pump
+     (Fig. Ca.21). After making this adjustment replace          flange re-marked if necessary.
+     the cover-plate and carry out the complete filling             Remove the cover-plate from the side of the
+     and priming operation. Re-check the fuel delivery           pump housing and the four redial connections
+     and, if necessary, re-adjust the pump output.               from the hydraulic head. Connect injector nozzle
+                                                                 testing machine 18G 109 A to outlet ‘V’ on the
+(10) Fuel delivery                                               hydraulic head to means of relief valve timing
+        Decrease the pump speed to 100 r.p.m. and check           adaptor 18G 653 A. The relief valve must be set to
+     the output. The average delivery for 200 shots               operate at 30 atmospheres.
+     under these conditions should not be less than                 Turn the pump drive hub in the normal direction
+     that obtained when setting the pump maximum                  of rotation until the timing mark ‘E’ on the drive
+     fuel output minus 1.5 C.C. When carrying out this            plate becomes visible through the aperture in the
+     test use 30 seconds’ measuring-glass draining time           side of the pump housing. Operate the handle of
+     and allow the test oil to settle for 15 seconds              the test machine to apply a pressure of 30 atmo-
+     before taking a reading.                                     spheres to the pump. This will force the pumping
+Taxi. Issue 7. 83137                                                                                             Ca.17
+Ca                   THE FUEL SYSTEM (Distributor-type Injection Pump)
+        plungers outwards to the limit of their travel as
+        the drive hub is turned. Continue turning the drive
+        hub in the normal direction of rotation until
+        resistance is encountered. With the pump held in
+        this position mount flangemarking gauge 18G 648A,
+        preset to 86°, on the pump quill shaft. Check that
+        the timing mark on the pump flange lies along the
+        scribing guide on the flange marking gauge. If
+        necessary, delete the old timing mark and scribe a
+        new mark by drawing a scribing tool along the
+        guide on the flange marking gauge.
+           Disconnect the pump from the test machine
+        and fit the banjo pipes to the hydraulic head. Refit
+        the cover-plate to the side of the fuel pump                                                              A57660.
+
+
+        housing and seal the securing screws with wire and                               Fig. Ca.22
+        a lead seal, using sealing pliers 18G 541.                   Scribing the timing mark on the fuel injection pump
+                                                                        mounting flange, using Service tool 18G 648 A
+Maximum and idling speed adjustments
+  These adjustments are carried out after the pump has
+been installed on the engine, and are detailed in Section                When testing the injectors for spray and adjusting
+Ca.7.                                                                    the injectors for service the nozzle opening pres-
+                                                                         sure should be set to 130 atmospheres for 2.2-litre
+                                                                         engines and 135 atmospheres for 2.52-litre engines.
+Section Ca.10                                                            The needle lift should be .029 to .035 in. (.75 to
+                                                                         -90 mm.) for 2.2-litre engines and 4 to .75 mm. for
+                 ALTITUDE SETTINGS                                       2-52-litre engines.
+  Each vehicle leaves the Factory with its maximum fuel
+setting adjusted for sea-level conditions. If the vehicle is
+to be operated continuously above sea-level, adjustment
+of the injection pump is necessary to set the maximum              Section Ca.12
+fuel delivery to conform with the figures given in the
+following table.                                                                         LIFT PUMP
+                                                                      Follow the instructions given in Section C.l, but after
+                                                                   replacing the lift pump bleed the fuel system as described
+                              Moximum fuel output for 200          in Section Ca.5.
+          Altitude
+
+
+    0 to 2,000 ft.         6.8 to 7.0 C.C.
+    (0 to 600 m.)
+                                                                   Section Ca.13
+1   2,000 t o 4,000 ft.
+    (600 t o 1200 m.)
+                           6.4 to 6.6 C.C.    8.3 to 8.5 c.c.
+                                                                               MODIFIED INJECTION PUMP
+    4,000 to 6,000 ft.     6.0 t o 6.2 C.C.   7.7 t o 7.9 C.C.                        (Type DPA.3248050A)
+    (1200 to 1800 m.)
+                                                                      This pump is as described in Section Ca.6 but with
+    6,000 t o 8,000 ft.    5.6 to 5.8 C.C.    7.2 to 7.4 c.c.      various detail modifications to improve engine governing
+    (1800 to 2400 m,)
+                                                                   and the addition of an anti-stall device. The modifications
+    8,000 to 10.000 ft.    5.1 to 5.3 C.C.    6.6 to 6.8 c.c.
+    (2400 to 3000 m.)
+                                                                   include a governor spring, idling spring, and maximum
+                                                                   advance stop spring of new load rates. Other modifica-
+    10,000 to 12,000 ft.   4.7 to 4.9 c.c.    6.1 to 6.3 C . C .   tions incorporated in this pump are to the metering valve,
+    (3000 to 3600 m.)
+                                                                   quill shaft, and banjo pipes.
+                                                                      The anti-stall device consists of an adjusting screw,
+                                                                   which protrudes from the drive end of the control cover,
+                                                                   and a locknut. In operation the inner end of the adjusting
+                                                                   screw contacts the governor arm to act as a stop. The
+Section Ca.11                                                      effect of this is to prevent the governor from reducing
+                                                                   the metering area below the position permitted by the
+                 FUEL INJECTORS                                    anti-stall screw. Therefore, adjustment of the anti-stall
+  Follow the instructions given in Section C.6, noting             screw should only be carried out as described in Section
+the following points.                                              Ca.13 under 'Maximum and idling speed adjustments'.
+Ca.18                                                                                                    Taxi. Issue 7. 83137
+                  THE FUEL SYSTEM (Distributor-type Injection Pump)
+
+Removing and replacing                                             of air bubbles in the pipe line. If necessary, tighten
+  Follow the instructions in Section Ca.7 noting that the          the feed pipe unions and carry out a further test.
+correct injection timing for this pump is 26° B.T.D.C.                NOTE.-Do not run the pump for periods ex-
+                                                                   ceeding 60 seconds with the test oil supply turned off.
+Maximum and idling speed adjustments                                  After the vacuum test is completed turn on the
+  After fitting either a new or overhauled injection pump,         test oil supply, and with the pump running at
+adjust the engine maximum light running speed as                   100 r.p.m., air vent the pump by means of the vent
+described in Section Ca.7. Then proceed as follows to              valve on the hydraulic head locking screw.
+adjust the idling speed and anti-stall device:
+  (1) With the engine stopped unscrew the anti-stall           (2) Transfer pump pressure
+       screw until it is out of contact with the governor            With the pump running at 100 r.p.m. note the
+       arm.                                                        pressure registered on the pressure gauge, which
+                                                                   should read 11 lb./sq. in. (.8 kg./cm.2).
+  (2) Start the engine, ensure that it is at its normal
+       running temperature, and adjust the idling stop
+                                                               ( 3 ) Transferpump pressure
+       screw to set the engine speed at between 450 and
+                                                                       Increase the pump speed to 1,300 r.p.m. when a
+       500 r.p.m.
+                                                                     pressure of 43 to 54 lb./sq. in. (2.9 to 3.8 kg./cm.2)
+  (3) Screw in the anti-stall screw carefully until a slight         should be registered on the pressure gauge.
+       speed increase is noticed, then unscrew one third
+       of a turn and lock in position with the locknut.        (4) Fuel delivery setting
+  (4) Readjust the idling stop screw to set the idling               Run the pump at 1,300r.p.m. and after slackening
+       speed at 500 r.p.m. and tighten the idling stop screw       the locknut alter the metering valve adjustment
+       locknut.                                                    screw till a zero reading is obtained on the auto-
+  (5) Test the anti-stall screw setting by running the             matic advance gauge. Tighten the locknut and
+       engine at about 3,000 r.p.m. and then releasing             recheck the advance reading. Fit shut-off lever
+       the throttle:                                               adjustment tool 18G 697 to the fuel pump and
+       (a) If the engine stalls the pump is underdamped            adjust the shut-off lever to obtain an average fuel
+            and the anti-stall screw should be screwed in          delivery of 6.2 to 7.0 C.C. per 200 shots.
+            slightly, relocked, and the setting retested.            Ensure that the advance gauge still shows a zero
+       (b) If the engine deceleration is slow or sluggish          reading.
+            the pump is overdamped and the anti-stall
+            screw should be screwed out slightly, relocked,    (5) Advance setting
+            and the setting retested.                                 Run the pump at 1,300r.p.m. Slacken the meter-
+   (6) Check that the engine stops when the shut-off lever         ing valve adjustment screw locknut and alter the
+       is operated.                                                adjustment screw to obtain an advance reading of
+                                                                   13/4 to 21/4 °. Tighten the locknut and re-check the
+  NOTE.-After every adjustment of the anti-stall screw             advance reading.
+ensure that the engine idling speed is controlled by the
+idling stop screw and not by the anti-stall screw.             (6) Fuel delivery check
+                                                                      Without altering any of the adjustments check
+Dismantling and reassembling                                       that the fuel delivery at 1,300 r.p.m. is 6.2 to 7.0
+  Follow the instructions in Section Ca.8 noting that this         C.C. per 200 shots. Remove the shut-off lever
+pump is .fitted with four governor weights.                        adjustment tool.
+
+Testing and adjusting                                          (7) Advance check
+   Mount the pump on a test bench and fill and prime                 Run the fuel pump at 1,300 r.p.m. Move the
+the pump as described in Section Ca.9. Check the oil-              shut-off lever to the fully closed position and check
+tightness of all joint washers, oil seals, and pipe connec-        that the advance reading is 33 to 43". Fit and seal
+tions with the pump running and when stationary. Then              the metering valve adjustment screw sealing cap
+proceed with the following tests, noting that the pump             with wire and a lead seal, using sealing pliers
+throttle arm and shut-off lever must be in the fully open          18G 541.
+position except where stated otherwise.                              NOTE.--If for any reason it is found necessary
+   (1) Transfer pump vacuum test                                   to tighten or slacken the governor control cover cap
+          Start the test machine and run the pump at 100           nut the settings made at (4) and (5) will be dis-
+       r.p.m.                                                     turbed and operations(4), (5), (6), and (7) should
+          Turn the test oil feed cock to the 'off position         be repeated.
+       and note the depression registered on the vacuum
+       gauge. This should build up to 16in. (406 mm.) Hg       (8) Back-leakage
+       within 60 seconds maximum. Check the fuel feed                Set the shut-off lever fully open and the throttle
+       pipe unions for air leaks, indicated by the presence        arm fully closed. Run the pump at 1,000 r.p.m.
+Taxi. Issue 5. 6394                                                                                              Ca.19
+                   THE FUEL SYSTEM (Distributor-type Injection Pump)
+        and measure the back-leakage through the gradu-        (11) Cut-off test
+        ated measuring-glass. The back-leakage should be              With the shut-off lever held in the fully closed
+        5 to 50 C.C. per 100 shot time cycle.                       position run the pump at 200 r.p.m. The average
+                                                                    delivery for 200 shots, with the throttle arm in the
+                                                                    fully open position should not exceed .8 C.C.
+
+        Maximum fuel setting
+                                                               (12) Throttle operation
+                                                                      With the throttle arm in the fully closed position
+         NOTE.-Throughout this test the advance gauge
+        must show a zero reading.                                   unscrew the anti-stall screw until it is out of contact
+                                                                    with the governor arm and tighten the locknut.
+       Run the pump at 1,000 r.p.m. with both controls              Run the pump at 200 r.p.m. with the throttle arm
+    in their fully open position, when the average                  still fully closed. The average delivery with the
+    delivery for 200 shots from all four test injectors             shut-off lever fully open should not exceed 1.0 C.C.
+    should be 6-9+/-.1 C.C. In arriving at this figure              per 200 shots.
+    compare the delivery from all injectors to ensure
+    that the difference in output from any two does            (13) Fuel delivery check
+    not exceed .6 C.C. Before taking a reading the test               With both controls fully open run the fuel pump
+    oil in the measuring-glasses should be allowed to               at 1,630 r.p.m. and record the average delivery per
+    settle for 15 seconds and the measuring-glasses                 200 shots.
+    should be allowed to drain for 30 seconds before a         (14) Governor setting
+    fresh test is made.                                               Increase the pump speed to 1,850 r.p.m. and set
+       To adjust the pump output, stop the test bench               the throttle arm by means of the maximum speed
+    and turn the test oil feed cock to the ‘off’ position.          adjustment screw to give a maximum average
+    Remove the cover-plate from the side of the pump                delivery of 1.0 C.C. per 200 shots. No line should
+    housingto provide accessto the interior of the pump.            exceed 1.8 C.C. Tighten the adjustment screw
+    Slacken the two drive plate securing screws suffi-              locknut.
+    ciently to permit movement of the adjusting plates.
+    Turn the pump drive until the slots in the peri-           (15) Fuel delivery check
+    pheries of the drive plate and the top adjusting                   Reduce the pump speed to 1,630 r.p.m. and re-
+    plate are visible through the aperture in the pump              check the fuel delivery. The average delivery now
+    housing. Engage the end of the maximum fuel                     should not be less than that recorded in operation
+    adjusting probe 18G656 in the slot in the top                   (13) minus -4 C.C. per 200 shots.
+    adjusting plate and tap the tool with a light
+    hammer to move the plate in the required direction.        (16) Timing setting
+    The adjusting plate is turned in the same direction                This setting is made, after all the foregoing tests
+    as normal pump rotation to increase the maximum                 have been completed with the pump removed from
+    output. Movement of the adjusting plate in the                  the power-driven test bench.
+    opposite direction will decrease the maximum                       It should be noted that, unlike the ‘in-line’ fuel
+    output. This operation must be carried out very                 injection pump, which has a static commencement
+    carefully as the amount of movement required will               of injection point, the point at which commence-
+    be very small. Tighten the drive plate securing                 ment of injection occurs in the distributor-type
+    screws to the torque figure given in ‘GENERAL                   fuel injection pump varies according to the fuel
+    DATA’, using tools 18G 537 and 18G 655A.                        requirements of the engine. The timing of the dis-
+    While tightening the screws the torque wrench                   tributor type pump is carried out with the pumping
+    must be in line with the spanner (Fig. Ca.21).                  plungers set to deliver maximum fuel on No. 1
+    After making this adjustment replace the cover-                 injection line and with the plunger rollers in
+    plate and carry out the complete filling and priming            contact with the cam lobes: therefore, after all
+    operation. Re-check the fuel delivery and, if neces-            occasions of pump overhaul or adjustment to the
+    sary, re-adjust the pump output.                                pump output it is imperative that the pump timing
+                                                                    is checked, and the timing mark on the pump
+                                                                    flange remarked if necessary.
+                                                                       Remove the cover plate from the side of the
+        Fuel delivery                                               pump housing and the four radial connections
+           Decrease the pump speed to 100 r.p.m. and check          from the hydraulic head. Connect injector nozzle
+        the output. The average delivery for 200 shots              testing machine 18G 109 A to outlet ‘V’on the
+        should now be not less than that obtained when              hydraulic head by means of relief valve timing
+        setting the pump maximum fuel output minus 1.5              adaptor 18G 653 A. The relief valve should be set
+        C.C. When carrying out this test use 30 seconds             to operate at 30 atmospheres.
+        measuring-glass draining time and allow the test               Turn the pump drive hub in the normal direction
+        oil to settle for 15seconds before taking a reading.        of rotation until the timing mark ‘E’ on the drive
+Ca.20                                                                                                 Taxi. Issue 5. 6394
+                  THE FUEL SYSTEM (Distributor-type Injection Pump)                                             Ca
+      plate becomes visible through the aperture in the        (5) Lift off the air cleaner body and intake hose as an
+      side of the pump housing. Operate the handle of              assembly. Note the rubber air seal between the
+      the test machine to apply a pressure of 30 atmo-             cleaner body and the intake manifold on the
+      spheres to the pump. This will force the pumping             engine.
+      plungers outwards to the limit of their travel as
+      the drive hub is turned. Continue turning the drive    Refitting
+      hub in the normal direction of rotation until            (6) Reverse the procedure in (1) to (5).
+      resistance is encountered. With the pump held in
+      this position mount flangemarking gauge 18G648A,
+      pre-set to 86°, on the pump quill shaft. Check that
+      the timing mark on the pump flange lies along the      Section Ca.16
+      scribing guide on the flange marking gauge. If
+      necessary delete the old timing mark and scribe a           INJECTION PUMP (2.52-litre diesel engine)
+      new mark by drawing a scribing tool along the             The pump is as described in Sections Ca.6 and Ca.13,
+      guide on the flange marking gauge.                     but with a type number DPA 3249F520 and the setting
+         Disconnect the pump from the test machine and       code stamped on the pump nameplate.
+      fit the banjo pipes to the hydraulic head. Refit the      Later engines are fitted with a modified pump. This
+      cover-plate to the side of the fuel pump housing       pump is as described above, but with a type number
+      and seal the securing screws with wire and lead        DPA 3342F110 and having two springs fitted to the
+      seal, using sealing pliers 18G 541.                    linkage hook instead of a single spring.
+
+                                                             Removing and replacing
+Altitude settings                                              Follow the instructions in Section Ca.7, noting that the
+  Follow the instructions in Section Ca.10.                  correct injection timing for this pump is 23° B.T.D.C.
+
+                                                             Maximum and idling speed adjustments
+                                                              Follow the instructions given in Section Ca.13.
+
+                                                             Dismantling and reassembling
+Section Ca.14                                                  Refer to the instructions given in Section Ca.13 and
+                                                             Section Ca.8.
+           AIR CLEANER (Oil Bath Type)
+                                                             Testing and adjusting
+Removing                                                     Conditionsfor test
+  (1) Release the clips and detach the air inlet tube and
+                                                               1. The test equipment must be set to drive the pump
+      the breather hose from the air cleaner body.
+  (2) Remove the screws retaining the air cleaner                  in the direction of rotation indicated on the pump
+      assembly to the left-hand valance.                            nameplate.
+  (3) Lift out the air cleaner assembly.                       2. Fuel available at the injection pump inlet must be
+                                                                   1000 c.c./min. flow minimum, or 2 lb./sq. in.
+Refitting                                                          (-15 kg./cm.2)pressure maximum.
+  (4) Reverse the procedure in (I) to (3).                     3. Test injectors must be a matched set with type
+                                                                   BDN.12.SD.12 nozzles operating at 175 atmo-
+                                                                   spheres.
+                                                              4. Injector pipes should be 6 mm. x 2 mm. x 34 in.
+Section Ca.15                                                      (865 mm.) long.
+                                                               5. The injection pump throttle and shut-off levers
+              AIR CLEANER (Dry Type)                               must be in the fully open position except where
+Removing                                                           otherwise stated.
+  (1) Remove the drive screw retaining the air intake          6. All fuel delivery figures are for 200 shots.
+      hose clip to the radiator frame.                        7. Allow 30 seconds glass draining time and 15
+  (2) Release the clip and detach the breather hose from           seconds settling time when taking fuel delivery
+      the air cleaner intake.                                      readings.
+  (3) Remove the central wing nut, detach the air cleaner      8. The maximum fuel delivery given in the test plan is
+      top cover and remove the element.                            for sea-level conditions. For continuous use above
+ (4) Release the air cleaner body from its support                 sea-level see Section Ca.10 for maximum fuel
+      bracket.                                                     settings.
+
+
+
+
+Taxi. Issue 7. 94241                                                                                             Ca.21
+Ca                   THE FUEL SYSTEM (Distributor-type Injection Pump)
+Test plan for pumps DPA 3249F520 and DPA 3342F110: Setting code A45/1200/4/3700
+
+ Test No.    1         Description        R.P.M.                     Requirements                             Remarks
+
+                  Transfer pump vacuum      100             16 in. (406 mm.) Hg                 Fuel supply turned off. After test,
+                                                            within 60 seconds                   air-vent from hydraulic vent screw
+                                                                                                at 100 r.p.m.
+
+             1
+    l.
+    2.   ~        Transfer pressure         100             1 1 lb./sq. in.(.8 kg./cm.2)
+                                                            minimum
+
+                  Transfer pressure       1,200             58 to 78 lb./sq. in.
+                                                            (4.1to 5.5 kg./cm.2)
+
+
+    4.
+    5.
+             I    Advance position
+
+
+                  Advance position
+                                          1,200
+
+
+                                          1,800
+                                                                to 2°
+
+
+                                                                to
+                                                                                                Use metering valve adjustment
+                                                                                                screw to obtain this reading.
+
+                                                                                                Metering valve adjustment as in
+                                                                                                test 4. Shut-off lever fully closed.
+                                                                                                Lock valve adjustment screw and
+                                                                                                seal it using tool 18G 541.
+
+    6.       I    Backleakage             1,200             3 to 50 C.C. for 100 stroke
+                                                            time cycle
+                                                                                                Throttle lever fully closed.
+         -
+
+
+
+
+    7.            Maximum fuel delivery   1,200             9.0        C.C.    average.         Adjust output by moving adjusting
+                                                            Spread between lines not            plate relative to drive plate with
+                                                            to exceed 1.0 C.C.                  tool 18G 656. Tighten drive plate
+                                                                                                screws to correct torque with tool
+                                                                                                18G 655 A.
+                                                       I
+
+
+    8.            Fuel delivery check                       Average as test 7 minus             This is a minimum delivery figure.
+                                                            3.2 C.C.
+
+    9.       1    Cut-off operation
+                                                       I    Average delivery 0.8 C.C.
+                                                            maximum
+                                                                                                Shut-off lever fully closed.
+
+
+
+
+   11.
+             I1   Throttle operation
+
+
+                  Fuel delivery check     1,650
+                                                       I1   Average delivery 1.0 C.C.
+                                                            maximum
+
+                                                            Record delivery
+                                                                                                Throttle lever fully closed and anti-
+                                                                                                stall screw unscrewed and locked.
+
+
+
+   12.            Governor setting        1,850             Average delivery 1.8 C.C.           Set throttle lever with maximum
+                                                            maximum. No line to                 speed adjustment screw.
+                                                            exceed 2.5 C.C.                     Lock stop screw.
+
+   13.            Fuel delivery check     1,650             Average delivery as in              This is a minimum figure. Throttle
+                                                            test 1 1 minus 0.4 C.C.             set as in test 12.
+                                                   ~                      -                ~~                   -         ~        ~~
+
+
+
+
+   14.            Governor setting        1,850             Average delivery of 1-8 C.C.        Set throttle with maximum speed
+                                                                                                adjustment screw. Lock stop screw.
+
+                                                                                                Adaptor 18G653 A (set at 30
+                                                                                                atmospheres) connecting 18G 109A
+                                                                                                to outlet 'V'. Apply fuel pressure,
+                                                                                                rotatedrivehubwithtool 18G648A
+                                                                                                (set at 86°) and mark pump flange
+                                                                                                with scriber.
+
+
+
+Ca.22                                                                                                               Taxi. Issue 7. 94241
+                             KEY TO THE DISTRIBUTOR-TYPE FUEL INJECTION PUMP COMPONENTS
+No.              Description                   No.              Description         No.                Description
+ 1. End plate.                                 44. Thrust sleeve.                    86.   Throttle shaft.
+ 2. Locating pin.                              45. Thrust washer.                    87.   Seal for throttle shaft.
+ 3. Screw for end plate.                       46. Drive shaft.                      88.   Dust cap for shaft.
+ 4. Stud for end plate.                        47. Drive shaft seal.                 89.   Nut for shaft.
+ 5. Nut for stud.                              48. Drive shaft screw.                90.   Throttle arm.
+ 6. Piston retaining spring.                   49. Spring washer for screw.          91.   Governor spring.
+ 7. Regulating piston.                         50. Support washer.                   92.   Guide for idling spring.
+ 8. Regulating sleeve.                         51. Drive hub.                        93.   Control cover.
+ 9. Washer for sleeve.                         52. Drive hub seal.                   94.   Adjusting screw.
+10. Filter.                                    53. Quill shaft.                      95.   Washer for adjusting screw.
+11. Regulating plug.                           54. Pump housing.                     96.   Locknut for screw.
+12. Regulating spring.                         55. Gasket for control cover.         97.   Locking sleeve.
+13. Sleeve retaining spring.                   56. Cover-plate.                      98.   Adaptor for sleeve.
+14. Inlet connection.                          57. Gasket for cover-plate.           99.   Vent screw.
+15. Washer for inlet connection.               58. Screw for cover-plate.           100.   Vent screw body.
+16. Transfer pump rotor.                       59. Washer for screw (shakeproof).   101.   Washer for vent screw body.
+17. Transfer pump blade.                       60. Drain connection.                102.   Adjustment screw for metering valve.
+18. Transfer pump liner.                       61. Washer for connection.           103.   Washer for nut.
+19. Transfer pump seal.                        62. Governor arm.                    104.   Locknut.
+20. Hydraulic head and rotor assembly.         63. Spring for governor arm.         105.   Sealing cap.
+21. Rotor plug.                                64. Keep plate.                      106.   Automatic advance device housing and piston.
+22. Washer for plug.                           65. Tab washer.                      107.   Gasket for housing.
+23. Hydraulic head seal.                       66. Control bracket.                 108.   Stud for housing.
+24. Banjo pipe.                                67. Screw for bracket.               109.   Cap nut for stud.
+25. Bolt for banjo pipe.                       68. Tab washer for screw.            110.   Washer for cap nut.
+26. Washer for bolt.                           69. Stud for control cover.          111.   Cam advance screw.
+27. Fuel feed pipe connection.                 70. Nut for stud.                    112.   Piston plug.
+28. Olive for fuel feed pipe.                  71. Washer for stud.                 113.   Seal for plug.
+29. Hydraulic head locking screw.              72. Linkage nut.                     114.   Piston spring cap.
+30. Washer for screw.                          73. Pivot ball washer.               115.   Seal for cap.
+31. Hydraulic head vent screw assembly.        74. Linkage washer.                  116.   Screw for cap.
+32. Vented locking screw for hydraulic head.   75. Linkage hook.                    117.   Washer for screw.
+33. Vent screw.                                76. Linkage spring.                  118.   Head locating bolt.
+34. Adjusting plate (bottom).                  77. Spring retainer.                 119.   Slide washer.
+35. Roller shoe.                               78. Metering valve.                  120.   Maximum advance stop.
+36. Roller                                     79. Shut-off bar.                    121.   Spring for stop.
+37. Adjusting plate (top).                     80. Shut-off Shaft.                  122.   Shim washer for spring.
+38. Drive plate.                               81. Seal for shut-off shaft.         123.   Washer for head locating bolt.
+39. Drive plate screw.                         82. Shut-off lever.                  124.   Joint washer for pump mounting flange.
+40. Cam ring.                                  83. Dust cap for shaft.              125.   Washer for nut.
+41. Locating circlip for cam ring.             84. Washer for shaft.                126.   Nut for injection pump mounting bolt.
+42. Governor weight.                           85. Nut for shaft.                   127.   Idling spring.
+43. Retainer for governor weights.
+

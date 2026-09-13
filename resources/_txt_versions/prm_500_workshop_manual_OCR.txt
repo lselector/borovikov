@@ -1,0 +1,2830 @@
+                  Marine Transmissions
+
+
+
+
+         PRM 500
+       Workshop Manual
+
+
+
+
+Issue: 2 6/2000
+ The following international symbols are used in this service manual.
+
+
+
+
+                WARNING: THIS SYMBOL WARNS OF POSSIBLE PERSONAL INJURY
+
+
+
+
+  as            CAUTION: THIS SYMBOL WARNS OF POSSIBLE DAMAGE TO TRANSMISSION
+
+
+
+
+Newage Transmissions operate a policy of product improvement and therefore reserve the night to change specifications without prior notification.
+Whilst every effort is made to ensure complete accuracy of the information in this manual no liabilities for inaccuracies or the consequences thereof can be
+accepted by the manufacturer or the distributor/dealer who supplied the manual.
+
+
+
+
+PRM500 WORKSHOP MANUAL
+ISSUE 2 6/00
+CONTENTS
+
+
+
+
+SECTION                                                       PAGE
+
+                                                               fs
+           List of illustrations
+                                                               OT
+           Foreword
+                                                               OT
+           Warranty information
+                                                               OF
+           Pre-delivery test
+                                                               ®.
+           Identification plate information
+
+
+           GENERAL DATA                                        mJ
+
+
+
+
+           1.1 Specifications
+           1.2 Basic installation data
+
+
+           INTRODUCTION                                        10
+
+
+           CONSTRUCTION                                        10
+
+
+           3.1 Gearcase                                        10
+           3.2 Gear train                                      10
+           3.3 Oil pump                                        11
+           3.4 Valve block                                     14
+           3.5 Neutral safety switch                           12
+
+
+           OPERATING SYSTEM                                    12
+
+
+           4.1 Output rotations                                12
+           4.2 Hydraulic system                                13
+           4.3 Lubrication                                     14
+           4.4 Approved oils                                   14
+
+
+           INSTALLATION                                        14
+
+
+           5.1 General                                         14
+           5.2: Checking the engine flywheel housing           14
+           5.3 Checking the engine flywheel                    15
+           5.4 Mounting the gearbox to the engine              15
+           5.5 Oil cooler                                      16
+             5.5.1. Oil cooler with PTO                        17
+           5.6 Alignment to propeller shaft                   18
+           5.7 Installation angle                             18
+           5.8. Twin installations                            18
+           5.9 Remote control operating unit                  19
+
+
+           OPERATION                                          20
+
+
+           6.1 First time usage                               20
+           6.2 Drive selection                                20
+           6.3 Trailing (freewheeling) the propeller          20
+           6.4. Emergency operation                           20
+
+
+           ROUTINE MAINTENANCE                                21
+
+
+           7.1 Initial maintenance (after 25 hours running)   21
+           7.2 Daily checks                                   21
+           7.3 Annual checks                                  21
+           7.4 Winter storage                                 21
+           7.5 Other maintenance operations                   21
+
+
+
+
+           FAULT FINDING                                      22
+SECTION                                                             PAGE
+
+
+   9      SERVICING AND REPAIRS - GENERAL                            23
+
+
+   10     SERVICING AND REPAIRS - PROCEDURES                         24
+
+
+          10.1 Valve block                                           29
+          10.2 Oil pump                                              20
+          10.3 Removing transmission from boat                       25
+          10.4 Removing input and layshaft assemblies                26
+          10.5 Servicing input and layshaft assemblies               26
+             10.5.1. Input shaft oil seal                            26
+             10.5.2 Drive end bearing                                26
+             10.5.3 Clutch assemblies                                26
+             10.5.4 Drive pinion                                     27
+             10.5.5. Rear end bearing, piston rings and feeder       27
+             10.5.6 Clutch gear                                      28
+          10.6 Replacement of input shaft and layshaft assemblies    28
+          10.7 Servicing the output shaft assembly                   28
+          10.8 Shimming procedures                                   29
+
+
+   11     POWER TAKE-OFF UNIT                                        30
+
+
+          11.1° To fit a PTO unit to an existing gearbox             30
+          11.2 To repair an existing PTO unit                        30
+
+
+   12     OPTIONAL TROLLING VALVE DESCRIPTION                        31
+
+
+          12.1 Description                                           31
+          12.2 Trolling Valve installation data                      31
+          12.3 Trolling Vaive fitting instructions                   33
+
+
+  13      TOOL KIT                                                   34
+
+
+          13.1. Tightening torques                                   34
+
+
+
+
+  14      REPLACEMENT PARTS ORDERING                                 34
+
+
+          REPLACEMENT PARTS LIST AND ASSEMBLY DRAWINGS               35
+       LIST OF ILLUSTRATIONS                                                         PAGE
+
+
+Fig.   eh          PRM500 - Sectional view
+
+Fig.   ND          Installation drawing
+
+       WO
+Fig.               Internal layout                                                    10
+
+       BR
+Fig.               Oil pump mounting position                                         11
+
+Fig.   A
+                   Wiring diagram for neutral safety switch                           12
+
+       Oo
+Fig.               Hydraulic and lubricating oil circuits                             13
+
+Fig.               Checking trueness of flywheel and flywheel housing                 15
+
+       On
+Fig.               Engine and gearbox cooling circuit                                 16
+
+       oO
+Fig.               Oil cooler connections PRM500                                      17
+             2)
+Fig.               Oil cooler connections PRM500 with PTO                             17
+
+Fig.   hk    nn    Propeller rotation, twin installations                             19
+
+Fig.   —     ie)
+                   Operating lever movement for ahead drive, twin installations       19
+
+Fig.   os    wo    Fitting piston rings                                               27
+
+Fig.   —s    ~     Shimming procedure                                                 29
+
+Fig.   —     ol    Shimming procedure                                                 29
+
+Fig.   —     o>)   Shimming procedure                                                 29
+
+             nn
+Fig.               Fitting PTO unit to existing PRM500                                30
+
+Fig.               PTO components                                                     30
+
+Fig.   kek   oo    Trolling Valve installation data                                  31
+
+Fig.   Se}   oO    Trolling Valve installation data                                  31
+
+Fig. 21 Trolling Valve installation data                                              32
+
+Fig. 22 Trolling Valve electrical circuit                                             32
+
+Fig. 23 Trolling Valve basic circuit diagram                                          32
+
+Fig. 24 Trolling Valve schematic layout                                               32
+
+
+
+
+                                                      Fig. 1 PRM500 Sectional View
+
+
+                                                                   4
+FOREWORD
+
+Provided it is correctly installed, aligned and maintained, the PRM500 gearbox should have a long and trouble-free
+life. This workshop manual contains important instructions to ensure that this is so, and it is of the utmost
+importance that these are carefully followed.               Newage Transmissions Ltd. can accept no responsibility under
+warranty or otherwise for any loss or damage resulting from failure to observe these instructions.
+
+
+To avoid prejudicing your rights under warranty, do not undertake any repair or other work on the gearbox during
+the warranty period without first contacting Newage Transmissions Ltd. or an authorised distributor for advice. In
+the event of failure, you should do this via the engine distributor who supplied the gearbox, or his local dealer; if this
+is not possible, you should notify the local Newage distributor/dealer or Newage Transmissions Ltd. direct, quoting
+the serial number.
+
+
+
+CLAIMS UNDER WARRANTY
+
+Claims for replacement of parts under warranty must always be submitted with the gearbox serial number to the
+distributor who supplied the gearbox; if this is not possible, application may be made to the nearest distributor, who
+must, however, be advised of the supplier's name and address.
+
+
+
+SERVICE PARTS
+
+The comprehensive illustrated parts list gives full information and ordering procedure.
+
+
+
+PRE-DELIVERY TEST
+
+Before it leaves the factory, every gearbox is subjected to a final test and inspection which includes the following:-
+
+        =
+                   Flush clean.
+                   Fill with oil to correct level.
+                   Pressurise the case, and check for oil leaks.
+                   Check for noise levels.
+                   Check for drag in neutral.
+                   Check input spline dimensions.
+                   Check bolt torques.
+                   Check coupling concentricity.
+        OONOARAN   Check for conformance to customer spec.
+      10.          Record time to working temperature
+      11. . Record gearbox temperature (Deg. C).
+      12...        Record valve block force N to F (Ibf).
+      13..         Record valve block force N to R (bf).
+      14.          Record oil pressure @ 2000rpm (Ib/sq.in) in forward, neutral and reverse.
+IDENTIFICATION PLATE
+
+
+Every PRM gearbox is fitted with an identification plate on the top half of the gearcase before it leaves the factory;
+an example of such a plate is shown below.
+
+
+
+
+         NEWAGE              PRM      COVENTRY                     NEWAGE           PRM        COVENTRY
+
+
+
+          123456                         R1234
+
+
+          S00D2
+
+
+                   MADE IN ENGLAND                                           MADE IN ENGLAND
+
+
+
+                                                                Please complete the above box with serial
+                                                                number and specification of your own gearbox.
+
+
+It will be noted that there are two lines of numbers.
+
+
+The top line is the gearbox serial number, and should always be quoted when ordering spare parts; the lower line
+is the gearbox specification, in the example given this translates as follows:-
+
+
+
+
+       First 3 digits - Gearbox Model (500)
+
+
+       Fourth digit - output shaft configuration
+
+
+       Fifth & sixth digit - ratio
+
+
+
+
+NOTE: — Throughout this manual, engine, gearbox and propeller rotation are always described as seen
+looking forward from the propeller to the engine.
+1. GENERAL DATA
+
+1.1 Specifications
+
+
+Gear ratios
+
+
+1.459:1, 1.935:1, 2.565:1, or 2.904:1
+
+
+                                                 POWER RATING
+
+                                   - PLEASURE _| LIGHT COMMERCIAL |HEAVY COMMERCIAL
+        GEAR RATIOS |                BHP           kw             BHP            kW             BHP            kW
+          1.459:1, 1.935:            6.38          4.76           6.19           4.62           5.90           4.40
+
+          9.565:1, 2.904:4           6.19          4.62           5.90           4.40           5.90           4.40
+
+
+
+NOTE: These powers are expressed in BHP and kW per 100 rev/min engine speed, and are measured at the
+engine flywheel. Ratings have been established to ensure the long trouble-free life of the gearbox which
+should not therefore, be used at powers in excess of those shown.
+
+
+
+Input speed:
+
+
+Maximum operating speed 4000 rev/min continuous
+                             4500 rev/min intermittent
+
+
+SERVICE CLASSIFICATION DEFINITIONS
+
+    Pleasure: limited to planing hull pleasure craft with a maximum of 500 hours operating time per year, of which
+    not more than 5% should be at full engine throttle, with the balance of usage at 90% or less of full throttle. The
+    use of PRM marine gearboxes according to this classification in any commercial boat, or in sport-fishing charter
+    boats or long-range pleasure cruisers, is not approved.
+
+
+    Light commercial: planing or semi-displacement craft used in pleasure or commercial application may qualify
+    for light commercial rating if annual usage is less than 1500 hours and full throttle operation is limited, with most
+    operating time at partial throttle.
+
+
+    Heavy commercial: all displacement and semi-displacement craft used for commercial applications should be
+    classified as heavy commercial duty. In this type of vessel (such as trawlers, purse seiners, lobster and crab
+    boats, tugs, ferries, offshore supply boats etc.) the gearbox is expected to work at full governed engine speed.
+    The power setting of the engine must be known and must be within the permitted heavy commercial rating of
+    the gearbox.
+
+
+
+
+IMPORTANT NOTE
+
+1. It is essential that the engine, transmission model, reduction ratio and propeller size are correctly
+matched so that the engine can attain its rated speed appropriate to the relevant service classification
+without labouring.
+
+
+2. Itis also necessary to ensure the torsional compatibility of the complete propulsion system from engine
+through to propeller, since disregarding this may result in gear noise, particularly at low speed operation and
+may even result in damage to the engine as well as to transmission components.
+
+
+Newage Transmissions Limited will provide all possible information and assistance to help find solutions to
+potential torsional problems, but it is the ultimate responsibility of the person assembling the drive and driven
+equipment to ensure that they are torsionally compatible.
+Input rotation:
+
+May be either clockwise or anti-clockwise (see section 2)
+
+
+Output rotation:
+
+Clockwise or anti-clockwise as required (see section 4)
+
+
+Approximate dry weight:
+
+500D        68kg (150lb) (excluding drive coupling, adaptor flange and oil cooler)
+            Additional weight - Power Take-off 6.9kg (15.2lb)
+
+
+Oil capacity:
+
+500D        2.5 litres (4.40 pints) (plus the amount required to fill the cooling circuit)
+
+
+Operating pressure:
+
+Minimum:- 1800kPa (265 Ib/in2)          Oil pressures should be measured at a gearbox temperature of 70°C
+Maximum:-2180kPa (320 Ib/in2)           and an input speed of approximately 1500rpm.
+
+
+NOTE: Pressure may vary at different operating speeds; it is likely that, on start up, when the gearbox is
+cold, significantly higher pressures may occur.
+
+
+Operating oil temperature:
+
+The normal operating temperature should be in the range 50°C to 80°C with a maximum of 90°C permissible for
+very short periods only.
+
+
+Transmission cooling:
+
+An oil cooler is necessary to ensure that correct operating temperatures are maintained and the gearbox is provided
+with two 3/8 inch BSP connectors on the valve block to allow it to be fitted. The size of the cooler depends on a
+number of factors including the engine horse power, operating speed, duty cycle, inlet water temperature and
+ambient temperature.
+
+
+Suitable coolers are available from Newage Transmissions Ltd.
+
+
+Engine mounting adaptors:
+
+Available in SAE 2,3,4 and Velvet Drive (Borg Warner) also available.
+
+
+Input drive couplings:
+
+Flexible drive couplings are available to suit flywheels of 10" and 11.5" nominal diameter to SAE J620C, and to
+other dimensions.
+
+
+Gearcase:
+
+Heavy duty cast iron for use in the marine environment, constructed in two halves for ease of servicing; ribbed
+internally for rigidity and strength.
+
+
+Input shaft:
+
+29mm diameter with 16/32 DP Involute spline.
+
+
+Propeller thrust:
+
+Ahead and astern thrust is carried by output shaft bearings of ample capacity for all Newage approved ratings.
+
+
+Output flange:
+
+152mm (6 in.) diameter, with 6 holes 138mm (0.512 in.) diameter on 121mm (4.5 in.) pitch circle diameter, and
+female spigot, 76.2mm (3.00in) diameter.
+
+
+Installation angle:
+
+The maximum fore and aft installation angle at rest is 17°.
+ 1.2                              BASIC INSTALLATION DETAILS - PRM500
+
+
+
+
+                                           TYP. ADAPTOR
+                                           SEE CHART                88.9
+                                                     oN                        faa                                                               35
+
+
+                                                                               ha
+
+
+
+
+                                                                           |                                                                          /
+                                                                                                                                                  /
+                                                                                                                                             vA
+                                                                                                                                         /
+
+                                            z
+                                           fe)      71>
+                                            E|      of
+                                            §       3 oa
+                                            ogi                     Z|
+                                            =|                 / |                                                                                    ATT
+                                                                           |                                                                           Pp
+                                                 INPUT SHAFT SPLINE |                                                                                        tz
+                                                 17 TEETH, 16/32 DP___     |                                                                                 “ox
+                                                 FILLET ROOT SIDE FIT                                                                                   HBS 8
+                       SA)          ‘m3            mm                                                                                                        »~ &
+  apaptors |_2 A                    B                                      |                                                                           |— 5;
+                      mm           mm                                      |                                                                          —H--
+   SAE2              447.68 | 15.88                                        if
+   SAE3              409.55        15.75                                            q                                                            14.2] |
+                                                                                                                   35 MIN. DRAIN PLUG
+   SAE4              361.95        19.05                                                                           CLEMBENCE.
+
+   B/W               209.52        28.57                                                                                 ata
+
+                                                      DIPSTICK 18.0 A/F.
+
+
+
+
+                                                                                                        300 MIN.
+                                                                                                        CLEARANCE
+                                                                                                        DIPSTICK
+
+
+
+
+1 HOLE THRU’ 07.14
+
+1 HOLE THRU’ 26.73
+
+
+                                                                               --——
+                                                                                        —-
+                                                                 —_—_
+
+
+
+
+                                                                                         TYP.
+
+
+
+
+                                                                                         120.65/20.70
+
+
+
+
+                                                                                                             242
+
+
+
+
+                                                                    E QUISPECED ON
+                                                                    120.6 PCD.
+
+
+
+
+                                                                                        IMPORTANT NOTE
+
+ INSTALLATION ANGLE                                                                                       comet of ete      cf going to pr.How
+The maximum fore and aft installation
+    angle permissible at rest is 17°.
+
+
+
+
+                                                        Fig. 2
+2. INTRODUCTION
+
+Newage Transmissions Ltd. PRM500 marine transmission are oil-operated gearboxes of the counter-shaft type with
+separate oil-operated multi-disc clutches (which need no adjustment) for both ahead and astern drive. This design
+permits full power to be transmitted in astern as well as ahead, and also allows right-hand or left-hand propeller
+rotation in ahead drive, with identical ratios in ahead and astern.
+
+
+The PRM500 can be fitted to both left-hand (anti-clockwise) and right-hand (clockwise) rotating engines (see
+section 3.3)
+
+
+NOTE: throughout this manual, engine, gearbox and propeller rotations are described as seen when
+standing behind the boat, i.e. facing forwards towards the transmission and engine.
+
+
+
+
+3. CONSTRUCTION
+
+3.1 Gearcase
+
+
+The gearcase has been kept free from hydraulic pipes, cylinders and associated components. The only items
+mounted externally are the oil pump, valve block, oil cooler and operating lever.
+
+
+A magnetic drain plug is provided at the front of the gearcase; this can be removed if required to allow suitable
+pipework to be connected to a hand-operated drain pump.
+
+
+Connections are provided on the valve block for the oil cooler and pressure gauge.
+
+
+3.2 Gear train
+
+
+The transmission comprises an input shaft assembly, a layshaft assembly and an output shaft.
+
+
+The input shaft, which is supported by a taper roller bearing at either end, incorporates a drive pinion of the required
+ratio, running on needle roller bearings, an emergency operating device (see section 6.4), the forward drive clutch
+assembly (when used with a right-hand propeller), the clutch gear and a hydraulically actuated piston to operate the
+clutch.
+
+
+
+      Clutch                  Clutch       Pinion                                 LOZ
+      Gear R.H.
+
+                                                                             Lax -                      Flywheel
+                                                                             Dy
+
+
+
+                                                                                  QW
+                                                                                   a
+      Output
+      Flange \
+                                                                      Input Shaft
+
+                                                                      Output
+                                                                      Gear
+
+
+
+
+      Clutch
+      Gear L.H.
+
+
+
+
+                                          Fig.3 Internal layout, PRM500D
+
+
+
+The layshaft is similarly supported by taper roller bearings and also incorporates a drive pinion of the same ratio,
+also running on needle roller bearings, the reverse drive clutch assembly (when used with a right-hand propeller),
+a clutch gear of the opposite hand rotation to that on the input shaft, and a hydraulically actuated piston which
+operates the clutch.
+
+
+The output shaft runs on amply proportioned bearings, arranged in such a way that propeller thrust can be
+satisfactorily absorbed; it also carries the output gear and incorporates the output flange.
+
+
+
+                                                          10
+3.3 Oil pump
+
+
+A cast iron gear-type pump externally mounted at the rear of the gearcase and driven by the layshaft, supplies oil at
+high pressure for actuating the clutch assemblies, and at lower pressure for lubrication. It should be noted that
+pressure may vary at different operating speeds.      It is also likely that, on start up, when the gearbox is cold
+significantly higher pressures may occur.
+
+
+
+
+                                                                                                         2
+
+
+
+
+                                         @                                                           a
+
+                         Fig. 4                                                         Fig. 4
+               Pump mounting position                                         Pump mounting position
+                anti-clockwise engines                                           clockwise engines
+
+
+NOTE: Unless otherwise specified at the time of ordering, it will be assumed an anti-clockwise rotating
+engine is being used and the oil pump will be mounted accordingly.
+
+
+If a clockwise rotating engine is specified when the order is placed, the pump will automatically be mounted in the
+appropriate position.
+
+
+3.4 Valve block
+
+
+The valve block is located on the top of the gearcase and contains the main control valve, integral with which is the
+high pressure valve controlling the supply of oil to the clutch assemblies. Oil which is surplus to clutch operation
+requirements is used for lubrication purposes.
+
+
+The control valve is fitted with a spring-loaded neutral detent which provides a positive neutral position ensuring
+correct selection of either ahead or astern drive.
+
+
+
+
+                                                         11
+3.5 Neutral safety switch
+
+
+A neutral safety start switch, which prevents the engine from being started unless the gearbox is in neutral, is
+available as an optional extra.
+
+
+This device is of obvious benefit, since it will help prevent accident or damage caused by a boat moving ahead or
+astern on engine start-up in a crowded marina or other area. Newage Transmissions Ltd. strongly recommends the
+use of this device.
+
+
+When fitted, the switch is located on the valve block (See item C27 on the parts list) and should be wired into the
+starter circuit as shown in Fig. 5.
+
+
+
+
+    ©                          .                                                                                ©
+                                                 2
+
+
+                         ‘1/0 /o             [Sool
+
+
+                           Forward    =...
+
+                                                 ao     “—
+
+                           Neutral               Or
+
+                           Reverse.
+
+
+
+
+                                                                                              “Ml
+                                                                                                      12V
+                                                                                                     (24V)
+
+
+
+
+                                                  1.   Start key switch
+                                                  2.   Starter push switch
+                                                  3    Neutral safety switch
+                                                  4    Solenoid/starter motor
+
+
+
+                                   Fig. 5 Wiring diagram, neutral safety start switch
+
+
+
+4. OPERATING SYSTEM
+
+4.1 Output rotations
+
+
+With the control lever at the mid-point of travel or neutral position and the engine running, the splined input shaft
+and the clutch gear rotate at engine speed. The clutch gear is in constant mesh with the clutch gear on the layshaft
+which is therefore also driven at engine speed, but in the opposite rotation. Since neither clutch is engaged, the
+drive pinions do not rotate.
+
+
+When the control lever is moved to the ‘ahead’ position the hydraulic system is actuated and oil is directed at high
+pressure to the clutch on the appropriate shaft; the clutch engages and engine drive is directed to the forward drive
+pinion. The pinion turns the gear on the output shaft and the propeller shaft and propeller are rotated in the direction
+corresponding to ahead movement of the vessel.
+
+
+Similarly, when the control lever is moved to the ‘astern' position, the clutch on the opposite shaft is engaged and
+drive applied to the reverse pinion. This turns the output shaft gear in the opposite direction; and the propeller shaft
+and propeller rotate in the direction corresponding to astern movement of vessel.
+
+
+
+
+                                                             12
+                                          GEARBOX OUTPUT ROTATION
+
+
+
+                  Engine rotation anti-clockwise                                             Engine rotation clockwise
+
+
+                                       PRM500D                                                                       PRM500D
+
+
+                  Lever Backward        Cy                                                 Lever Backward { )
+
+                   Lever Forward { )                                                       Lever Forward Cy
+
+NOTE:      (i)       Rotations are as seen looking from the propeller forward to the gearbox.
+
+           (ii)      Anti-clockwise engines are the most common, and the standard gearbox build therefore
+                     assumes an anti-clockwise input.
+
+
+4.2 Hydraulic system
+
+
+Oil is pumped from the gearbox sump through the internal supply pipe to the control block. This incorporates a
+high pressure valve which ensures that the correct operating pressure is maintained.
+
+When the operating lever is moved, oil is delivered under pressure to a feeder on either the input shaft or the
+layshaft and thence to a piston which actuates the appropriate clutch for either ahead or astern drive.
+
+Excess oil is then used for lubricating the gearbox and PTO if fitted.
+
+
+
+
+                                                                                           OIL COOLER
+                                                            EE
+
+
+
+
+                                                            FSEEF
+                                                                                                =\eT0 LUBE
+
+
+                                                            SEEEE
+
+                                   CONTROL VALVE
+
+
+                                                         Ga he aa © oe @ ae rr                                   |
+                                                            EEFEF
+
+
+
+
+                                                           —6O=1:60-
+                                                                             AT)
+                                                                cLuTcH § A                        Ba cucu
+                                                                    FEEDER                             hia   R
+
+
+                                                                             ITALAS
+
+
+
+
+                                                                             TAT
+
+
+
+
+                                         OIL. PUMP
+
+
+
+
+                                                                             ASAATAALIT
+
+
+                                                                             A
+
+
+
+
+                                                                             LAAALAAAAAA
+
+
+
+
+                                                           HIGH PRESSURE LINE TO CLUTCH A         @f
+
+
+                                   os           ee   G&G? Pe SE LINE TO CLUTCH 'B' (DISENGAGED}
+
+                                   rere eee re ee FE) LUBRICATING CIRCUIT
+
+
+
+                                   e                 ¥    J OIL INTARE FROM SUMP
+
+
+
+
+                                       Fig. 6 Hydraulic and lubricating oil circuits
+
+
+
+                                                                       13
+4.3 Lubrication
+
+ Lubrication oil is delivered via the internal supply to the control block. Irrespective of whether ahead or astern is
+engaged, oil is diverted from the discharge side of the pressure relief valve to an external oil cooler. After passing
+through the cooler, the oil is directed through channels in the valve block and thence through the layshaft and drive
+shaft to lubricate the clutch assemblies.
+
+
+4.4 Approved oils
+
+
+
+
+                  Below Zero                 10W30 or 20W engine oil to AP1 designation CD
+
+                 0°C to 30°C                 10W30 or 15W40 engine oil to AP1 designation CD
+
+                  Above 30°                  10W30 or 40W engine oil to AP1 designation CD
+
+              Note: Gearboxes are despatched from the factory without oil.
+
+It is essential that only good quality engine oil, supplied by a recognised and well known manufacturer, is used in
+the PRMS500. Do not mix different brands, types or grade of oil.
+
+NOTE: This oil specification also applies to gearboxes fitted with the electronic trolling valve (available 1996).
+
+  \         CAUTION: Failure to comply with the above oil types may result in the forfeiture of warranty
+            cover since no claims under warranty will be entertained if oil of the wrong specification is used.
+
+
+
+5. INSTALLATION
+
+5.1 General
+
+The Newage PRM500 marine gearbox is supplied with a choice of adaptor plates to SAE2, SAE3, SAE4, and Velvet
+Drive (Borg Warner) specifications enabling it to be fitted to engines having flywheel housings of equivalent
+specification.
+
+Drive is transmitted from the engine to the gearbox via a flexible centre drive plate (damper plate) which bolts to the
+engine flywheel. The gearbox input shaft is driven from the centre spline.
+
+These drive plates have a degree of torsional flexibility, the purpose being to reduce engine torsional or cyclic
+vibrations and prevent them being passed to the transmission.
+
+The strongest engine vibrations are usually those caused by the firing cycle... Diesel engines which have high
+compression ratios, usually generate stronger vibration pulses than petrol (gasolene) engines; and it is often the
+case that of two engines of roughly equivalent size, the one having the greater number of cylinders will tend to run
+more smoothly than the one with fewer cylinders, although this is by no means always the case.
+
+In all marine installations, correct alignment of the engine, gearbox and propeller shaft is extremely important -
+misalignment can cause noise, vibration and premature failure - and it is strongly recommended that all the
+procedures detailed in this manual are carefully followed.
+
+
+            CAUTION: — It is particularily important to ensure the torsional compatibility of the complete
+            propulsion system from engine through to propeller since disregarding this may result in gear
+            noise at low speed operation and in extreme cases damage or failure of components.
+            Newage Transmissions Ltd. will provide all possible information and assistance to help find
+            solutions to potential torsional problems, but it is the ultimate responsibility of the person
+            assembling the drive and driven equipment to ensure that they are torsionally compatible.
+
+
+
+5.2 Checking the engine flywheel housing
+
+Attach a dial test indicator, calibrated in units of 0.025mm (0.001in.) or smaller, to the flywheel so that the measuring
+stylus of the indicator is perpendicular to the bore of the flywheel housing (bore A on Fig.7).. Rotate the flywheel
+and check the deviation on the indicator over one complete revolution: this should not exceed 0.152mm (0.006in.)
+total indicator reading.
+
+With the dial test indicator still attached to the flywheel, re-position the stylus so that it is perpendicular to the face
+of the flywheel housing (face B on Fig. 7). Rotate the flywheel and check the deviation over one complete
+revolution; again, this should not exceed 0.152mm (0.006in.) total indicator reading.
+
+
+
+
+                                                            14
+5.3 Checking the engine flywheel
+
+
+Attach a dial test indicator, calibrated to 0.025mm (0.001in.) or less, to the engine flywheel housing so that the
+measuring stylus of the indicator is perpendicular to the bore of the register in the flywheel (bore C on Fig. 7).
+Rotate the flywheel through one complete revolution and note the deviation, this should not exceed 0.125mm
+(0.005in.) total indicator reading.
+
+
+With the dial test indicator still attached to the flywheel housing, reposition the stylus so that it is perpendicular to
+the face of the flywheel register (D on Fig. 7). Rotate the flywheel through one complete revolution and note the
+deviation, this should not exceed 0.125mm (0.005in.) total indicator reading.
+
+
+
+
+                    :                           a oat an old                                ae       a        all
+     Flywheel Housing. OOOO                                                                                   OL_ Face
+                                                                                                                     B
+                                                A            ra   ill                           a         A    Ps
+
+
+                                        LL          a
+
+                                            oat          7
+
+
+
+
+                                        Li at                           u              "ae           N\                          Bore A
+                                                    Ys                      Se              Ry.
+                                                                                  \              =
+                                                                                       \             \[-—__ Face D
+                                        a                                   ‘              S         b
+                                        Fa s                                    ce              a
+                                                Pg                                     ez            =                Bore C
+                                            -        “                  \                  iy
+                                        9                                       “ty,            Ny
+                                            ye                          Pi, ee ioe                                   Flywheel
+
+
+                                                2                       .               a
+                                 woe Z 1 rad                                ye              ~~ Punnavrayanv trn ts TLenebreeee ent
+
+
+
+
+                                  Fig. 7 Checking the flywheel and flywheel housing
+
+
+
+5.4 Mounting the gearbox to the engine
+
+
+     \\      CAUTION: Failure to carry out the following mounting instructions correctly can cause vibration
+             that could result in component or gearbox failure.
+
+
+1.    Taking care to ensure correct alignment, bolt the adaptor flange to the front of the gearbox; the maximum
+      misalignment allowable between the adaptor and the gearbox is 0.002in (0.05mm).
+
+
+2.    Using an alignment mandrel if available, mount and bolt the flexible input coupling to the flywheel via the holes
+      provided. If the flywheel and couplings are to SAE standard, the outside diameter of the coupling should be a
+      close fit in the flywheel register.
+
+
+      If no mandrel is available, tighten the mounting bolts just sufÏciently to prevent free movement, assemble the
+      gearbox to the coupling, and rotate the engine two or three revolutions by hand to align the plate. Tighten up
+      two or three opposite bolts, using the inspection window provided in the gearbox adaptor flange.
+
+
+3.    Remove the gearbox and fully tighten the flexible input coupling bolts.
+
+
+4.    Offer up the gearbox and adaptor to the input coupling and engine flywheel housing at the correct attitude to
+      provide the output shaft offset and insert the gearbox input shaft into the centre of the coupling (it may be
+      necessary to rock the shaft slightly to ensure that the shaft enters). Press the assembly fully into position, align
+      the mounting holes in the adaptor flange with those on the flywheel housing and tighten fully.
+      See torque chart page 34.
+
+
+
+                                                                                            15
+5.5 Oil Cooler
+
+
+All Newage PRM500 gearboxes must be fitted with an oil cooler to maintain correct working temperature (50-80°C).
+To permit a suitable cooler to be fitted, two 3/8 in. BSP connections are provided on the valve block. Note: these
+are blanked off with plastic "Redcap" plugs on delivery from the factory.
+
+
+           CAUTION: Failure to correctly install an oil cooler into the lubrication circuit can result in damage
+           to the gearbox see Fig. 8 below and page 17, Fig. 9 and 10 for correct circuit. After a gearbox
+           failure it is extremely important to flush cooler and hoses completely to remove any
+           contamination. Failure to do so could result in the new/repaired gearbox failing prematurely.
+
+
+The gearbox oil cooler is normally mounted on the gearbox adaptor flange or the bulkhead of the boat, and then
+connected into the cooling system on the engine; one method of arranging the engine and gearbox cooling circuit
+is shown below.
+NOTE: cooling water must pass through gearbox cooler before engine cooler.
+
+
+
+
+                                                                            Heat Exchanger and Header Tank
+
+                                                                            Thermostat
+
+                 Discharge            =                             — ay Jae
+                 Down Exhaust Pipe §;   '                        (c=     et
+                                iA,       — rieaia ee el CO Or ——./
+                                                                             t
+
+
+
+
+                               i / [4
+                                 TM               Manifold       Freshwater Pump
+
+                          S
+                          a0 TT                       SS               ey          ii
+                       }
+          Gearbox Oil tt —<. oan |                                                                ;   eawater
+                                                             |    '
+                                                                   |
+                                                                             ' an| 4 Pump
+                                                             \ ag 7         ~ —~/
+                                                       Internal Engine Passages
+                 —~_— —    a                        ~ —_>-         _ ——_—_>
+
+
+
+
+                  From Seacock
+
+
+
+
+                                  Fig. 8 Engine and gearbox cooling circuit
+
+
+
+
+          CAUTION: Remove the "Redcap" plugs from the valve block and gearbox prior to the installation
+/\ of the cooler. Connect suitable hoses to the connections on the oil cooler and valve block, which
+—         can then be incorporated into the engine cooling system as outlined above.
+
+
+          CAUTION: Operating oil temperature should not exceed 90°C any circumstances. If the checks
+/\ listed in the fault-finding chart have been carried out without any fault being found and the gearbox
+J         consistently runs at a temperature higher than 80°C, Newage strongly recommends that a larger
+          capacity oil cooler be fitted.
+
+
+
+
+                                                        16
+                                             Fig. 9 Oil cooler connections
+
+
+
+
+5.5.1 PRM500 Oil Cooler with power take-off
+
+
+Oil returned from the cooler to the valve block is first passed through the power take-off unit to provide lubrication.
+The method of connecting the cooling system is as follows:
+
+
+a)   remove "Redcap" seals from the valve block.
+
+b) connect the valve block outlet to oil cooler inlet.
+
+c)   connect the oil cooler outlet to the PTO inlet.
+
+d) complete the circuit by connecting the PTO outlet to the valve block inlet.
+
+The oil cooler can now be connected to the engine cooling system as outlined at Fig. 8.
+
+
+
+
+                                       OIL
+                                       IN
+
+
+
+                         ~ WATER OUT ei                              - WATER IN
+
+
+
+                          Fig. 10 Oil cooler connections PRM500 with power take-off
+
+
+
+                                                          17
+5.6 Alignment to propeller shaft
+
+
+              CAUTION: Alignment between the propeller shaft and the mating flange on the gearbox output
+ /\ shaft is extremely important since excessive vibration and stress may lead to premature failure if
+             correct alignment is not achieved.
+
+
+In the majority of boats whose hulls are rigid enough to prevent excessive flexing in heavy sea conditions, (which
+could cause the engine and transmission to shift relative to the propeller shaft), it is generally considered preferable
+to couple the propeller shaft direct to the gearbox output flange by means of a rigid coupling.
+
+
+The two main conditions when a flexible coupling should be used are:
+
+
+a)     in boats whose hulls are not sufÏciently rigid to prevent the flexing referred to above,
+
+
+b)     in cases where the engine is mounted on flexible mounts.
+
+
+In both instances, the flexible coupling helps to isolate engine vibration or other movement from the propeller shaft
+thus enabling correct alignment with the propeller shaft and stern tube to be maintained.
+
+
+Whether a solid or flexible coupling is used, it is extremely important that the following points are carefully checked:
+
+
+  i). the coupling should be a tight press fit on the shaft and the keyway accurately made to the correct size, and
+
+
+ ii) the two halves of the coupling should be carefully aligned. This should be done by bringing the two flanges
+       close enough together so that a feeler gauge can be used to check the vertical and horizontal alignment.
+
+
+iii)   alignment should only be carried out with the boat afloat.. The maximum permissible misalignment being
+       0.05mm.
+
+
+Since the propeller shaft line is normally fixed in the boat, alignment is usually obtained by adjusting engine mount
+shims on the mounts themselves.
+
+
+NOTE: Whenever possible, the engine and gearbox should be installed whilst the hull is afloat, otherwise
+there is a danger of the hull distorting because of insufÏcient support over its surface. If the engine and
+transmission are fitted before the hull is in the water, the installation should be very carefully re-checked for
+alignment after launching.
+
+
+in designing PRM500, SAE standards were adhered to as far as possible. However, other manufacturers of similar
+sized transmissions have a different, but common, output coupling spigot, which is not to SAE. This spigot size
+has become the industry standard and most proprietary flexible output couplings are made to suit.
+
+
+5.7 Installation angle
+
+
+The transmissions should normally be installed so that the maximum fore and aft angle relative to the water line does
+not exceed 17° with the boat at rest. Please consult Newage Transmissions Ltd. if installation angles greater than
+this are required.
+
+
+5.8 Twin installation
+
+
+The rotation of the propeller, even in a single engine installation, tends to have a slight "turning" effect on the
+handling of the boat, but this can normally be corrected with very slight adjustments on the rudder.
+
+
+In twin installations, the turning effect on the handling of the boat will be much more pronounced if both propellers
+rotate in the same direction. It is therefore desirable that "handed" (i.e. counter-rotating) propellers be fitted. For this
+reason PRM gearboxes are capable of providing either hand of output rotation with any of the available gear ratios.
+
+
+It is also preferable for the starboard (right-hand) propeller to rotate clockwise and the port (left-hand) anti-clockwise
+rather than the other way about. In the latter case, when the propeller blades are at the lowest point of their
+rotational arc they tend to create a vacuum which affects the other propeller by reducing the flow of water to it.
+When the boat is making a tight turn with one gearbox in "ahead" and the other in "astern", the thrust side of one
+propeller will be acting diametrically opposite to the other, causing the boat to be deflected off line which delays
+completion of the manoeuvre.
+
+
+
+
+                                                            18
+             NORMAL APPLICATIONS                                          SPECIAL APPLICATIONS
+
+                                    Fig. 11 Propeller rotation twin installations
+
+
+When connecting remote control units for twin engine/gearbox installations, please remember that moving the
+gearbox operating lever forwards will produce output rotation as engine (generally left-hand, or anti-clockwise).
+
+
+Therefore, in order to ensure that the propeller shafts counter-rotate outwards in "ahead", the operating cables
+should be connected so that the operating lever on the starboard gearbox moves back when the remote control
+operating levers are in the "ahead" position providing right-hand rotation.
+
+
+
+
+       PORT ENGINE LEVER FORWARD                                  STARBOARD ENGINE LEVER BACK
+           LH PROPELLER ROTATION                                        RH PROPELLER ROTATION
+
+
+                                Fig. 12 Operating lever position, twin installations
+
+
+5.9 Remote control operating systems
+
+
+The PRM500 can be used with remote control operating systems which links the engine throttle to the gearbox
+operating lever e.g. Morse Controls single lever type.
+
+
+The following points should be noted:
+
+
+i)   |The gearbox operating lever is provided with a positive neutral position, which greatly assists the setting up of
+     the remote control unit.
+
+
+            CAUTION ii) care should be taken to ensure that the cable moves the gearbox operating lever
+ \ approximately 2mm short of its maximum forward or backward travel to prevent the lever being
+            brought hard up against the end stop with every gear shift.
+
+
+The control equipment should in all cases be connected in accordance with the manufacturer's recommendations.
+
+
+
+
+                                                          19
+6. OPERATION
+
+6.1 First time usage
+
+             CAUTION: Before starting the engine fill the gearbox to the correct level with a suitable oil (refer
+    /\ to recommended list, section 4.4 Page 14). Note: screw dipstick ful y down when checking oil
+             level.
+
+
+Ensure the gearbox is in neutral, (it is recommended that the optional neutral safety switch be wired into the starter
+circuit to avoid uncontrolled boat movement on start up). Start and run the engine for a short time so that the oil
+circulates through the cooling circuit. Stop the engine and allow the oil to settle, re-check the level and top up to
+the maximum mark on the dipstick.
+
+             CAUTION: Using the gearbox with insufÏcient oil will lead to low pressure, unsatisfactory
+             operation, overheating and eventual failure.            Equally, over-filling the gearbox may cause
+             overheating and oil leaks; it is the duty of the owner/operator to make sure that the oil level is
+             correct at all times.
+
+
+6.2 Drive selection
+
+
+The PRM500 has been designed and tested to ensure rapid shifts from ahead to astern or vice versa and can be
+operated at full horsepower ratings and speeds. In these circumstances the transmission will respond rapidly.
+
+             CAUTION: Full power reversals, however, do place abnormal, even if short-lived, loads on the
+             gearbox, and operating life will be prolonged if full power reversals are reserved for emergency only.
+             Newage Transmissions Ltd. recommend that when changing direction the engine speed be
+             brought down to approximately 1000 rev/min.              For this reason it is recommended that a
+             proprietary single lever remote control operating system is fitted which links the engine throttle
+             control to the gearbox operating lever.
+
+
+6.3 Trailing (free wheeling) the propeller
+
+
+The bearings used in the Newage PRM500 gearbox have been carefully selected to ensure that prolonged trailing
+(free wheeling) of the propeller will not have any detrimental effect on the transmission. This allows the propeller
+to turn freely with the engine shut down and makes the Newage PRM500 particularly suited for use in auxiliary
+sailboats, motor sailers or multi-engine installations where the boat may be operated with one or more engines shut
+down.
+
+It is not therefore necessary to provide any propeller shaft locking device to protect the transmission, although in
+the case of sailing yachts and other high performance sailboats fitted with two bladed propellers, it may be desirable
+to fit a propshaft lock so that the propeller can be locked behind the dead-wood to reduce drag.
+
+Where propellers are allowed to free-wheel they can be a useful source of free auxiliary power; if a flat pulley is
+fitted to the propeller shaft a small generator can be belt driven for charging batteries
+
+
+     iN      CAUTION: Care must be taken not to apply excessive side-load which would cause vibration and
+             misalignment.
+
+
+
+6.4 Emergency operation
+
+
+Included as standard in every Newage PRM500 gearbox is a a "Get You Home" device allowing the gearbox to be
+mechanically locked in 'ahead' drive in the unlikely event of hydraulic clutch failure.
+
+
+     ,       WARNING: To operate first switch off the engine, select neutral on the operating lever, and
+‘            disconnect the operating cable, then:
+
+
+The method of operation is as follows:
+
+1.    Remove the 10 top cover securing screws (A7) and the top cover (A6) (located alongside the valve block).
+
+2.    Select the shaft which provides the appropriate propeller rotation (see note below) and rotate until a spring clip
+      ( A ) holding the two screws (B ) in position is accessible.
+
+3.    Remove the spring clip ( A ) and tighten the two clamping screws( B      ), thus mechanically locking the clutch
+      pack in drive. See drawing pages 42/44.
+
+
+
+
+                                                           20
+              CAUTION: Ensure that sufÏcient oil remains in the gearbox to avoid further damage and refit the
+              top cover, tighten the bolts to correct torque (see chart page 34).
+
+
+              The engine can now be run, but to minimise the possibility of further damage being caused to the
+              transmission, we recommend that engine speed is limited to 1/3 full throttle.
+
+
+
+NOTE:         Assuming an anti-clockwise rotating engine, the shaft to select is:
+
+              for left-hand propeller rotation, the left-hand shaft;
+              for right-hand propeller rotation, the right-hand shaft;
+              (as seen looking forward from the propeller to the gearbox).
+
+              WARNING: When emergency drive is engaged, neither astern nor neutral is available and there
+ A            is no means of stopping the boat using the gearbox. You must therefore handle the boat with
+              great care, particularly during docking.
+
+
+              CAUTION: Disconnection of the operating cable is very important in order to prevent accidental
+              selection of direction whilst the clutch is mechanically locked. After emergency drive has been
+              used, you must seek qualified assistance to check the transmission thoroughly before it is used
+              again. Never use the top cover for topping up the oil.
+
+
+7. ROUTINE MAINTENANCE
+
+7.1 Initial maintenance (after 25 hours running)
+
+
+
+A WARNING: Hot oil can cause burns. Do not work on the gearbox with the engine running.
+Drain ail oil from the gearbox, the drain plug is located at the front of the casing in the centre of the transmission.
+This requires a 1" A/F spanner to remove, refit drain plug and washer and refill with one of the recommended
+lubricants (see page 14). Operate the engine and gearbox, allowing the oil to circulate, then stop the engine and
+allow to settle. Re-check the oil level and top up if necessary to the maximum mark on the dipstick.. Note: dipstick
+has to be fully screwed in to check oil level.
+
+
+7.2 Daily checks
+
+
+1.   Check the gearbox oil level.
+
+2. Make visual inspection of the general condition of the transmission and check for oil leaks, especially at the
+     output shaft seal and at gasket sealing surfaces.
+
+
+7.3 Annual check
+
+
+1.   Check oil cooler connections.
+
+     Check propeller shaft alignment and correct if necessary.
+
+     Check remote control operating linkage is accurately adjusted to give correct travel on the gearbox operating
+     lever.
+
+4.   Check that all fasteners are correctly tightened (see torque chart page 34).
+
+
+7.4 Winter storage
+
+
+Drain water from the transmission oil cooler to avoid freezing or the collection of harmful deposits.
+
+
+7.5 Other maintenance operations
+
+
+1. The gearbox oil should be changed at periods which correspond to the intervals at which engine oil changes
+     are carried out.
+
+2. The gearbox oil should also be changed if it has been contaminated by water or if the gearbox has suffered
+     major mechanical damage.                                                   .
+
+
+
+
+                                                              21
+8. FAULT FINDING
+
+
+The following fault finding chart is designed to help diagnose some of the problems which might be encountered.
+It assumes that the installation and operating instructions in this manual have been followed and we advise that
+these are checked before proceeding to fault finding.
+
+
+To avoid prejudicing warranty rights, no repair or other work should be done on the gearbox during the warranty
+period without first contacting Newage Transmissions Ltd. or an authorised distributor or dealer for advice.
+
+
+
+
+           SYMPTOM                          CAUSE                              REASON                             REMEDY
+No drive ahead or astern        No oil pressure                     Damaged oil pump                  Remove oil pump and replace |
+                                                                                                      complete.
+
+
+                                                                    Broken input drive plate          Replace input drive plate
+                                                                    Broken input shaft                Replace input shaft
+                                                                    Broken output shaft               Replace output shaft
+Intermittent or complete loss | Oil leaks                           Damaged oil seals or gaskets |Check           leakage    area   and
+of drive                                                                                              replace relevant gasket or
+                                                                                                      seal. Re-fill to correct level on
+                                                                                                      dipstick.
+Propeller speed does not|Low oil pressure to both | Damaged or worn oil pump                          Replace oil pump complete.
+increase with engine speed clutches
+ahead or astern
+                                                                    Remote control cable not Remove cable and operate
+                                                                    allowing   correct    gearlever lever by hand adjust cable if
+                                                                    movement                          necessary.
+
+                                                                    Pressure relief valve defective   Remove       valve    block   and
+                                                                                                      replace spring.
+Propeller speed does not Low oil pressure to one clutch Piston rings worn                             Remove appropriate clutch
+increase with engine speed in                                       Feeder worn                       shaft replace worn feeder or
+one direction only                                                                                    piston rings.
+                                                                    Damaged ‘O’ ring in hydraulic Check ‘O’ rings in feeder
+                                                                circuit                               connectors and piston
+                                                                    Blocked hydraulic feed in valve Remove valve block and
+                                                                    block                             examine.
+                                                                    Damaged clutch plates             Remove          and       examine
+                                                                                                      appropriate clutch and replace
+                                                                                                      if necessary.
+Excessive noise from gearbox Engine idle speed too low          Faulty adjustment                     Increase idling speed
+at low speeds
+                                Torsional vibration             Torsional       incompatibility   of If not cured by increasing
+                                                                driveline components                  engine idling speed refer to
+                                                                                                      engine supplier.
+Excessive noise throughout Defective input coupling             Input coupling worn or                Remove, examine and replace
+operating range                                                 damaged                               input coupling if necessary
+                                Propeller shaft misalignment    Hull flexing or faulty installation Check the alignment of the
+                                                                                                      propeller shaft coupling.
+                                                                                                      If necessary rectify by
+                                                                                                      adjusting shims under the
+                                                                                                      engine mounts or engine
+                                                                                                      mounts themselves
+Excessive vibration throughout Propeller out of balance         Propeller damaged or badly Check pitch, weight, diameter
+operating range                                                 machined                              and balance of propeller.
+                                Engine/gearbox misalignment                                           Remove       transmission     and
+                                                                                                      check flywheel face is flat or
+                                                                                                      flexible coupling is correctly
+                                                                                                      aligned (see section 5.3)
+                                                                Defective bearing                     Isolate defective bearing and
+                                                                                                      replace.
+
+
+
+
+                                                               22
+       SYMPTOM                               CAUSE                        REASON                          REMEDY
+ Excessively high oil temperature Power too high                Incorrect engine rating for      Re-assess engine power
+                                                                gearbox
+                                 Defective oil cooler or cooler Damaged or blocked oil cooler, Replace oil cooler or re-specify
+                                 too small                      incorrectly specified cooler cooler size
+                                 Oil level too high/low         size                             Fill to correct oil level on dip
+                                                                                                 stick
+                                 Incorrect oil type                                              Fill with correct oil type
+                                 Defective oil pressure relief Damaged or collapsed relief Remove and examine valve
+                                 valve                          valve spring                     spring. Replace if necessary.
+                                                                Worn clutches, low oil pressure Replace defective clutch, see
+                                 Slipping clutches                                               remedy for low oil pressure
+
+ Oil level needs constant        Oil leaks                      Defective oil seals, ‘O’ rings, Clean the outside of the gear
+ topping up                                                     or gaskets                       box particularly around output
+                                                                                                 shaft and valve block, inspect
+                                                                                                 for leaks.
+                                                                Defective oil cooler and hoses Check for traces of water in
+                                                                                                 the gearbox oil or oil in the
+                                                                                                 cooling water system.
+                                                                                                 Replace cooler or hoses as
+                                                                                                 necessary.
+
+ Excessive internal pressure     Escape of pressure from gearbox Defective breather causing Contact distributor or factory
+                                 when dipstick is removed       leaks past oil seals             for advice.
+
+ DifÏcult to move single lever Control lever on valve block Defective valve or detent spring Contact distributor or factory
+ control                       too stiff                                                     for advice.
+                                 Faulty installation            Remote control operating cable Check the installation and
+                                                                badly installed or kinked        eliminate all tight bends in the
+                                                                                                 cable.
+
+ No neutral                      Control system not moving] Incorrect control cable set-up | Check cable installation.
+                                 gear lever correctly
+                                 Seized or dragging clutch      Clutches badly worn or seized | Check clutch and replace as
+                                                                causing permanent engagement | necessary.
+                                                                of a direction
+
+
+
+
+              WARNING: Before carrying out any service work always ensure that the engine is switched off
+
+
+A             and disconnect the operating cable from the gearbox.
+
+
+              CAUTION: The above operations should be carried out by suitably qualified personnel and
+
+A             strictly in accordance with the procedures detailed in the workshop manual.
+
+
+
+9. SERVICING AND REPAIRS - GENERAL
+
+              WARNING: Do not carry out any servicing or repair work without first switching off the engine
+              and disconnecting the control cable.
+
+              Before removal of the gearbox for repair or overhaul carefully study the following procedures. Use
+              proper hand tools, slings or hoists for the job - WORK SAFELY
+
+              Keep all work areas, tools and gearbox clean.               Wipe up any spilled oil or fluids to prevent
+              accidents. Wear correct safety equipment i.e. safety glasses and safety shoes to guard against
+              personal injury.
+
+              Remember HOT OIL CAN CAUSE BURNS - WORK SAFELY - USE COMMON SENSE.
+
+Drawings showing all internal components are contained in the parts lists. See page 35.
+
+
+9.1 Seals
+
+
+Remove oil seals carefully to prevent damage if they are to be re-used, however it is best to replace these items.
+Carefully examine all cast iron piston rings for wear and corresponding wear/damage in the bores. Take care not
+to break these rings.
+
+
+9.2 Bearings
+
+
+If removing taper roller bearings for re-use keep them in matched sets and protect all bearings from contamination.
+
+
+
+                                                              23
+9.3 Cleaning
+
+
+A          WARNING: If using cleaning solvents these can be toxic, flammable, a skin irritant or give off
+           harmful fumes. Avoid prolonged contact, vapour inhalation, or smoking. Failure to take care can
+           result in injury or death.
+
+
+Rinse all metal parts in solvent to remove dirt, grease and oil.
+
+
+Be careful to remove solvent from items before re-fitting.
+
+
+9.4 Inspection
+
+
+9.4.1 Gearcase
+
+
+Inspect for cracks.. Check sealing surfaces for any scratches, damage etc. which will lead to oil leaks. Check all
+threads for damage.
+
+
+9.4.2 Gears
+
+
+Inspect for any chipped broken or cracked gear teeth, also for any excessive wear, i.e. gear pitting.
+
+9.4.3 Bearings
+
+
+Inspect for any damage, pitting or over-heating.
+
+
+9.4.4 Clutch plates
+
+
+inspect all clutch plates for signs of overheating and/or distortion. Check friction surfaces for wear. Replace if oil
+grooves have worn away.
+
+
+9.4.5 Clutch components
+
+
+Inspect clutch components for wear, damage, overheating or debris. Check all oil feed holes are clear.
+
+9.4.6 Threaded parts
+
+
+Inspect for stripped or damaged threads.
+
+
+
+
+10. SERVICING AND REPAIR PROCEDURES
+
+
+
+ i.        CAUTION: When re-assembling the gearbox all threaded fasteners must be tightened to the
+           torques listed in table, page 34 to prevent premature failure.
+
+
+The servicing, repair and replacement of input shaft and layshaft assemblies and components is simplified by the
+fact that the gearcase is constructed in two separate halves, the top half being easily removable to give access to
+the two top shafts.
+
+
+Some servicing operations can be carried out with the gearbox still mounted to the engine (provided, of course, that
+the engine compartment is sufÏciently large to allow this); examples are the replacement or repair of the valve block
+and the oil pump. To repair or replace the input shaft, layshaft or output shaft, however, you will need to remove
+the gearbox from the engine.
+
+
+If the details outlined below are carefully followed no difÏculty will be found in stripping and rebuilding the gearbox.
+It is most important that all components are perfectly clean and in good condition before re-assembly.
+
+
+CAUTION: The input shaft and layshaft are supported by taper roller bearings. Each time a shaft is stripped
+for inspection, component repair or replacement it will be necessary to recalculate the number of shims
+required to load the bearings correctly. Shimming procedures are described in section 10.8.
+
+
+
+
+                                                          24
+  10.1 Valve block
+
+
+ The complete valve block is easily removed for inspection and servicing with the gearbox still in the boat, as follows:-
+
+
+  1...    Disconnect the control cable(s) from the lever (C4) on the valve block.
+
+
+ 2.       Disconnect the oil cooler pipes and the wiring from the neutral switch (C28) if fitted.
+
+
+ 3.       Remove the 5 bolts (C 18/20/26) and one nut (C23) together with washers (C 19/24) securing the valve block
+         to the gearcase.
+
+
+ 4. . To remove the control valve (C11) and piston (C14), simply remove the two cap screws (C6) and withdraw the
+         valves from the valve block (C16).
+
+
+                  CAUTION: Take care not to lose the detent ball and springs (C12/13).
+
+ 5..     Inspect the seal (C8) seal bore in (C5) and bearing (C10), and replace if worn, damaged or defective. Check
+         that the valve spring (C15) has retained its correct free length (62mm) if not replace it.
+
+
+ 6. To assemble and refit the valve block, simply reverse the above procedure. It will be necessary to lightly grease
+         the seal bore (C5) and seal diameter of valve (C11) to avoid damaging the seal (C8) when re-fitting.
+
+
+ 10.2 Oil pump assembly
+
+
+The oil pump assembly can be removed with the gearbox in position on the engine.
+
+
+ 1.      Note the mounting position of the pump (for refitting).. See section 3.3 Fig. 4.
+
+
+ 2,      Remove the four bolts and washers (A14/4) securing the oil pump to the main case and withdraw the pump
+         assembly complete with 'O' rings and shims.
+
+
+3.       Inspect the 'O' rings (B2/3) and replace if necessary. If in good condition store carefully until required for
+         refitting.
+
+
+ If the pump is damaged in any way, the complete pump assembly (B1) must be replaced.
+
+
+ /\              CAUTION: If a new pump assembly is fitted the clutch shaft must be reshimmed.
+                 See section 10.8.
+
+
+10.3: Removing the transmission from the boat
+
+
+ /\              CAUTION:         Before commencing work see section 9. The following instructions must be
+                 complied with to avoid damage to the gearbox.
+
+
+1.       Ensure that the gearbox operating lever (C4) is in the neutral position and disconnect the operating cable or
+         cables, and disconnect the wiring from the neutral safety switch, if fitted.
+
+
+2.       Drain the gearbox oil into a suitable container and disconnect the oil cooler pipes.
+
+
+3.       Unscrew and withdraw the bolts connecting the gearbox output flange from the flexible coupling or mating half
+         coupling on the propeller shaft.
+
+
+                            CAUTION: © Sling ropes around the gearbox securely to provide support while it is
+A A WARNING_ being removed from the engine.
+4...     Remove the bolts securing the adaptor flange to the flywheel housing.
+
+
+5.       Slacken the bolts which secure the flexible drive coupling to the flywheel.
+
+
+6. Withdraw the gearbox, if necessary rocking the unit slightly in order to disengage the input shaft spline from
+         the internal spline in the coupling, and lift clear.
+
+
+
+
+                                                                25
+10.4 Removing the input shaft and layshaft assemblies
+
+
+1. Remove the gearbox from the boat as described in section 10.3.
+
+
+2.   Undo the 4 bolts (A14) securing the oil pump and withdraw the oil pump, shims and ‘O' rings, noting the
+     position of the pump for refitting.   (Note: keep the pump shims with the pump assembly).
+
+
+3.   Remove the 3 bolts (A11) securing the shaft end cover (A10) and remove. (Note: keep the shims and 'O' rings
+     with the cover).
+
+
+4.   Remove the 5 bolts (C18/20/26) and 1 nut (C23) retaining the valve block and remove it.
+
+
+5. Remove the 7 bolts and washers (A3/A4) securing the gearcase top half (A1) and lift clear.
+
+
+6.   Lift the input shaft assembly oil seal housing (D2) and thrust washer (D4) from the gearcase.
+
+
+7.   Lift the layshaft assembly and front end cover (E2) from the gearcase.
+
+
+10.5 Servicing input shaft and layshaft assembly components
+
+
+See pages 42/44 for assembly drawing.
+
+10.5.1      Input shaft oil seal
+
+
+In the event of an oil leak caused by a damaged seal, remove the input shaft oil seal housing (D2) from the shaft
+and, using a hardwood drift and hammer, remove the seal from the housing.
+
+Fit a new seal (D1) in the housing (D2) and refit the housing.
+
+
+10.5.2      Drive end bearing
+
+
+To renew a damaged or worn bearing:-
+
+
+1.   Support the relevant shaft ina vice and remove the oil seal housing (D2) (this applies only to the input shaft).
+
+
+2,   Using a pulley extractor with its jaws located behind the pinion, withdraw the clutch pinion (D9/E7), thrust washer
+     (D6/E4), thrust bearing (D7/E5) and end bearing (D5/E3). Check that needle bearings (D10/E8) and spacers
+     are in good condition.
+
+
+3.   Refit the needle bearings, spacers and clutch pinion to the shaft.
+
+
+4,   Replace the thrust washer and thrust bearing, inspecting for wear and replacing where necessary.
+
+
+5.   Locate the new bearing (D5/E3) on the shaft and, using either a hand press or a hardwood drift and hammer,
+     gently drive the assembly into position. Take care not to damage the bearing rollers or raceways during this
+     operation. Note:- if the bearing is correctly located a small amount of pinion end float will be detected i.e.
+     between 0.13 to 0.45mm.
+
+
+6.   Reposition the oil seal housing (D2) on the shaft (input shaft only).
+
+
+NOTE: if new bearings are fitted, they must be re-shimmed as described in section 10.8.
+
+10.5.3.     Clutch assemblies
+
+Clutch plates which have discoloured and/or distorted by overheating or if the groove pattern on the friction plates
+have been worn away they need to be changed as follows, these instructions apply to both directional clutches:-
+
+
+1... Remove the drive pinion (D9/E7) and bearing (D5/E3) as previously described.
+
+
+2. Remove spacer, needle roller bearing, spacer, needle roller bearing.
+
+
+3. Remove the large circlip (D15/E13).
+
+4. Withdraw the complete clutch assembly from the shaft noting the position of the pull off springs and clutch pins.
+
+
+5. Remove the small snap ring (D12/E10), thrust bearing, and thrust washer and inspect for wear or damage and
+     replace where necessary.
+
+
+
+                                                          26
+To rebuild the clutch assembly, the procedure is as follows:
+
+
+6. Position shaft upright and locate the 3 clutch pins (D18/E16) into the clutch gear (D31/E29).
+
+
+7. Replace thrust washer, thrust bearing and the small snap ring.
+
+
+8. Fit the clutch end plate (D21/E19) into the clutch gear and fit pull-off springs over the clutch pins. Then, starting
+     with one of the driver clutch plates (D20/E18) build up the replacement clutch onto the clutch end plate.
+
+     Replace the clutch end cover (D16/E14) onto the clutch pack, locating the 3 pins and ensuring that one of the
+     tapped holes in the clutch end plate aligns with the dimple on the body of the clutch gear.
+
+10. Replace the large circlip.
+
+
+11. Replace the drive pinion into the clutch pack until it touches the thrust bearing.
+
+
+12. Replace needle roller bearing, spacer, needle roller bearing and spacer.
+
+
+13. Replace the thrust bearing, thrust washer and bearing inner cone on the shaft and gently drive the bearing into position
+
+
+10.5.4       Drive pinion
+
+
+It is advisable to renew both drive pinions simultaneously if one is worn or damaged. To ensure that the drive pinion
+of the correct ratio is used please refer to the parts list (page 35). If a different ratio from that originally supplied is
+required, the output gear will also need to be changed.
+
+
+To replace the drive pinion, follow the procedure set out in section 10.5.2.
+
+
+10.5.5       Rear end bearing, piston rings and feeder
+
+
+1.   Remove the rear end bearing (D26/E24) and feeder (D27/E25) using a pulley extractor with the jaws of the
+     extractor located behind the feeder.
+
+
+     Remove the pistons rings from the shaft with the aid of a special piston ring extractor or a piece of thin steel.
+     Raise one end of the top ring out of the groove and insert the steel strip between the ring and the shaft. Rotate
+     the strip around the shaft applying slight forward pressure to the raised portion of the ring until it rests on the
+     land above the groove, where it can be eased off. Repeat this with the other two rings.
+
+
+     Take out the new rings from the packing and clean off any grease or inhibitor.
+
+
+     If a ring loading tool is available, fit this around the shaft, load the rings onto the tool and locate in their
+     approximate position.       Gently withdraw
+     the tool and allow the rings to locate in
+     their respective grooves.
+
+
+     Where a loading tool is not available
+     use a thin metal strip, long enough to
+     lay along the shaft above the
+     grooves.     Expand each ring just
+     sufÏciently to allow tt to be placed
+     in its approximate position over
+     the strip.   Gently withdraw the
+     strip and locate the rings in their
+     respective grooves (see Fig. 13)
+
+
+     Compress each ring in turn and
+     carefully fit the new feeders and bearing
+     onto the shaft, and gently drive the bearing
+     into position.
+
+
+NOTE: It is advisable and strongly recommended
+that piston seals and tab washers should always be
+replaced.
+
+
+
+                                              Fig. 13 Fitting piston rings
+
+
+
+
+                                                            27
+ 10.5.6       Clutch gear
+
+
+ The clutch gear is an interference fit on the shaft, and a power press is required to separate the gear from the shaft.
+ Newage Transmissions Ltd. recommend therefore, that unless there is any damage to either the shaft or gear, the
+two are not separated.
+
+
+      M\      CAUTION: It is advisable to renew both clutch gears simultaneously since damage to one will
+              often result in damage to its mating gear.
+
+
+ 10.6 Replacement of input shaft and layshaft assemblies
+
+
+ 1.    Position the input shaft assembly in the gearcase and ensure that the thrust washer (D4) is correctly located in
+       the groove in the lower half of the gearcase. Verify that the seal housing (D2) is correctly located after first
+       examining the 'O' ring and oil seal for wear or damage, replacing if required.
+
+ 2.    Position the layshaft in the gearcase and refit the end cover (E2) correctly in the groove in the lower half of the
+       gearcase, replacing the 'O' ring (E1) if damaged.
+
+3.     Use a liquid gasket compound between the two case halves, and replace the top gearcase half, ensuring the
+       feeder connectors (D28/E26) are located correctly. To simplify the operation wire placed in the feeder
+       connectors and passed through the holes in the top half of the gearcase will ensure they are approximately
+       located when the gearcase top half is lowered onto them. The connector 'O' rings (D29/E27) should be
+       examined for damage or wear and renewed if necessary.
+
+       Replace the two front gearcase bolts and ensure the gearcase halves are square.
+
+       Secure the remaining gearcase bolts tightening them to the correct torque.
+       (See torque tightening chart page 34)
+
+6... Shim and refit the input shaft end cover (A10) replacing the 'O' ring if damaged.
+
+       Shim and refit the oil pump replacing the 'O' ring (B2) if damaged. Ensure the oil pump is fitted in the correct
+       position, to suit the direction of rotation required. See section 3.3.
+
+8. Refit the valve block assembly (C) replacing the gasket (C17).
+
+9.     Refit the bolts securing the adaptor plate to the gearbox.
+
+10. Offer up the gearbox and the adaptor plate to the engine and secure.
+
+11. Reconnect the oil cooler pipes and control cables.
+
+
+NOTE: Shimming procedure is described in section 10.8
+
+10.7 Servicing the output shaft assembly
+
+
+Removal of the output assembly will necessitate removing the gearbox from the boat (see section 10.3). Then
+proceed as follows:-
+
+1.     Remove input shaft and layshaft assemblies as described in section 10.4.
+
+2.     Extract the split pin (F23) and slacken nut (F20) at the output coupling (F 18) and remove coupling, washer
+       (F19) and 'O' ring (F17).
+
+3.     Remove the output shaft end cover (F1), release tab washer (F4), slacken and remove retaining screws (F3),
+       tab washer and bearing retaining washer (F5).
+
+       Remove four screws (F21) and remove rear seal housing (F 15).
+
+o      To remove the shaft, drive or press on the front end. The rear end bearings and oil seal can be removed leaving
+       the output gear (F9) spacer (F8) circlip (F7) and needle bearing (F6) behind.
+
+6. - Having removed the output shaft from the gearbox, the output gear (F9) can be lifted from the gearcase.
+
+7.     Remove the circlip (F7) and the bearing (F6) can be removed from its bore using a press or pulley extractor.
+
+8.     Check both bearing and output gear for any defects or damage and replace if necessary.
+
+9.     If the new oil seal (F 16) is damaged, press out from seal housing (F 15) and renew.
+
+10. If the rear bearing (F 13) is damaged, it can be removed from the shaft using either a press or pulley extractors.
+
+
+Note: Whenever the output shaft assembly is stripped, it is always advisable to renew all 'O' rings, oil seal,
+tab washer and circlips.
+
+
+
+
+                                                            28
+To re-assemble the output shaft assembly:
+
+
+11. Refit circlip (F 12) correctly in the bottom of the gearcase.
+
+12. Press rear bearing (F183) onto the shaft until it seats on the shoulder provided on the output shaft.
+
+13. Assemble the shaft from the rear. Feed spacer (F 10), drive gear (F9) and spacer (F8) as it is pushed towards
+    the input end.
+
+14. Refit new 'O' ring (F14) and oil seal (F16) to oil seal housing (F15) and secure seal housing to the gearbox
+    case, ensuring the housing is in the correct position so that it will not foul the input shaft end cover (A10).
+
+15. The circlip (F7) should now be refitted into its groove in the front bore and the front bearing (F6) pressed into
+    position.
+
+16. Refit bearing retaining washer (F5), tab washer (F4) and tighten screws (F8) (see torque chart page 34), bend
+    over tab washer and fit cover (F1) together with new 'O' ring (F2).
+
+17. Refit the 'O' ring (F17), output coupling (F18), washer (F19) and nut (F20). Apply Loctite 270 to nut and
+    tighten to correct torque. (See torque chart page 34)
+
+
+10.8 Shimming procedures
+
+
+The allowable end float on the taper bearing is 0.03 - 0.08mm (0.001 - 0.003in) clearance: this should be checked
+with the aid of a depth micrometer as follows:
+
+
+                                                          1.       Press the bearing outer cup firmly into position and
+                                                                   measure between the face of the gearcase and the top of
+                                                                   the bearing outer as shown in Fig. 14.
+
+
+                                                     2.    Measure the depth of the recess in the oil pump and in the
+                                                           output shaft end cover as in Fig. 15, and make up the
+                                                           difference between the two dimensions with shims.
+
+
+                                                   If no depth micrometer is available, the following method may be used:-
+
+
+                                             1.      Remove the 'O' ring from the oil pump or end cover.
+
+
+                                             2.       Fit enough shims to cause the oil pump or end cover to stand proud.
+
+
+                                             3.       Rotate the shaft, slowly tightening the securing bolts until the shaft
+                                                      starts to bind. Use feeler gauges or shims around the pump or end
+                                                      cover (Fig. 16) to ensure that the gap is uniform and that they are
+                                                      positioned squarely on the rear face of the gearcase.
+
+
+                                          4.          Measure the gap by means of feeler gauges or shims, and deduct
+                                                      shims to this figure plus 0.075mm (0.003in) from the shims already
+                                                      installed.
+
+
+                                        5.          Remove the requisite number of shims, tighten the oil pump or end
+                                                    cover, and test by rotating the shaft.
+
+
+                                                  Remove the oil pump or end cover and refit with the 'O' ring installed.
+
+
+
+
+                                                   NOTE:           Shims are available in two thicknesses, 0.254mm
+                                                   (0.010in) and 0.05mm (0.002in). As an example of their use, if an
+                                                   end float reading of 0.584 (0.023in) is obtained, use two shims of
+                                                  0.254mm (0.010in) and one of 0.05mm (0.002in), giving a final end
+                                         float or clearance of 0.025mm (0.001in).
+
+
+
+
+                                                               29
+11. POWER TAKE-OFF UNIT
+
+
+
+
+                                                                          G24 Gi        G9 G8 G7       G4 G5
+
+
+
+
+                      D25
+
+
+                         Fig.   17                                                        Fig.   18
+
+
+
+
+11.1 To fit a P.T.O. unit to an existing gearbox
+
+
+1.      Remove end cover (A10) from rear face of gearbox, taking care not to lose shims. Replace the shims against
+        the bearing outer race. (Use grease if required).
+
+        Fit spacer (G5) and drive gear (G4) to end of splined shaft, which protrudes from the rear of the gearbox.
+
+
+fF ON
+        Fit the spacer (G7) into recess in the gear and the locking tab into the hole in the face of the gear.
+
+        Tighten screw (GQ) to 48 Nm (85.5 Ibf.ft) and bend up the locking tab.
+
+a       Pass the P.T.O. unit over the gear (G4) and push against rear face of the gearbox, ensuring that shims do not
+        drop down and are located in recess in P.T.O. housing. Also ensure that the 'O' ring remains in the groove in
+        the P.T.O. housing and does not become trapped.
+
+        Tighten bolts (G11/G20) into rear face of gearbox to 98 Nm (72.5 lbf.ft).
+
+        Fit oil pipe assembly (G23) as shown on the page 48 drawing, between the 'T' piece on the P.T.O. housing and
+        the connector on the valve block.
+
+8.      Fit hydraulic pump to P.T.O. unit.
+
+
+                 CAUTION: The P.T.O. shaft rotates opposite to the gearbox input shaft.
+
+
+
+11.2 To repair an existing P.T.O. unit
+
+
+1.      Removal of the unit is the reverse of that described in (11.1) above.
+
+2.      The output gear assembly (G2) can be removed without removing the P.T.O. unit from the gearbox. Remove
+        hydraulic pump from P.T.O. and slacken screws (G19/G20). Pull out housing (G13) and the gear (bearing
+        assembly will remain with the housing).
+
+        To remove the output gear (G2), remove circlip (G21) and tap gear on the end face to remove from bearing
+        (G12).
+
+        The bearing (G12) can be removed by removing circlip (G15) and pressing or drifting out bearing.
+
+        If needle bearing (G3) is worn or damaged, it is best replaced when the P.T.O. housing is removed from the
+        gearcase.
+
+
+        If the drive gear (G4) is removed from the gearbox shaft, then tab washer (G8) MUST be replaced.
+
+        Assembly is the reverse of all that described in 11.2 above.
+
+
+
+                                                             30
+12. OPTIONAL TROLLING VALVE DESCRIPTION
+
+
+This unit can be supplied as a factory fitted option or is available for retro-fitting.
+
+
+12.1 Description
+
+
+The Newage trolling valve is available as an option on the PRM500. This is electronically operated which allows
+variable speed of the propeller to zero whilst allowing a maximum engine speed of up to 1200 rpm. The trolling
+valve runs with the normal gearbox oil.
+
+
+12.2 Trolling valve installation data
+
+
+
+
+                                                           31
+                                                                                 SCRAP VIEW OF
+                                                                                  VALVE PORTS
+
+
+
+
+                                      Fig. 21
+
+
+
++
+
+                         CONTROL
+
+
+                                                |
+
+
+
+
+                                                Y                   |      |               ¥
+
+                                                                        FILTER
+       ELECTRICAL CIRCUIT
+
+             Fig. 22
+                                                         TROLLING VALVE BASIC
+                                                            CIRCUIT DIAGRAM
+
+
+                                                                   Fig. 23
+
+
+
+
+              ¢
+              I
+              1
+                                   PART NUMBER                  DESCRIPTION
+         17 BAR MAX REG PRESSURE    MT4821S/A | TROLLING VALVE ASSEMBLY 260
+                                    MT4824S/A       |TROLLING VALVE ASSEMBLY 500, 750, 1000
+    SCHEMATIC LAYOUT               MT4885S/A12V| OPERATING LEVER ASSEMBLY
+         Fig. 24                   MT4886S/A24V| OPERATING LEVER ASSEMBLY
+
+
+
+                                        32
+12.3 Trolling valve fitting instructions.
+
+
+1. One 3m length 6 core cable to be supplied loose with one socket end connector and two Hirschman connectors
+   on solenoid cables. If required one 3m 6 core extension cable can be supplied (Part No. MT4820).
+
+
+   Fuel rack switch to be left with bare wires. Customer to connect wires and supply mounting bracket.
+
+
+   When retrofitting trolling valve to a standard gearbox use MT 1538 control valve within the valve block assembly.
+
+
+   Prior to retrofitting trolling valve to old gearbox, drain gearbox and cooler and clean drain plug. Refill with clean
+   oil to the correct level. Run the gearbox to fill cooler circuit and re-fill accordingly.
+
+
+   The control lever is pre-set and should not require any adjustment.
+
+
+   Cooler pipe connections remain as. standard gearbox.
+
+
+   The oil filter can be resited if necessary up to 1/2 metre from the gearbox. If this is desired the customer must
+   supply the additional filter bracket. The filter must be installed vertically on the engine and gearbox installation
+   with the bowl facing downwards... Replace 10 micron element after initial 5Ohrs operation and as determined by
+   the filter indicator reading thereafter. The system must not be run with the filter indicator in the red.
+
+
+   lf used with a clutch PTO, then the clutch pressure feed must be taken from the 1/8 BSP tapping in the valve
+   block or port 'P' in the proportional valve. Under no circumstances should the PTO connection be taken from
+   port 'C' clutch feed line. Any pipes left disconnected must be capped with plugs to prevent any contamination
+   of the valve assembly.
+
+
+   The trolling valve system is failsafe and will return to full pressure in the event of electrical failure. In the event of
+   mechanical failure eg. (sticking valve) the on/off solenoid on the side of the proportional valve can be manually
+   moved by depressing the button in the centre of the solenoid. This will release the valve and return to full
+   pressure.
+
+
+
+10. The trolling valve system must not be operated above 1200 rpm engine speed. An interlock switch is provided
+   to switch off the trolling valve should overspeed occur.
+
+
+
+
+                                                            33
+13. TOOL KIT
+
+Dipstick                         18mm A/F
+Drain plug                       Tin. A/F
+Output flange nut                11/8 in. A/F
+Pump socket screws               5/16 in. A/F Hex key
+Spanners                         19mm A/F
+                                 17mm A/F
+                                 13mm A/F
+
+13.1 Tightening torques. Note: These figures are for dry threads only.
+
+
+                      - RECOMMENDED TIGHTENING                            TORQUES ©
+                                                                        Nm             Ibf.ft
+
+         Upper to lower gearcase bolts                                  56.0           40.3
+
+     Top cover to upper gearcase                                        28.0           20.6
+
+         Pump body to gearcase                                          56.0           41.0
+
+     Operating lever to selector valve                                  28.0            7.0
+
+     End plate to valve block                                            9.4            6.9
+
+     Valve block to upper gearcase                                      28.0           20.6
+
+     Upper/lower gearcase : stud                                        39.2           28.9
+
+                                 nut                                    56.0           40.3
+
+     End cover to gearcase                                              98.0           72.3
+
+     Oil seal housing to gearcase                                       56.0           41.0
+
+     Output bearing retaining bolts                                     11.7            8.6
+
+     Coupling to output shaft                                          340.0          250.0
+
+     Adaptor plate to gearcase : bolt/nut                               98.0           72.3
+
+                                       stud                             68.6           50.6
+
+     P.T.O.to rear gearcase                                             98.0           72.3
+
+
+
+
+14. REPLACEMENT PARTS ORDERING
+
+When ordering replacement parts the following should be quoted:
+
+
+    a)        Gearbox model and serial number
+
+
+    b)        Description(s) and part number(s) of the component(s) required
+
+
+   Cc)       Quantity required
+
+   d)        Orders and enquiries for replacement parts must be made through Newage distributor/dealer network
+
+
+
+NOTE: Enquiries relating to a technical or service nature can be made direct to:
+
+
+
+                                            NEWAGE TRANSMISSIONS LTD.
+                                            BARLOW ROAD
+                                            COVENTRY CV2 2LD
+                                            ENGLAND
+
+
+                                            TEL: +44 (0)24 7661 7141
+                                            FAX: +44 (0)24 7661 1845
+                                            EMAIL: mail@newage-prm.co.uk
+                                            WEBSITE: http://www.newage-prm.co.uk
+
+
+
+
+                                                            34
+PARTS LIST
+        36
+
+
+
+
+      Sar we
+      re
+Ye9 \V4     3 VBS
+PA 457 \okey S
+    = SAS           ‘
+                                   SECTION A - GEARCASE ASSEMBLY
+  _ ITEM NO.                           DESCRIPTION   |           PART NO.    QTY
+       A           Case sub-assembly                              MT0316      1
+      Al           Gearcase - top - Not supplied separately       MT1517      1
+      A2           Gearcase - bottom - Not supplied separately    MT1530      1
+      A3           Bolt                                           0041014    6
+      A4           Washer                                         0191710    11
+      Ad *         Gasket (top cover)                             MT343       1
+      A6           Top cover                                      MT1467      1
+      A7           Screw                                          0040804    10
+      A8           Washer                                         CP1223     10
+      AQ           Dipstick                                       MT472       1
+      A10          End cover                                      MT1267      1
+      A11          Screw                                          0041208     3
+      A12          Washer (spring)                               0191107A     3
+      A14          Bolt                                           0041010     4
+      A15          Drain plug                                     CP1331      1
+      A16          Washer (dipstick)                              0201714     2
+      Ai7          Eyebolt                                        CP1339      1
+      A18          Bolt (not illustrated)                         0041019     1
+      A19 *        ‘O' ring                                       0430771     1
+      A20          Breather                                       CP1383      1
+      A21          Locknut                                        CP1385      1
+      A22          Washer                                         CP1204      1
+      A23          Breather tube assembly                        CP1382S/A    1
+
+
+
+* Part of gasket/seal kit MT0434
+
+
+
+
+                                                         37
+38
+                                    SECTION B - OIL PUMP ASSEMBLY
+  ~ ITEM NO.                         DESCRIPTION                PART NO.    QTY
+      B1           Oil pump (Kit)                              MT0412-KIT    1
+      B2 *         'O' ring                                     003383       1
+      B3 *         'O' ring                                     001254       2
+      B4           Oil pipe                                         MT736    1
+      B5 *         ‘O' ring                                     0430682      2
+
+
+* Part of gasket/seal kit MT0434
+
+
+
+
+                                                   39
+                     _          i
+                         . LU            ATTY)
+
+
+
+
+                                           Ba
+                                         4 mas
+                                                 \
+
+                                                     \
+
+40
+     Vs BSP Thread
+                                 Me
+                                \
+     (C25)                          Mi
+
+
+
+                                                 a
+
+                                                         \
+
+
+
+
+                                S/O                          \
+                                           —
+
+
+                                           O1
+                                 SECTION C - VALVE BLOCK ASSEMBLY
+  _ ITEM NO.                         DESCRIPTION                    PART NO.   QTY
+       C           Valve block assembly                              MT0354     1
+       C1          Screw                                            0040806     1
+       C2          Spring washer                                    0191105     1
+      C3           Washer                                            MT979      1
+      C4           Operating lever                                   MT977      1
+      C5           End cover                                         MT978      1
+      Cé6          Cap screw                                        0081220     2
+      C7 *         Gasket                                           MT1081      1
+      C8 *         Nu-lip seal                                       MT8082     1
+      C9           Thrust race                                       CP1308     1
+      C10          Thrust bearing                                    CP1307     1
+      C11          Control valve                                     MT4656     1
+      C12          Detent ball                                       CP1077     1
+      C13          Detent spring                                     MT305      1
+      C14          Piston                                            MT4751     1
+      C15         Valve spring 1800 Kpa (260 psi)                   MT4772      1
+      C16         Valve block                                        MT4780     1
+      C17 *       Gasket                                            MT1073      1
+      C18         Bolt                                              0040812     1
+      C19         Washer                                            CP1223      5
+      C20         Bolt                                              0040815     1
+      C21          Redcap seal (transit only)                        MT477      2
+      C22          Pressure plug                                     MT311      1
+      C23         Nut                                               0051001     1
+      C24         Washer                                            0191710     1
+      C25         Stud                                               MT1292     1
+      C26         Screw                                             0040808     3
+      C27         Plug                                               CP1360     1
+       or
+
+      C27         ( Switch and ball assy                            ( Mra |     1
+      C28           Bonded seal                                     0201715     1
+      C29         Plug (M18 pressure port)                          0150318     1
+      C30         Bonded seal                                       0191718     1
+      C31         Bonded seal                                       0201715     1
+
+
+
+* Part of valve block gasket kit MT0392 or gasket/seal kit MT0434
+
+
+
+
+                                                      41
+               ¢
+     D8) 9) G17)
+
+
+
+
+42
+ce                                  SECTION D - INPUT SHAFT ASSEMBLY
++
+
+
+     ITEM NO.         DESCRIPTION                                PART NO.    QTY
+        D1 *          Oil seal                                    MT251       1
+        D2            Oil seal housing                            MT1514      1
+        D3 *          'O' ring                                   04306725     1
+        D4            Thrust washer                               MT1516      1
+        D5            Bearing cup                                055U044      1
+                      Bearing cone                               055C019      1
+        D6            Thrust washer                              0673801      1
+        D7            Thrust bearing                             0603801      1
+        D8            Spacer                                      MT1471      1
+        D9            Pinion (1.5:1) 37T                        MT1583 S/A    1
+        D9            Pinion (2:1) 31T                          MT1475 S/A    1
+        D9            Pinion (2.5:1) 23T                        MT1476 S/A    1
+        D9            Pinion (3:1) 21T                          MT1477 S/A    1
+        D1i0          Needle roller bearing                      0563501      2
+        D11           Spacer                                      MT1472      1
+        D1i2          Snap ring                                  0300350      1
+        D13           Thrust bearing                             0603501      1
+        D14           Thrust washer                              0673503      1
+        D15 e         Circlip                                    0251020      1
+        D16           Clutch end cover                          MT1484S/A     1
+        D17 e         Spring                                      MT 1067    3
+        D18           Clutch pin                                 MT1485      3
+        D19 e         Clutch plate - driven                       MT982       7
+        D20 e         Clutch plate - driver                      MT725/S     8
+        D21 e         End plate                                   MT983       1
+        D22 *         Piston 'O' ring                             003504      1
+       D23            Piston                                     MT 1264      1
+       D24 *          Piston 'O' ring                            0421503      1
+       D25 **         Shim 0.002"                               MT1077/02    AR
+                      Shim 0.010"                               MT1077/10    AR
+                      Shim 0.031"                               MT 1077/31   AR
+       D26            Bearing                                    0540302      1
+       D27            Feeder                                      MT380       1
+       D28            Feeder connector                           MT1057      2
+       D29 *          Feeder 'O' ring                             000372     4
+       D30 !          Piston ring                                 MT292      3
+       D311           Clutch gear                                MT4853      1
+       D32            Input shaft                                MT4935      1
+
+
+
+
+e Part of clutch pack kit        MT0349
+* Part of gasket/seal kit        MT0434
+! Part of piston ring kit        MT0439
+** Part of shim kit              MTO068
+
+
+
+
+                                                  43
+                                       SECTION E - LAYSHAFT ASSEMBLY
+     ITEM NO.                             DESCRIPTION             PART NO.    QTY |
+        E1 *          ‘O' ring                                    04306725
+        E2            End cover                                    MT1515
+        E3            Bearing cup                                  055U044
+                      Bearing cone                                 055C019
+        E4            Thrust washer                                0673801
+        E5            Thrust bearing                               0603801
+        E6            Spacer                                       MT1471
+        E7            Drive pinion (1.5:1) 37T                   MT1583 S/A
+        E7            Drive pinion (2:1) 31T                     MT1475 S/A
+        E7            Drive pinion (2.5:1) 23T                   MT1476 S/A
+        E7            Drive pinion (3:1) 21T                     MT1477 S/A
+        E8            Needle roller bearing                        0563501
+        E9            Spacer                                       MT1472
+        E10           Snap ring                                    0300350
+        E11           Thrust bearing                               0603501
+        E12          Thrust washer                                 0673503
+        E13 ¢         Circlip                                      0251020
+        E14 ¢         Clutch end cover                            MT1484S/A
+        E15e         Spring                                        MT 1067
+        E16 e        Clutch pin                                    MT1485
+        E17 e        Clutch plate - driven                         MT982
+        E18          Clutch plate - driver                        MT725/S
+        E19          End plate                                     MT983
+        E20 *        Piston 'O' ring                               0421503
+        E21 *        Piston 'O' ring                               003504
+       E22           Piston                                        MT 1264
+       E23 **        Shim 0.002"                                  MT1077/02
+       E23 **        Shim 0.010"                                  MT1077/10
+       E23 **        Shim 0.031"                                  MT1077/31
+       E24           Bearing                                       0540302
+       E25           Feeder                                        MT380
+       E26           Feeder connector                              MT 1057
+       E27 *         Feeder 'O' ring                               000372
+       E28 |!        Piston ring                                   MT292
+       E29           Clutch gear                                   MT4854
+       E30           Layshaft                                      MT 1500
+
+
+
+e Part of clutch pack kit        MT0349
+! Part of piston ring kit        MT0439
+* Part of gasket/seal kit        MT0434
+**Part of shim kit              MTO068
+
+
+
+
+                                                        45
+46
+                                   SECTION F - OUTPUT SHAFT ASSEMBLY
+   ITEM NO.                           _ DESCRIPTION        |   ~ {|   PART.NO. ~   QTY
+       F1            End cover                                        MT1529        1
+       FQ *          ‘O' ring                                         04305725      1
+       F3            Screw                                            0040606       2
+       F4            Special tab                                       MT986        1
+       F5            Bearing retaining washer                          MT984        1
+       F6            Needle bearing                                   0564001       1
+       F7            Circlip                                          0250620       1
+       F8            Spacer                                            MT987        1
+       FQ            Output gear 1.459:1 (547)                        MT1585        1
+       FQ            Output gear 1.935:1 (60T)                        MT 1254       1
+       FQ            Output gear 2.565:1 (59T)                        MT1419        1
+       FQ           Output gear 2.904:1 (61T)                         MT1316        1
+       F10          Spacer                                             MT717        1
+       F1q          Output shaft                                      MT1423        1
+       F12          Circlip                                           CP1194        1
+       F13          Bearing                                           MT451         1
+       F14*          ‘O' ring                                         004754        1
+       F15          End cover                                         MT1424        1
+       F16 *        Oil seal                                           MT252        |
+       F17 *        ‘O' ring                                          002123        1
+       F18          Output coupling                                    MT755        1
+       F19          Washer                                            MT1251        1
+       F20          Nut                                               MT1488        1
+       F21          Screw                                             0041009      4
+       F22          Spring washer                                     0191106      4
+       F23          Split pin                                         024M345       1
+
+
+
+
+* Part of gasket/seal kit       MT0434
+
+
+
+
+                                                      47
+GS          G22
+
+
+
+
+G16
+
+
+
+
+        (
+            Oa
+                  a
+                  4
+                           7
+                               a        vy
+            .al       vo                c<
+                      \        ~        4
+
+
+
+
+                  \
+                      \
+
+
+
+
+©@8)
+   3)
+                           \
+
+                               \
+
+                                   \)
+                               J        +7
+                                    7
+
+
+
+
+G11
+                                         SECTION G - POWER TAKE-OFF
+    ITEM NO.                             DESCRIPTION              PART NO. —    QTY
+       G             Power Take-Off                                   MT0193     1
+       G1            PTO housing                                      MT 1300    1
+       G2            Driven gear                                      MT1297     1
+       G3           Needle bearing                                    0563003    1
+       G4           Driving gear                                      MT1296     1
+       G5           Spacer                                            MT1589     1
+       G6 *          'O' ring                                         0430771    1
+       G7           Washer                                            MT1301     1
+       G8           Tab washer                                        MT1302     1
+       G9           Screw                                             0041008    1
+       G10          Spring washer                                     0191107    3
+       Git          Bolt                                              0041216    1
+       G12          Ball bearing                                      40M433     1
+       G13          Adaptor flange                                    MT1299     1
+       G14          Gasket 4 bolt                                     MT 1307    1
+       Gi4          Gasket 2 bolt                                     MT5012     1
+       G15          Circlip                                           0250620    1
+       Gi6          Cover plate                                       MT1293     1
+       G17          Screw                                             0041208    2
+       Gi8          Gasket                                            MT1303     1
+       Gi9          Cap screw                                         0081520    1
+       G20          Cap screw                                         0081685    2
+       G21          Circlip                                           CM2067     |
+       G22          Adaptor                                           CP1255     1
+       G23          Oil pipe                                          MT766      1
+       G24          Tee piece                                         CP1367     1
+       G25          Washer                                            0201715    1
+       G26          Metering union                                    MT4583     1
+
+
+
+* Part of gasket/seal kit       MT0434
+
+
+
+
+                                                       49
+SERVICE NOTES
+
+
+
+
+     50
+SERVICE NOTES
+
+
+
+
+     51
+NOTES
+
+
+
+
+  52
+ron   NEWAGE
+      TRANSMISSIONS
+             -    :
+

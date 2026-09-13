@@ -1,0 +1,3711 @@
+sh
+
+
+
+
+                                        He
+                             AR81148
+                                          yD
+                                            ow
+                              1004-42
+
+
+
+
+                                               nl
+                                                  oa
+                                                     ds
+                                                        .co
+S The information given within thi
+       notice. Always refer to your
+       carry out servicing of engi
+       nance manual.
+                                                            m                                                   e without
+                                                                                                                | should
+                                                                                                                ad mainte-
+
+
+
+       Always refer to your [0tam@erisss{utlet before purchasing any parts
+
+
+       Subject to any existing rights of third parties, the information given in this document is the property of Perkins
+ =     Engines Limited and should not be copied, in whole or part, without the prior written consent of the Company.
+
+
+
+
+                                 Purchase more manuals from www.HeyDownloads.com
+Purchase more manuals from www.HeyDownloads.com
+Contents
+
+1.      Introduction                                          Pg. 4
+
+
+
+WwWON
+        How To Use Your Parts Book    .                         Pg. 4
+
+        Engine Breakdown                                        Pg. 5
+
+
+        Symbol Descriptions                                     Pg. 7
+
+wR      Paris Lists & Illustrations                             Pg. 9
+
+A       Parts Index                                             Pg. 109
+
+
+
+
+                       Purchase more manuals from www.HeyDownloads.com
+ Introduction
+
+
+The build list of your engine, found on the front page of this parts book, provides a unique
+reference to the components fitted to your engine; therefore this parts book is only applicable
+to this particular engine
+
+
+Always quote your build list and engine serial number when contacting your Perkins outlet.
+
+
+
+ How to use your Parts Book
+
+This parts book has been designed to provide you with all the information you need to identify
+parts to service your engine. There are several features within the book to make it easy to find
+the parts you require.
+
+
+Front Page
+
+This lists your build list number and the date of publication of this book
+
+
+Symbol Descriptions
+
+Provides a quick reference guide to the symbols used within the book.
+
+
+Engine Breakdown
+
+Use this to identify all the major sections of your engine and the relevant pages within the book.
+
+
+Parts Lists & Hilustrations
+
+This section shows each major section of your engine broken down into individual part
+numbers along with an associated illustration for identifying the parts you require.
+
+
+The illustrations used in this parts book are representational only and should only be used for
+identification purposes.
+
+
+For fitting instructions please refer to your engine Service Manual.
+
+
+Parts Index
+
+Using either the part number or description of the part you require this section will help you
+locate the page within the Parts Lists & Illustrations section where the part appears.
+
+
+
+
+                  Purchase more manuals from www.HeyDownloads.com
+                                                                                                Engine Breakdown
+
+
+
+
+      Section —                                   Page    Section                                         Page
+
+      Short Engine.                                9      Lubricating Oil Filler & Breather                49
+      ACEA9772 —                                          HBH02065
+i
+
+
+
+
+      Cylinder Block                               ll:    Lubricating Oil Filter & Integral Oil Cooler     51
+      ACHA0607                                            JBH01274
+$a
+
+
+
+
+      Crankshaft, Pistons & Connecting Rods        15     Front End Drive Input                            53
+      ACHA0607                                            KBH00519
+
+
+
+      Cylinder Head                                19    _ Water Pump, Thermostat & Heat Exchanger         55
+      ACHA0607                                            LBH02176
+                                                          © LBHA1879
+
+
+C)    Rocker Shaft _                               21     Water Outlet & Inlet                            ‘87
+      ACHA0607                                           ' LDH00592
+
+
+
+      Timing Gear
+                & Camshaft                         23     Fan & Extension                                  59
+      ACHA0607                                            MDH01085
+
+
+      Lubricating Oil Pump & Delivery Housing      27     Alternator & Generator                           61
+      ACHA0607,        -                                  NDH02165
+
+
+
+     . Fuel Injection Equipment (Diesel)           29     Alternator & Generator                           63
+     AFH03865.     —                                      NDH02165
+
+
+
+      Fuel Injection Equipment (Diese})            31     Alternator & Generator                           65
+     AFH03865                                            -NDH02165
+
+
+
+      Flywheel Housing                             35     Gear Drive Auxiliary Drive Option                67
+C)    CDH00991             %                              QDH01257
+                                                          —> U953289F
+
+
+      Flywheel & Starter Ring                      37     Gear Drive Auxiliary Drive Option                69
+      DDH01009                                            QDH01204
+                                                          F> 953290F
+
+
+      Starter Motor                                39:    Induction Manifold                               71
+      EDH00527                                            TBHO00760
+
+
+
+ °    Starter Motor                                41     Air Cleaner & Restriction Indicator              73
+      EDH00527                                            TDH00293
+
+
+
+      Fan Drive                                    43     Exhaust Manifold                                 75
+      FBH00542                                            UBH00455
+
+
+
+      Lubricating Oil Sump          ee ae 45              Exhaust Outlet]Flange                          7 7 ae
+_     GBH01338                                            UDH00519
+                                                          © UDHA0395
+
+
+
+
+                                                                                                           Page 5
+
+
+                                Purchase more manuals from www.HeyDownloads.com
+ Engine Breakdown
+
+
+
+
+ Section                                  Page
+
+ Low Pressure Fuel System                  79
+ VBH02020
+
+
+
+
+Low Pressure Fuel System                   81
+VBH02020
+
+
+
+
+Low Pressure Fuel System                   83
+VBH02020
+
+
+
+
+Cold Start System                          85
+WDIH00300
+
+
+
+Engine Lifting                             87
+XBH00430
+
+
+
+
+Mountings (Front & Rear)                  89
+ZCH00879
+
+
+
+Heater/Starter Switch                     91
+ZEHOL682
+
+
+
+Lub. Oil Pressure Switch & Gauge          93
+ZJH00473
+
+
+
+Temperature Gauge & Sender                95
+ZLH00271
+—> U953289F
+
+
+Temperature Gauge & Sender                97
+ZLH00008
+> 1953290F
+
+
+Radiator & Cowling                        99
+2ZMH00006
+
+
+
+Fuel Pre-Lift Pump                        101
+ZVHO00102
+
+
+
+Application Miscellaneous & Auxiliaries   103
+ZZH00875
+
+
+
+Joints & Gaskets - Top Service Kit        105
+SACA0161
+
+
+
+Joints & Gaskets - Bottom Service Kit     107
+SGBA0327
+
+
+
+
+Page 6
+     Symbols and Notes
+
+     Symbol          Description
+
+     >               From Engine Number
+
+
+
+     8 |
+                     Upto Engine Number
+
+                     Repairs and Replaces
+ss
+
+
+
+
+                     See Appropriate Section - Reference Number
+
+     AC              Alternative
+
+                     Order              |
+
+                     Remanufactured Part:
+
+
+O)                   New for Old Part
+
+
+     HKFOGCT
+                     Number of Teeth
+
+                     Thickness
+
+                     Bottom
+
+                     Top
+
+
+     TI>Fo
+                     Left Hand
+
+                     Right Hand
+
+                     Reference for Detailed Breakdown
+
+                     Other Service Options Available
+
+                 _   Cylinder Number
+
+     BTS"            See History Section
+
+
+
+
+                                                                  Page 7
+    Short Engine              Plate A
+
+
+
+
+                   ACEA9772
+
+
+
+
+Page 8
+        Short Engine                                                                  Plate A
+
+
+
+
+                                               ACEA9772
+
+
+
+     Item | Part No.             References        Qty.   Description       Notes
+
+        Re
+              AR39772                                     SHORT ENGINE
+
+      bw                                                  CYLINDER BLOCK    (A)
+
+
+
+      WN Dd
+                                              LF          LINER                   ,
+                                              SP
+                                                          CRANKSHAFT
+
+                                              HLH
+                                                          PISTON
+
+      NN                                      F&F
+                                                          PISTON RING
+
+      HY                                      &           CONROD
+
+      NY                                                  MAIN BEARING
+
+      NM                                      oo          BIG END BEARING
+
+      NM                                      -           THRUST WASHER
+
+                                              PP
+      oNM                                                 SEAL
+
+                                              ee
+      we                                                  HOUSING -
+
+
+     Footnotes
+     (A) | COMPLETE WITH PLUGS
+
+
+
+
+ra
+
+
+
+
+                                                                                        Page 9
+    Cylinder Block              Plate E
+
+
+
+
+                     ACHA0607
+
+
+
+
+Page 10
+      Cylinder Block                                                                                       Plate E
+
+
+
+
+                                                                   ACHA0607
+
+
+
+
+    Item } Part No.                             References:         Qty.    Description            Notes
+
+      1        ZZ50280                              a.          1           CYLINDER BLOCK KIT
+
+     2         bb                           /                   1.          BLOCK
+    en                                                          5           BEARING CAP
+
+     4 |_.0650710                                               5.          PLUG                  (A)
+     5          |.0650713                                       1           PLUG                  (B)
+     6          }-0650710                                       1           PLUG                  (C)
+
+    7           L-o6sosss. -                                    1           PLUG                  (D)
+     8 7 }~- 33142111                                           10          THIMBLE
+
+     9         1432166329                                       10          SCREW
+
+     10        }+31134165.                                      1           CAMSHAFT BUSH        —
+     11    -   +-32418122                                       4           PLUG                  (D)
+
+     12°       132416118                                      3             PLUG                 (B)
+     13        + 2485A204                                       1.         PLUG                  (FY
+
+    14         132417134                                        1-          PLUG                 (G)
+    15         32161114                                       : 2           PLUG...              (HI),
+    16.        32418122                                         2          PLUG                  ©
+    17         32416119                                         1          PLUG.                 ®
+    18         }-32168212                                       1          PLUG                   (L)
+
+    19         £-3311R003                                       1          WASHER                 (L)
+
+    20         |-36171131                    (OQ «.             1          PLATE
+    21°        [36832144                                      1            JOINT    |
+
+    22         |-2314H033                                     2            SCREW
+
+    23         |. 3314A103                   @© U3312R016      1           PLUG                   (B)
+
+    24         1.3278A003                    (Gv.              4           PLUG
+25             13861A027                     Ba                4           PISTON COOLING JET
+    26 © |-4138A017                          61                1           VALVE
+    27                    .                  > 4138A017        1           VALVE BODY
+|   28.              - 2538753                                 1           BALL
+
+29                  31744004                                   1           SPRING
+30,                 -3271A003                                  1           RETAINER
+    31         --3623HO08         —                            1           PLATE
+
+    32         |--3686T006                                     1           JOINT
+
+    33.        | 23145033                                      4           SCREW
+
+    34         |_3212T006                                      2           PLUG                   (M)
+
+    35         |-32417145                                      1           PLUG                   (M)
+
+    36           9659588——-—-—-       —--- ——__-_____ ----- ------ t~-~-PLUG—— —------~---------(Q—--—-
+                                                                                                   —    —
+    37         |-2182110                                       3           SCREW                  (N,O)
+
+
+
+
+                                                                                                            Page 11
+   Cylinder Block              Plate E
+
+
+
+
+                    ACHA0607
+
+
+
+
+Page 12
+          Cylinder Block                                                                                Plate E
+
+
+
+
+                                                                  ACHA0607
+
+
+
+
+     Item | Part No.                           References         Qty. | Description            Notes
+
+
+
+         38       L. 0920469 . |                              3         SPACER                  (N,O)
+         39       4142066                       .             1         REAR OIL SEAL HOUSING
+o
+
+
+
+         40       i           .               E> 4142V066     1         REAR OIL SEAL HOUSING
+         41           2418F475 |                              1         REAR OIL SEAL
+
+         42      3681T018                     @© 3681T012     1        JOINT
+
+         43      2314H003                                     12       SCREW
+
+         44      3212002                                      2        SCREW
+
+         45      0350009                                      2        DOWEL
+
+    History
+
+    a.                                                                                      ;
+
+
+         1       ZZS0280                                      1        CYLINDER BLOCK KIT
+         25       KE 4126X124                 Ai              1        JET
+    bo
+
+         24       [2487001                                    4        PLUG
+    c.         General History Section
+
+         20      4b 36171121                                  1        PLATE
+
+     Footnotes         —
+
+         (A) | WATER JACKET,LEFT HAND SIDE
+
+         (B) | INNER HOLES
+
+         (C) |} WATER JACKET,LEFT HAND SIDE,TOP CENTRE HOLE
+
+         (D) | WATER JACKET,RIGHT HAND SIDE
+
+         (E) | TAPPET CHAMBER
+         (F) | ROCKER OIL FEED DRILLING,RIGHT HAND SIDE
+         (G) | ROCKER OIL FEED DRILLING,
+                                      TOP FACE
+         (H) | CYLINDER BLOCK WATER DRAIN RIGHT HAND SIDE -
+         () | CYLINDER BLOCK WATER DRAIN LEFT HAND SIDE
+         (J) | WATER JACKET,REAR FACE
+         (K) | CAMSHAFT CHAMBER,REAR END
+         (L)      LUBRICATING OIL PRESSURE RAIL,REAR END
+     (M) | TURBOCHARGER DRAIN POSITION TAPPINGS
+
+         (N) | PISTON COOLING PRESSURE RAIL
+
+         (O) |} WAS 2487001 - USE 2182110/0920469
+
+
+
+
+                                                                                                         Page 13
+        Crankshaft, Pistons & Connecting Reds                                                                         Plate B
+
+
+
+
+CO)                                                                    ACHA0607
+Se
+
+
+
+      Item |. Part No.                          References                 Qty. | Description                Notes
+
+        1    ZZ90145                                                   1           CRANKSHAFT KIT
+
+        2     -                             => REF1                    1           CRANKSHAFT
+
+°       3     181558                            e                      1           BEARING KIT              (A)
+       3      | 81558A .                        =& (-)0.010"           X           OVERSIZE MAIN BEARING    (A)
+.      3.     | 81558B                     = 0.020"                    X           OVERSIZE MAIN BEARING    (A)
+       3      L-815ssc                          = (-)0.030"            X     | OVERSIZE MAIN BEARING        (A)
+
+       4      |. USME0006                   sn                         1           “BEARING KIT             (A)
+       4      | USME0006A                   ~~ (0.010"                 X           BEARINGKIT               (A)
+       4      | USME0006B                   = (+4)0.020"               X           BEARING KIT              (A)
+       4      | USME0006C                   = (-)0.030"              "X        "BEARING KIT                 (A)
+O      5      131137551                     86                         2           THRUST WASHER :
+       5      131137312.                    = (+)0.007"                X           THRUST WASHER
+
+       6      }-31137561                    86            .           2            THRUST WASHER
+       6      131137322 -                  “2 -(4)0.007"              X            THRUST WASHER *
+
+      7      ZZ90188 -                                               4             CONROD KIT              _ (B) HIGH GRADE
+
+       7     ZZ90189                                                 “4            CONROD KIT               (B) INT.GRADE
+                                                                                                            GRADE J
+
+       7     2Z90190                                                  4            CONROD KIT              _(B) INTGRADE
+                                                                                                            GRADE K
+
+      7      ZZ90191                                                  4            CONROD KIT               (B) LOW GRADE
+                                                                                                            GRADE L
+
+       gs     ot                            => RER7                  1             CONROD |
+       9                                    => REF7-                  1            CAP
+C)     10     [31128011                             |                ob            BUSH                     (B)
+      11      }32762145                                               2            CON ROD BOLT
+
+       21    -|-33221328                                             2.        -    CON ROD NUT
+
+       23     L.2135A001                                              2        | THIMBLE
+       13    USLPOOS8                       .                         4°           PISTON KIT —             STD.
+      13. USLPO0S8B                         == (05MM)                 4..          PISTON KIT
+       13    USLP0058D                      == (+1.0MM)              4         ~. PISTON KIT
+°      14                                   => REFI3                 “1.           PISTON
+       15                                   => REF13                   1           PIN
+
+.      16          2721332                                             1           CIRCLIP
+
+       17.         L.2721332                                           1           CIRCLIP
+
+       18    U4181A045                                                4            PISTON RING KIT          STD.
+
+       18    U4i81A046                      == G05MM)          = =   4 ~~
+                                                                      &#PISTONRINGKIT 7 0
+       18    U4181A047                      = (+1.0MM). -             4            PISTON RING KIT
+
+OO)
+                                                                                                                       Page 15
+           Plate B
+
+
+
+
+ACHA0607
+         Crankshaft, Pistons & Connecting Rods                                                      Plate B
+
+
+
+
+OO)                                                             ACHA0607
+
+
+
+
+       Item | Part No.                 .         References .       Qty. | Description      Notes
+
+
+        19   3117C0661                                          1         CRANKSHAFT GEAR
+
+       °20   9500012                                            1         WOODRUFF KEY
+
+
+      ; Footnotes
+       (A) | PRE-FINISHED
+
+        (B) | SEE SERVICE BULLETIN NO.81
+
+
+
+
+O)
+
+
+
+
+                                                                                                     Page 17
+  Cylinder Head              Plate C
+
+
+
+
+                  ACHA0607
+
+
+
+
+Page 18
+     Cylinder Head                                                                                Plate C
+
+
+
+
+                                                    ACHA0607
+
+
+
+
+    Item | Part No.                  References         Qty. | Description                Notes
+
+
+     1     ZZ80255.                  @0 7780247     1         CYLINDER HEAD KIT
+
+     2      bE            a      |   > REFI         1         CYLINDER HEAD
+     3      31424041,                               4         INLET VALVE
+     4.     |-.3314A101                             4         INLET VALVE SEAT INSERT
+
+     5      [3313A012                @O 33135021    4         INLET VALVE GUIDE
+
+     6      |-3174P412                              4         VALVE SPRING
+     7      | 2418M507                              4         VALVE STEM SEAL
+
+     8°     |.3342NO11                              4         VALVECAP
+     9      |3142Wwo004                             8         COTTER
+
+     10     31420061.                               4         EXHAUST VALVE
+
+     nok 3314A102 .                                 4         EXHAUST VALVE SEAT INSERT
+     12     }-3318A705                              4         GUIDE
+
+     13     L.3174P412                              4         VALVE SPRING
+     14    1. 2418M505                              4         VALVE STEM SEAL
+
+     15    }-3342N011                               4         VALVE CAP
+     16    -L-3142woo4                              8         COTTER
+     17    |+32418122                               1         PLUG
+
+     18    /-0650710                                1         PLUG
+
+     19    |-2431A054                               4         PLUG
+
+     28    +.0650203                                1         PLUG
+
+     29.   |-2411157                                1         WASHER
+
+     30    29990001                                 2         DOWEL                       (A)
+
+     20                                             1         COVER                       (B)
+
+     21                                             1         JOINT                       (B)
+
+     22.                                            4         SCREW                       (B)
+
+     23 - 3244A009                                  2         DOWEL
+
+     24 °3681E042                    ©O U3681E042   1         HEAD GASKET
+                                     @O U3681E039
+
+     25    3218J303                                 8         SCREW
+
+     26    32183606                                 8         SCREW
+
+     27    32183607                                 2         SCREW
+
+     31    32166221                                 4         SCREW
+
+
+    Footnotes
+
+     (A) | LOCATING DOWELS
+
+     (B), | SEE WATER PUMP SECTION
+
+
+
+
+                                                                                                    Page 19
+
+
+
+2
+           Rocker Shaft                                                                                Plate A
+
+
+
+
+                                                             ACHA0607
+ee
+
+
+
+
+      Item | Part No. ©                   References              Qty.    Description          Notes
+
+           1      ZZ90184                    a.             1            ROCKER SHAFT
+
+                                         (Qj a.
+          2.       |-2Zz90172                               1            ROCKER SHAFT
+
+          3           F                                     1            ROCKER SHAFT
+          4               0650507                          2             PLUG
+
+          5        |.3818X901                              4             BRACKET
+
+          6       }-4115R007             (Q) a.            4             LEVER
+      7               r.                 => 4115R007       1             LEVER
+          8               3112A003                         1             BUSH
+
+          9       1-4115R008                 a.        .   4             LEVER
+
+          10        . E                  > 4115R008        1             LEVER
+O         11           —3112A003         [QI c.            1 - BUSH
+          12      |-31744123                               2             SPRING
+
+          13      131743108                                2             SPRING
+          14      -3775E012                                1             CONNECTION
+
+          15      |-2233022                                1             SCREW
+
+          16      }-3311K015             (Qj ».            2             SHIM
+          17      +-32114145             @© 0720579        8             SCREW
+
+          18      --0576052                                8             NUT
+          19      |-3311K012                               2             WASHER
+
+          20      [0170151                                 2             CIRCLIP
+
+          21      133811113                                1             OLIVE
+
+          22    © 2313H331                                 3             STUD
+
+          23     2318A605                                  3             NUT
+
+          24     23143607                                  1             SCREW
+
+          25     31434307                                  8             PUSHROD
+
+          26     3142U031                                  8             TAPPET
+
+     History
+
+     a.
+
+
+      1,1        ZZ90184                                   1             ROCKER SHAFT
+
+          6          4115R005            4                 4             ROCKER ARM ASSEMBLY
+
+          9          4115R006            °                 4             ROCKER ARM ASSEMBLY
+
+     D.
+
+          16      133117426                                2             SHIM
+     c.        General History Section
+
+     ee              L_ 31134166                           4_ _          BUSH           en             ee |
+
+
+
+
+                                                                                                        Page 21
+    Timing Gear & Camshaft                 Plate A
+
+
+
+
+                             ACHA0607
+
+
+
+
+                                 |   awl
+                               Meera
+
+
+
+
+Page 22
+               Timing Gear & Camshaft                                                                                       Plate A
+
+
+
+
+                                                                                    ACHA0607
+—
+
+
+
+
+             Item.|       Part No.           ee                   References        Qty. | Description              Notes
+
+
+               1      3716C163                               .                  1         TIMING CASE .
+
+              2       3681P009           .                       Ss]            1         TIMING CASE JOINT
+_             3 23141003                             .           :             8          SCREW
+              4 . 2314H034                                                      4         SCREW
+
+:             5     3141D171                                                    1         CAMSHAFT
+              6       33153121                                   (Q) a.        -1         WASHER
+
+              7       2116053                                                   1        DOWEL
+              8       31171023                                                  1         CAMSHAFT GEAR
+
+              9       0500012                                                   1        WOODRUFF KEY
+
+              10. 23145606.                                                     1        SCREW
+C)            11      33214003                                                  1        WASHER
+              12      33426161                                                  1        HUB
+
+             13°      41114013                                                  1        IDLER GEAR
+
+             14           C                  -                   SP 4111A013    1        IDLER GEAR
+             15°              40050345                           (Gy ».        2         BUSH
+
+             16       3241H009                   .                              1        - PLATE
+             17       23145010                                                 3.        SCREW
+             18       41424415                                   @O 41424404   1         TIMING COVER
+
+                      |                                  —       @O 41424404
+                                                                 (Q v.
+             19           L2418F436                                            1         FRONT OIL SEAL
+             20       3681P038                                                 1         TIMING CASE COVER JOINT
+
+             21.      2314H013                                                 6         SCREW
+
+             22 » 2314H004                                                     1         SCREW
+
+C)           23 2314005                                                        7         SCREW
+             24       3781N043                                                 1         SHIELD
+
+             25       3781N042                                                 1         DAMPER
+
+             26       2314F003                                                 2         SCREW
+
+             27       23141034                                                 2         SCREW                     (A,B)
+
+        Service Options
+
+    ;         2       21826405                                                 1         TIMING CASE COVER JOINT
+
+|       History
+    .   a.
+
+
+              6       33153135                                                 1         WASHER
+
+        b.         General History Section
+
+             15       L.ooso3as                  ee                            1       BUSH. ——sssssa
+             18       4142A404                                   @0 41424404   1         COVER
+
+
+
+
+                                                                                                                             Page 23
+    Timing Gear & Camshaft              Plate A
+
+
+
+
+                             ACHA0607
+
+
+
+
+Page 24
+       Timing Gear & Camshaft                       Plate A
+
+
+
+
+                                         ACHA0607
+Ne
+
+
+
+
+      Footnotes
+
+      (A) | REPLACES 2313M059,2318A063
+
+     _ (B) | BOTTOM TWO HOLES -
+
+
+
+
+                                                     Page 25
+    Lubricating Oil Pump & Delivery Housing              Plate A
+
+
+
+
+                                              ACHA0607
+
+
+
+
+Page 26
+            Lubricating Oil Pump & Delivery Housing                                                Plate A
+
+
+
+
+O                                                                  ACHA0607
+
+
+
+       Item | Part No.                           References:       Qty.    Description     Notes
+
+            1... 4132F051                                      1          OIL PUMP
+
+           2.      3271004                                     1          SHAFT
+
+°     _ 3          4111A021                                    1          IDLER GEAR
+           4 i                                  => 4111A021    1          IDLER GEAR
+°           5          2511437                                 1          BUSH
+            6      33123125                                    1          WASHER
+
+            7     2722A206                                     1          CIRCLIP.
+            8     2314H005                                     3          SCREW
+
+            9.    3343F012                                     1.         OILPIPE
+
+           10     2415H201,                                    2          O RING
+
+—          11     3748C011                                     1          FLANGE
+
+OO)        12 2314HO04.                                        2          SCREW
+           13     3763W011                                     1°         ADAPTOR
+           14. 23143008.                                       1          SCREW
+
+           15     33137409                                     1          ‘THIMBLE
+           16     3343M307                                     1          OIL PIPE
+
+           17     2415H201                                     1          O RING
+
+           18     24151201                                     1          ORING
+           19     41384053                      (Q) a.         1          VALVE ASSEMBLY
+           20      -                      .                    1          VALVE BODY
+           2b                                                  1          VALVE COVER
+
+           22      12314F907                                   3          SCREW
+
+           23      132712726                                   1          PLUNGER
+
+-      24          L3174a012                    (Q v.          1          SPRING
+C)         25 132712111                                        1          SEAT
+           26      L2721130 -                                  1          CIRCLIP
+
+           27     23143011                                     1          SCREW
+
+           28     33137409                                     1          THIMBLE
+      History
+
+      a.
+
+ »         19     4138036                                      1          RELIEF VALVE
+
+      b.        General History Section
+
+ ,         24      131741003                                   1          SPRING
+
+
+
+
+                                                                                                    Page 27
+    Fuel Injection Equipment (Diesel)              Plate B
+
+
+
+
+                                        AFH03865
+
+
+
+
+                        a!
+                   §
+
+
+
+
+                        ae
+
+
+
+
+Page 28
+          Fuel Injection Equipment (Diesel)                                                    Plate B
+
+
+
+
+                                                           AFH03865
+la   \
+
+
+
+         Item | Part No.                      References       Qty.   |. Description   Notes
+
+
+          1    4124C072 ~                                  1          AIR PIPE
+
+          2     [33530008 7                                1          UNIONNUT
+          3       3381 A002                                1          OLIVE
+
+          4    33225412                                    1          UNION NUT
+
+          5    33811112                                    1          OLIVE
+
+          6    K138AF02                                    1          CLIP
+
+
+
+
+O)
+
+
+
+
+                                                                                                Page 29
+   Fuel Injection Equipment (Diesel)              Plate K
+
+
+
+
+                                       AFH03865
+
+
+
+
+Page 30
+         Fuel Injection Equipment (Diesel)                                                                          Plate K
+
+
+
+
+OO)                                                                    AFH03865
+
+
+
+
+       Item | Part No.                            References            Qty. | Description                ' Notes
+
+
+         1.    26446741 |                              b,           1         FUEL INJECTION PUMP
+
+                                                 [A «.
+                                                 (Qt
+        2      F                                 E> 2644741         1         FUBL INJECTION PUMP
+        3           26420469                                        1         SOLENOID
+        4     26484123                           Ss]               1          CAP
+                ‘     ——                               €.
+
+        S$    3211P004|                                            3         STUD
+
+        6 2318A603                                                 3.9. NUT
+       7      31171212,                                         |            FUEL INJECTION PUMP GEAR
+
+        8     3644¥004                                             1         BRACKET
+
+        9 . 2314H003°                                              1         SCREW
+      "10     23184603©                                            1         NUT
+        11    23145002                                             1         SCREW
+
+        12 35211065                              61            1             FUEL INJECTION PIPE      ;
+        13    3521H083                           (OY a.            1         FUEL INJECTION PIPE
+                                                                                              - NO 2
+      14      3521H067                           A 3               1         FUBL INJECTION PIPE
+       15 3521068                                6 4               |         FUEL INJECTION PIPE
+        16    2646E017©                                            2         CLIP
+        17    2646B019-—                                          1          CLIP
+        18. U2645A058                                              4.        ATOMISER
+       19     [osan                                                1          HOLDER
+       20       2645K609                                           L        | NOZZLE
+      21 L311FFO2                                              4             INJECTOR WASHER
+      2       3558X051                                             1         ATOMISER LEAK-OFF PIPE
+       23 3355V002_                                            1,            CONNECTION
+       24     2415D051 _                               d.         1          PLAIN WASHER
+       25 .2415D051 .                                  d.          1         PLAIN WASHER |
+      26.     3218R005.. -                   -                 _ 3. .        BANJO BOLT.
+       27     2415D051                           LQ]               3         PLAIN WASHER
+
+      ‘ 28° 2415D051                             [Q] a             3.        PLAIN WASHER
+
+       29 - 26420318                                           “1 - ORING-
+       30 | 2314H002°                                          “4°           SCREW
+
+       31     2848A121                           (Ql «.            1         SENDER
+       32     3161C005                                             1         CABLE
+
+      Service Options
+
+        4     2648A124             a                               1         CAP.                         OO
+
+
+
+
+                                                                                                                     Page 31
+   Fuel Injection Equipment (Diesel)              Plate K
+
+
+
+
+                                       AFH03865
+
+
+
+
+Page 32
+          Fuel Injection Equipment (Diesel)                                                        Plate K
+
+
+
+
+                                                           AFH03865
+
+
+
+
+     Item | Part No.                          References       Qty. | Description          Notes
+
+
+    History
+
+
+
+
+         13   3521H066                        A 2          1         FUEL INJECTION PIPE
+    b.
+
+         1    2644G731           .               ,         1         FUEL INJECTION PUMP
+
+    c.                ;
+
+
+         1    26446721                                .    1         FUEL INJECTION PUMP
+    d
+
+         24   -3311A001                                    1         WASHER
+
+         25 3311A001                                       1         WASHER
+         27 | 3311A001                                     3         WASHER
+         28   3311A001                                     3         WASHER
+    .
+
+
+
+
+         4    2648A116          oe                         1         CAP
+
+
+
+         1    U2644G721                                    1         FUEL INJECTION PUMP
+
+    2.
+
+
+
+
+         31   2755A009                                     1         SENDER
+
+
+
+
+©
+
+                                                                                                    Page 33
+  Flywheel Housing              Plate A
+
+
+
+
+                     CDH00991
+
+
+
+
+Page 34
+      Flywheel Housing                                                         Plate A
+
+
+
+
+                                          CDH00991
+
+
+
+
+     Item | Part No...   -   References       Qty. | Description       Notes
+
+
+      1     3713K063                      1         FLYWHEEL HOUSING
+
+      4.    0350025                       2         DOWEL
+
+      5     2487215 ©        @O 2487218   1         PLUG
+
+      6     2487204 .                     3         PLUG
+      7     32712723                      1         PLUG
+      8     2314]204                      6         SCREW
+
+      9     23143603                      2         SCREW
+
+      11   | 36843154                     1         SEAL
+
+
+
+
+aa
+
+
+
+
+a
+
+
+
+
+                                                                                Page 35
+  Flywheel & Starter Ring               Plate A
+
+
+
+
+                             DDH01009
+
+
+
+
+                            11
+
+
+
+                            2
+                            \ xgyoe
+
+
+
+
+Page 36
+     Flywheel & Starter Ring                                                      Plate A
+
+
+
+
+                                                DDH01009 -
+
+    Item | Part No.                References   Qty. | Description        Notes
+
+
+     1.   4111D127                              1     FLYWHEEL ASSEMBLY
+
+     2     r                      E> REF1       1     FLYWHEEL
+
+     3         31162121                         1     STARTER RING GEAR
+
+     4    0746853                               2     SCREW               (A)
+
+     5    33117127                              4     WASHER
+
+
+    Footnotes
+
+    (A) | FOR TRANSPORTATION PURPOSES ONLY
+
+
+
+
+©
+
+
+
+
+                                                                                   Page 37
+   Starter Motor              Plate A
+
+
+
+
+                   EDH00527
+
+
+
+
+Page 38
+  Starter Motor                                                     Plate A
+
+
+
+
+                                  EDH00527
+
+
+
+
+Item. | Part No.    _References       Qty. | Description:   Notes
+
+ 1    2873B071                    1         STARTERMOTOR
+
+ 2    2313C077                    3         STUD
+
+ 3-   2318A604° -                 3         NUT
+
+
+
+
+                                                                     Page 39
+   Starter Motor              Plate B
+
+
+
+
+                   EDH00527
+
+
+
+
+Page 40
+      Starter Motor                                                           Plate B
+
+
+
+
+C)
+                                             EDH00527
+
+
+
+
+     Item | Part No.           References        Qty. | Description   Notes
+
+
+      1        2873B071                      1         STARTERMOTOR
+
+      5.       i 28730238      @© 28730192   1         BUSH KIT
+      6    |      28730193                   1         BRAKE KIT
+
+      2.       28730201.   -                 1         BRUSH KIT
+
+      4    = 28730267                        1         DRIVE
+
+      5        28730238                      1        BUSH KIT
+
+      7        28730209                      1        REPAIR KIT
+
+
+
+
+                                                                               Page 41
+    Fan Drive              Plate C
+
+
+
+
+                FBH00542
+
+
+
+
+Page 42
+      Fan Drive    |                                                                  Plate C
+
+
+
+
+                                                FBHO0S42
+
+
+    Item | Part No.              References _       Qty. | Description        Notes
+
+    ; 14.   2614B669                            1         FANBELT             (A)
+    "45.    -3115C111                           1         FAN PULLEY
+
+     16 : 4113H073.                             1         FAN DRIVE HOUSING
+
+     17°                         => REF 16      1         HOUSING
+
+     18                          > REF 16       1         BEARING
+
+     19                          f= REF 16      1        HUB
+
+     20..   23143014                            4        SCREW
+
+
+    Footnotes .
+
+     (A) | SERVICED IN PAIRS .
+
+
+
+
+O
+                                                                                       Page 43
+    Lubricating Oil Sump               PlateA
+
+
+
+
+                           GBHO01338
+
+
+
+
+Page 44
+           Lubricating Oil Sump                                                                     Plate A
+
+
+
+
+                                                                  GBH01338
+O
+     Item | Part No.                      References               Qty. | Description       Notes
+
+          1      3717Y002_                                    1          SUMP
+
+          2     32186405                                      2          PLUG
+          3     2415715                                       2          ORING
+     4         — 3681K005                 @O 36815715         1          SUMP JOINT
+
+          5    _ 3627P023                 @O 3627P022         1         BRIDGE PIECE
+
+                                         @© 3627P021
+                                         @O 36277824
+
+          6     2311D039                                      2         SCREW
+
+          7     3254H007                                      2         STUD            (A)
+
+          8    . 2318A603 |                                   2         NUT             (A)
+
+          9     2131A008                                      2.        WASHER          (A)
+
+     10         623144002                                     4         SCREW
+
+     ‘11        2314H002                                      13.       SCREW           (B)
+         12     3575A018                                      1         OIL PIPE
+
+         13     36832118                                      1         JOINT
+
+         14     2314H007                                      2.        SCREW           |
+         15     3824A021                 @O 3824A001          1         BRACKET         ©
+         16     2314HO04                                      1         SCREW
+
+         17     0330807                                       1         SPACER
+         18     2314F016                 @O 2314F014          2         SCREW
+
+         19     2318D802                                      2         NUT
+         20     3577A125                                      1         TUBE ASSEMBLY   (D)
+
+         21      i                       > 3577A125           1         TUBE
+     22.          L.3353D005                                  1         NUT
+
+         23 33812116                                          1         OLIVE
+O        24     3735A011                 @O 3611V002          1         CLAMP           (E)
+         25     2314H031                                      2         SCREW |         (F)
+
+         26° 3178C077                    @© 3178C007          1         DIPSTICK        (G)
+         27.    2314H003                                      1         SCREW
+
+         28     33134418                 (Ql a.               1         SPACER”
+    History
+
+    a.
+
+
+         28     0920460                                       1         SPACER
+
+
+     Footnotes
+
+         (A) | USED ONLY WITH CAST IRON BRIDGE PIECE PART NO.36277824
+
+               -QUANTITY-WAS14                                             anata              wana as ent
+
+
+
+
+                                                                                                     Page 45
+   Lubricating Oi! Sump              Plate A
+
+
+
+
+                          GBH01338
+
+
+
+
+Page 46
+      Lubricating Oil Sump                                                    Plate A
+
+
+
+
+©
+                                                              —   GBHO01338
+
+
+
+
+     (©)     WAS 3824A001 USE 3824A021 WITH 3735A011,2314F016 (2)
+
+     (D) |   WAS 3577A115 USE 3577A125,3178C077
+
+    _€)      WAS 3611V002 USE 3735A011 WITH 3824A021,2314F016 (2)
+
+a   _®       USED ONLY WITH CAST IRON BRIDGE PIECE PART NO.3627P021
+
+    (G).     WAS 3178C607,USE 3178C077,3577A125
+
+
+
+
+O
+
+                                                                               Page 47
+   Lubricating Oil Filler & Breather              Plate E
+
+
+
+
+                                       HBH02065
+
+
+
+
+‘sf
+          Gb SY
+y
+
+
+Page 48
+            Lubricating Oil Filler & Breather                                                                        Plate E
+
+
+
+
+                                                                              HBH02065
+
+
+
+       Item | Part No.                                     References          Qty. | Description           Notes’
+
+            1      4142x187                               @O 4142x124     1          CYLINDER HEAD COVER   (A)
+
+                                                          @0O U3781F344
+r3)
+                                                          (Qa.
+           2       pr sssiae7                                 a.          1          ROCKER COVER JOINT.
+           3          4142x099            ,                               1          OIL FILLER CAP
+           4           C      -                           > 4142x099      1          OIL FILLER CAP
+           5               2415731                                        1          O RING
+
+           6       32416118                                               1         PLUG                   (B)
+
+           7»    3274A003-                        |       ( v.            3         NUT
+
+           8      0920009:                                                3         WASHER
+
+           9      33817135                                                3.        SEAL
+O          10 - 33872525                                                  1         BREATHER PIPE
+
+           11     3175P003                                                1         SPRING
+           12 2481877                                     @O 2481884      1         HOSE CLIP
+           13 36241123                        ,                           1         SUPPORT BRACKET
+          14      3617A001                                                1         PLATE
+
+           15 _3683H006                                                   1         ‘JOINT
+           16     2314H003                                                2.        SCREW
+
+      History
+
+      a.
+
+
+           1      4142x187                                @O 4142x124     1         CYLINDER HEAD COVER    (A)
+
+                                                          @©O U3781F344
+
+           2       L.3688xo12                                             1         CYLINDER HEAD JOINT
+      b,
+
+           7      3274P003                                                3         NUT
+
+      C         General History Section
+                       :
+                   L_368sxo12                             ©O U3688X011    1         CYLINDER HEAD JOINT
+                                                      ~   @O U3688X007
+
+
+          Footnotes
+
+           (A) | WAS U4142X124 USE 4142X187 WITH 2481884
+           (B) | CYLINDER BLOCK ALTERNATIVE LUBRICATING OIL FILLER FACING (FITTED RIGHT HAND SIDE)
+
+
+
+
+                                                                                                                      Page 49
+    Lubricating Oil Filter & Integral Oil Cooler                            Plate J
+
+
+
+
+                                                       JBHO1274
+
+
+
+
+                                                                  20
+
+
+                                                   Ceid Gooey          19
+
+
+
+
+                                                     Pa,          30
+
+
+
+
+Page 50
+     Lubricating Oil Filter & Integral Oil Cooler                                             Plate J
+
+
+
+
+                                                          JBHO1274
+
+
+
+    Item | Part No.                          References       Qty. | Description      Notes
+
+
+     1     3773K004                                       1         OIL FILTER HEAD
+
+     2      F          |                    => REFI       1         FILTERHEAD
+     3            .                         => REF1       1         CONNECTION
+
+     4     36867004 —                                     1         JOINT
+    5      23143034 |                                     4         SCREW
+     10    2654403                                        1         OIL FILTER
+     11    3623H008                                       1         PLATE
+
+     12 3686T004                                          1        JOINT
+     13.   2314J033.                                      4        SCREW
+
+    33     0650588 -                                      1        PLUG
+
+
+
+©
+
+
+
+
+                                                                                              Page 51
+   Tront End Drive Input               Plate
+
+
+
+
+                           KBHO00519
+
+
+
+
+Page 52
+ Front End Drive Input                                                      Plate A
+
+
+
+
+                                       KBH00519-
+
+
+
+
+Item | Part No.          References       Qty. | Description        Notes
+
+
+ 1    311 4Vvo4l                      1         CRANKSHAFT PULLEY
+ 2    3241N001                        1         BLOCK ©
+
+ 3    32186137 -                      3.       BOLT     ©
+   Water Pump, Thermostat & Heat Exchanger                           Plate F
+
+
+
+
+   © LBHA1879                                LBH02176
+
+
+
+
+                                                  21    20   23 22
+
+
+
+
+Page 54
+           Water Pump, Thermostat & Heat Exchanger                                                   Plate F
+
+
+
+
+©)         © LBHAI879                                      LBH02176
+
+
+
+      Item | Part No.                         References       Qty. | Description            Notes
+
+
+          1       USMW0178                                 1         WATER PUMP KIT
+
+          2        |. 3687Y016                             1         JOINT
+          3                                                1         STUD                    (A)
+
+          4                                                1         NUT                     (A)
+
+          5       2314K159                                 1         SCREW
+
+          6       2314H017                                 3         SCREW
+
+          7       2314H034                                 3         SCREW
+
+          8       U7LWO161 -                 [Ql b.        1         WATER PUMP REPAIR KIT
+
+          9       3771K251                                 1         HOUSING
+
+          10      3686D007                                 1         JOINT
+
+          11.                                <> LDH        1         THERMOSTAT
+
+          12                                 <> LDH        1         O RING
+
+          13                                 <> LDH        1         CLIP
+
+          14.     2314H008                                 3         SCREW
+
+          15                      .                        1         SCREW                   (A):
+          16      2314K161    .                            3         SCREW                    -
+
+          17.                                              1         PLUG                    (A)
+      18         = USMH0056                                1         HOSE KIT
+          19      0180067                                  2         CLIP
+
+          20      3623H024                                 1         COVER
+
+          21      3685R009                                 1         JOINT
+
+          22                                               4         SCREW                   (B)
+
+          23                                               1         PLUG                    (A)
+
+          24      2314H012_——;                             2         SCREW
+
+          25                                               1         SCREW                   (A)
+
+          26     - 2314K166                                1         SCREW
+
+     History.
+
+     a.
+
+
+                  2431154                                  1         PLUG
+
+     b.         General History Section
+
+          8       UT7LWO161                                x         WATER PUMP REPAIR KIT
+
+      Footnotes
+
+          (A) | NOT REQUIRED FOR THIS APPLICATION
+
+          (B) | REFER TO RELEVANT OPTION ACCESSORY PACKS
+
+
+
+
+                                                                                                       Page 55
+   Water Outlet & Inlet              Plate D
+
+
+
+
+                          LDH00592
+
+
+
+
+Page 56
+      Water Outlet & Inlet                                                   Plate D
+
+
+
+
+                                            LDH00592
+
+
+
+
+    Item | Part No.          References         Qty. | Description   Notes
+
+
+     1 4133L017              --> U892126D   1         CONNECTION
+     2     =                 > U892126D     1         CONNECTION
+
+     ‘3    L_ 3781A503       b> U892126D    1         PLUG
+     4.    -- 2415H492       t—> U892126D   1         O RING
+
+     5    | 3381J008         F-» U892126D   1        RING
+
+     6     — 2485C025        F-> U892126D   1        THERMOSTAT
+
+     7     i— 2415 A090      F—> U892126D   1        O RING
+
+     8    2314K161           t- U892126D    2        SCREW
+
+     9    2314H004           t+ 11892126D   2        SCREW
+
+
+
+
+O
+
+                                                                              Page 57
+    Fan & Extension              Plate B
+
+
+
+
+                      MDH01085
+
+
+
+
+Page 58
+ Fan & Extension                                                    Plate B
+
+
+
+
+                                   MDH01085
+
+
+
+
+Item | Part No.       References       Qty. | Description   Notes
+
+ 4    2485C518                     1         FAN
+
+ 7    2313H229    -                4         STUD
+
+ 8    2318D208                     4         NUT.
+
+ 9.   3748W223                     1         EXTENSION
+
+
+
+
+                                                                     Page 59
+    Alternator & Generator                                                     Plate B
+
+
+
+
+                                                     NDH02165
+
+
+
+
+Page 60
+
+                                      ID #1022482 www.heydownloads.com
+                             Purchase more manuals from www.HeyDownloads.com
+      Alternator & Generator                                                      ,            Plate B
+
+
+
+
+                                                         NDH02165
+
+
+
+
+ Item | Part No.                        References       Qty. | Description            Notes
+
+
+      1                             <& NDHA-C        1         ALTERNATOR
+
+     2    3828D016                  @O 3828D016      1         BRACKET
+
+     3° 23147003                                     1         SCREW
+     4    U3641V013-                                 1        BRACKET
+
+     5    2314H002                  @O 2314003       4        SCREW
+
+     6    23141006                                   1        SCREW
+
+     7    2318D208                                   1        NUT
+
+     “8 © 2314H008                                   1        SCREW
+     9    2318D208                                   1        NUT
+     10   2314H013                                   2        SCREW
+
+     11   3615Y006                                   1        LEVER
+     12° 23141004                                    1        SCREW
+
+     13   23143602                                   1        SCREW
+
+     14   2314H005                                   3        SCREW                   (A)
+
+     15   2131A008                                   1        WASHER
+
+     16   2131A008                                   1        WASHER
+
+History
+
+a.
+
+
+          3113H001                                   1        ALTERNATOR PULLEY
+
+
+ Footnotes
+
+     (A) | FRONT COVER TO TIMING CASE
+
+
+
+
+                                                                                                Page 61
+   Alternator & Generator              Plate C
+
+
+
+
+                            NDH02165
+
+
+
+
+Page 62
+  Alternator & Generator                                              Plate C
+
+
+
+
+                                        NDH02165
+
+
+
+
+Item | Part No.            References   ‘Qty. | Description   Notes
+
+
+  1   2871A163                          1     ALTERNATOR
+
+  2    i— 28710252                      1     REGULATOR
+
+ 3     -— 28710355                      1     RECTIFIER
+
+ 4    | 28710254                        1     BRACKET
+
+ 5     -— 28710352                      1     ROTOR
+
+ 8     \— 28710353                      1     STATOR
+
+
+
+
+                                                                       Page 63
+   Alternator & Generator              Plate Z
+
+
+
+
+                            NDH02165
+
+
+
+
+Page 64
+ Alternator & Generator                                                         Plate Z
+
+
+
+
+                                       NDH02165
+
+
+
+Item | Part No.           References   Qty. | Description               Notes
+
+
+ 1   3113D001                          1     1 GROOVE ALTERNATOR PUL-
+
+ 2   2871 W013                         1     SPACER
+
+
+
+
+                                                                                 Page 65
+    Gear Drive Auxiliary Drive Option              Plate A
+
+
+
+
+    — U953289F                          QDH01257
+
+
+
+
+Page 66
+      Gear Drive Auxiliary Drive Option                                                 Plate A
+
+
+
+
+      —>! U953289F                                     QDH01257
+
+
+
+  ‘Item | Part No.                        References       Qty. | Description   Notes
+
+
+      1      3753V0i8                                  1         PLATE
+
+      2      3687H019                     [Ql a.       1         JOINT
+
+      3      2314H032                                  5         SCREW
+
+      4      23143002                                  1         SCREW
+      5      2431154"                                  1         PLUG
+
+      6      2314C049                                  1         SCREW
+
+      7 0920155                                        1        WASHER
+      8      23143004                                  1         SCREW
+_| History
+
+ a.
+
+
+      2   3687HO00S.                                   1        JOINT
+
+
+
+
+                                                                                         Page 67
+    Gear Drive Auxiliary Drive Option              Plate A
+
+
+
+
+    > U953290F                          QDH01204
+
+
+
+
+Page 68
+              Gear Drive Auxiliary Drive Option                                                   Plate A
+
+
+
+
+O             > U953290F -                                      QDHO01204
+
+
+
+         Item | Part No.        :                 References        Qty. | Description    Notes
+
+
+             1      3753V018"                                   1         PLATE
+             2      3687H019                      (Qa.          1         JOINT
+°            3. 2314H032                          @O 2314H031   5         SCREW
+             4     23145002                                     1         SCREW
+             5     2314049.                                     1         SCREW          (A)
+
+             6     0920155                                      1         WASHER
+
+             7     23143004.                                    1         SCREW          (B)
+             8     2431154                                      1         PLUG           (C)
+        History
+
+        a.
+
+
+O            2     3687H00S                                     1        JOINT
+
+        bo
+
+    |            “, 2431154.                                    1        PLUG
+
+
+             (A) LOCATES IN COMPRESSOR/EXHAUSTER OIL FEED HOLE
+             (B) |FRONT COVER TO TIMING CASE
+             (C) | LOCATES IN WATER BY-PASS CONNECTION
+
+
+
+
+                                                                                                   Page 69
+   Induction Manifold
+
+
+
+
+                        TBHO00760
+
+
+
+
+Page 70
+          Induction Manifold             ;                                                                Plate G
+
+
+
+
+                                                             TBHO0760
+
+
+
+
+     Item | Part No.                         References          Qty. | Description               Notes
+
+
+          1      3777R081                    @© U3777R111    1         INDUCTION MANIFOLD
+
+          2      3777R122                        a.          1         INDUCTION MANIFOLD
+
+          3.     U3681V012                                   1         JOINT
+
+          4      2314H607                    @© 2316A317     8         SCREW
+
+          5      2314003                     @© 2314H005     8         SCREW
+
+                                             @© 2316A117
+
+          6      3681X001                                    1         SEALING COMPOUND           (A)
+
+          7      37661073                                    1         ELBOW
+
+         .8      2314H004                                    2         SCREW
+
+     9          = 2314H017                                   2         SCREW
+
+         10      3681X002                                    1         SEALING COMPOUND       .   (B)
+
+         11      3611M009                                    1         PLATE
+         12     .2316T050.                   LQ) b.          4         SCREW
+
+    History.
+
+
+
+
+         2       3777R121                    @ U3777R092     1         INDUCTION MANIFOLD ~
+                 3281 A001                   ~—PiU170804H    1         CAP
+
+                 21825195                    ~—Pl U170804H   1         CLIP
+
+    bi
+         12      23167049                                    4         SCREW METRIC
+
+    c.         General History Section
+
+                 3211P002                                    1         PLUG.                      (C)
+
+         Footnotes
+©    (A) | INDUCTION MANIFOLD INNER HALF TO OUTER HALF ONLY
+         (B) | USED ONLY WITH INDUCTION MANIFOLD AIR INLET ELBOW
+
+         (C) | USED ONLY WITH U3777R092
+
+
+
+
+                                                                                                            Page 71
+     r Cleaner & Restriction Indicator
+
+
+
+
+                                         TDH00293
+
+
+
+
+Page 72
+      Air Cleaner & Restriction Indicator                                             Plate D
+
+
+
+
+C)                                                       TDH00293
+
+
+
+     Item | Part No.                        References   Qty. | Description   Notes
+
+
+      6    2314H002                                      3     SCREW
+
+
+
+
+O
+
+
+
+
+                                                                                       Page 73
+    Exhaust Manifold              Plate D
+
+
+
+
+                       UBH00455
+
+
+
+
+Page 74
+           Exhaust Manifold                                                      Plate D
+
+
+
+
+                                            UBH00455
+
+
+
+
+     | Item | Part No.        -References       Qty. | Description       Notes
+
+
+           1    3778E111      [QY a.        1         EXHAUST MANIFOLD
+
+           2    32185013      @© 3211P018   12        SCREW
+
+      History
+
+      a.
+
+
+           1   U3778E111                    1        -EXHAUST MANIFOLD
+
+
+
+
+et
+
+
+
+
+O
+
+
+
+
+                                                                                  Page 75
+    Exhaust Outlet Flange              Plate A
+
+
+
+
+    © UDHA0395              UDH00519
+
+
+
+
+Page 76
+       Exhaust Outlet Flange                                                     Plate A
+
+
+
+
+       © UDHA0395 |                         -   UDH00519
+©)
+     Item | Part No. __        References           Qty. | Description   Notes
+
+
+      3.   °2313C077 -                          3         STUD
+
+      4    23184634                         3)            NUT’
+      5    -3623E006-                           1        FLANGE
+      6    3688C018                             1        ‘JOINT
+
+
+
+
+                                                                                  Page 77
+    Low Pressure Fuel System              Plate A
+
+
+
+
+                               VBH02020
+
+
+
+
+Page 78
+          Low Pressure Fuel System                                                     Plate A
+
+
+
+
+                                                       VBH02020
+
+
+
+
+     Item | Part No.                    References        Qty. | Description   Notes
+
+
+         ‘1     ULPKO0034               (Q) a.        1‘        LIFT PUMP      (A)
+         2       i                      => ULPK0034   1         LIFT PUMP
+         3           36851123                         1         JOINT
+
+         4      2314H033                              4         SCREW
+
+    History
+    a.
+
+
+         ‘1     ULPK0005                              1         LIFT PUMP
+
+                ULPROOOI                              x         REPAIR KIT
+
+    b.        General History Section
+
+|               2314H033                              4        SCREW
+                 L. 36851123                          1        ‘JOINT
+
+     Footnotes
+
+         (A) | NO SERVICED PARTS
+
+
+
+
+                                                                                        Page 79
+    Low Pressure Fuel System               Plate B
+
+
+
+
+                               VBHO02020
+
+
+
+
+Page 80
+       Low Pressure Fuel System                                                                Plate B
+
+
+
+
+OO)
+                                                       VBH02020
+
+
+
+
+      Item | Part No.              .| References           Qty.   Description          Notes
+
+
+       1    2656613.                                   1          FUEL FILTER
+       6    |-26560016                                 1          WASHER
+       7      |-26560017            mG 26561117        X          FILTER ELEMENT KIT
+
+      7           26561117          =I 26560017        X      - FILTER ELEMENT KIT
+
+       8                     .      j> REF7            1          ELEMENT
+
+       9             0490786                           1          O RING
+
+       10           - 0490786                          1          O RING
+       11            26560014                          1          SEAL
+
+       2    3654W0ll.. -                               1          BRACKET              (A)
+       3    23145004                                   2          SCREW
+       4    2318A604                                   2          NUT
+
+       5    23143002                                   2          SCREW
+
+      20    38112141                                   1          TRAY
+
+
+      Footnotes
+
+      (A) | ILLUSTRATION SHOWN MAY NOT RESEMBLE ACTUAL PART
+
+
+
+
+                                                                                                Page 81
+    Low Pressure Fuel System              Plate Z
+
+
+
+
+                               VBH02020
+
+
+
+
+Page 82
+ Low Pressure Fuel System                                                         Plate Z
+
+
+
+
+                                                   VBH02020
+
+
+
+
+Item | Part No.                   References       Qty.   | Description   Notes
+
+
+ 1    4125A008                   @© 4125T015   1          FUEL PIPE
+
+ 2     b— 33532129                             1          NUT
+
+ 3     — 33811114                              1          OLIVE
+
+ 4     — 33532129                              1          NUT
+
+ 3     I 33811114                              1          OLIVE
+
+ 6     \— 3656P008                             1          CLIP
+
+ 7                                             1          CLIP            (A)
+
+ 8    3435A012                   @O 3421A009   1          FUEL PIPE
+
+ 9    33225412                                 1          UNION NUT
+
+ 10   33811112                                 1          OLIVE
+
+ 11   33225412                                 1          UNION NUT
+
+ 12   33811112                                 1          OLIVE
+
+13°   3172x004                                 1          CONNECTION
+
+14    0095344                                  1          BOLT
+
+15    0920146                                  1          WASHER
+
+16 0920146                                     1          WASHER
+17    0576112                                  1          NUT
+
+18    0566003                                  1          OLIVE
+
+19    4122T009                                 1          FUEL PIPE
+
+20     =} 33532129                             1          NUT
+
+21.    } 33811114                              1          OLIVE
+
+220    be 33532129                             1          NUT
+
+23°    4 33811114                              1          OLIVE
+
+24    4122M017                                 1          FUEL PIPE
+
+25     --33532129                              1          NUT
+
+26    _ b 33811114                             1          OLIVE
+
+27     + 33532129                              1          NUT
+
+28     LW 33811114                             1          OLIVE
+
+36    =2481D302                                1          CLIP
+
+
+Footnotes
+
+(A)    NOT REQUIRED FOR THIS APPLICATION
+
+
+
+
+                                                                                   Page 83
+Cold Start System              Plate
+
+
+
+
+                    WDH00300
+            Cold Start System.                                                           Plate A
+
+
+
+
+                                                            WDH00300
+oTM   a,
+           Item   | Part No.             References         Qty. | Description   Notes
+
+
+            3     2666A015-                                 1      HEATER        (A)
+
+
+           Footnotes *
+
+           (A) | ILLUSTRATION SHOWN MAY NOT RESEMBLE ACTUAL PART
+
+
+
+
+O
+
+
+
+
+O
+
+
+
+
+                                                                                          Page 85
+   Engine Lifting              Plate B
+
+
+
+
+                    XBH00430
+
+
+
+
+Page 86
+ Engine Lifting                                                 Plate B
+
+
+
+
+                               XBH00430
+
+
+
+
+Item | Part No.   References       Qty. | Description   Notes
+
+
+ 1    U3648C008                I         PLATE
+
+ 2    2314J003                 2         SCREW
+
+ 5    3654W007                 1         PLATE
+
+ 6    23147003                 2         SCREW
+
+
+
+
+                                                                 Page 87
+   Mountings (Front & Rear)              Plate A
+
+
+
+
+                              ZCH00879
+
+
+
+
+Page 88
+      Mountings (Front & Rear)                                                     Plate A
+
+
+
+
+(D                                                ZCH00879
+
+
+
+
+     Item | Part No.                 References   Qty. | Description       Notes
+
+
+      3    2313M101                               7     STUD
+
+      4    2318A605                               7     NUT
+      5    2313M101                               1     STUD
+
+      6    2318A605.                              1     NUT
+
+      7 . 2487208                                 10    PLUG           .   (A)
+
+
+     Footnotes, aoe
+
+      (A) | LOCATES IN FLYWHEEL HOUSING
+
+
+
+
+                                                                                     Page 89
+          Heater/Starter Switch                                                 Plate A
+
+
+
+
+                                               ZEH01682
+O
+     Item | Part No.              References       Qty. | Description   Notes
+
+          1    4124A078                        1         FUEL PIPE
+
+         2         33532148                    1         NUT
+         3         3381A002 ;                  1         OLIVE
+
+         4         36568133 ”     (Ql a        1         CLIP
+         5     33225412                        1         UNION NUT
+
+         6     33811112                        1         OLIVE
+
+         7     31812163                        1         PLATE
+
+         8     =6-2815651                      1         CONNECTOR
+
+         9     2815512                         6         CONNECTOR
+
+         10    35684.                          1         SLEEVE
+
+         11°   35683                           6         SLEEVE
+
+         12.   2846130                         1         SWITCH
+
+    History
+
+    a.
+
+
+         4      L_.3656Xx014                   1         CLIP
+
+
+
+
+                                                                                 Page 91
+    Lub. Oil Pressure Switch & Gauge              Plate A
+
+
+
+
+                                       ZJH00473
+
+
+
+
+Page 92
+      Lub. Oil Pressure Switch & Gauge                                                   Plate A
+
+
+
+
+                                                            ZJH00473
+O
+    Item | Part No.                      References         Qty. | Description   Notes
+
+     1    0650594 ©                                         1     PLUG
+
+     2    2848062                                           1   ’ SWITCH         (A)
+
+
+
+    Footnotes .
+     (A) | LOCATES IN LUBRICATING FILTER HEAD - SIDE HOLE
+
+
+
+
+                                                                                          Page 93
+    Temperature Gauge & Sender              Plate A
+
+
+
+
+    —> U953289F                  ZLH00271
+
+
+
+
+Page 94
+     Temperature Gauge & Sender                                                 Plate A
+
+
+
+
+      —> U953289F                              ZLH00271
+
+
+
+    Item   |-Part No.             References       Qty. | Description   Notes
+
+
+     1     0650203      |                      1         PLUG
+
+     2     2411157                             1         WASHER
+
+     9     2848Ai11                            1         SENDER
+
+
+
+
+O
+
+
+
+
+                                                                                 Page 95
+    Temperature Gauge & Sender              Plate A
+
+
+
+
+    > U953290F                   ZLH00008
+
+
+
+
+Page 96
+      Temperature Gauge & Sender                                             Plate A
+
+
+
+
+       +> U953290F                              ZLH00008
+C)
+
+     Item   Part No.               References   Qty. | Description   Notes
+
+
+      1.    0650203                             1     PLUG
+
+      2     2411157                             1     WASHER
+
+
+
+
+                                                                              Page 97
+    Radiator & Cowling              Plate A
+
+
+
+
+                         ZMH00006
+
+
+
+
+Page 98
+       Radiator & Cowling                                                   Plate A
+
+
+
+
+                                         ZMH00006
+
+O
+      Item | Part No.       References       Qty. |   Description   Notes
+
+
+       1    32161114                     1            PLUG
+
+       2    32161114                     1            PLUG
+
+
+
+
+oe
+
+
+
+
+ NS
+
+
+
+
+                                                                             Page 99
+        Fuel Pre-Lift Pump                                                  Plate A
+
+
+
+
+©
+                                           ZVHO00102
+
+
+
+
+    ‘| Item | Part No.       References        Qty. | Description   Notes
+
+        1   2656086                        1         FUEL FILTER
+
+       16       |-26560016                 1         WASHER
+       17       0490786                    2         ORING
+
+       18       26560075                   1         CONTAINER
+
+       19       26560614                   1         PLUG
+
+       3    33532129         @O 0571346    1         NUT
+
+       4    0566004                        1         OLIVE
+
+       6    33532129         @O. 0571346   1         NUT
+
+       7    0566004                 .      1         OLIVE
+       8    0650204                        1         PLUG
+
+       9    0920154                        1         WASHER
+
+       10 0650204.       -                 1         PLUG
+       11 0920154                          1         WASHER
+       12   33532129         @O 0571346    1         NUT
+       13 0566004                          1         OLIVE
+
+
+
+
+0
+
+
+
+
+                                                                            Page 101
+                 ZZH00875
+
+
+
+
+      Sp
+ge"   aX     ®
+
+       «eX
+
+           &
+
+OB         G         ©
+
+
+
+
+of                  ©°
+     Application Miscellaneous & Auxiliaries                                                 Plate C .   [
+
+
+                                                             ZZH00875
+
+
+
+ Item | Part No.                               References       Qty. | Description   Notes
+
+
+     1    0096833                                            1        SCREW
+
+ (2       33435146                                          ‘1        FUEL PIPE
+     3    2431154                                           1         PLUG ©
+
+     4    35131136                                          1         FUEL PIPE
+History
+
+a.
+
+
+         2431154                                            1         PLUG
+
+
+
+
+                                                                                             Page 103
+   Joints & Gaskets - Top Service Kit                             Plate C
+
+
+
+
+                                                       SACAOI61
+
+
+
+
+           OOO, Oo   oO 0         O70     e) e)
+                                                   O
+
+
+
+
+           OOOO
+           se)CO        °
+                    O5n09
+                                  O°
+                                 09O°O9
+                                           ©
+                                          900
+                                                   O
+                                                  OS
+
+
+
+
+Page 104
+        Joints & Gaskets - Top Service Kit                                                            Plate C
+
+
+
+
+                                                            SACAOI61
+
+
+
+
+   Item | Part No.                            References        Qty. | Description            Notes
+
+
+        1      USLTO317                           a,       1          JOINTS AND GASKET KIT
+
+        2       {|-+3681B042                               1          HEAD GASKET
+
+       3        |-3688x012                                 1          CYLINDER HEAD JOINT
+
+       4        |.3686D007                                 1          JOINT
+
+       5        --3685A013                                 1          JOINT
+
+        6       |-3688C018                                 1          JOINT
+
+       7        |-3683R009.                                1          JOINT
+
+       8        | 2415D051                   LQ] a         8          PLAIN WASHER
+
+   “9 = 33811112                                           1          ‘OLIVE
+       10       9566003                                    1          OLIVE
+       11. |-L311FF02                                      4» INJECTOR WASHER
+       12,      |-3684N017                                 1         JOINT
+       13.      24154090                                   1          O RING
+
+   14           33811114                                   6          OLIVE
+       15       L_ 3684N503 -                (Q) ».        1         JOINT
+  History.
+
+| a,
+       1       USLTO317-                                   1         JOINTS AND GASKET KIT
+       8        L 3311A001                                           WASHER
+  b.         General History Section
+
+                | 2415090                                  1         O RING
+
+                | 3684N017                                 1         JOINT
+
+       15       | 3685N503                                 1         JOINT
+
+                _. U2418M505                               4         SEAL
+               " L-U2418M507                               4.        SBAL
+
+                _. U3681 VO12                              1         JOINT.
+
+
+
+
+                                                                                                      Page 105
+   Joints & Gaskets - Bottom Service Kit              Plate A
+
+
+
+
+                                           SGBA0327
+
+
+
+
+           Paige
+
+
+Page 106
+ Joints & Gaskets - Bottom Service Kit                                                            Plate A
+
+
+
+
+                                                      SGBA0327
+
+
+
+Item | Part No. |                        References       Qty. | Description              Notes
+
+
+ 1    USLBO0327                                       1         JOINTS AND GASKET KIT     ASBESTOS FREE
+
+ 2     |-3681K00s                                     1         SUMP JOINT
+
+ 3     |-3685F004    |                                1         ‘JOINT
+
+ 4 . |-3681P009                          rs)          1         TIMING CASE JOINT
+ 5     |.3681P038                                     1         TIMING CASE COVER JOINT
+
+ 6     |-3681T012                                     1         JOINT
+
+ 7     |-3687H005                                     1         JOINT
+
+ 8     |-3687wo08                                     2         JOINT
+ 9     |.3683H006                                     1         ‘JOINT
+
+ 10° 136851123                                        1         ‘JOINT
+ 14. |.36832137                                       1         JOINT
+ 15    |.36832144                                     1         ‘JOINT
+
+ 16    13686509                                       1         JOINT
+
+20     «L2415715                                      1         ORING”
+ 21    126420318                                      1         ORING
+ 22    |.2415B148.                                    1         ORING
+
+ 23    126420348                                      1         SEAL
+
+ 25    |-3687Y016                                     1         ‘JOINT
+
+ 26    | 2415H031                                     2.        ORING
+
+ 27    L.2415B402                                     4         ORING
+
+
+
+
+                                                                                                   Page 107
+Page 108
+                                                                             Parts Index
+
+
+
+
+e
+     Description         Part No.     Page.    Description       Part No.      Page.
+
+     ADAPTOR             3763WO11     27                         3112011       15
+
+     AIR PIPE            4124C072     29                         31134166      21
+
+
+     ALTERNATOR          2871A163 -   63       BUSH KIT          28730238      41, 41
+
+TM   ALTERNATOR PULLEY   3113H001     61       CABLE             31610005      31
+
+     ATOMISER            U2645A058    31       CAMSHAFT          3141D171      23
+
+     ATOMISER LEAK-OFF   3558X051     31       CAMSHAFT BUSH     31134165      11
+     PIPE
+      —                                        CAMSHAFT GEAR     3117L023      23
+     BALL                2538753      11
+                :                              CAP               2648A116      33
+     BANJO BOLT          3218R005     31
+            .                                                    2648A123      31
+C)   BEARING KIT         81558        15
+                                                                 2648A124      31
+                         USME0006     15
+                                                                 3281 A001     71
+                         USME0006A    15
+                                               CIRCLIP           0170151       21
+                         U5ME0006B    15
+                                                                 2721130       27
+                         USME0006C    15
+                                                                 2721332       15, 15
+     BLOCK               3241N001     53
+                                                                 2722A206      27
+     BOLT                0095344      83
+                                               CLAMP             3735A011      45
+                         32186137     53                               —
+                                               CLIP              0180067       55
+     BRACKET             28710254     63
+                                                                 21825195      71
+                         3644Y004     31
+                                                                 2481D302      83
+                         3654W011     81
+~                                                                2646E017      31
+CO                       3818X901     21
+                                                                 2646E019      31
+                         3824A021     45
+                                                                 36568133      91
+                         3828D016     61
+                                                                 3656P008      83
+                         U3641V013    61
+                                                                 3656X014      91
+     BRAKE KIT           28730193     41
+                                                                 K138AF02      29
+”    BREATHER PIPE       33872525     49
+                                               CONNECTION        3172X004      83
+     BRIDGE PIECE        3627P023     45
+°                                                                3355V002      31
+     BRUSH KIT           28730201     41
+                                                                 3775E012      21
+     BUSH                0050345      23, 23
+                                                                 4133L017      57
+                         2511437      2                      :
+                                               CONNECTOR         2815512       91
+aN                       3112A003     21, 21
+C)                                                               2815651       91
+
+
+                                                                                Page 109
+ Parts Index
+
+
+
+
+ Description           Part No.     Page.        Description              Part No.     Page.
+
+ CON ROD BOLT          32762145     15           EXTENSION                3748W223    59
+
+
+ CONROD KIT            ZZ90188      15           FAN                      2485C518    59
+
+
+                       ZZ90189      15           FANBELT                  2614B669    43
+
+
+                       2ZZ90190    15            FAN DRIVE HOUSING        4113H073    43
+
+                       ZZ90191      15           FAN PULLEY               3115C111    43
+
+
+CON ROD NUT            33221328    15            FILTER ELEMENT KIT       26560017    81
+
+
+CONTAINER              26560075    101                                    26561117    81
+
+
+COTTER                 3142wo004    19,19        FLANGE                   3623E006    77
+
+COVER                  3623H024    55                                     3748CO11    27
+
+
+                       4142A404    23            FLYWHEEL ASSEMBLY | 4111D127         37
+
+
+CRANKSHAFT GEAR        3117C061    17            FLYWHEEL HOUSING         3713K063    35
+
+
+CRANKSHAFT KIT         ZZ90145     15            FRONT OIL SEAL           2418F436    23
+
+
+CRANKSHAFT PULLEY    | 3114V041    53            FUEL FILTER              2656086     101
+
+
+CYLINDER BLOCK KIT     ZZ50280     11,13                                  2656613     81
+
+
+CYLINDER HEAD COV-     4142X187    49, 49        FUEL INJECTION PIPE      3521H065    31
+ER
+                                                                          3521H066    33
+CYLINDER HEAD JOINT | 3688X012     49, 49, 105
+                                                                          3521H067    31
+CYLINDER HEAD KIT      ZZ80255     19
+                                                                          3521H068    31
+DAMPER                3781N042     23
+                                                 FUEL INJECTION PIPE-   {| 3521HO83   31
+DIPSTICK              3178CO77     45            NO 2 CYL
+
+
+DOWEL                 0350009      13            FUEL INJECTION PUMP | 2644G721       33
+
+
+                      0350025      35                                     2644G731    33
+
+
+                      2116053      23                                     2644G741    31
+
+
+                      29990001     19                                     U2644G721   33
+
+
+                      3244A009     19            FUEL INJECTION PUMP    {| 3117L212   31
+                                                 GEAR
+DRIVE                 28730267     41
+                                                 FUEL PIPE                33435146    103
+ELBOW                 37661073     71
+                                                                          3435A012    83
+EXHAUST MANIFOLD      3778E111     75
+                                                                          35131136    103
+                      U3778E111    75
+                                                                          4122M017    83
+EXHAUST VALVE         3142D061     19
+                                                                          4122T009    83
+EXHAUST VALVE SEAT    3314A102     19
+INSERT                                                                    4124A078    91
+
+
+
+
+Page 110
+                                                                                               Parts Index
+
+
+
+
+         Description             Part No.     Page.         Description   °     Part No.         Page.
+
+                                 4125A008     83                                3685A013         105
+
+
+         1 GROOVE ALTERNA-       3113D001     65                                3685F004         107
+*        TOR PULLEY                     oO                                      —                ae
+          “                                                                     3685N503         105
+         -GUIDE   -              3318A705     19                                                                   |
+9                                   :                                           3685R009         55
+         HEAD GASKET             3681E042     19, 105)                                     :                       |
+                                                                                3686A509         107               |
+         HEATER                  2666A015     85
+                                                                                3686D007         55, 105
+         HOLDER                  2645A311     31
+                      :                                                         3686T004         51,51
+         HOSE CLIP               2481877      49
+                                                                                3686T006         11
+         HOSE KIT                USMH0056 -   55
+                                                                                3687H005         67, 69, 107
+C)       HOUSING, _              3771K251     55
+                                                                                3687H019         67, 69
+         HUB                     33426161     23
+                                                                                3687W008         107
+         IDLER GEAR              4111A013     23
+                          oo                                                    3687Y016         55,107
+                                 4111A021     27
+                                                                                3688C018         77, 105
+         INDUCTION MANIFOLD | 3777R081        71
+                                                                                U3681V012        71, 105
+                                 3777R121     71
+                                                            JOINTS AND GASKET   USLB0327         107
+                                 3777R122     71            KIT
+
+
+         INJECTOR WASHER         L311FF02     31, 105                           U5LT0317         105, 105
+
+
+         INLET VALVE             3142H041     19            LEVER               3615006          61
+
+
+         INLET VALVE GUIDE       3313A012     19                                4115R007         21
+
+
+         INLET VALVE SEATIN-   | 3314A101     19                                4115R008         21
+C)       SERT
+             :                                              LIFT PUMP           ULPK000S         79            |
+         JET                     4126X124     13                                                               |
+                                                                                ULPK0034         79
+         JOINT                   3681T012     107
+                                                            NOZZLE              2645K609         31
+                                 3681T018     13
+                                                            NUT                 0576052          21
+                                 36832118     45
+                                                                                0576112          83
+                                 36832137     107
+°                                                                               2318A603         31, 31, 45
+                                 36832144     11, 107
+                                                                                2318A604         39, 81
+0                                3683H006     49, 107
+                                                                                2318A605         21, 89, 89
+                                 3683R009     105
+                                                                                2318A634         77
+                                 3684N017     105, 105
+    __                           Te                 =                           2318D208         59;-61, 61
+                                 3684N503     105
+    ~                                                                           2318D802         45
+
+C)                               36851123     79, 79, 107
+
+                                                                                                   Page 111
+ Parts Index
+
+
+
+
+ Description       Part No.    Page.         Description           Part No.     Page.
+
+                  3274A003     49                                  2415H492     57
+
+
+                  3274P003    49                                   26420318     31, 107
+
+
+                  33532129     83, 83, 83,   OVERSIZE MAIN BEAR- | 81558A       15
+                              83, 83, 83,    ING
+                               101, 101,
+                               101                                 81558B       15
+
+                  33532148    91                                   81558C       15
+
+                  3353D005    45             PISTON COOLING JET    3861A027     11
+
+
+OIL FILLER CAP    4142X099    49             PISTON KIT            USLPO0058    15
+
+
+OIL FILTER        2654403     51                                   USLPO0058B   15
+
+OIL FILTER HEAD   3773K004    51                                   USLP0058D    15
+
+
+OIL PIPE          3343F012    27             PISTON RING KIT       U4181A045    15
+
+
+                  3343M307    27                                   U4181 A046   15
+
+
+                  3575A018    45                                   U4181A047    15
+
+OIL PUMP          4132F051    27             PLAIN WASHER          2415D051     31, 31, 31,
+                                                                                31, 105
+OLIVE             0566003     83, 105
+                                             PLATE                 31812163     91
+                  0566004     101, 101,
+                              101                                 32411009      23
+
+                  33811112    29, §3, 83,                         3611 M009     71
+                              91, 105
+                                                                  36171121      13
+                  33811113    21
+                                                                  36171131      11
+                  33811114    83, 83, 83,
+                              83, 83, 83,                         3617A001      49
+                              105
+                                                                  3623H008      11,51
+                  33812116    45
+                                                                  3654W007      87
+                  33814002    29, 91
+                                                                  3753V018      67, 69
+O RING            0490786     81, 81, 101
+                                                                  U3648C008     87
+                  2415715     45, 107
+                                             PLUG                 0650203       19, 95, 97
+                  2415731     49
+                                                                  0650204       101, 101
+                  24154090    57, 105, 105
+                                                                  0650507       21
+                  2415B148    107
+                                                                  0650588       11, 11,51
+                  2415B402    107
+                                                                  0650594       93
+                  2415H031    107
+                                                                  0650710       11, 11,19
+
+                  2415H201    27,27, 27
+                                                                  0650713       11
+
+
+
+
+Page 112
+                                                                                                 Parts Index
+
+
+
+
+>
+NY
+
+         Description            Part No.    Page.          Description            Part No.         Page.
+
+                                2431154     55, 67, 69,                           ULPROOO1         79
+                                            69, 103, 103                 -
+                                                           RETAINER               3271A003         11
+s                               2431A054    19
+                                                           RING                   33813008         57
+                                2485 A204   11
+4                                                          ROCKER ARM ASSEM-      4115R005         21
+                               2487001      13             BLY
+
+
+                               2487204      35                                    4115R006         21
+
+
+                               2487208      89             ROCKER COVER JOINT   | 3681A047         49
+
+
+                               2487215      35             ROCKER SHAFT           ZZ90172          21
+
+
+                               26560614     101                                   2290184          21, 21
+om                                                                                           -
+
+C)                             3211 P002    71             ROTOR                  28710352         63
+     ,                         3212T006     11             SCREW                  0096833          103
+
+                               32161114     11, 99, 99                            0746853          37
+
+
+                               32168212     11                                    2182110          11
+
+
+                               32186405     45                                    2233022          21
+
+
+                               32416118     11, 49                                2311D039         45
+
+
+                               32416119     11                                    23140049         67, 69
+
+
+                               32417134     11                                    2314F003         23
+
+                               32417145     11                                    2314F016         45
+
+
+                               32418122     11, 11,19                             2314F907         27
+
+
+                               32712723     35                                   2314H002          31, 45, 45,
+                                                                                             .     61, 73
+                               3278A003     11
+                                                                                 2314H003          13, 23, 31,
+                               3314A103     i                                                      45, 49, 71
+
+
+                               37814503     57                                   2314H004          23, 27, 45,
+                       -                                                                           57, 61, 71
+         PLUNGER ©             32712726     27
+                                                                                 2314H005          23, 27, 61
+         PUSHROD               31434307     21
+                                                                                 2314H006          61
+         REAR OIL SEAL         2418F475     13
+                                                                                 2314H007          45
+         REAR OIL SEAL HOUS-   4142V066     13
+u        ING                                                                     2314H008          55, 61
+
+
+         RECTIFIER             28710355     63                                   2314H012          55
+
+         REGULATOR             28710252     63                                   2314H013          23, 61
+
+         RELIEF VALVE          4138A036     27                                   2314H017          55, 71
+
+
+C)       REPAIR KIT            28730209     41                                   2314H031_         45
+
+                                                                                                     Page 113
+ Parts Index
+
+
+
+
+ Description    Part No.    Page.        Description        Part No.    Page.
+
+                2314H032    67, 69       SCREW METRIC       2316T049    71
+
+
+                2314H033    11, 79, 79   SEAL               26420348    107
+
+
+               2314H034     23, 23, 55                      26560014    81
+
+
+               2314H607    71                               33817135    49
+
+
+               2314J002    31, 67, 69,                      36843154    35
+                           81
+                                                            U2418M505   105
+               2314J003    61, 87, 87
+                                                            U2418M507   105
+               23141004    67, 69, 81
+                                         SEALING COMPOUND   3681 X001   71
+               23145008    27
+                                                            3681X002    71
+               23143010    23
+                                         SEAT               32712111    27
+               2314J011    27
+                                         SENDER             2755 A009   33
+               23143014    43
+                                                            2848A111    95
+               23143033    11,51
+                                                            2848A121    31
+               23143034    51
+                                         SHAFT              3271 H004   27
+               23145204    35
+                                         SHIELD             3781N043    23
+               23141602    61
+                                         SHIM               33117426    21
+               23145603    35
+                                                            3311K015    21
+               23145606    23
+                                         SHORT ENGINE       AR39772     9
+               23143607    21
+                                         SLEEVE             35683       91
+               2314K159    55
+                                                            35684       91
+               2314K161    55,57
+                                         SOLENOID           26420469    31
+               2314K166    55
+                                         SPACER             0330807     45
+               2316TOSO    71
+                                                            0920460     45
+               32114145    21
+                                                            0920469     13
+               3212V002    13
+                                                            2871 W013   65
+               32166221    19
+                                                            33134418    45
+               32166329    11
+                                         SPRING             31743108    21
+               32183013    75
+                                                            31744123    21
+               32185303    19
+                                                            3174A004    li
+               32183606    19
+                                                            3174A012    27
+               32183607    19
+                                                            3174L003    27
+
+
+
+
+Page 114
+                                                                                    Parts Index
+
+
+
+
+     Description         Part No.         Page.     Description         Part No.      Page.
+
+                         3175P003         49        TUBE ASSEMBLY       3577A125      45
+
+     STARTERMOTOR        2873B071         39, 41    UNION NUT           33225412      29, 83, 83,
+Se
+                             -                                                        91
+     STARTER RING GEAR   31162121.        37
+                                                                        3353D004      29
+     STATOR              28710353         63
+                                                    VALVE               4138A017      il
+     STUD                23130077         39, 77
+                                                    VALVE ASSEMBLY      4138A053      27
+                         2313H229         59
+                                                    VALVE CAP           3342N011      19, 19
+                         2313H331         21                :
+                         —                          VALVE SPRING        3174P412      19,19
+                         2313M101        ’ 89, 89
+                                                    VALVE STEM SEAL     2418MS505     19
+                         3211P004         31
+                                                                        2418M507      19
+                         3254H007         450
+                                                -   WASHER              0920009       49
+     SUMP                3717Y002         45
+                                                                        0920146       83, 83
+     SUMP JOINT          3681K005         45, 107                           :
+                                     —                                  0920154       101, 101
+     SUPPORT BRACKET     36241123         49
+                                                                        0920155       67, 69
+     SWITCH              2846130 ©        91
+                                                                        2131 A008     45, 61, 61
+                         2848062          93
+                                                                        2411157       19, 95, 97
+     TAPPET              31420031         ai
+                                                                        26560016      81, 101
+     THERMOSTAT          2485C025         57
+                                                                        33117127      37
+     THIMBLE             2135 A001        15
+                                                                        3311A001      33, 33, 33,
+                         33137409         27, 27                                      33, 105
+
+
+                         33142111         11                            3311K012      21
+
+
+     THRUST WASHER       31137312         15                            3311R003      11
+
+                         31137322         15                            33123125      27
+
+                         31137551         15                            33153121      23
+
+
+                         31137561         15                            33153135      23
+
+
+     TIMING CASE         3716C163         23                            3321A003      23
+
+
+     TIMING CASE COVER   21826405         23        WATER PUMP KIT      USMW0178      55
+     JOINT
+                                 -                  WATER PUMP REPAIR   U7LWO161      55, 55
+                         3681 P038        23, 107   KIT
+
+
+     TIMING CASE JOINT   3681 P009        23, 107   WOODRUFF KEY        0500012       17, 23
+
+
+     TIMING-COVER        41424415         23
+
+     TRAY                38112141         81
+
+
+
+
+                                                                                        Page 115
+

@@ -31,8 +31,8 @@ Last updated: 2026-09-10.
 
 ## Quick reference: engine and manuals
 
-Everything you need to quote on the phone, and every manual that
-covers this engine. Detail follows in sections 1 and 2.
+Every number and every manual for this engine, in one place.
+Detail follows in sections 1 and 2.
 
 ### The engine
 
@@ -40,50 +40,180 @@ covers this engine. Detail follows in sections 1 and 2.
 |---|---|
 | Model | Perkins Sabre **M92** (not M92B, a different engine) |
 | Engine number | **`AR50750U038560F`** |
-| Second plate number | `1396/2400`, shown above the caption `TPL No` |
-| Type code | `AR` = Perkins **1004-42**, the base engine |
+| Second plate number | `1396/2400`, above the caption `TPL No` |
+| Series and model | **1000 Series**, model **1004-42**, type code `AR` |
 | Built | UK, between 1 April and 31 December 1999 |
-| Engine | 4 cylinder in line, naturally aspirated, direct injection, 4.233 litres, bore 103 mm, stroke 127 mm, 18.5:1 |
+| Engine | 4 cyl in line, naturally aspirated, DI, 4.233 L, 103 x 127 mm, 18.5:1 |
 | Rating | 91 hp at 2400 rpm, firing order 1, 3, 4, 2 |
-| Injection pump | Lucas/Delphi rotary, DP200 Series. **Confirm from the plate on the pump** |
-| Gearbox | PRM 500D or ZF HBW / HSW 450A. **Confirm which is fitted** |
+| Injection pump | Lucas/Delphi rotary, DP200. **Confirm from the pump plate** |
+| Gearbox | PRM 500D or ZF HBW / HSW 450A. **Confirm which** |
 
-Quote this to a parts desk: `AR50750U038560F` (TPL 1396/2400).
+Parts desk: `AR50750U038560F` (TPL 1396/2400). Online: [myengine.perkins.com](https://myengine.perkins.com/)
 
 ### The manuals
 
-| Document | Publication | Covers | Held |
+| Document | Publication | Covers | Where |
 |---|---|---|---|
-| **Workshop manual** | TPD 1350E Iss 4 | Engine repair, type AR | Yes |
-| **User's handbook** | TPD 1397EGN Iss 10 | Marine servicing and faults | Yes |
-| **Installation manual** | TPD 1317E | Install and **wiring** | Yes |
-| Engine number guide | PP3000/05/15 | Serial number decoding | Yes |
-| M92 data sheet | Trans Atlantic Diesels | Ratings and construction | Yes |
-| **PRM 500 workshop** | Iss 2, June 2000 | PRM 500D teardown | Yes |
-| PRM owners handbook | PRM Newage | Gearbox servicing | Yes |
-| **ZF HBW repair manual** | ZF 310.01.0001 | HBW 450 gearbox repair | Yes |
-| DP200 pump chapter | Extract, TPD 1312 | Pump removal and timing | Yes |
-| CAV DPA rebuild | Delphi / Lucas CAV | Pump internals. **Wrong family** | Yes |
-| M92B handbook | N37347 | **Not your engine** | Yes |
-| **Illustrated parts book** | **AR81148**, 116 pp | Part numbers, 1004-42 | **No** |
+| **User's handbook** | TPD 1397EGN Iss 10 | Marine servicing and faults | resources |
+| **Installation manual** | TPD 1317E | Install and **wiring** | resources |
+| **Workshop manual** | TPD 1350E Iss 4 | Engine repair, type AR | resources |
+| M92 data sheet | Trans Atlantic Diesels | Ratings and construction | resources |
+| Engine number guide | PP3000/05/15 | Serial number decoding | resources |
+| Marine parts list | Sabre Plant & Marine | Impellers, anodes | resources |
+| **PRM 500 workshop** | Iss 2, June 2000 | PRM 500D teardown | resources |
+| **ZF HBW repair manual** | ZF 310.01.0001 | HBW 450 gearbox repair | resources |
+| Parts book | **AR81148**, 122 pp | **Other build list** | _more |
+| M92B handbook | N37347 | **Not your engine** | _more |
+| DP200 pump chapter | Extract, TPD 1312 | Pump removal and timing | _more |
+| CAV DPA rebuild | Delphi / Lucas CAV | **Wrong pump family** | _more |
+| PRM owners handbook | PRM Newage | Gearbox servicing, generic | _more |
+| Jabsco impeller pumps | Jabsco / Xylem | General, not the 29640 | _more |
+| **Parts book, 50750** | none | Your exact parts | **Missing** |
 
-Everything marked Yes is a PDF in `resources/`. Exact filenames
-are listed in `resources/README.md` and in section 2.
+"resources" means `resources/`, the documents that describe this
+engine in a boat. "_more" means `resources/_more_resources/`,
+which is background: right family, wrong build or wrong
+application. Exact filenames are in `resources/README.md` and in
+section 2.
 
 ### What is not here, and where to get it
 
-**The illustrated parts book, Perkins AR81148.** This is the only
-document class missing. Every copy online sits behind a paywall
-on a manual reseller. Three ways to get it:
+**A parts book for build list 50750.** The parts book now in
+`resources/_more_resources/` is AR81148, a different build of the same
+1004-42 engine. Read its opening page before you use it:
 
-- **Perkins My Engine**, which gives parts information tied to
-  your serial number directly. Start here, it is free
-- **A Perkins distributor**, quoting `AR50750U038560F` in full.
-  Perkins states that end users can order paper service,
-  maintenance and workshop manuals this way
-- **Sabre Plant & Marine**, [sabrepm.com/downloads](https://www.sabrepm.com/downloads),
-  which can supply workshop and parts manuals for older Sabre
-  applications when a local dealer cannot identify the engine
+> The build list of your engine, found on the front page of this
+> parts book, provides a unique reference to the components
+> fitted to your engine; therefore this parts book is **only**
+> applicable to this particular engine.
+
+That warning is Perkins', not mine, and it is worth taking
+seriously. See "How far AR81148 gets you" below.
+
+**What to search for.** Searching "1004-42" or "AR81148" will
+keep returning the forklift book. The two numbers worth
+searching on a manual site are:
+
+| Search | What it is |
+|---|---|
+| **`AR50750`** | Your build list. A parts book with this on its front page is the exact one |
+| **`TPD 1399`** | The Perkins Sabre parts book for the M92 and M115T, English issue 7. Marine, so it covers the heat exchanger, raw water pump and marine exhaust that no AR build-list book will |
+
+Of those two, TPD 1399 is the better target. It is written for
+the marine application rather than for one build of the base
+engine.
+
+Before paying for any listing that just says "1004-42 parts
+manual", ask the seller what build list is printed on its front
+page. That number is the only thing that decides whether it
+fits, and resellers often do not put it in the title.
+
+**Why the reseller sites do not have it.** Places like
+HeyDownloads carry Perkins industrial, agricultural and
+construction literature in bulk. Marine Sabre publications come
+out of Wimborne, are a far smaller catalogue, and rarely appear
+there at all. Searching harder on those sites is unlikely to
+work. Go to Perkins instead, which is free anyway.
+
+### Where to actually get it
+
+**1. Perkins My Engine. Free, and it is the answer.** It
+validates your engine from the serial number and then gives you
+the operation and maintenance manual and **the parts book for
+your build list**. That is build list 50750, which is the exact
+thing missing here.
+
+There is no need to use a phone. The same system runs in a
+browser:
+
+| Route | Address |
+|---|---|
+| **Laptop, browser** | **[myengine.perkins.com](https://myengine.perkins.com/)**, the Perkins Retail Customer Hub. Register, add the engine, read the literature |
+| iOS | [apps.apple.com/gb/app/perkins-my-engine](https://apps.apple.com/gb/app/perkins-my-engine/id1169115342) |
+| Android | [play.google.com/store/apps/details?id=com.perkins.mnd.mobile.perkinsctme](https://play.google.com/store/apps/details?id=com.perkins.mnd.mobile.perkinsctme) |
+
+Register the engine as `AR50750U038560F`. The web hub is the
+better option on a laptop: bigger exploded plates, easier
+searching, and you can save the PDF straight into `resources/`.
+
+**If a form asks for series and model** rather than a serial
+number, answer **1000 Series** and **1004-42**. Some Perkins
+sites label the series "New 1000 Series" or "Phaser/1000
+Series"; all three mean the same family. Do not pick 1100
+Series, which is the M92B. If a marine model is asked for
+instead, it is **M92**.
+
+Where a serial number field exists, use it in preference to the
+dropdowns. `AR50750U038560F` identifies the build list, and the
+dropdowns cannot.
+
+It also shows the correct consumables for the build list, and it
+reflects current part numbers rather than a 2001 snapshot.
+Perkins states that parts books, service literature and manuals
+can be viewed online or through this app.
+
+Once you are in, take the **parts book**. The app also offers an
+operation and maintenance manual, but that is the same ground as
+TPD 1397EGN, which you already have. Grab it anyway if it is a
+later issue, it costs nothing.
+
+**How to know you have the right book.** Check the front page
+first: it must show build list **50750**, not 81148. Then check
+the engine breakdown near the front. The marine book lists a
+heat exchanger, a raw water pump and a marine exhaust outlet,
+and has **no radiator, no cowling, no fan and no fan drive**. If
+you see a radiator and a fan, you are looking at an industrial
+build again.
+
+**2. Wimborne Marine Power Centre.** They built this engine and
+publish its literature, TPD 1399 included. Marine@Perkins.com,
++44 (0)1202 796000. Caterpillar Marine Power UK Ltd, 22 Cobham
+Road, Ferndown Industrial Estate, Wimborne, Dorset BH21 7PW.
+
+**3. A Perkins distributor**, quoting `AR50750U038560F` in full.
+Perkins states that end users can order paper service,
+maintenance and workshop manuals this way. Find your nearest one
+at [distributorlocator.perkins.com](https://distributorlocator.perkins.com/).
+With the old B2B store closed, Perkins is currently routing
+everyone here, so this is the main counter for parts as well as
+literature.
+
+**4. Sabre Plant & Marine**, [sabrepm.com/downloads](https://www.sabrepm.com/downloads).
+Worth a call when a general dealer cannot identify an older
+Sabre application.
+
+**5. Paid libraries**, if the above somehow fail. Boatdiesel
+runs a subscription PDF library with an M92 specific manuals
+page and holds TPD 1397EGN. AGCO Technical Publications sells
+Perkins parts books indexed by build list, though their
+catalogue runs to agricultural builds and their downloads use a
+restricted viewer with limited printing.
+
+### How far AR81148 gets you
+
+AR81148 is not a marine build. Its engine breakdown lists a
+radiator and cowling, a fan, a fan drive, and an air cleaner
+with a restriction indicator. Your M92 has none of those. Its
+cooling section shows a hose kit and a conventional thermostat
+housing feeding a radiator, where yours feeds a heat exchanger
+and a raw water circuit.
+
+So use it like this:
+
+| Use it for | Do not use it for |
+|---|---|
+| Short engine, cylinder block, crankshaft, pistons, connecting rods | Cooling: heat exchanger, raw water pump, thermostat housing |
+| Cylinder head, rocker shaft, valve gear | Radiator, fan, fan drive, cowling |
+| Timing gears and camshaft | Air cleaner and induction |
+| Lubricating oil pump, sump, filter head | Exhaust manifold and marine exhaust outlet |
+| Flywheel, flywheel housing, starter ring | Alternator, senders, panel wiring |
+| Joints and gaskets, top and bottom service kits | Anything marine specific |
+
+The rule of thumb: the further inside the engine a part sits,
+the more likely AR81148 is right. Anything bolted to the
+outside was chosen for the application, and your application is
+a boat. Always confirm a number against your own build list
+before you spend money on it.
 
 **Wiring diagrams are not a separate publication.** They are in
 chapter 7 of the installation manual, from page 37. Yours is
@@ -170,64 +300,121 @@ One caution carried over from your earlier notes, now confirmed
 rather than assumed: do not use M92B literature as your repair
 reference. The M92B is a different engine on the 1100 Series
 platform. It is worth having for comparison, and a copy is in
-`resources/`, but the M92 and the M92B do not share a base engine.
+`resources/_more_resources/`, but the M92 and the M92B do not
+share a base engine.
 
 ---
 
 ## 2. Available resources
 
-### Downloaded to `resources/`
+### In `resources/`
+
+These are the documents that describe *this* engine, in a boat.
 
 | File | What it is | Why it matters |
 |---|---|---|
+| `perkins_sabre_M92_M115T_users_handbook_TPD1397EGN.pdf` | Official M92 and M115T user handbook, TPD 1397EGN Issue 10, 96 pages | **Marine.** Service schedule, fluids, raw water side, fault charts. English, German, Norwegian |
+| `perkins_sabre_marine_installation_manual_TPD1317E.pdf` | Perkins Sabre installation manual, TPD 1317E, 94 pages | **Marine.** Cooling, exhaust, shaft, electrical, and every wiring diagram |
 | `perkins_1000_series_workshop_manual_TPD1350_AJ-AS_YG-YK.pdf` | Factory workshop manual, TPD 1350E Issue 4, December 2001, 370 pages | **The repair manual for your engine.** Covers type AR. Teardown, clearances, torques, timing, overhaul |
-| `perkins_sabre_M92_M115T_users_handbook_TPD1397EGN.pdf` | Official M92 and M115T user handbook, TPD 1397EGN Issue 10, 96 pages | Marine specific: service schedule, fluids, raw water side, fault charts. English, German, Norwegian |
-| `perkins_sabre_marine_installation_manual_TPD1317E.pdf` | Perkins Sabre installation manual, TPD 1317E, 94 pages | Cooling, exhaust, shaft, electrical and control installation. Useful when chasing an installation induced fault |
-| `perkins_sabre_M92_sales_brochure.pdf` | Trans Atlantic Diesels M92 data sheet | One page summary of ratings and construction |
+| `perkins_sabre_M92_sales_brochure.pdf` | Trans Atlantic Diesels M92 data sheet, 2 pages | **Marine.** Ratings and construction of the M92 |
 | `perkins_engine_number_guide.pdf` | Perkins Engine Number Guide, PP3000/05/15 | The official serial decoding tables used in section 1 |
-| `perkins_sabre_M92B_users_handbook_N37347.pdf` | M92B handbook, part N37347, 64 pages | Comparison only. **Not** your engine |
-| `prm_500_workshop_manual.pdf` | PRM 500 Workshop Manual, Issue 2, June 2000, 60 pages | Full teardown for the PRM 500D gearbox. Contemporary with your engine |
-| `prm_owners_handbook_all_models.pdf` | PRM Owners Handbook, 22 pages | Operation and servicing, PRM 80 to 1750 |
-| `zf_hurth_HBW_360_450_630_repair_manual.pdf` | ZF Marine Repair Manual 310.01.0001, 107 pages | Covers the HBW 450 gearbox. Four languages |
-| `perkins_TPD1312_extract_DP200_pump_chapter.pdf` | Extract from Perkins TPD 1312, 4 pages | The DP200 pump chapter from the Phaser/1000 manual, including the 100 deg BTDC piston probe timing method |
-| `delphi_lucas_CAV_DPA_pump_rebuild_manual.pdf` | CAV DPA rebuild manual, 21 pages | Rotary pump internals. Background only, see the caution below |
+| `sabre_perkins_marine_parts_list.pdf` | Sabre Plant & Marine parts list, 2.5 MB | **Marine.** Impellers, cams, tubestacks, anodes, exhaust bellows, gearbox couplings. A supplier stock list, not an engine catalogue, and some descriptions are cut off |
+| `prm_500_workshop_manual.pdf` | PRM 500 Workshop Manual, Issue 2, June 2000, 60 pages | **Marine.** Full teardown for the PRM 500D gearbox |
+| `zf_hurth_HBW_360_450_630_repair_manual.pdf` | ZF Marine Repair Manual 310.01.0001, 107 pages | **Marine.** Covers the HBW 450 gearbox. Four languages |
 
-Two cautions on that list. The gearbox manuals cover both options,
-so check which box you actually have before using either. And the
-DPA rebuild manual is a different pump family from the DP200 your
-engine most likely carries: it is useful for understanding how a
-Lucas rotary pump works, not for working on yours to spec.
+The gearbox manuals cover both options, so establish which box
+you have before opening either.
 
-Three of the PDFs are also present as extracted plain text
-(`.txt`) so you can grep them from the command line. For example:
+Three of these arrived as scans with no text in them. Each has a
+searchable twin alongside it with `_OCR` in the name:
+`prm_500_workshop_manual_OCR.pdf`,
+`zf_hurth_HBW_360_450_630_repair_manual_OCR.pdf` and
+`sabre_perkins_marine_parts_list_OCR.pdf`. Read the originals,
+search the `_OCR` copies, and see the warning below before
+taking a number out of one.
+
+One entry needs explaining. The workshop manual calls itself "for
+industrial and agricultural applications", which sounds wrong for
+a boat. It is not. Perkins never published a separate marine
+workshop manual for the M92, because the engine below the marine
+equipment is a stock 1004-42, and TPD 1350E is its repair manual.
+The marine equipment bolted on top is what TPD 1397EGN and
+TPD 1317E cover. Between them the whole engine is documented.
+
+### In `resources/_more_resources/`
+
+Useful to have, but not about this engine in this application.
+Nothing here should be used to order a part or set a figure
+without checking it first.
+
+| File | What it is | Why it is set aside |
+|---|---|---|
+| `perkins_1004-42_parts_manual_AR81148.pdf` | Perkins parts book AR81148, June 2001, 122 pages | Build list 81148, a **lift truck** build, not your 50750. Sound for the core engine only. See "How far AR81148 gets you" above |
+| `perkins_sabre_M92B_users_handbook_N37347.pdf` | M92B handbook, part N37347, 64 pages | Marine, but the **wrong engine**. 1100 Series, 4.4 litres |
+| `perkins_TPD1312_extract_DP200_pump_chapter.pdf` | Extract from Perkins TPD 1312, 4 pages | Industrial. Duplicates the DP200 material in TPD 1350E, but adds the 100 deg BTDC piston probe timing method |
+| `delphi_lucas_CAV_DPA_pump_rebuild_manual.pdf` | CAV DPA rebuild manual, 21 pages | **Wrong pump family.** Useful only for understanding how a Lucas rotary pump works |
+| `prm_owners_handbook_all_models.pdf` | PRM Owners Handbook, 22 pages | Marine, but generic across PRM 80 to 1750. The PRM 500 workshop manual supersedes it here |
+| `jabsco_flexible_impeller_pumps_service_manual.pdf` | Jabsco flexible impeller pumps guide, 46 pages | Marine, but general. Does not name the 29640 fitted to the M92 |
+
+Two of these were scans and have `_OCR` twins alongside them:
+`perkins_1004-42_parts_manual_AR81148_OCR.pdf` and
+`perkins_TPD1312_extract_DP200_pump_chapter_OCR.pdf`.
+
+### In `resources/_txt_versions/`
+
+Every manual is searchable from the command line:
 
 ```bash
-grep -n -i "valve tip clearance" resources/*.txt
+grep -n -i "valve tip clearance" resources/_txt_versions/*.txt
 ```
+
+Nine of the fourteen PDFs carry a real text layer. The other
+five arrived as page images from a scanner, so each has a
+searchable twin next to it with `_OCR` in the name, and the text
+of those is here too.
+
+**Treat an OCR'd part number as a lead, not a fact.** Checking
+page 55 of the parts book against the original, four of thirteen
+part numbers came back wrong: `U5MW0178` read as `USMW0178`,
+`U7LW0161` as `U7LWO161`, `LBHA1879` as `LBHAI879`. Every error
+was a digit confused with a letter it resembles. Descriptions
+and headings came through clean, so use the OCR to find which
+page and which plate, then open the original and read the number
+off the image.
 
 ### The one gap left
 
-**There is no parts catalogue here.** The illustrated parts book
-for the 1004-42 is Perkins publication **AR81148**, 116 pages.
-Every copy I could find sits behind a paywall on a manual
-reseller, so it is a purchase rather than a download. Order it
-against your full engine number, or use Perkins My Engine, which
-gives parts information tied to the serial directly.
+**A parts book matched to build list 50750.** There is a parts
+book here, AR81148, but it is drawn against a different build of
+the 1004-42 and an industrial one at that. It is genuinely
+useful for the core engine and misleading for anything bolted to
+the outside. Perkins My Engine or a distributor can give you the
+right list against `AR50750U038560F`.
 
-That is the only document class still missing. Engine repair,
-marine servicing, installation, wiring, both gearbox options and
-pump removal are all covered by the files above.
+Everything else is covered: engine repair, marine servicing,
+installation, wiring, both gearbox options and pump removal.
 
 ### Official Perkins sources
 
+- **[myengine.perkins.com](https://myengine.perkins.com/)**, the
+  Perkins Retail Customer Hub. Register the engine once and you
+  get parts information, service literature and manuals tied to
+  your serial number. Free, and it works in a laptop browser.
+  **Start here**
 - [Perkins marine user guides and manuals](https://www.perkins.com/en_GB/products/sectors/marine/user-guides-manuals.html)
 - [Perkins operation and maintenance manuals](https://www.perkins.com/en_GB/aftermarket/operation-maintenance-manuals.html)
 - [Find my engine number](https://shop.perkins.com/find-my-engine-number)
-- Perkins My Engine app, for parts information tied to your serial
+- [distributorlocator.perkins.com](https://distributorlocator.perkins.com/), to find your nearest authorised distributor
+- Perkins My Engine phone app, the same system as the web hub
 - Wimborne Marine Power Centre (Caterpillar Marine Power UK Ltd),
   22 Cobham Road, Ferndown Industrial Estate, Wimborne, Dorset
   BH21 7PW. This is where Perkins marine engines are engineered,
   and the M92 handbook is published under their name
+
+`b2b.perkins.com` is closed. As of September 2026 it returns a
+notice saying a replacement eCommerce store is being built and
+pointing at the distributor locator instead. Do not waste time
+on it.
 
 ### Manual libraries
 
@@ -408,8 +595,7 @@ book figure.
 
 For anything past an oil change, use the gearbox manual rather
 than this guide. `prm_500_workshop_manual.pdf` covers the PRM
-500D down to component level, and `zf_hurth_HBW_360_450_630_repair_manual.pdf`
-covers the HBW 450. Establish which gearbox you have first: the
+500D down to component level, and `zf_hurth_HBW_360_450_630_repair_manual.pdf` covers the HBW 450. Establish which gearbox you have first: the
 two are unrelated designs and use different oil, engine oil for
 the PRM and ATF for the ZF.
 
@@ -522,7 +708,7 @@ reason an M92 stops in the middle of a passage.
    eccentric plate in the body. Fit the end plate and tighten.
 8. Open the seacock.
 
-Blade direction matters and the two handbooks in `resources/`
+Blade direction matters and the two M92 handbooks
 describe it in different words. The figure above is what your
 manual, TPD 1397EGN, says for the M92. Carry a spare impeller and
 a spare end plate joint aboard, and check the cam for wear while
@@ -1020,6 +1206,46 @@ Known original equipment:
 Filter service kits covering air, fuel and oil for the M92 are
 sold as a set, which is the easy way to buy them.
 
+### Working from the parts book
+
+`resources/_more_resources/perkins_1004-42_parts_manual_AR81148.pdf`
+gives you
+exploded plates and part numbers for the 1004-42. Use the Parts
+Index at page 109 to go from a part number or a description to
+the plate it appears on, and the Engine Breakdown at page 5 to
+go the other way, from an assembly to its page.
+
+Two things to watch. It is drawn against build list 81148 rather
+than your 50750, and it is an industrial build with a radiator
+and a fan. Treat internal engine numbers as likely right and
+everything bolted to the outside as needing confirmation. The
+footnote codes matter here too: (A) means "not required for this
+application", which is a statement about *that* engine, not
+yours.
+
+### Never order from the OCR text
+
+The parts book is a scan. The `_OCR` copy next to it is
+searchable, and the text version in `resources/_txt_versions/`
+lets you grep it, but **the numbers in both are machine guesses**.
+
+Measured on one page of that book, four of thirteen part numbers
+were wrong:
+
+| On the page | OCR read it as |
+|---|---|
+| `U5MW0178` | `USMW0178` |
+| `U7LW0161` | `U7LWO161` |
+| `U5MH0056` | `USMH0056` |
+| `LBHA1879` | `LBHAI879` |
+
+Perkins numbers mix digits and letters freely, and `0`/`O`,
+`1`/`I` and `5`/`S` are exactly what optical recognition gets
+wrong. Descriptions and headings came out clean, so the workflow
+is: grep the text to find the plate, open the original PDF at
+that page, and read the number off the image with your own eyes.
+Then quote it to the parts desk.
+
 ---
 
 ## 13. Laying up and winterising
@@ -1077,6 +1303,7 @@ Short list, and all of it is in the handbooks.
 - PRM 500 Workshop Manual, Issue 2, June 2000, PRM Newage
 - ZF Marine Repair Manual, HBW 360 / 360A / 450 / 630, document 310.01.0001
 - Extract from Perkins Workshop Manual TPD 1312, Lucas/Delphi DP 200 Series chapter
+- Perkins Parts Book AR81148, 1004-42, dated 19 June 2001
 - [Trans Atlantic Diesels: Perkins Sabre M92 data sheet](http://www.tadiesels.com/releases/P-Sabre_M92.pdf)
 - [Parts4Engines: Perkins M92 parts](https://parts4engines.com/en-us/collections/perkins-m92-parts)
 - [DBA Barge Association: Perkins M92 thread](https://barges.org/forum/barges/1309-perkins-m92)

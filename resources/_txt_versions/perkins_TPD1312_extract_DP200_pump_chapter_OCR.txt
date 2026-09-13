@@ -1,0 +1,145 @@
+11                                                                                         Phaser/1000 Series
+Lucas/Delphi DP 200 Series fuel injection pump
+
+General description
+
+These pumps have a locking screw (A3) and a spacer (A2). The locking screw prevents the rotation of the drive
+shaft when the pump is removed from the engine.
+
+An"O"   ring (A1) is fitted in a groove in the pump flange. This     ring is fitted instead of a joint between the
+pump flange and the timing case.
+
+Caution: The drive shaft of the pump must not be rotated without the spacer in position under the locking
+screw. If the drive shaft is rotated, the drive shaft will be damaged.
+
+Engines with these pumps havea timing mark on the pump flange but not on the timing case.
+
+For four cylinder engines the high-pressure outlet for number 1 cylinder is shown at (A8).
+
+Anew pump will be received locked at the correct angle for the engine. It is important that the engine number
+is given to the distributor when a new pump is needed.
+
+These engines operate with the timing of the fuel injection retarded, therefore the accuracy necessary to
+position the piston for timing is difÏcult to obtain. Greater accuracy is possible if the piston is further down the
+cylinder bore. A piston position probe (B1), tool 21825630 or 21825947, is used to set accurately the piston at
+100° BTDC.
+
+
+
+
+314                                                                        Workshop Manual. TPD 1312. issue 2
+Phaser/1000 Series                                                                                            11
+
+To remove                                                                                      Operation 11-38
+
+Special requirements
+
+                                                    Special tools
+                 Description                Part number                  Description                  Part number
+     a        -                             21825630 or
+    Piston position probe                    21825947      Gear puller                                 21825565
+
+
+1    Remove the rocker cover.
+2 Loosen the setscrews which retain the atomisers.
+
+3 Rotate the crankshaft clockwise, from the front, until the push rod for the inlet valve of number 1 cylinder just
+releases.
+
+4 Remove the atomiser together with its seat washer from number 1 cylinder and fit the piston position probe,
+21825630 or 21825947 (A1) instead. Fit the atomiser clamp to the probe and tighten the setscrews gradually
+and evenly to 12 Nm (9 Ibfft) 1,2 kgf m.
+
+Caution: Ensure that the piston comes lightly into contact with the piston position probe, or both the piston and
+the probe could be damaged.
+
+5 Slowly rotate the crankshaft clockwise, from the front, until the piston just comes into contact with the piston
+position probe. The piston will now be set at 100° BTDC on the compression stroke of number 1 cylinder.
+Caution: Do not rotate the crankshaft when the pump is not on the engine; the loose fuel pump gear may
+damage the timing case. If it is necessary to rotate the crankshaft, fit the fuel pump temporarily to ensure that
+the gear is in the correct position. If the fuel pump is fitted temporarily in order to rotate the crankshaft, the
+locking screw must be released.
+
+
+Notes:
+@     The fuel pump can be removed from the engine and fitted again if:
+
+@     The crankshaft is not rotated
+
+@     The drive shaft of the fuel pump is not rotated
+
+
+
+
+                                                                                                          Continued
+
+
+
+
+Workshop Manual. TPD 1312. issue 2                                                                               315
+11                                                                                      Phaser/1000 Series
+Caution: If the crankshaft or the pump shaft is rotated when the pump is off the engine. Or if the engine timing
+is not correct the timing of the fuel injection pump must be checked, see Operation 8-14.
+
+6 Release the locking screw and adjust the spacer (B1) to enable the locking screw (B2) to be tightened on
+the drive shaft of the fuel pump. Tighten the locking screw to 12 Nm (9 Ibf ft) 1,2 kgf m. Check that the spacer
+is free to move. The drive shaft of the fuel pump is now fastened.
+Caution: Use a second spanner to prevent movement of the high-pressure outlet when the union nut for each
+high-pressure pipe is released.
+
+7 Remove the pipes, the cables and the connections for the cold start device and the electrical stop solenoid
+from the fuel pump. Loosen the nuts on the pump flange.
+
+8 Release the setscrews and remove the gear cover from the timing case cover. Release the nut which retains
+the drive gear of the pump one to two turns.
+
+9 Fit the gear puller 21825565 and loosen the gear on the drive shaft of the pump. Remove the puller, nut and
+spring washer.
+
+10 Remove the nuts from the flange of the fuel pump and remove the pump.
+
+
+
+
+                                                  0073
+
+
+
+
+316                                                                      Workshop Manual. TPD 1312. issue 2
+Phaser/1000 Series                                                                                         11
+
+To fit                                                                                       Operation 11-39
+
+1 Inspect the "O" ring and, if necessary, fit a new "O" ring.
+2 Lightly lubricate the "O" ring with clean engine lubricating oil and put the pump into position on the timing
+case. Ensure that the key is engaged correctly in the keyway of the drive gear.
+3 Fit the spring washer and the nut to retain the drive gear. Tighten the nut to approximately 15 Nm (11   Ibf ft)
+1,5 kgf m.
+
+4 Hold the top of the pump toward the engine to remove the backlash and fit the nuts to the pump flange.
+Tighten them to 22 Nm (16 Ibf ft) 2,2 kgf m.
+
+5 Release the locking screw on the pump and adjust the spacer (A1) to prevent the locking screw (A2) from
+locking the pump shaft, tighten the locking screw to 12 Nm (9 lbf ft) 1,2 kgf m. Check that the spacer cannot
+move. The drive shaft of the fuel pump is now free to move.
+
+6 Fully tighten the nut for the drive gear to 80 Nm (59 Ibf ft) 8,2 kgf m. Fit the gear cover.
+
+Caution: Use a second spanner to prevent movement of the high-pressure outlet when the union nut for each
+high-pressure pipe is tightened.
+
+7 Remove the piston position probe and fit the atomiser together with a new seat washer. Tighten the
+setscrews of all of the atomisers gradually and evenly to 12 Nm (9 Ibf ft) 1,2 kgf m.
+8 Fit the pipes, cables and connection for the cold start device and electrical stop solenoid to the pump.
+9 Eliminate air from the fuel system, see Operation 11-46.
+10 Fit the cylinder head rocker cover, see Operation 3-2.
+
+11 Operate the engine and check for leakage. With the engine at the normal temperature of operation, check
+that the idle speed and the maximum no load speed are correct, see Operation 11-40.
+
+
+
+
+Workshop Manual. TPD 1312. issue 2                                                                           317
+

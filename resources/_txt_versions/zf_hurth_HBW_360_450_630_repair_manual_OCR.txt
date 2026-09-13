@@ -1,0 +1,2322 @@
+  REPARATURANLEITUNG * MANUEL DE REPARATION
+MANUAL DE REPARACIONES * MANUALE DI RIPARAZIONI
+
+
+
+
+@) a                                          L
+                               x
+                                   wus
+
+
+
+
+    HBW 360
+    HBW 360A
+    HBW 450
+    HBW 630
+    Document No. 310.01.0001
+‘This HBW manual has been prepared for all those who have to do with HURTH boat
+reversing gearbox units of the HBW line, including models HBW 360, HBW 360A,
+HBW 450 and HBW 630, in particular for
+— power plant suppliers,
+— shipyards,
+— craft owners.
+
+‘The HBW manual is intended
+                      as an aid for handling HBW transmissi
+questions that may arise in daily operation and in connection with the
+repair of HBW transmi
+
+
+This manual contains:
+
+— a technical description of the gearbox units and a number of important technical data;
+— instruetions for proper installation of the gearbox in the craft;
+— explanatory notes on correct operation and maintenance:
+— a detailed description ofall disassembly and reassembly procedures (with drawings);
+    troubleshooting table with possible causes
+                                             of trouble        and the required remedial
+  action;
+— a spare parts list with stock numbers of all spare parts;
+— explosive-view drawings showing each part with the reference numerals used in the text.
+
+No problems will be encountered in handling, installing and operating the HBW gearbox
+Units if the instructions in this manual are duly observed. Should a repair ever be
+necessary, a qualified technician will have no difÏculty in doing the repair work in
+accordance with the detailed instructions given on the following pages.
+
+In addition, HBW Service Stations (distributors and dealers) are available for any repairs
+and for supplying the spare parts required. The manufacturer will always be glad ta name
+the Service Station nearest to your location.
+
+Al transmission units are covered by a worldwide guarantee given by the manufacturer.
+The manufacturer's warranty will be subject to the condition t
+— the Instructions in this manual are strictly observed in handling   the tran:
+— no work is performed by persons not authorized by Hurth;
+— no changes or alterations of any kind are made on the transmission.
+
+Failture to observe these points will invalidate
+                                              all and any warranty claims.
+
+Caution: never start doing any work on the transmission unless and until the engine and
+‘the propeller have come to a complete standstill.
+                      Tabl     of    contents
+
+
+     :                Brief    description
+                      Technical data             and main    dimensions
+                  1   HBW    360    boat       reversing    gearbox     unit
+                 +2   HBW 360 A boat reversing gearbox unit
+                 +3   HBW    450 boat          reversing gearbox unit
+                 +4   HBW    630 boat          reversing gearbox unit
+
+
+
+                      Installation
+          1           Delivery       condition
+         2.           Transport
+         3            Removal of          preservative
+         4            Painting       the gearbox
+         5            Connection          of gearbox with         engine
+         ©            Connection          of    gearbox with      propeller
+         7            Suspension of engine-gearbox assembly                      in   the   boat
+         8            Position of the gearbox in the boat
+         9            Operation of gearbox
+         10           Cooling unit
+         11           Selection of heat exchanger
+         12.          Assembly       of    the    heat    exchanger
+
+
+
+     .                Operation
+
+         1            General       information
+         2            Initial operation
+         3            Operating temperature
+         4            Operation       of       gearbox
+         5            Sailing       and    moving    in    tow
+         6            Lay-up    periods
+
+
+
+                      Maintenance
+
+ss
+                      Transmission oil
+                      Oil quantity
+                      O11   level     checks
+                      O11   change
+Gi       Geund        Checking       the       bowden cable      or   rod   linkage
+                 Disassembly
+                 Removing output-flange                                           .
+      ey         Removing    ot    actuating            lever    plate    and    disassembly
+wou   &          Separating       the      gearbox       sections       and    removing
+                 the   input,     output         and    intermediate          shafts
+                 Removing    the      shifting          fork
+                 Disassembling the output shaft and intermediate gearshaft
+      aie        Enclosure      HBW     360      -    360A
+wow   a     oe   Disassembling          the      input       shaft
+
+
+                 Reassembly
+                 General    information
+                 Pre-assembling            the       intermediate       gear shaft     and
+                 output shaft
+                 Pre-assembling            the    actuating          lever cover plate
+                 Pre-assembling            the    gears
+                 Measuring      the    pre-assembled             gears    to   determine
+                 setting    value       ‘a‘
+                 Enclosure
+                 Pre-assembling            the    actuating       members
+                 Reassembling         the     input      shaft
+                 Pre-assemhly         of    housing       and    cover
+                 Final assembly of gearbox
+                 Measuring      the gear          sets    of    input    shaft,   output
+                 and intermediate shaft
+                 Measuring    the gearset of intermediate shaft
+                 Mounting    the actuating lever cover plate
+                 Connection      of    the       heat    exchanger
+                 Mounting    the      oil     pump
+                 Reassembling         the     output   shaft (HBW 360 A)
+                 Measuring      bearing          clearance of output shaft
+
+
+                 Spare   parts     list       and     tools
+Brief    description
+
+
+
+HURTH marine       transmissions of           the       HBW   360    to HBW      630
+line are servo-automatically controlled helical gear
+transmissions developed for                use     in    pleasure craft and
+commercial craft.         The servo-operated multiple-disc
+clutch    requires only minimum effort for gear changing
+making    the HBW transmission suitable for single-lever
+remote control via a rod linkage or Bowden cable.
+
+The HBW permits direct reversing                    at    full      engine      speed,
+for example in emergency cases.
+
+
+The torque transmission capacity of the clutch is
+exactly rated, preventing shock loads from exceeding
+a predetermined value to ensure maximum protection
+of the engine and thus providing Lhe effect of a
+safety    clutch.
+
+The transmission units are characterized by low weight
+and small overall dimensions. The gearbox castings
+are made of a high-strength, corrosion-resistant
+aluminium alloy, chromized for improved seawater re-
+sistance and optimum adhesion of paint.
+
+A choice of gear ratios,              a high efÏciency rating
+and   low-noise operation          are other            predominent
+features of      the    HBW gearbox units.
+
+The transmissions are immersion-lubricated.                                Mainte-
+nance    is   restricted to oil            level    checks          (see    'Main-
+tenance’,      chapter    4).
+
+
+The   shafts   are     supported      by   heavy-duty          tapercd
+roller bearings        and   the gearbox is              designed          to   take
+the axial propeller thrust                 (for permissible values
+see   'Technical data‘).
+
+All   transmission       sizes   are available                for   right-hand
+(RH) and left-hand (LH) rotation of the input shaft,
+the direction of rotation being specified as seen by
+an observer facing the input shaft. In gear lever
+position A, the engine shaft and the propeller shaft
+rotate in opposite directions, in position B in the
+same direction.
+
+Engine manufacturers should note that the direction
+of rotation refers to an observer facing the flywheel,
+so that left-hand rotation of the engine corresponds
+to    right-hand     rotation    of    the    gearbox          input       shaft.
+|          1.1    Technical data and main dimensions
+           1.1.1 HBW 360
+
+
+
+
+                                       Power diagram
+
+
+
+                                          ww                                                            i
+
+
+
+                                          —————
+
+                                          200
+
+
+                                          1
+
+                                          150
+
+
+                                          130
+                                                                                                            |
+
+
+                                          100
+
+                                           0
+
+                                          80                                                                |
+                                           70
+
+
+                                           60
+
+
+                                           50
+
+
+                                           wl                        +1                           ats
+
+
+
+                                           wo!                  |           LiL
+                                                    1          2            3        4       Ss     6x10"
+                                                        anti i Tae
+
+
+
+
+                 ms                                                 Se
+
+
+
+
+                                                \       v6                  213                   as
+                                                ’       ‘6                  210                   290
+    Inwt ove Me            plese crt            fm      0
+
+                           commercelent         Nm      20
+
+
+
+
+    wage                                        ‘im     soo
+
+    Proper ue Fas                               N       saa
+    Matt wnat                               te          Fs
+    of uatty                                            ta
+    ll grage                                            Automatic Transmission Fluid (ATF)
+                     Ny
+
+
+         ps4
+
+
+
+
+    we
+
+
+
+
+               ses
+                                             ae
+
+
+
+
+ ‘View
+     ofmounting Mange engine se                   [Rotation ot output sat in lver postin
+
+ Marine Transmissions                                     lever ravel
+                                                  £9, Minimum
+ 2) Oil dipstick and filer screw 17 mm                4 bolt threads MB for mounting bracket
+ 1B) Oil drain plug 17 mm wrth across fats            for contol able
+ @) SAE 26 eth, DP 20/40, 30% Fat Woot,
+                                                  ‘A=
+                                                    Propet ciatng         ant     engine
+     Gass 16
+ 4) 2 tapped holes M8/12 deep tor mounting
+                                                  Eps eschew
+                                                          fose ik
+    bracket for contol cable
+ ©) Adapter omitted if cooler is used,
+    2 tapped holes 3/8" BSP/4 deep
+    for cooler connection hoses
+
+
+
+
+Ge
+            1.1      Technical data and main dimensions
+            1.1.2 HBW 360A
+
+
+
+
+                                                                Kw                                                                  hp
+                                                                 220                                       -             .
+                                                                       f
+
+                                                                 170                          t
+
+                                                                 150
+
+
+                                                                 130
+
+
+
+
+                                                  power input
+                                                                 ao
+
+
+                                                                 70    }—
+                                                  Gearbox
+
+
+
+
+                                                                                   Gearbox input speed (1/mn}
+
+
+
+
+Technical dat                                                                HBW    3604.         5   _HBW 360       HBW 360.
+
+
+
+Forward gear A’, ratio                                            i                165                     222               3.08
+Reverse gear’. ratio                                              ‘                164                     219               314
+Input torque Mina            pleasure craft                       Nm               950
+                             ‘commercial craft.                 = Nm               250
+Power input Prax             pleasure craft                       kWiho)           150(204)
+                             ‘commercial craft                    —_kW(hp)         100(136)
+Input speed ngs,                                                   min.            5000
+Propeller thrust Fn                                               N                9300
+Weight witnout ott                                                kg               30
+il quantity                                                       '                18
+Oil grade
+                                                                                   ‘Automatic Transmission Fluia (ATF)
+            ,                      V1
+
+
+  i                                                 -)
+
+
+   ‘K+ ©-                                       ;
+            Mg
+
+                  fe
+
+{8} Oi dipstick and filer screw 17mm ) Oil drain plug 17mm width across flats ) SAE 26 teetn® DP 20/40     30°   Flat Root   Class 16
+14) M8112 decp e) Adapter omited it cooler ‘9 used, fiting 3/8" BSP'/ 14 deep oil f10 cooler {from cooler f) Minimum
+                                                                                                                 lever travel
+
+
+
+
+           View of mounting ange. engine side                   Rotation of output shalt in lever positon A= opposite direction,
+                                                                                                        [Be same direction
+            1.1   Technical data and main dimensions
+            1.1.3 HBW 450
+
+
+
+
+                                              kw                                                            hp.
+
+
+
+
+                                          z
+                                          a
+
+                                          :
+                                          é
+
+
+
+
+                                                      1             2            3         4      5     &x10'
+
+                                                            Gearbox input speed {1 /min}
+
+
+
+
+ Technical                                                                 HBW 450-2 _ HBW 451
+Forward gear’, ratio                              '          155                 2.08                 208
+Reverse gear’, ratio.                             i          155                 2.08                 301
+Input torque Mma         pleasure cratt           Nm        440
+
+                         ‘commercial cra!     =   Nm        350
+Power input Px           pleasure craft           kwinp)    200272)
+                         ‘commercial craft        —_KW(N)
+Input speed Pinas                                 t/min
+
+Propetior thrust Fax                              N
+
+Weight wiinout oi                                 ‘e
+
+it quantity                                       1
+Oil grade                                                   ‘Automatic Transmission Fluid (ATF)
+            1.1     Technical data and main dimensions
+            1.1.4 HBW 630
+
+
+
+
+                                             Power diagram
+
+
+
+                                                 kw                                                                         np
+
+
+
+
+                                             a
+
+                                             z
+                                             a
+
+                                             8
+                                             H
+                                             é
+
+
+
+
+                                                 40                    i                  {           it                    55
+
+                                                 39               UL      ee           BREE           eee              J
+                                                      3                            2            30         4     5    Bx
+
+                                                                         Gearbox input speed [1/min!
+
+
+
+
+ Technical dat                                                         BW 63                  HBW 630-2          HBW 630-3
+
+
+
+Forward gear ‘A’ ratio                                    ‘                158                       208             3.05
+Reverse goar 8 ratio                                      ‘                138                       205             an
+Input toreue Mina           pleacure craft            New                  20
+                            commercial erat           Nm                   440
+Power input Prax            Sleasure craft            nmnp)                280(380)
+                            commercial erat               Kino             1771240)
+
+Input speed Nina                                          timin            5000
+Propolier thrust Fas                                  N                    17000
+Weight without oi                                     ko                   46
+i! quantity                                           '                    20
+ou   rade                                                                  ‘Automatic Transmission Fluid (ATF)
+12) Olt dipstick
+          and filer screw 17mm b) Oil drain plug 17mm width across tats €) SAF 26 teeth - DP 20/40 - 30°. Flat Root - Class
+                                                                                                                          16
+(8) M 8/12 d9eD   @) AaaDter Omitted # COOIRT 18 UBEG.NitIng 3/8” BE/ 14 deep OM ft0.CCOler j trom coOIer Minimum
+                                                                                                              lever travel
+      Installation
+
+
+      Delivery             conditions
+
+
+      HURTH HBW marine transmissions leave the                                          factory
+      in fully assembled condition. For safety                                          reasons,
+      the gearbox is not filled with oil for shipment.
+      The actuating lever is mounted on                                    the actuating
+      shaft, perpenticular to the input                                    shaft. Changes
+      of lever positions are possible.
+
+
+      The    multi-spline                  shaft       end   on     the    engine       side    is
+      provided             with       an   oil    film       and    protected       by    a
+      plastic cap.                The bright surfaces of the coupling
+      flange          on    the output            side       are coated with             an anti-
+      corrosive agent for shipment and storage.                                          The
+      casting          is       chromized and            thus       resistant       to    seawater.
+
+      Before          leaving          the    factory,         each       transmission          is
+      subjected             to    a    test      run   with        the    prescribed          ATF oil.
+      The    residual    oil remaining in the transmission
+      after       draining acts as a preservative and provides
+      reliable protection against corrosion for at least
+      one    year          if    the units         are properly stored.
+
+
+
+      Transport
+
+
+      Care should                be    taken when            transporting the gearbox
+      or the engine-gearbox assembly to prevent undue
+      shocks and impacts. This applies particulary to
+      the    input and                output      shafts.
+
+
+
+      Removal          of       preservative
+
+
+      Use a suitable solvent for removing the anti-
+      corrosive agent,                     but    never emery cloth                or    paper,
+      since otherwise the sealing elements might be
+      damaged.
+
+      It    is    advisable,               especially          after       long    periods       of
+      storage, to                flush the transmission with                        the pre-
+      scribed oil                and remove residual oil.
+
+
+
+      Painting             the gearbox
+
+      Always          cover the            running       surfaces         and     sealing
+      lips       of    the       radial sealing              rings       on   both shafts
+      before painting. Make certain that the breather
+      valve is not closed by paint. Indicating plates
+      should remain clearly legible.
+
+
+
+
+Ge.
+2.5   Connection         of    gearbox with        engine
+
+      Insert      a   torsio-elastic damping              plate    between
+      the    engine      and    the   transmission         to   compensate
+      for minor alignment errors and protect the input
+      shaft       from external          forces and       loads.   Radial
+      clearance should be at least 0.5 mm.
+
+      If    the    flywheel      housing     of    the    engine   is   of   suit-
+      able design,            the gearbox unit should be directly
+      bolted to such housing by mcans of the tapped
+      holes provided in the gearbox. Make certain to                               use
+      bolts of appropriate length and tighten them to
+      the correct torque.
+
+      The    radial and axial             runout    values      shown   in   the
+      drawing below should never be exceeded between
+      the    engine      and    the   transmission.
+
+
+
+
+                                    Flywheel housing
+
+       engine
+        flange
+
+
+
+
+      Flywheel
+
+
+
+
+            Damper plate                                  Input shaft
+
+
+
+
+                        Permissible radial and axial runout
+
+                        XrB=0, 1mm       X:K=0,1mm        X:P=0, trun
+
+
+
+
+           Gearbox            Involute      spline    profile of        shaft
+            size
+
+
+
+
+           HBW    360
+           HBW    260    A    SAF   26    teeth      DP   20/40
+           HBW 450            30°        Flat Root        Class t 6
+           HBW 630
+      Connection of             gearbox with            propeller
+
+      We recommend a             flexible connection                 between          the
+      gearbox and the propeller shaft if the engine is
+      flexibly mounted,                in order         to   compensate          for    angu-
+      lar deflections.             The installation of                 a special
+      propeller       thrust       bearing         is    not   required,             since
+      the propeller thrust will                     be taken by the trans-
+      mission       bearing,       provided         the      value    specified
+      under       "Technical data’            is    not      exceeded.          However,
+      the    output       shaft    should      be       protected      from          addi-
+      tional loads. Special care should be taken to
+      prevent torsional vibration. When using a universal
+      joint shaft, make certain to observe the manufac-
+      turer's instructions.
+      Even    with    the       engine    solidly         mounted      the       use    of
+      flexible       coupling          reduces      stresses      in       gearbox
+      bearings       caused       by hull      distortions,            especially
+      in    wooden    boats       or   where       Lhe    distance         between
+      gearbox output             flange      and    sterngland         is       less
+      than    about       800    mm.
+
+
+a7    Suspension          of    engine-gearbox            assembly         in    the    boat
+
+
+      Special care should be taken to protect the gearbox
+      from detrimental stresses and loads if the engine-
+      transmission assembly is not elastically suspended
+      in    the    boat    or    craft.
+
+
+      The gearbox should be conveniently accessible for
+      maintenance. If the oil drain plug of the gearbox
+      is    not    accessible,         the    011    will      have    to       be    sucked
+      off.
+
+2.8   Position of          gearbox in         the    boat
+
+      The    inclination of            the gearbox unit               in    the      direc-
+      tion    of    the    shafts      should       not      permanently             exceed
+      an    angle of       15 degrees         (see       illustration).
+
+      The gearbox can also be mounted with the output.
+      shaft in the upward position. Interchange the oil
+      dipstick and the oil drain pluq in this                                   cases.
+
+
+
+
+E
+Operation          of    gearbox
+
+the gearbox             is    suitable       for    single       lever    remote
+control.          Upon       loosening       the    retaining          screw,    the
+actuating          lever       (see    illustration)             can    be moved
+to    any    position          required       for    the    control       elements
+
+(cable or rod linkage).                     Make certain that the
+lever does             not    contact       the    actuating          lever cover
+plate:the minimum distance between lever and cover
+should       be    0.5       mm.
+
+The control cable or rod should be arranged at
+right angles to the actuating lever in the neutral
+position          of    the    lever. The          zero    position       of    the
+operating lever on the control console should
+coincide with the zero position of the actuating
+lever on          the gearbox.
+
+The    shifting          travel,       as   measured        at    the    pivot
+point       of    the actuating             lever, between             the neutral
+position and end positions A and B should be at
+least 35 mm for the outer and 30 mm for the inner
+pivot    point.
+
+A    larger amount of              lever      travel       is    in   no way
+detrimetal.
+
+However,          if    the    lever    travel      is    shorter,        proper
+gear    engagement             might   be    impeded       which,        in    turn,
+would mean premature wear, excessive heat                                     gener-
+ation and resulting damage.
+
+
+
+
+                                                           min.       distance
+                                                          of     actuating
+                                                           lever       0.5mm
+
+
+
+
+                                                    Threaded holes              for
+                                                    mounting          control     cable
+                                                    bracket
+       The position of the cover plate underneath the
+       actuating lever is factory-adjusted to ensure
+       equal lever travel from neutral position to A
+       and B.
+
+       If   this cover is removed in exceptional cases,
+       reajustment should only be made by factory
+       authorized          personel.
+
+       When installing the gcarbox, make certain that
+       shifting is not impeded by restricted movability
+       of the Bowden cable or rod linkage, by unsuitably
+       positioned guide sheaves,                       too small a bending
+       radius,        etc.
+
+       In   order     to     mount      support        bracket       of   control      cable
+       connection          kit    usc     the    two    threaded holes
+       MB   x   12   deep     located          next    to    the    shift      cover
+       on   top of      the      gear     housing,          see    technical        data,
+       main dimensions point 4).
+
+2.10   Cooling
+
+       Marine Transmission                 HBW    360       to    HBW    630   need
+       additional cooling, if they are continuously
+       operated in lever position "B", or if the power
+       input     (kW/hp)         is above the limit for continuous
+       operation in           position          "A". The          cooling      unit
+       should be connected to the water pressure line
+       (external        circuit)          of    the    engine       in    accordance
+       with     the    drawing       below.
+
+
+                                               Engine-Heat-
+                                               Exchanges)                Gearbox-Heat-
+                                                                         Exchanger
+                                                                                       —/    temperature
+                                                                                                     max.
+                                                                                                     30°C
+
+
+
+                     engine                                                                  |
+
+
+
+
+                                  HBW-Gearbox                                                    »
+                                                                    sea    water      pump
+
+
+       Installation of              gearbox heat            exchanger          in   the main
+       line of       sea water pump is practical                          if pump
+       capacity       is     less    or   equal        heat       exchanger capacity.
+                                            Gearbox Heat     Exchanger
+
+
+               Engine         Heat   Exchanger           temperature
+                                                         max.   30°C
+
+
+
+                                                         Bypass,
+
+
+
+
+            engine
+
+
+
+
+                        HBW   -   Gearbox
+                                                 Sea water pump D
+
+Installation      of    gearbox heat      exchanger in   the
+bypass   line of sea water pump is necessary if
+pump   capacity    is    higher      than heat   exchanger
+capacity.
+2.11           Selection          of   the    heat       exchanger
+
+               The amount of heat in kW; which needs to be
+               absorbed by the heat exchanger, is shown in                                         the
+               following          chart:
+
+
+
+
+                                                        RPM   and        Lever       position
+
+Gearbox        Application                  2000                  3000               4000           5000
+                atMmax.                 A          B          A          B       A          B      AB
+
+                PC    350    Nm        1,4        2,5     1,8        3,1     2.4        3,6       3,2    4.3
+HBW    360
+                Cc    250 Nm           1,1        1,9     1,5        245     2,1        3,0       2,9    3,7
+
+
+                PC    350 Nm           1,3        2,4     1,7        2,8     2,6        3,5       4,3    4,7
+HBW    360 A
+                cc    250    Nm        1,0        1,7     1,4        2,1     2,2        2,8       4,0    4,6
+
+
+
+                PC    440    Nm        1,7        2,8     2,2        3,2     3,0        3,8       4,2    4,8
+HBW    450
+                cc    350    Nm        1,3        2,0     1,8        2,4     2,6        3,0       3,8    4,1
+
+
+
+                PC    630 Nm           2,3        3,9     2,9        4,5     4,2        5,5       5,5    7,0
+HBW    630
+                cc    440 Nm           1,7        2,7     2,3        3,3     3,6        4,3       4,9    5,8
+
+
+
+                PC    =   pleasure       craft;          |    CC    =    commercial             craft
+
+
+
+
+2.11.1         The    oi1    pump on         the gearbox            delivers           2,3      1/min
+               at    1.000    RPM      and    the quantity               increases with
+               the    RPM    in   a    linear          ratio.
+
+
+
+
+                    RPM                 2000 3000                  4000          000
+
+                    Ee                      4,6         6,9          9,8         11,5
+              Power   input      -   cooling    requirements
+
+          for continuous operation              (engine - kW/HP)
+
+
+
+  Lever position      |    HBW 360 | HBW 360A]              HBW 450 | HBW 630
+
+
+          A                 55       kw         55   kw      60   kW      65   kW
+                          and    above]   and   above|and     above|and    above
+
+
+          B                               use heat        exchanger
+
+
+
+suitable heat exchangers for HBW 360 up to
+HBW 630 e.g. Type DC 60 of Bowman
+
+
+
+
+In border line cases please contact our After Sales
+Service   Department.
+a 52      Assembly of             the   heat     exchanger
+
+whos      The heat          exchanger should             be    installed       with       the
+          oil line connections on the top,                            in order to
+          prevent oil         drainage when              the engine          stops.
+
+Botawe:   The    flow of       cooling         water    and     transmission           oil
+          in the heat             exchanger should            lead     in opposite
+          directions.
+
+
+2.12.3    The min.          flow quantity of the cooling water
+          should       be    20    Liter/min.          This    figure is valid
+          for the heat exchanger Type DC 60 of Bowman
+          mentioned    under para. 2.10.
+          Those    figures may vary when                      using    other
+          heat    exchanger makes.
+
+
+2.12.4    Cooling water             entrance temperature should not
+          exceed 30°C.
+
+
+2.12.5    The oil circuit of the gearbox                         is closed by a
+          connection          piece,      which        is mounted       on    the oil
+          outlets on the housing.
+          This connection piece has to be removed. The oil
+          in-    and outlet             holes    are open.       They have          to    be
+          connected with the heat exchanger. The oil
+          circuit       is    closed       again.
+
+2.12.6    When    connecting             the    heat    exchanger       it    is   a     must
+          to    keep    oil       clean    of    impuritics.
+
+
+2.12.7    During storage of the boat (i.e.                            in winter) it is
+          recommended to drain the cooling                            circuit for the
+          gearbox.          For this purpose disconnect the water
+          hose on the pressure side                      and clean the             opening
+          of the heat exchanger, if                      necessary.
+Operation
+
+
+
+General       informations
+
+
+All    HBW marine      transmissions are            test-run      on
+a test stand at the factory prior to delivery.
+For safety reasons the oil is drained before
+shipment.
+
+
+
+Initial       operation
+
+Fill    the    gearbox with      Automatic        Transmission
+Fluid       (ATF)   as recommended. The oil              level
+should be up to the            index mark on         the    dipstick
+(see illustration).
+
+
+
+To check       the oil      level,    just   insert      the   dipstick,
+do    not   screw    in.    Retighten    the   hex    screw with        the
+dipstick after the oil               level check.        Do not    forget
+sealing ring.
+
+
+
+
+                                             Do    not   screw    in    for
+                                             vil    level      checks
+
+
+
+     casing    surface
+
+
+
+
+                                             Dipstick
+
+
+
+
+             oil    level
+
+
+
+                                                   Transmigeion
+                                                   Fluid       (ATF)
+Operating         temperature
+
+
+The maximum permissible temperature of the
+transmission oil                    is   110°C.
+
+
+
+Operation of               gearbox
+
+
+The zero position of thc operating lever on the
+control console must coincide with the zero posi-
+tion of the actuating lever on the transmission.
+Shifting is initiated by a cable or rod linkage
+via    the      actuating            lever and         an    actuating       cam.    The
+completion            of    the      gear       changing      operation       is    servo-
+automatically               controlled.
+
+
+Gear      changing          should         be   smooth,       not    too    slow,    and
+continuous            (without           interruption).             Direct    changes
+from forward to revers are permissible,                                     since the
+multiple-disc clutch permits gear changing at                                        high
+rpm, including sudden reversing at top speeds                                        in
+the event of danger.
+
+
+
+Sailing         and    moving         in      tow
+
+
+Rotation         of    the      propeller without               load while          the
+boat is sailing, being towed, or anchored in a
+river, as well as operation of the engine with the
+propeller         stopped            (tor      charging       the    battery),       will
+have      no detrimental                 effects on          the gearbox.
+Installation            of      a    propeller driven               generator       is
+possible.
+
+
+
+
+Important
+
+When      the boat         is    sailing            (engine    stopped),       the
+gear      lever must            be    in      zero position.         The     propeller
+is   at    idle.
+
+Locking of the propeller shaft by an additional
+brake      is    not    required:              use    Lhe    gear    lever    position
+opposite your direction of travel for this purpose.
+Never put the gear lever in the position corres-
+ponding to the direction of travel of the boat.
+
+
+
+
+Lay-up periods
+
+If   the    transmission                 is   not     used    for    periods    of
+more than one year it should be compictely filled
+with oil of the same grade to prevent corrosion.
+Protect         the    input         shaft      and    the output          flange    by
+means      of   an     anticorrosive                 coating    if    required.
+             ntenance
+
+
+
+      Transmission                 oil
+
+
+      To ensure           trouble-free               operation          of    the   clutch
+      only        use Automatic Transmission Fluid                                (ATF).
+
+
+
+4.2   Oil     quantity
+
+      HBW     360         -    1.5       1tr    (plus      quantity of            cooling        device)
+      HBW     360    A    -    1,4       ltr    (plus      quantity          of   cooling        device)
+      HBW     450         -    2,0       ltr    (plus      quantity          of   cooling        device)
+      UBW     630         -    2,5       ltr    (plus      quantity          of   cooling        device)
+
+      When filling gearbox with oil,                                  proceed as follows:
+
+      -      £111    oil       quantity of            above          liter
+      -      xun    engine         until        pipes      and       cooling      device     is
+             filled with             oil
+      -      xefill       oil      quantity          up    to    the    index mark          on    the
+             dipstick.
+
+
+
+4.3   Oil     level checks
+
+      Change        the oil          for       the   first       time    after      about
+      25     hours    of      operation,             then       at    intervals        of
+      1000        hours       of   operation or             at       least    one   year.
+
+
+
+4.4   Oil change
+
+      Change the oil for the first time after about
+      25     hours    of      operation,             then       at    intervals        of   at    least
+      one     year.
+
+
+      Attention:
+
+      When        changing         oil,       also   drain           cooling      device,        clean
+      it     if    necessary
+
+
+
+
+      Checking        the      Bowden          cable       or    rod    linkage
+
+      ‘The    Bowden      cable          or    rod   linkage           should     be    checked
+      at     shorter time            intervals.             Check       the    zero position
+      of     the    operating            lever       (on    the      control      console)
+      and of the actuating lever (on the gearbox) on this
+      occasion. The minimum lever travel from the neutral
+      position to operating positions (0-A = 0-B) should
+      be 35 mm for the outer and 30 mm for the inner
+      pivot        point.      Make       certain         that       these    minimum values
+      are     safely      reached.             Check       the    cable      or   rod   linkage
+      for    easy movability.
+           Disassembly
+
+
+
+           Removing          output-flange
+
+
+           Remove       hex       head       screws    (14)       M    12    x    40    and
+           disc       (28),       take off       flange          (4)    with       pulling          device.
+
+
+
+           Removing of actuating lever cover plate and
+                       embly
+
+           Always       set       actuating          lever       in    neutral          position.
+
+           Remove       hex       head       screws    (9)       from       cover       (5),       using
+           13    mm    spanner          wrench       and    take       off       spring       washers
+           (10).
+
+5.2.3      Remove cover plate assembly                            (5)       with seal             (12)
+           lever       (6)       and    actuating          cam    (65).
+
+5.2.4      Remove screw                (72)    from lever             (6).       Pull    off       lever
+           (6)    and       actuating          cam    (65).
+
+
+
+5.3        Separating the gearbox sections and removing the
+           depceontuut and Letarmedinte shntts
+Le    Bs   Remove hex units                   (11)    using       13 mm          spanner          wrench,
+           take       off    spring          washers       and    remove          screws.
+
+
+5.3.2      Separate          cover       (1)    from gearbox                housing          (2)    by
+           light       hammer          blows    on cover.
+
+
+§.3.3      Lift complete input, output and intermediate shaft
+           out of the gearbox housing.
+
+5.3.4      Remove shims (36                   a-d, 38 a-d) from input, output
+           and intermediate                   shaft and keep them separately.
+           For proper reassembly it is advisable to note
+           down the thickness and location of each of the
+           shims in order to obtain correct bearing play.
+
+           If    none       of    the    bearings on             the    input          (23),       out-
+           put (35)          and intermediate                shaft (37) have been
+           changed,          the shims can be                reused in the same
+           position.             It    is,    however,       recommended                to    check
+           the    dimensions             of    the   gear        set    relative             to    the
+           casing and reshim accordingly.                               If bearings have
+           been replaced,                shimming          has    to be measured and
+           suitable shims                have    to be       installed.
+                      Removing       the   shifting        fork      (32)
+
+
+                      Pull       actuating    shaft        (30)    out    of   bearing.
+
+
+                      Remove       shifting      fork      (32).
+
+
+
+                      Disassembling          the   output         shaft     (35)   and   inter-
+                      mediate        gearshaft       (37
+
+
+      5.5.1           Remove bearing          inner        races    together with         gears.
+
+
+      5.5.2           In the event of bearing damage,                          continuously
+                      drive inner races off the input                          shaft with a
+                      punch       tool   (away     from gear).
+
+
+
+
+5.6a Enclosure HBW 360-3608
+
+
+1.     Disassembly
+             of input shaft
+
+
+Remove shitting fork (item 1).
+Figure 1-1
+
+
+
+
+                                                                   Fg 14
+
+
+
+Remove grooved nut (item 1) with socket wrench
+Figure 1-2
+
+
+
+
+                                                                   Fig
+                                                                     12
+Insert tool “B* (divided ring) beneath the outer disc carrier and
+press out the input shaft with a suitable pin.
+
+Remove all disassembled
+                   pats:
+                Taper roller bearing inner race (tem 1)
+               ‘Thrust washer (item 2)
+               Goar (item 3)
+               ‘Needle bearing iner race (tem 4)
+               ‘Needle bearing cage, two halts (item 5)
+               ‘Spbush
+                  ace  (item r
+                             6)
+               Shims (kem 7)
+               Friction and steel discs (tem 8 and 9)
+               Shifting
+                  parts (item 10)
+ BPoerorsess
+          ure 1-3,
+
+
+
+
+ 1.            Disassembly
+                        of input shaft
+
+
+ Remove   keys (item 1), shim (item 2), support
+                                           ring (2 halts)
+{item 3) and gear (item 4).
+
+Remove spacer bush (item 5) and needle bearing cage (2
+‘half) (item 6)
+Figure 1-4
+
+
+
+
+Press off thrust washer (item 1) using tool “C* (divided ring).
+Fie ot verter Does her fore ea tec
+        jure 1-5
+
+
+
+
+                                                                    Fg 15
+ 2,     Disa ssem
+              of shifting
+                        bly
+                          parts
+
+
+ Remove springs (tem 1) with a screw driver.
+Remove outer disc carriers (item 2) and balls (item 3).
+Use a cloth to cover guide sleeve (jtem 4) and actuating
+‘sleeve (tem 7) In order to avoid the escaping of detent pins
+(tem 5) and springs (item 6).
+Push out guide eleeve (item 4) fromactuating sleeve (item 7).
+
+
+
+
+         Escaping
+           of springs and detent pins
+                   ‘can cause injuries!
+
+
+
+
+                                                                   Fg 2
+
+
+
+
+ 3.     Rem
+          of cup
+             ovalsprings
+
+Use tool “D" and load cup springs (item 1) untill the ring halts
+{iter 2) can be removed.
+Remo
+  ring halts (tem
+              ve  2), end disc (item 3) and remove cup
+springs (Rem 1).
+Figure 3-1
+
+
+
+
+         Decocup
+              mprsprings carefully!
+                         ess
+5.6b Disassembling the input shaft (23)
+
+5.6.1        Place    input   shaft    (23)     vertically       on    a    vice
+             with    the   grooved    ring     nut    (50)    pointing          upwards.
+
+5.6.2        Remove    grooved    ring    nut    (50)    by   means        of   a
+
+             special socket       spanner       and    take    off    outer         bearing
+             race (44).
+
+
+
+
+                                          om
+5.6.3   Place face side of gear                      (49)    against divided flange
+        and use pin of suitable size                         to    press off       the
+        shaft from threaded end.
+
+        Parts       removed    from       threaded          side    of    the    shaft    are
+        not       interchangeable with the parts removed from
+        the       flange    side.    Keep       them    separately.
+
+        Remove       keys    (52)    from       input       shaft    and    keep    them
+        in    a   separate     place       (4    keys).
+
+
+
+
+5.6.5   Attach      divided        flange       between       tapered       roller
+        bearing       (39)    and thrust ring                (62)    and press off
+        spacers       (57),    needle       bearing          inner       races    (33),
+        thrust      ring     (62)    and    shims       (43    a-d)       from   the
+        input      shaft.
+
+
+
+
+        Take care not          to damage bearing cages                      (70,    39).
+
+        Attach      divided        flange       to   face     side    ot    bearing
+        outer      race     (39)    and    press      off     taper      roller    bearing.
+
+
+
+
+                                                            43a,    43b,    43c,   434
+
+
+
+
+                                                                           70
+
+
+
+
+                                                                           39
+5.637    Remove    internal        and   external       clutch       dises      from
+         gears    (48)    and(49).
+
+
+         Disassembly         of   the   gears
+
+
+         Compress      cup    springs     (51)    by    means       of    dismantling
+         tool.    Remove circlip          (59)    and       take    off    thrust
+         plate    (53).
+
+
+5.6.9    Dismantling the actuating members,                         detach      springs
+         (68), watching for balls (47).
+
+5.6.10   Remove    disc    carrier       (53).
+
+
+5.6.11   Place   actuating        sleeve       (60)    on   a   plane      surface and
+         press   out     guide    sleeve       (56).    Watch       for    detent pins
+         and   springs     jumping       off    the    guide       sleeve.
+
+         It will   be advisible           to wrap a         rag around          the
+         actuating       sleeve    and    the    guide      sleeve        to   catch   any
+         parts   jumping      off.
+Reassembly
+
+
+Note:        For    easy      reference see               illustration
+
+
+
+
+General       information
+
+The    following points                  should      be    observed when                re-
+assembling the gearbox:
+
+-     Clean all parts thoroughly,                          especially sealing
+      surfaces,         inspect          for   wear, damage             and       cracks,
+      and    replace         if    required.
+
+
+-     In    the    event      of    damage      on       Lhe    teeth       of    any
+    gears,         always         replace the            damaged       gear and          its
+      mating       gear.
+
+
+-     Check shifting fork (32) for wear. The contact
+      surfaces of this fork are provided with a
+      molybdenum coating. Should this coating be worm
+      away    at    any      point,       replace         the    shifting             fork.
+    Max.      wear      on    guiding          surfaces         0,2    mm    on       each
+      side.
+
+
+-     Thrust rings            (62)       require replacement                     if wear
+    exceeds         0,025       mm.
+
+-     Internal      discs          (73)      have    a    sintered      metal
+    coating        of     0,3      mm   on    each       side.    If    the       surface
+    structure           (after          cleaning)         appear       "glazed",
+      replace       the      discs.
+
+
+-     Immerse      cleaned antifriction                        bearings          in   oil
+    before installation.
+        Pre-assembling               intermediate             gearshaft             (37)       and
+        output       shaft       (35)
+
+
+        Heat    gears       to   a    temperature of                80    -    100°C       and
+        slide       them on       shaft         (35)    and    (37).          Ensure proper
+        fil    by    light       hamuer         blows    or    pressing.
+
+
+        Heat    bearing          inner         races    (61)       and    (39)       to    a
+        temperature of               80    -    100°C    and       press       them on          to
+        shaft       (37).
+
+6.2.2   Heat bearing inner races                        (36)       and    (42)       to a
+        temperature of               80    -    100°C    and       press       them on          to
+        shaft       (55).
+
+
+        (Reassembling            the      output       shaft       on     HRW    360-A         see    6.15)
+
+
+
+
+        Importan’
+
+
+        Repress       after       cooling         down,       so    that       no    gap       is    left.
+
+
+
+
+        Pre-assembling               the       actuating       lever cover plate
+
+        Use punch tool               to press sealing ring                      (75)       into
+        cover plate (5). Spread antifriction                                    bearing             grease
+        between sealing lips.
+
+        Insert       actuating            cam    assembly          (65)       into    cover plate
+        «).
+
+        Fit    actuating          lever         (6).
+
+        Importan
+
+        Clearance between                  actuating          lever and             cover plate
+        0,5 mm.
+
+        Clamp       actuating lever by means of retaining                                       screw
+        (72),       using a 13 mm spanner (wrench).
+6.4   Pre-assembling          the gears (48) and                (49)   with     cup
+      springs       (51)   and     clutch    discs       (54)    and   (69).
+
+
+      Important
+
+
+      If   previously disassembled                 parts       are used,       make
+      certain       that   only     mating       and    associated       parts    arc
+      reassembled.
+
+      Join    two    cup   springs        (51)    face    to    face   (external
+      diameters       in   contact)        and    place    them on       the
+      centering collar of gears                   (48)    and    (49).
+
+      Place    thrust      ring     (53)   on     cup    springs.
+
+
+      Place    circlip       (59)   on     gear    hub    and    use   mounting
+      tool    and    press    to    fit    circlip into          groove on       hub.
+
+
+      Attach clutch discs (54) and (69), first internal
+      disc (54), then alternatively external disc (69),
+      internal disc (54) etc.
+Measuring the pre-assembled gears                                (48)    and       (49)
+to determine setting value “a’
+
+
+If   no   parts        had       to   be    replaced,       the    previously
+disassembled            shims         (43    a-d)    can    be    re-used          in
+their former arrangement and positions without
+any measuring               operation.
+
+If   measuring          is       required,        proceed as           follows:
+
+Place     re-assembled                gear    (48)    and      subsequently
+gear      (49),       on a       supporting         plate      (end     face       of   hub
+downwards,            see        illustration)-
+
+
+Insert      needle cage (70),                  inner race          (33),       and
+spacer      (57) into bore of                  gear.
+
+Fit shims (43 a-d), as required, until prescribed
+setting value "a" is obtained (see illustration).
+
+Shims are available                    in    thicknesses          of    0.4    -    0.5   -
+0.6 and 0.7 mm.
+
+
+
+
+                                            Type               Value "a"
+                                            HBW 360            15.2-0.1
+                  I         (i              HBW 450            18.25-0.1
+                                            HBW     630    ©   -25,3-0.1
+
+
+
+
+                                                      43a,     43b,     43c,       434
+
+
+
+
+           LEZ
+ 6.6a Enclosure
+
+1.     Pre-asse
+              of input
+                  mbl  shaft
+                         y
+
+Press taper roller bearing inner race (item 1) onto the input
+shaft up to the stop using bush "E*
+ Figure 1-1
+
+
+
+
+Press thrust washer onto input shaft up to the stop using
+bush *E*
+ Figure 1-2
+
+
+
+
+     Sintered (brown colour) side of thrust washer
+                ‘must point to the gear.
+
+
+
+
+‘Assem
+     gearble
+         (item 1), needle bearing cages (2 halts) (item
+2), spacer bush (item 3) and support ring (2 halfs) (item 4).
+Figure 1-3
+
+
+
+
+                                                                Fig 13
+1.      Pre-assembly of input shaft
+
+
+Adjustment of clutch disc clearance
+
+
+Measure witha depth vemior from the support ring item4,
+Figure 1-3) to the end disc (item 1).
+Dimension 15.20
+            mm (0.598 in.) plus minus 0.10 mm
+(0.003937 in.) must be achieved by adding or removing
+shims
+Figure 14
+
+
+
+
+Fit shims (item 1) onto support ring and insert keys
+(item 2 and 3).
+Figure 1-5
+
+
+
+
+                                                                  Fig 15
+
+ 2.     Assembly of shifting parts
+
+
+Knock in drive pins (item ).
+Insert springs (item 1) and detent pins (item 2) into the guide
+sleeve (item 3).
+‘Align drive pins with the grooves in the actuating sleeve
+{item 4) and push detent pins into the holes until they snap.
+Push guide sleeve untormly into actuating sieeve until detent
+pins snap.
+Figure 2-1
+Insert
+  balls (jtem 1) into the ball-pockets
+                                of the steel disc
+
+Figure 2-2
+
+
+
+
+Insert balls (item 1) into the ball-pockets
+                                    of the guide sleeve
+and fit the second steel disc carrier.
+
+
+Insert the retaining springs (item
+                                2) and fit them into the
+holes.
+Figure 2-3
+
+
+
+
+                                                           Fig 23
+3.      Adjustment
+                of clutch disc clearance
+
+
+Use a plane plate (approx. dia. 65 mmv2.56 in. and Smnv
+0.197
+    in, high) and match the parts the following:
+
+
+1.      Thrust washer (tem 1)
+2       Gear (item 2)
+3.     Needle bearing inner race (item 3)
+4.       Needle bearing cage (2 halts) (item 4)
+5.       Spa   bush (item
+                   cer    5)
+6.     _and the shims (removed at disassembly)
+                                         (item 6)
+ Fig
+
+
+
+
+                                                             3.1
+                                                           Fig
+Measure with a depth vernier from the shims (item 1) to the
+‘end disc (tem 2)
+Dimension 15.20 mm (0.598 in.) plus minus 0.10 mm
+(0.003937 in.) must be achieved by adding or removing
+shims.
+
+
+
+
+ 4.       Final assembly of input shaft
+
+
+ Fit steel discs (item 1) and friction discs (item 2) alternately
+‘onto the gear. starting with a steel disc.
+ Figure 4-1
+
+
+
+
+      Observe that the 3 grooves in the friction disc
+      ‘are opposit
+             the lubrication holes in the gear.
+
+
+
+
+                                                                    Fg at
+ 4.       Final assembly of input shaft
+
+
+Fit shifting assembly on input shaft, observe that the grooves
+in the guide sleeve are aligned property with the keys,
+
+Press shifting assembly onto input shaft using bush "F”,
+observe that lugs of the steel discs meet the grooves of the
+stool
+  dise carrior,
+Figure 4-2
+
+
+
+
+      The shifting assembly has to be mounted onto
+        Input shatt according to the input rotation.
+      Rotation clockwise the thick lug must be at the
+            right hand side (viewed from top).
+      Rotation counterclockwise the thick lug must
+        be at the loft hand side (viewed from top).
+
+                                                                    rg 42
+Fit steel discs and friction discs (item 1 and 2)alternately
+                                                         onto
+the gear (item 3), starting with a steel disc,
+Figure 4-3
+
+
+
+
+     Observe that the 3 grooves in the friction disc
+     ‘are opposit the lubrication holes in the gear.
+
+ Insert input shaft into gear.
+
+
+
+
+ Observe that lugs of steel discs meet the grooves
+                   of steel disc carrier.
+
+
+
+
+ Insert shims (item 1) and spacer bush (item
+                                           2) into gear
+ (tem 3),
+
+
+Pross needle bearing inner race (item 4) onto input shaft up
+to the stop.
+Insert needle bearing cages (2 halfes) (item 5).
+Press thrust washer (item 6) and taper roller bearing inner
+race (item 7) onto the input shaft up to the stop.
+ Figure 4-4
+
+
+
+
+        ‘The sintered brown coloured side of the
+          thrust washer must point to the gear.
+
+
+
+
+4.      Final assembly of input shaft
+
+
+‘Screw on grooved
+              nut (jtem 1) and tighten it with a torque
+wrench,
+Tightening torque: 95 Nm (70 ft.lb.)
+
+
+A’ter tightening stake the nut to the input shaft.
+Figure 4-5
+6.6b Pre-assembling the actuating members:
+
+
+            Fit     driving      pins        (45),    springs        (71)      and    detent
+            pins       (34)    to guide       sleeve        (56).
+
+            Place      actuating        sleeve        (60)      on   press      plate.
+
+
+            Place guide          sleeve        (56)    on    top     of    actuating
+            sleeve       (60)    with the three driving pins                          (45)    in
+            alignment          with    the    three grooves               in   the actuating
+            sleeve. Watch for correct position of detent pins
+             (34)      relative to angular                 pockels        of   sleeve.
+
+            Press guide          sleeve        (56)    into     actuating            sleeve    (60)
+            up    to   midway     position           (noticeable           click).
+
+            Insert      balls     (47)       into     ball      pockets        of    guide
+            sleeve,       attach       disc    carrier          (63),      then      fit balls
+            on    opposite       face    side        and    attach        second      disc
+            carrier       (55).
+
+
+
+
+6.6.6       Attach      springs        (68)    with        closed    part       of    spring
+            windings          pointing       outwards.
+
+
+
+6.7         Reassembling          the    input        shaft
+
+
+6.7.1       Pre-heat inner race (39) of taper                             roller bearing
+            up to 100°C and press on to shaft                             (25).
+
+6.7.2       Attach      outer     race       (39)     of   taper     roller          bearing.
+
+            Important:           Repress       after       cooling        down.
+
+
+
+
+            Fit     thrust      ring    (62)    in     such a way           that     sintered
+            surface       (brown       colour)        faces     gear.
+
+            Use     tubular      tool    to    press       on   inner       race      (33)   of
+            needle      bearing        for    gear     (48).
+            (Does not apply for HBW 360).
+Attach needle cages            (70)        and completely pre-
+assembled gear          (48)with clutch discs                  (54)    and   (69).
+
+Fit spacer       (57)      and shims        (43 a-d)       to gear      (48).
+
+Fit    keys    (52)   to    shaft     (4    pieces).
+
+Press pre-assembled actuating                        members    (see    item
+6.6)    on    input   shaft    (25).
+
+Impor tan
+Align    external       clutch discs radially relative to
+disc    carrier.
+
+
+
+
+                        a)
+                        a
+                           a gan               §                      ®@
+                               ty              We
+                                              ym
+
+
+
+
+                                              Ye
+                                              waar
+                               Gar:                  ZaS
+
+                                               ey
+                                G
+
+
+
+                                               i
+6.7.9    Attach   shims        (43    a-d)       to    gear       (49).
+
+
+6.7.10   Attach spacer          (57)       to gear          (49).
+
+6.7.11   Use tubular tool             to press on inner race                        (33)    of
+         needle   bearing          for     gear        (49).
+
+6.7.12   Attach   pre-assembled gear                       (49)     with    needle        cage
+         (70)   and clutch discs                 (51)       and     (69).
+
+         Align external discs                   for proper engagement with
+         actuating member.
+
+6.7.13   Attach   thrust       ring        (62)       in    such     a   way    that
+         sintered      surface        (brown          colour)        faces      gear.
+
+6.7.14   Pre~heat inner race                   (44)    of taper roller bearing
+         to a   temperature of                 approx.       110°C and          press on
+         shaft, with larger diameter adjacent to thrust rinq.
+
+         Important
+
+
+         Prepress      after       cooling        down,        so    that      no   gap    is    left.
+
+6.7.15   Screw on      grooved ring              nut       (50)     by means        of    special
+         socket   spanner. Tighten to following torque:
+
+                       HBW    360)         -     My     =      100    Nm
+
+                       HBW    450°        -      M,     =      150    Nm
+
+                       HBW    630         -      M,     =      150   Nm
+
+
+6.7.16   Secure ring         nut     by   punching          outer        rim   into groove
+         of   shaft.
+
+6.7.17   Check gears (48) and                   (49)    for free movability in
+         an axial direction.
+
+6.7.18   attach   outer       race        (44)    of    taper        roller     bearing.
+6.8     Pre-assembly of                housing       and    cover
+
+6.8.1   Press      output     shaft          sealing       ring    (26)    into       housing
+        (2)    output shaft opening by using punch tool.
+
+6.8.2   Press outer races of 3 tapered roller bearings
+        (42, 44, 61) into housing (2) seats.
+
+        Press       input-shaft          sealing       ring       (24)    into       cover
+        (1)    input       shaft       opening,       by    using    punch       tool.
+
+
+        Press      outer     races       of    3    tapered       roller    bearings         (39,
+        22,    41)       together with             appropriate shims.                (36   a-d,
+        38 a-d)          into cover          (1)    seats.
+
+
+        Final      assembly        of    gearbox
+
+
+6.9.1   Place       pre-assembled gearbox                   section       (2)    on    bench
+        with       opening    upright.
+
+
+6.9.2   Place pre-assembled input-shaft (25) together
+        with shifting fork (60) into gearbox section.
+
+6.9.3   Place pre-assembled output                         shaft    (35)and
+
+6.9.4   pre-assembled          intermediate                gear    shaft    (37)       to-
+        gether into gearbox section                         (2).    (Watch for gears
+        to    be    in   mesh).
+
+        Insert       shifting          rod    (30)    through       bores       in    gearbox
+        and    shifting       fork       (60).
+
+6.9.6   Slide pre-assembled cover                      (1)    with seal          ring      (24)
+        over input shaft and
+
+
+6.9.7   secure       it with       2    screws       (11)    on housing          (2).
+         Measuring the gear             sets of input              shaft, output
+          aft and interme                te shaft
+
+         Put    corresponding             shims   into      the    bearing       seats       of
+         cover,(1)      in    order     to   achieve         an    axial    play    of
+         9.05    *   0.02    mm   on   input      shaft,      output       shaft    and
+         intermediate shaft. If no parts had to be replaced
+         (as mentioned in section 5.3.4), the previously
+         disassembled shims (36 a-d, 38 a-d) can be re-used
+         in    their   previous        arrangement           and    positions.          It
+         is, however, necessary,                  to   measure the          bearing
+         play and adjust it.
+
+6.10.2   Place spring washers                (10)      underneath the screws
+         (21) and tighten screws to a torque of                             22    Nm,
+         using a 13 mm spanner (wrench).
+
+6.10.3   Tap output         and   input    shafts         slightly     in    an    axial
+         direction      while       rotating        the     shafts    by    hand,       to
+         ensure      freedom of        movement.
+
+
+6.10.4   Axial play of input and output shafts is 0.05 *
+         0.02 mm,      measured by means of a dial                     indicator in
+         contact     with     the   end    faces       of   the    shaft     (see
+         illustration).
+         Measuring          the    gearset          of    intermediate             shaft
+
+
+         Insert bolt with tool No.                         220.429 into housing
+         opening       at    position          19    and    thread          it   into center
+         hole of intermediate shaft                         (37). Tap intermediate
+         shaft    slightly          in    axial          direction,         while     rotating
+         by   means     of    tool.      Axial           play    of    intermediate
+         shaft    is    measured          by    means       of    a   dial       indicator        in
+         contact       with       end    face       of    the    tool-holt-head.             Move
+         bolt head in axial direction by a lever.
+
+         Axial play for intermediate shaft:                                  0.05 + 0.02 mm.
+
+         Plug hole in housing with                         screw       19    and    use
+         Loctite 242 for sealing.
+
+6.11.2   After the adjustment of axial plug for input,                                           out-
+         put and       intermediate             shaft       remove cover             (1)    by
+         opening screws             (11).       Use Loctite Special                   510 to
+         seal    mating       areas      of     cover and             housing.       Refit       cover
+         again and adjust seating by positioning plugs (15).
+         Then refit screws (11) with spring washers (74)
+         and finally tighten them with a torque of 22 Nm.
+
+
+
+
+                                                                                          Bolt
+                                                                                          Tool -Nr.
+                                                                                          220.429
+
+
+
+
+                                                                                 HBW 450
+6.12     Mounting         the    actuating             lever cover plate
+
+6.12.1   Place      seal       (12)    on    pre-assembled                  cover plate              (5)
+         and    attach         cover    plate          to    gearbox.            Watch       for
+         Proper enqaqement of actuating cam and shifting
+         fork. The cover plate can be mounted when the
+         shifting fork is in the middle (neutral) position.
+         It    is   important          to adjust             the actuating                  lever to
+         exactly midway               position          in    neutral.
+
+
+         The    lever      travel       from       0    to    A    and      from       0    to   B
+         should be equal.               After a lever travel of                              28 to
+         31    mm   the    transmission should                         be   in    gear. Screw
+         the cover plate in place in this position.
+
+6.12.2   Fit    spring         washers       (10)       and       screws         (9)       using     a
+         13    mm spanner (wrench). Tighten to a torque of
+         14    Nm. Check actuating lever for proper operation.
+
+
+6.13     Connection of            the heat             exchanger            (if    required)
+
+         All    HBW   360,       360 A,       450,          630    transmissions are
+         equipped         with    a    connection             piece         (20),          which     is
+         situated         above       the    oil       pump on          the      housing         and
+         connects         the    oil    outlets.
+
+         When using a heat exchanger (see information
+         about cooling) the connection piece (20 is re-
+         moved      and    the    pipes       leading             to    the      head       exchanger
+         are connected.               The    threads          are R         3/8"       14   mm deep.
+         An arrow on the oil pump indicates the preasure
+         outlet of the oil. The connection of the heat
+         exchanger is            illustrated.
+
+
+                           To                                Prom
+                           heat               +              heat
+                           exchanger                         exchanger
+
+
+                                                                            — Connection
+                                                                                  piece          (20)
+
+
+
+
+                          29
+                                                                                   011       pump
+
+
+
+
+         The   oil    pump       (3)    is    fixed          to    the      housing         with
+         two    screws         (29)    and    is driven                by an end            groove
+         in the input shaft.
+6.15     Reassembling             the output             shaft
+
+         (applicable         for    HBW    360       A    -    Down Angle                only)
+
+
+         Preheat       gear       (10)    up    to       160°C          and    cool          down    output
+         shaft    (35)       to    -40°C    prior             to       assembly.             Position
+         gear on shaft according to a distance of                                              183,5 -
+         0,2 mm measured from the splined                                     end       of    the    shaft
+         to the face of the gear hub.
+
+
+         Important;          Measuring          areas of                year    and          shaft
+         should       be    absolutely          free          from oil          or       grease.
+
+
+6.15.2   Tapered roller bearing (41) should                                     be       preheated
+         to 120°C and pressed on shaft.
+
+6.15.3   Press    bearing          races       (41,       42)          into    housing
+
+
+6.15.4   Place    shaft          (35)    with    assembled                   bearing          (41)
+         and gear          (40)    into housing               openings.
+
+6.15.5   Preheat tapered roller bearing (41) up to 120°C
+         and assemble on shaft (35) from output flange
+         side by retaining shaft through center bolt. Output
+         flange has to be pulled and hold in position until
+         roller       bearing       has    cooled          off.
+
+
+
+         Measuring          bearing       clearance of                   output          shaft
+
+         Remove center             bolt    (14)       and          disk       (28).
+         Measure difference between                            flange          face          and    disk
+         support       in    flange       (measure            b)        and    difference
+         between       flange       face and             face of             shaft       (measure a).
+         According          to    the    difference                a   minus        b    the       thickness
+         of washers          (27)       is determined                  and     placed          in
+         position.          Place        disk    (28)          in position and tighten
+         with center bolt                (14).
+
+6.16.2   Measure      bearing           clearance on                   the    flange          face
+         with dial gauge.                (Clearance should                      be
+         0,05 + 0,02 mm)
+
+
+6.16.3   Final Assembly of gearbox
+
+6.16.4   Remove flange
+
+6.16.5   Place cover             (80)    with    O-ring                (81)    and       seal
+         ring    (26)       into    housing          and      secure with                    spring
+         ring    (A?).
+
+
+6.16.6   Use    Loctite No. 245 to secure                               flange on splined shaft
+         and    tighten central bolt with                               the disk, the washers
+         and    the   0-ring        for    final         assembly.
+         (Torque for central                bolt         Md        =   100 Nm).
+7. Spare Parts List
+
+
+Preface
+The spare parts       list is only     valid for the type and   versions
+                                                                       of transmission.   as shown
+
+
+ You wil find the transmission type and version  on your      transmission name plate
+Ifthe type and version indicated difers from that printed in this Manual, the relative Spare:
+Parts List should be ordered from ZF HUTH MARINE GEAR,
+ The indicated dimensions and standard are as such nat enough for ordering parts.
+
+
+When ordering parts, please state.
+
+
+    fansmission type
++   serial number
+
+‘item no. part name, ident                          of parts required.
+                                     no. and quantity
+
+
+            list Is referring to the following versions.
+The spare pans
+
+
+
+      H
+HBW 360                                 versions                09; 10; 11; 12
+
+HBW 360A,                               versions                07; 08; 09
+
+HBW 450                                 versions                09;   10;   11
+
+HBW 630                                 versions                04, 05, 06
+
+
+
+
+Name Plate
+
+The name plate is mounted to the transmission
+
+
+
+
+                                         @HURTH ES"                                                  Transmission type
+
+
+
+
+      Transmission ratio                                                                             Transmission   ratio
+
+      Shilting position « A: — Ail                   at                     B25                      Shitting position   -B
+
+                                         Ser. No.     SiER000]                            ic|
+     Transmission version                MADE IN ITALY BY HURTH MARINE GEAR
+     and serial     number                             ‘38062 Arco (Trento)
+  | pe w e                                                                vie 226                 20002 8526                   t_| verze                           20 02 e616                                                                       ze
+  | 6a sve                                                                 18 pre                20°20 96°26                   1 |eazsve                                 L956                Assy ys1BIKG + yous                                    LE
+  | ecoeez                                                                819 892                       e206                   1 |eco ese                          to-zooes             a6                Pou Gums                                  Of
+| |eozeseoze soe
+2                                                                         ws. soe026
+                                                                          08                                                      eee
+                                                                                                                                 |+3200
+                                                                                                                              2t |                                 zh10'804            910                              mons pouog
+                                                                                                                                                                                                                               End                  62
+                                                                                                                                                                                                                                                    —
+  |       bessov                                                          us sob                                               + |tussor                                                                                             Burro          tz
+  | sarsor                                                                ‘991 SOL                                             t |saison                                                                            Bun Guwos                       92
+  | vac soe
+  +|6 s4 s0 8                                                             248 S08
+                                                                          8S1 S04                40°200'26
+                                                                                                   90 0'201"10        26       1 |soo sre
+                                                                                                                               4 |9Shson                                                                                   indui yous
+                                                                                                                                                                                                                        Guy Suess                   6
+                                                                                                                                                                                                                                                    ez
+  | poeree                                                               £02026                    8120'L01'S0                 1 |69990
+                                                                                                                               + |ooroe                                                            oycts oneopoony Saue go6eD
+                                                                                                                                                                                                 Suuwog                                             cetz
+  1 |obisve                     zocor          sezr6                061 sre
+                                                                   4|                           2060 G6 Lb6                    1 |061 sve                                                                 ‘Wuios a6 1 oz
+  4 |exeery                   oztoz0r910                            e sery
+                                                                   4|                              oz40'201'910               Z| ese ry                                                                                                      nid    GL
+  1 |ezasze                     so 0zoze-zv6                       + 62
+                                                                    |   3.96                     $0°020           26 Lr6      z |ra9sve                    209101526                           (XING £=0) 20 805                             Bury   9
+                                                   7                 z                                                        1| eee sce                   ‘S002                       26    (HAND 2) posdng                                 Bums   9
+  z |posto                       £10 101'P10                       2 |p99po                        ££00'101'F10               z |roaro1                         £20 °4C1'710                                                 wig jomog              St
+  1 |402 cee                    2600114 910                           soz oze
+                                                                   b_ |                          2500 1 910                   1 |toz0ze                         2600 1 1910                                             OH MaRS Fh
+  1|
+  1 |ssezievse sve               soezoe                  216       t+_| |ezone srevse             10'620 2826                 s|
+                                                                                                                              t |seiceessvee                    soezoze
+                                                                                                                                                                Wor                Zr6are                                                    wes
+                                                                                                                                                                                                                                             ees    eh
+                                                                                                                                                                                                                                                    zh
+ zt |oozce                                                          seo ze
+                                                                 ou |                                                        on |esco e                         460 7201910                                                xoHWeRs                  LL
+  3 |weer                                                         9|z czr                           $0060!" 110              a |eee                              tro0'ect 110)                             2euseM\                   Bunds          Ob
+ | sees p
+ 1       99geee                                                    | sees r
+                                                                  1 s9
+                                                                    |  seze                      '9£0 '101'90
+                                                                                                  10°RC0          "trZ06      + |sezcsp
+                                                                                                                              4| gaseze                    ‘9€0 "101°90
+                                                                                                                                                                10°00         I  206                                        Sniguiea          YN    6
+                                                                                                                                                                                                                                                    —@
+ z       eus ze                                                     sesoe
+                                                                  2 |                            10910"           Lb Lr6      z |wseze                         10910          IF 206                                    Suny Sayeas
+  4 z90s6b                                                         + z90s6.
+                                                                   L ar
+                                                                     |  eoue                     s0'Sc0'e 'L76                4 |20c6r
+                                                                                                                              + | ere eee                    20418000°1990    ¢2206 296                          Jno ONS
+                                                                                                                                                                                                          40n09 Gus                                 9
+                                                                                                                                                                                                                                                    —§
+  1| ereaee
+  4|eszsoe                     lovioze                 ars         Lb _esisoe                                                 4 |zszsoe                                                                    wndino    ‘e6unLy                        ob
+  1|szene                   sro siozaer6                           L 82a re                                                   L |eee                                                                              dung                              &
+  | 88hsre                    COOL             Le Aes              | beawre                                                   +|002 cee                                                                      Assy Gusnoy                            2
+  4 |bore            ——zoz001w2r5                                    869 ve
+                                                                   4 |                                                        b |689 age                     yO 10068°26                                  BusnoH                     10909
++1 Riel y                                      areds,           Bzleem                                                      33/0"                          “ON-Hed             a1eds
+        089 MBH      Wun    Burs ox9y                  ouLeN,            0b MSH         Mun   Burssaney             euneN              O9€ MBH   WUN   Burs onoy                 ouLoy
+FH                                                              i                                                           Fe                                                                            vewransoveg                               oy
+65S     701               740 201P10        + [es vor       $200201'PL0           1| s stor                                  ig Buuds eins aid                OF
+€ Wes6.                   soee0ze 26        ©| eset        10620" zeur6           @ |wes6r                                            Ug buvug                se
+2 viLser                  soeenze      26   z|vis er        sores0         zeae   z |vieser       WO'e o'2e      Le                  wu pO "BUSEM             ey
+4 wzoee                                     4 |y99- 901   9920°401"S00            4 |vezse       ‘¥20 °L01"S00               seu        ASG      CuNeog      —Zy
+$62        506           bc-900 26246       +|926 soe       lor90026'2r6          1 |izosve     lo'roes tre                 WO € raEs/6r              19D     OF
++ so sso e               ev 90 'ze 286      + s
+                                             | cese       20'900'26°2r6           1 |sro sve   20r10 eS Lr6                 WO 2 Le sI65              1805    OF
+2 es1s0e             ze
+                 =e BLO                     z| neue       20-220 20's96           1| 966ore    201005                 466           wu SLO.BUSEM              BE
+2 e200           LO   zZr6                  2 [ewue        \0°22020's96           1 |566 pe     1020025"              Lr6            wu VO 2sEAN              8
+2     e6250€       ——_E0'S0 'Lz0'8S9                                              1 |zene       £0°100¢5'4r6                        WwZO J9USeAN              9
+2     sczs0e                                z |zee                                1 |166re                                         wuSVO.9uSEM                —_9E
+  t|cose                     800101640                      + 408661                                    7800'104        910        +        cos6et        17800'101'940                                                              eH Mes aL
+  L|sogese                   9919 201 S00                    L s e se                                                              4b       soe ese       ‘8910 401'S00                             Suve g                          apeen oe)                     OL
+ ©i |
+    |escoesweeor             soozo us.v6
+                   —co'e00zer6                              ©L e9zeseeor ze                                                       ©1900     eee et996ry     $0 20'$025'296 r00'2        296                         Guuds                      eins eig ce)       89
+  +|o1zoze                   PEL         £040                +        Sire                                                         +        sou           £910C01'S00                                                 jerog Guuweg                                99
+  t|ss0e           ——_cuoL                      eee          1 elor                                                                1          neZor       zoe0'es                           +6                                yoauog wes $9
+  b|
+  b|eee coz
+    ee 28€                                                   betes                             LgLoviwou!e v! pepniouw ee6         4
+                                                                                                                                   4)       e esie eee
+                                                                                                                                            sep             0910601'S00 25246
+                                                                                                                                                           20600                                      22104                 org
+                                                                                                                                                                                                                            yoy BuNeeg
+                                                                                                                                                                                                                                s9.4e9                            PO
+                                                                                                                                                                                                                                                                  9
+ t|
+“4|seezeezz
+   ece                                                |b    s1eecze z99901                        “80000896
+                                                                                      —eto vor's0 ~—|                               soezee
+                                                                                                                                   4|
+                                                                                                                               tees,                      20FOOKC'S96                                 29104                org BuNwog                     x0      2819
+   ate29€
+  t|                                                         L608               902                 zocor ze Ar6                   1)       oerce                                                                    Buy wouanay                                  09
+  | sz6 296                                                  Leak               ze                       POELceset6                1 |sen cce             20010 L5'2r6                                                               wor19e9                      $5
+ z|iwese                                                    2 iwese                                        loo        ze zee       Z|         Weoce                                                                         ssa buveis                            es
+ v |tei ge                                                             lesgoe                              sOBLC      TELS         Zz |beroce                                                                                          Guna hoy 2S
+ | sevoe                                                    ¥ sLioue                                eozscee             cre        y |Siow                                                                                           Suds                  dng    1
+   ozsore
+  t|                                                         4         isgeze                       90COCLE LPS                    4 | 060 ste             €0G10'                  25°96                 HS'LeMLe                                        LIED     Bb
+  1 |eles                   m0ze ire
+                           ro                                  evaeee
+                                                             \ |                                         OBOC          LS
+                                                                                                                      LE           1 |ezocre                so stoze-246                              woe                  1z0z                  13220            Gr
+  L|Wesre                  co woes ir6                      4 | es9see                                           46
+                                                                                                         zo vor Ze                 + |rio sve               soztoze                     2r6      seven                                                   veep    ay
+ 9 Zic
+   |   o                     8220 LoL 210                    2 901
+                                                            9|                                             2500'104     240        9|zecoct               2500101210                                                                                       wa     uy
+Bg CNNHPL              “oNvegoneds                         Ye onworl                                    onwedsieds             yg
+                                                                                                                               |          Onw ePI         “onHeg                    eseds
+   Hi                                                         i                                                                        B                                                                              voneujucueg                                 wou
+ 1                                     3                                                  t_|         660 80r    S001               26
+                                                                                                                                   er                               Aqwas y             19009              WHS    EL
+                                                                                          ‘           She   le    £0 220'20'S96                                               wus   OZ           28uSeVA          BL
+                                             —                                |            veue
+                                                                                          1|                      ——_zozeozo'se6                                              ww    st0s0use7A                    52
+ 4s   Loesre    soezoes         23     +|eeesre       \o'Sto'ze'276                       + |690 sre              LOL10'ZS'            26    (oea)se-(osvie ogese                                1489             aL
+ ‘ v98 901      ‘9S10'901      400     | y9e901      $540.90:           100       |       t v98 GOL              ‘SS4O'901'            100                                                  Buyre s              =SZ
+By Cher        onued        aveds    z “onqwapl   ——“oN-ueg           ved             q “on-wuep]—“ON-teg                          aueds
+ tem | Denomination
+                                                                Spare PartNo.      dent-No.    i
+    1 | Cover Housing                                            1947,66.001.02     368 640   1
+    2 | Housing Assembly                                         947-66 002.03,    407 408    1
+  37 _| Gear intermediate. 21.5                                  1947.67.018.03    345 845    1
+  37 _| Gear intormodiato,  2420 R                              ‘947 67 0180       345 843,   1
+  ‘37 | Gear intermediate, 2030                                 (047.67.018.01      sea       1
+   35 | Output Shan                                             ‘947. 57.013.01    345057     4
+  40 | Gearst 15h                                               ‘347.67 01406      407 360    1
+  40 | Gear 51208                                               947 67.014.05      407 358    1
+   40 | Gear6t30R                                               9476701404         407 356    1
+   “41 | Bearing Revel Reiter                                    (005.101.0022      145 413   1
+   42 | Beanng Bevel Fotior                                      (005.101.0024     233230     1
+  27_|   O-Ring                                                   (001.105.0127     105.571   E
+
+  26_|   Sealing Ring                                            ‘001.107.0007      108 165   1
+  15_|   Dowel Fin                                                (014.101.0073     108 664   2
+
+  36 | Washer 0.10                                               94757 001.01       Er        1
+  ‘36a | Washer 0.15                                              (987.57.001.02    4a901     1
+  ‘366 | Washer 0.20                                             (947 570001 03     44 992    1
+   36 | Waster 0.50                                              947.57.001.04     344 008    1
+
+‘The remaining parts pasitionas are the same as with HBW 260.
+Drawings-Sheet   1
+ RAN ARINE © ZF-HURTH MARINE SpA
+
+“ZF Friedrichshafen
+                 AG       2E Padova SpA                  2E Murthy Marive Spa   2Y do Brasil
+                                                                                         A.
+
+
+D-SNOMS Friedrichshafen   Via Penge.
+                                  48                     ‘ViaS. Andrea          ‘Rua Senador Vergucito 42%
+GERMANY                   1.38030 Casele di Selvazzano   18002 Arco             ‘Cep. 0521-901
+Tel.   (7541)    nm       Padova         ITALY           (Trento) ITALY         Sa    Cactano   Sul - SP NRAZIL
+Fax    (07841)   77400)   Tel.   (049)    8200.31        Tel   (0464) S80.555   Te        Nl)    744-9100
+                          Fax    (089)    ¥200.330       Fax   (O64) 380-348    Fax     (O11)    744.9306
+

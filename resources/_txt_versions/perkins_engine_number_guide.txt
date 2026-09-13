@@ -1,0 +1,471 @@
+Engine Number Guide
+Engines < 2 litre/cylinder (produced post 1974)
+ Engine number guide
+ Example:                                                                               PJ 12345 U 123456P
+        Engine family and type code                                                     PJ                                                 1106D-E66TA
+        Parts list number of SOS order reference number                                 12345
+        Country of manufacture code                                                     U                                                  UK
+        Engine serial number                                                            123456
+        Year of manufacture code                                                        P                                                  2007
+
+
+ Year of manufacture code
+ This code indicates the calendar year of manufacture. The letters I, O, Q, R and Z will not be used.
+
+    A        1974                           L      1984                        Y         1994                         K          2003                      X       2013
+    B        1975                           M      1985                        A         1995                         L          2004                      Y       2014
+    C        1976                           N      1986                        B         1996                         M          2005                      A       2015
+    D        1977                           P      1987                        C         1997                         N          2006                      B       2016
+    E        1978                           S      1988                        D         1998                         P          2007
+    F        1979                           T      1989                        E         1/1/99-31/3/99               R¹/S       2008
+    G        1980                           U      1990                        F         1/4/99-31/12/99              T          2009
+    H        1981                           V      1991                        G         2000                         U          2010
+    J        1982                           W      1992                        H         2001                         V          2011
+    K        1983                           X      1993                        J         2002                         W          2012
+
+
+ Country of manufacture code
+ This code indicates the country in which the basic engine was manufactured.
+   A         Argentina                              H        Group                                L        Italy                                 SA       South Africa
+   B         Brazil²                                HC       China²                               M        Mexico                                T        Turkey
+   C         Australia                              HM       Indonesia                            MX       Mexico                                U        UK²
+   D         Germany                                HK       Iraq                                 N        USA²                                  V        Pakistan
+   E         Spain                                  HU       Uruguay                              P        Poland                                W        Iran
+   F         France                                 J        Japan                                R        China²                                X        Peru
+   G         Greece                                 K        Korea                                S        India                                 Y        Yugoslavia
+
+Where to find your engine number
+ A B             C D E          F
+                                                                                   M                       N O                                        Q
+                                                   J
+
+                                    G
+                                                                                                                                                                     T
+                                    H                                          L
+                                    I                                                                                        P
+                                                                               K
+                                                                                   U
+   R                                    S
+             (Left side view)                           (Rear view)                    (Right side view)                            (V8 top view)                        (1300 top view)
+
+ Engine type                                      Position          Engine type                                    Position       Engine type                                  Position
+  3.152                                                 M           4.318                                             F            Perama/100/400 Series                           O
+  4.108                                                 A           4.41                                              H            Phaser/1000/1100(A/B/C) Series                H or J
+  4.154/200 Series                                      B           6.247                                           C or F         1104D                                           S
+  4.165                                            B or G           6.354                                             D            850 Series                                    D or R
+  4.203                                             J or N          V8.540                                            Q            1204E                                           S
+  4.212/4.248/900 Series                                C           Peregrine/1300 Series                           I or O         1206E                                           R
+  1106D including PK                                    R           V8.640                                            P            1300 Series                                     T
+  4.236                                             C or L          700/800 Series                                    K            1500 Series                                     U
+                                                                                                                                   1600 Series                                     U
+
+Notes
+¹ A number of engines were built with the letter ‘R’ as the year of manufacture code. In the middle of January 2008, the year of manufacture code was changed to the letter ‘S’.
+  If your full engine serial number ends with the letter ‘R’, Perkins Engines Company Limited will recognise the full engine serial number.
+² Represents current manufacturing facilities.
+If the letter ‘R’ appears after the country code this represents a remanufactured engine
+(ie UR = UK remanufactured engine).
+
+
+
+
+Copyright © 2015 Perkins Engines Company Limited, all rights reserved.
+No part of this document maybe reproduced in any forms or by any
+means, without prior written permission of Perkins Engines Company
+Limited. The information in this document is substantially correct at the
+time of printing and may be altered subsequently.
+Publication No. PP3000/05/15
+Engine family and type code - small/medium engines
+A          Phaser/1004 Series       D         1103C Range              HM        403C-17                  N         4.318 Series             TV       6.3724
+AA         1004-4                   DC        1103C-33                 HN        404C-15                  NC        4.318                    TW       6.3544
+AB         1004-4T                  DD        1103C-33T                HP        404C-22                  ND        4.3182                   TX       C6.3544
+AC         1004-4T                  DE        1103C-33TA               HR        404C-22T                           1104D Range              TY       H6.3544
+AD         1004e-4TW                          1103B Range              J         4.203 Series                  2
+                                                                                                          NH /NP    1104D-E44T               TZ       HT6.3544
+AE         Fed. CC                  DF        1103B-33                 JD        4.203                    NJ2/NR    1104D-E44TA              U        700 Series
+AF         1004-40S                 DG        1103B-33T                JE        D4.203                   NK        1104D-44                 UA       704.30
+AG         1004-4                             1103A Range              JF        G4.203                   NL        1104D-44T                UB       704.26
+AH         1004-4T                  DJ        1103A-33                 JG        4.2032                   NM        1104D-44TA               UC       704.30
+            New 1000 Series         DK        1103A-33T                          850 Series               NP        1104D-E44T                        800C Range
+AJ         1004-40                  E         4.108 Series             JR        854E-E34TA               NR        1104D-E44TA              UE       804C-33
+AK         1004-40T                 ED        4.108                              wall flow                P         1106 Range A,C,D         UF       804C-33T
+AL         1004-40TA                E         400F Range               JS        854F-E34T                PJ        1106D-E66TA                       800D Range
+AM         1004-40T                 EG        402F-05                            through flow             PK        1106C-E66TA1             UK       804D-33
+AP         1004-40                  EH        403F-07                  JT        854F-E34T                PP        1106A-70T                UL       804D-33T
+AQ         1004-40T                 EJ        403F-11                            through flow             PR        1106A-70TA               UM       804D-33TA
+AR         1004-42                  EK        403F-15                  JU        854F-E34TA               PT        1106C-70TA               V        1106C Range
+AS         1004-42                  EL        403F-15T                 K         Perama/100 Series        PU        1106D-70TA               VK       1106C-E60TA
+AT         1004-40TA                EN        404F-22                  KA        102.04                   PV        1106C-E70TA              X        V8.540 Series
+B          Prima/500 Series         EP        404F-22T                 KB        103.06                   PW        1106D-E70TA              XA       V8.510
+BA         504-2                    G         4.154/200 Series         KC        103.09                   R         6.247 Series             XB       TV8.510
+BB         504-2T                   GA        4.154                    KD        103.10                   RA        6.247                    XC       V8.540
+           1206 Range               GB        4.135                    KE        103.15                             1104C Range              XE       TV8.540
+
+BK         1206E-E66TA              GC        4.182                    KF        104.19                   RE        1104C-44                          1103D Range
+           wall flow                GD        4.25                     KH        103.13                   RF        1104C-E44                XG       1103D-E33
+
+BL         1206E-E70TTA             GE        4.3                      KL        103.07                   RG        1104C-44T                XH       1103D-E33T
+           wall flow                          400D/A Range             KN        102.05                   RH        1104C-E44T               XJ       1103D-E33TA
+BM         1206F-E70TA              GG        402D-05                  KR        104.22                   RJ        1104C-44TA               XK       1103D-33
+BN         1206F-E70TTA             GH        403D-07                  KS        103.11                   RK        1104C-E44TA              XL       1103D-33T
+C          3.152 Series             GJ        403D-11                  L         4.236 Series                       1104A Range              XM       1103D-33TA
+CA         P3                       GK        403D-15                  LA        4.212                    RR        1104A-44                 Y        Phaser/1006 Series
+CB         3.144                    GL        403D-15T                 LD        4.236                    RS        1104A-44T                YA       1006-6
+CC         P3.144                   GM        404D-15                  LE        G4.236                   RT        1104A-44TA               YB       1006-6T
+CD         3.152                    GN        404D-22                  LF        4.248                    SD        Sabre CC6.68             YC       1006-6T
+CE         D3.152                   GP        404D-22T                 LG        4.2482                   T         6.354 Series             YD       1006e-6T
+CF         G3.152                   GR        404D-22TA                LH        C4.236                   TC        6.354                    YE       Fed. CC
+CG         P3.152                   GS        403D-17                  LJ        T4.236                   TD        H6.354                   YF       1006-60S
+CJ         3.1522                   GT        403A-11                  LM        4.41                     TE        T6.354                            New 1000 Series
+CK         T3.152C                  GU        403A-15                            1204E Range              TF        HT6.354                  YG       1006-60
+CM         3.1524                   GV        404A-22                  MK        1204E-E44TA              TG        6.3541                   YH       1006-60T
+CN         T3.1524                  H         4.165 Series                       wall flow                TH        T6.3541                  YJ       1006-60TA
+           900 Series               HA        4.165                    ML        1204E-E44TA              TJ        6.3542                   YK       1006-60TW
+CR         903-27                             400C Range                         wall flow                TK        C6.3542                  Z        V8.640 Series
+CP         903-27                   HB        402C-05                            1204F Range              TP        T6.3543                  ZA       V8.640
+CS         903-25                   HD        403C-07                  MT        1204F-E44TA              TR        6.372                    ZB       TV8.640
+CT         903-27S                  HH        403C-11                  MU        1204F-E44TTA             TT        TC6.3541
+                                    HL        403C-15                                                     TU        T6.3544
+
+
+
+ A Air to air charge cooling                E    Electronic                              H    Horizontal                            T    Turbocharged
+ C Compensated                              F    Federal emissions                       N    Narrow front end                      U    Unit injection
+ CC Charged cooled                          FF   Federal                                 P    Timing chain                          V    V form
+ D Direct Injection                         G    Gasoline/gas                            S    Spark ignition                        W    Water to air charge cooling
+
+
+Notes
+¹ PK Series engines are derived from the 1106D Range platform but are only Stage II EU 2007 generator sets emissions compliant.
+² Not available from 2014.
+Peterborough products may show a finishing list on the engine plate, eg F1895. It is very important to quote this when spare parts are required.
+Engine family and type code - large engines
+        4006 Range         DGB       4012-46TAG2 (A)              2300 Range          TGF      2206TAG5               WP        1306-E76T
+DIE     4006TESI           DGD       4012-46TAG3 (A)      FGA     2306TAG1            TGH      2206TAG6               WQ        1306-E76TA
+DIF     4006TESI           DGL       4012-46TAG0A         FGB     2306TAG2                     1300 Series            WR        1306-E87T
+                                                                                      W
+DIH     4006TRS            DGM       4012TWG              FGD     2306TAG3                     Peregrine
+                                                                                                                      WS        1306-E87TA
+DIJ     4006TRS            DGK       4012-46TWG2 (A)              2800 Range          WB       1306-8T                          EP pre Jan 2010
+                                                                                                                                IOPU pre June 2010
+DGA     4006TAG1           DGN       4012-46TWG3 (A)      HGA     2806TAG1            WC       1306-8TA
+DGB     4006-23TAG2 (A)    DGV       4012-46TWG4 (A)              (16 litre)                                                    1306A Range
+                                                                                      WD       1306-7T
+DGD     4006-23TAG3 (A)    DGP       4012TEG                                                   pre June 2010          WGD       1306A-E87TAG3
+                                                          HGB     2806TAG2
+DGM     4006TWG            DGR       4012TEG2                     (16 litre)                                          WGE       1306A-E87TAG4
+                                                                                      WD       1306-E87T/TA
+DGP     4006TEG                      4016 Range                                                post June 2010         WGH       1306A-E87TAG6
+                                                          JGA     2806TAG1 (A)
+        4008 Range         DIE       4016TESI                     (18 litre)          WE       1306-7TA                         1500 Series
+DIE     4008TESI           DIF       4016TESI             JGB     2806TAG2 (A)        WF       1306-8T NGD            LGA       1506A/C-E88TAG1
+DIF     4008TESI           DIG       4016E61-TRS                  (18 litre)                                          LGB       1506A/C-E88TAG2
+                                                                                      WG       1306-8TA NGD
+DIH     4008TRS            DIH       4016TRS                                                   pre Jan 2010           LGD       1506A/C-E88TAG3
+                                                          JGD     2806TAG3
+DIJ     4008TRS            DIJ       4016TRS                      (18 litre)                                          LGE       1506A-E88TAG4
+                                                                                      WG       1306C-E87TA
+DGL     4008TAG            DGL       4016TAG                      2500 Range                   post Jan 2010          LGF       1506A-E88TAG5
+DGA     4008TAG (A)        DGA       4016TAG1 (A)         MGA     2506TAG1            WH       1306-9T NGD                      1600 Series
+DGB     4008TAG (A)        DGB       4016TAG2 (A)         MGB     2506TAG2            WJ       1306-9TA NGD           XGA       1606D-E93TAG1
+DGK     4008TWG2           DGK       4016TWG2             MGD     2506TAG3                     1300 Series EDi        XGB       1606D-E93TAG2
+        4012 Range         DGR       4016TEG1/2 (A)       MGE     2506TAG4            WK       1306-E76T              XGD       1606D-E93TAG3
+DIE     4012TESI           DGP       4016-61TRG1 (A)              2206 Range          WL       1306-E76TA             XGE       1606A/D-E93TAG4
+DIF     4012TESI           DGW       4016-61TRG2 (A)      TGB     2206TAG2            WM       1306-E87T              XGF       1606A/D-E93TAG5
+DGA     4012-46TAG1 (A)    DGX       4016-61TRG3 (A)      TGD     2206TAG3            WN       1306-E87TA
+
+
+
+61    Capacity in litres         E       External water circuit         I      Intercooled                     S (SI) Spark ignition
+A     Air to air                 E       Electronic                     M      Marine                          T      Turbocharged
+CHP   Combined heat and power    G       Genset                         R      Remote cooled                   W      Water
+1300 Series (Stafford)
+From January 2010 ElectropaK (EP) and June 2010 Industrial Open Power Unit (IOPU) the engine numbering format for 1300 Series engine range changed to
+bring it into line with 2000 and 4000 Series engines.
+
+ Engine number guide
+ Example:                                                                   W G H F 7004 N 12345 U
+    1300 Series engine                                                      W        Differentiator for customer specific options (Build List number)    7004
+    Generator set application (D for IOPU)                                  G        USA country of origin base engine                                     N
+    Rating (eg TAG6)                                                        H        Unique serial number                                               12345
+    6 cylinders                                                             F        Year of manufacture                                                   U
+
+
+Engine family and type code
+ Build list ID pre January 2010          Build list ID from January 2010          Product type                             Speed
+ 1300 Series EP
+ WS5360                                  WGDF7002                                 1306C-E87TAG3                            1500 rpm
+ WS5361                                  WGEF7003                                 1306C-E87TAG4                            1500 rpm
+ WS5358                                  WGFF7007                                 1306C-E87TAG5                            1500 rpm
+ WS5362                                  WGHF7004                                 1306C-E87TAG6                            1500 rpm
+ WS5359                                  WGDF7008                                 1306C-E87TAG3                            1800 rpm
+ WS5357                                  WGEF7009                                 1306C-E87TAG4                            1800 rpm
+ WS5363                                  WGDF7005                                 1306C-E87TAG3                            1500/1800 rpm
+ WS5364                                  WGEF7006                                 1306C-E87TAG4                            1500/1800 rpm
+
+  Build list ID pre June 2010                Build list ID from June 2010          Product type                            Gross rating kWm @ rpm
+  1300 Series IOPU
+ WR4424                                  WDMF7100                                 1306-E87T                                153.0 @ 2200
+ WP4423                                  WDNF7101                                 1306-E76T                                156.5 @ 2400
+ WR4425                                  WDPF7102                                 1306-E87T                                168.0 @ 2200
+ WS4426                                  WDQF7103                                 1306-E87TA                               186.5 @ 2000
+ WS4427                                  WDRF7104                                 1306-E87TA                               186.5 @ 2200
+ WS4580                                  WDSF7105                                 1306-E87TA                               197.5 @ 2100
+ WS4428                                  WDTF7106                                 1306-E87TA                               197.5 @ 2100
+ WS5093                                  WDUF7107                                 1306-E87TA                               197.5 @ 2200
+ WS5095                                  WDVF7108                                 1306-E87TA                               197.5 @ 2200
+ WS5405                                  WDWF7109                                 1306-E87TA                               223.5 @ 2200
+ WS5404                                  WDXF7110                                 1306-E87TA                               246.0 @ 2000
+
+
+ Engine family and type code
+ Build list ID                               Product type
+  1306A Range
+ WGDF                                    1306A-E87TAG3
+ WGEF                                    1306A-E87TAG4
+ WGHF                                    1306A-E87TAG6
+
+
+
+
+1500 Series (Seguin)
+ Engine number guide
+ Example:                                                                   L G F F 1010 N 12345 U
+    1500 Series engine                                                      L        Differentiator for customer specific options (Build List number)   1010
+    Generator set application                                               G        Country of manufacture                                                N
+    Rating (eg TAG5)                                                        F        Unique serial number                                               12345
+    6 cylinders                                                             F        Year of manufacture                                                   U
+
+
+ Engine family and type code
+ Build list ID                               Product type
+  1500 Series EP
+ LGAF                                    1506A/C-E88TAG1
+ LGBF                                    1506A/C-E88TAG2
+ LGDF                                    1506A/C-E88TAG3
+ LGEF                                    1506A-E88TAG4
+ LGFF                                    1506A-E88TAG5
+1600 Series (Stafford)
+ Engine number guide
+Example:                                                                X G D F 7147 N 12345 W
+      1600 Series engine                                                X        Differentiator for customer specific options (Build List number)     7147
+      Generator set application                                         G        USA country of origin base engine                                          N
+      Rating (eg TAG3)                                                  D        Unique serial number                                                12345
+      6 cylinders                                                       F        Year of manufacture                                                        W
+
+
+ Engine family and type code
+    Build list ID                          Product type
+    1600 Series EP
+    XGAF                                  1606D-E93TAG1
+    XGBF                                  1606D-E93TAG2
+    XGDF                                  1606D-E93TAG3
+    XGEF                                  1606A/D-E93TAG4
+    XGFF                                  1606A/D-E93TAG5
+
+
+
+
+From the 1 January 2008 the engine numbering format for large engines changed. The two numbers used previously to determine the number of cylinders per
+engine, have been replaced by one letter. The following letters will define the number of cylinders:
+l     6 cylinder engine     F will replace 06         l   12 cylinder engine    M will replace 12
+l     8 cylinder engine     H will replace 08         l   16 cylinder engine    R will replace 16
+
+
+
+
+2000 Series Electronic (Seguin from February 2014/Stafford pre February 2014)
+From February 2015 the country of manufacture code changed from ‘U’ to ‘N’.
+
+ Engine number guide
+Example:                                                                T G A F 0019 N 00178 A
+      2000 Series engine                                                T        Engine specification number                                          0019
+      Generator set application                                         G        Country of manufacture                                                     N
+      Rating (eg TAG1)                                                  A        Buiild line number                                                   0178
+      6 cylinders                                                       F        Year of manufacture                                                        A
+
+
+ Engine family and type code                                                   Engine family and type code
+Build list ID pre           Build list ID from                                 Build list ID pre          Build list ID from
+                                                      Product type                                                                    Product type
+January 2009                January 2009                                       January 2008               January 2008
+    2206 range                                                                  2500 range
+    Not applicable           TGBF                     2206TAG2 (13 litre)       MGA06                      MGAF                       2506TAG1 (15 litre)
+    Not applicable           TGDF                     2206TAG3 (13 litre)       MGB06                      MGBF                       2506TAG2 (15 litre)
+    Not applicable           TGFF                     2206TAG4 (13 litre)       MGD06                      MGDF                       2506TAG3 (15 litre)
+    Not applicable           TGHF                     2206TAG5 (13 litre)       MGE06                      MGEF                       2506TAG4 (15 litre)
+
+                                                                                2800 range
+Build list ID pre           Build list ID from
+                                                      Product type
+January 2009                January 2009                                        HGA06                      Not applicable             2806TAG1 (16 litre)
+    2300 range                                                                  HGB06                      Not applicable             2806TAG2 (16 litre)
+    FGA06                    FGAF                     2306TAG1 (14 litre)       JGA06                      JGAF                       2806TAG1 (A) (18 litre)
+    FGB06                    FGBF                     2306TAG2 (14 litre)       JGB06                      JGBF                       2806TAG2 (18 litre)
+    FGD06                    FGDF                     2306TAG3 (14 litre)       JGD06                      JGDF                       2806TAG3 (18 litre)
+4000 Series (Stafford)
+Engine number guide
+Example:                                                             DGB F 0081 U 00017 B
+   4000 Series engine                                                D       Fixed build number (0000 means configured product)                          0081
+   Generator set application                                         G       Country of manufacture                                                          U
+   Rating (eg TAG2)                                                  B       Build line number                                                           0017
+   6 cylinders                                                       F       Year of manufacture                                                             B
+
+
+Engine family and type code - Diesel                                        Engine family and type code - Gas
+Build list ID pre        Build list ID from         Product type            Build list ID pre          Build list ID from                Product type
+January 2008             January 2008                                       January 2008               January 2008
+ 4006 range                                                                  4006 range
+ DGA06                    Not applicable           4006TAG1                 DIE06                       DIEF                             4006TAG1
+ DGB06                    DGBF                     4006/4006-23TAG2 (A)     DIF06                       DIFF                             4006TESI
+ DGD06                    DGDF                     4006/4006-23TAG3 (A)     DIH06                       DGDF                             4006TRS
+ DGM06                    Not applicable           4006TWG                  DIJ06                       Not applicable                   4006TRS
+ DGP06                    Not applicable           4006TEG                   4008 range
+
+ 4008 range                                                                 DIE08                       DIEH                             4008TESI
+
+ DGL08                    DGLH                     4008TAG                  DIF08                       DIFH                             4008TESI
+
+ DGA08                    DGAH                     4008TAG1 (A)             DIH08                       DIHH                             4008TRS
+
+ DGB08                    DGBH                     4008TAG2 (A)             DIJ08                       DIJH                             4008TRS
+
+ DGK08                    Not applicable           4008TWG2                  4012 range
+
+ 4012 range                                                                 DIE12                       DIEM                             4012TESI
+
+ DGL12                    Not applicable           4012TAG                  DIF12                       DIFM                             4012TESI
+
+ DGA12                    DGAM                     4012/4012-46TAG1 (A)      4016 range
+ DGB12                    DGBM                     4012/4012-46TAG2 (A)     DIE16                       DIER                             4016TESI
+ DGD12                    DGDM                     4012-46TAG3 (A)          DIF16                       DIFR                             4016TESI
+ N/A                      DGLM                     4012-46TAG0A             DIG16                       DIGR                             4016E61-TRS
+ DGM12                    Not applicable           4012 TWG                 Not applicable              DIHR                             4016TRS
+                                                                                                        (Build List ID from Jan 2009)
+ DGK12                    DGKM                     4012/4012-46TWG2 (A)
+                                                                            Not applicable              DIJR                             4016TRS
+ DGN12                    DGNM                     4012-46TWG3 (A)                                      (Build List ID from Jan 2009)
+
+ N/A                      DGVM                     4012-46TWG4 (A)
+ DGP12                    Not applicable           4012TEG
+ DGR12                    Not applicable           4012TEG2
+ 4016 range
+ DGL16                    DGLR                     4016TAG
+ DGA16                    DGAR                     4016TAG1 (A)
+ DGB16                    DGBR                     4016TAG2 (A)
+ DGK16                    DGKR                     4016TWG2
+ DGR16                    DGRR                     4016TEG1/2 (A)
+ Not applicable           DGPR                     4016-61TRG1 (A)
+                          (Introduced July 2010)
+
+ Not applicable           DGPR                     4016-61TRG2 (A)         Notes:
+                          Introduced July 2010)                            l A letter ‘A’ after the engine type equals the first evolution of that product, eg
+ Not applicable           DGPR                     4016-61TRG3 (A)           TAG1A
+                          Introduced July 2010)                            l The letters ‘DBB’ in the serial number signify a long engine replacement in a
+                                                                             diesel or gas 4000 Series engine
+2000/3000 Series Mechanical (Shrewsbury)
+Engine number guide
+Example:                                                              SG A 06 0010 U 0001 Y
+    Engine application                                                  SG        Country of manufacture                                                     U
+    Engine family and type code                                          A        Build line number                                                     0001
+    Number of cylinders               06 = 2000 Series, 08/12 = 3000 Series       Year of manufacture                                                        Y
+    Engine specification number                                       0010
+
+
+Engine family and type code
+Family: SA Automotive                  SLB        2000 Series                  Family: SF Forklift                       SGL       TAG
+SAA        300TX                       SLC        3008 Series                  SFA         T1                            SGM       TAG5
+SAB        320MX                       SLD        3012 Series                  SFB         T2                            Family: SH Horizontal
+SAC        335TX                       SLE        3008 Marine                  SFC         TA                            SHA       TWH
+SAE        350E                        SLG        3008 / 3012SI                SFD         TW                            Family: SP Plant
+SAG        375TX                       Family: SI Gas                          Family: SG Generator set                  SPA       T
+SAJ        340TX2                      SIA        SI                           SGA         TAG1A                         SPB       T1
+SAK        380TX2                      SIB        SI Gas Unit                  SGB         TAG2                          SPC       T2
+SAL        410TX2                      SIC        TSI CHP                      SGC         TAG2A                         SPD       TA
+Family: SB Short Block                 SID        TSI Gas Unit                 SGD         TAG3A                         SPE       TAP
+SBA        TX                          SIE        TWSI CHP                     SGE         TAG4                          SPJ       TP
+SBB        2000 Series                 SIF        TWSI Gas Unit                SGF         TG                            SPK       TTA
+SBC        3008 Series                 Family: SM Marine                       SGG         TG1A                          SPL       TTAP
+SBD        3012 Series                 SMA        M600T1                       SGH         TG2A                          SPM       TW
+Family: SL Long Engine                 SMB        M700T1                       SFJ         TTAG                          SPP       TW1
+SLA        TX / Euro 2                 SMC        M800T1                       SGK         TWG2
+
+
+Shrewsbury Product (produced pre 1994)
+Engine number guide
+Example:                                                             8C 27655 U 88900 W
+    Engine family and type code                                        8C         Build line number                                                   88900
+    Engine specification number                                      27655        Year of manufacture                                                        W
+    Country of manufacture                                              U
+
+
+Engine family and type code                                                     Engine type                                                       Position
+8BT, 8CTA, 8DTW                               Eagle                              Eagle/2000 Series                                                     R
+8CTA                                          Eagle TX                           3008 Series                                                           T
+8BT, 8CTA/TTA, 8DTW, 8ESI, 8GTW-H             2000 Series                        3012 Series                                                           S
+4AT, 4BTA, 4ESI                               3008/CV8                           2300/2500/2800 Series                                                W
+4CTi                                          Condor Marine                      4006/4008 Series                                                      U
+6ATA, 6CTW, 6DT, 6ESI                         3012/CV12                          4012/4016 Series                                                   V or X
+
+
+
+                             S
+R                                 T                                                                                              V
+
+                                                                 U
+                                                                                                   X
+W
+
+        (Right side view)               (Left side view)               (Right side view)                  (Left side view)                  (Right side view)
+Asia
+Singapore
+Perkins Engines (Asia Pacific) Pte Ltd
+14 Tractor Road
+Singapore 627973
+Tel: +65 6828 7469
+Fax: +65 6828 7414
+
+China
+Perkins Industrial Power Systems-Shanghai
+20/F, Lei Shing International Plaza,
+1319 West Yan’an Road,
+Shanghai 200050
+China
+Tel: +86-21-22160774
+Fax: +86-21-52136624
+
+
+Americas
+North America
+Perkins Engines Inc
+N4 AC 6160
+PO Box 610
+Mossville, IL 61552-0610, USA
+1-888-PERK-ENG
+Tel: +1 309 578 7364
+Fax: +1 309 578 7329
+
+South America
+Perkins Motores do Brasil Ltda
+Rua Alexandre Dumas
+1711 Edificio Birmann 11 4 Andar
+CEP 04717-004 São Paulo - SP
+Brasil
+Tel: +55 11 2109 2038
+Fax: +55 11 2109 2089
+
+
+
+
+                                                                            Europe, Middle East and Africa
+Copyright © 2015 Perkins Engines Company Limited, all rights reserved.
+No part of this document maybe reproduced in any forms or by any            Perkins Engines Company Limited
+means, without prior written permission of Perkins Engines Company
+Limited. The information in this document is substantially correct at the   Peterborough PE1 5FQ
+time of printing and may be altered subsequently.                           United Kingdom
+Publication No. PP3000/02/15
+                                                                            Telephone +44 (0)1733 583000
+                                                                            Fax +44 (0)1733 582240
+
+                                                                            www.perkins.com
+

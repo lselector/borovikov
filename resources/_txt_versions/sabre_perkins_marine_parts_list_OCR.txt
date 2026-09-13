@@ -1,0 +1,1644 @@
+                                                                                             Unit 1 Castle Street
+
+
+SABRE
+                                                                                     Castlepark Industrial Estate
+                                                                                            Ellon, Aberdeenshire
+                                                                                        AB41 9RF, Scotland, UK
+                                                                                      Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                       Email: sales@sabrepm.com
+                                                                                              Web: sabrepm.com
+
+
+10050           ‘O° RING          11962        SEAL, M14, BONDED       15395   CLIP, PIPE SUPPORT,
+
+10053      ‘O° RING, 3/4" ID (9   11970        SETSCREW, M6 X 25       15396   CLIP, PIPE SUPPORT,
+
+10149    OIL COOLER, EC100 (1     13050       ADAPTOR, 3/8" BSP MA     15398             CLIP
+
+10151    TUBESTACK, 3", EC100     13062       ADAPTOR, 3/8" BSP MA     15400   CLIP, PIPE SUPPORT,
+
+10153     END CAP, 1.1/4" OD,     13066       ADAPTOR, 3/8" BSP MA     15401   CLIP, PIPE SUPPORT,
+
+10161    TUBESTACK, 3", EC120     13080       ADAPTOR, 1/4" BSP MA     15462   PIPE, 1.1/4" RAW WAT
+
+10171           ‘O° RING          13081       ADAPTOR, 1/4" BSP MA     15485   PIPE, 1.1/4" RAW WAT
+
+10179   SPACER, COOLER COUPL      13082       ADAPTOR, 1/4" BSP MA     16120    HOSE, 1.1/4" X 2.1/2
+
+10183    “O° RING (OIL COOLER     13084       ADAPTOR, 1/4" BSP MA     16121    HOSE, 1.1/4" X 4.1/2
+
+11036    BOLT, CENTRE (FUEL F     13085       ADAPTOR, M16 FEMALE      16122    HOSE, 1.3/4" X 2.1/2
+
+11056   GASKET, THERMOSTAT H      13095       ADAPTOR 1/2" NPTF MA     16123    HOSE, 1.3/4" X 3.3/4
+
+11057   ELEMENT, THERMOSTAT       13100       ADAPTOR, 1/2" BSP MA     16125    HOSE, 2" X 1.3/4", R
+
+11060   ‘O° RING, THERMOSTAT      13102       ADAPTOR, 1/2" BSP MA     16126    HOSE, 1.3/4" X 90 DE
+
+11062    CAPSCREW, M10 X 40,      13110       ADAPTOR, 1/2" BSP MA     16127    HOSE, 2" X 1.1/4", R
+
+11066    END CAP, WITH DRAIN      13111       ADAPTOR, 1/2" BSP MA     16128    HOSE, 1.3/4" X 1.1/4
+
+11068   SCREW, END COVER (SE      13150       ADAPTOR, 3/4" BSP MA     16131     HOSE, 3/4" X 2.1/2"
+
+11069   SCREW, CAM, RAW WATE      13170       ADAPTOR, 1" BSP MALE     16132    HOSE, 1.1/4" X 90 DE
+
+11070   CAM, RAW WATER PUMP       13184       ADAPTOR, 7/8" UNC MA     16140     HOSE, 5°1.D X 2.5" (
+
+11074   NUT, RAW WATER PUMP       13745        HOSE END, 1/4" BSP F    16143    HOSE, 1.3/4" X 1.1/4
+
+11083     HOUSING, BEARING        13750        HOSE, 3/8" ID, 1 WIR    16146    HOSE, 1.1/4" X 8" (S
+
+11090   SHAFT, RAW WATER PUM      13760        HOSE, 1/2" 1D, 1 WIR    16148    HOSE, 1.1/4" X 45 DE
+
+11094    PUMP, 1" BSP, RAW WA     13780        HOSE END, 1/2" BSP F    16149    HOSE, 1.1/4" PIPE CL
+
+11095   SEAL ASSEMBLY, SHAFT      13790        HOSE END, 3/8" BSP F    16150    CAP, BLANKING, 2" X
+
+11164    CAPSCREW, M6 X 30, S     13791        HOSE END, 3/8" BSP F    16152     HOSE, 2" X 1.3/4", 9
+
+11171    HOUSING, EC100, OIL      13800        HOSE END, 1/2" BSP F    16153    HOSE, 1.3/4" X 1.1/2
+
+11175      RING, RETAINING        15010        SERVICE KIT, 1" RAW     16154   CAP, BLANKING, 1.5/8
+
+11589   CAM, RAW WATER PUMP       15011        SERVICE KIT, 3/4" RA    16155    HOSE, 1.1/2" X 1.1/4
+
+11611    HOSE ASSEMBLY (3/8,      15012      WEARPLATE (JABSCO 3/      16161   BELLOWS, EXHAUST, 5"
+
+11623      COLLAR, THRUST         15013       END COVER (JABSCO 3/     16163    HOSE, 2" X 2.1/2" (S
+
+11629      SEAL, SPLIT RING       15014      WEARPLATE (JABSCO 1"      16166    HOSE, 1.1/4" X 90 DE
+
+11632    HOSE ASSEMBLY (3/8,      15015       END COVER (JABSCO 1"     17034   PIPE, INJECTION PUMP
+
+11635   END COVER, WITH DRAI      15017      GEARWHEEL (JABSCO PU      17048   TURBOCHARGER (330)
+
+11637           ‘O° RING          15019       GASKET, END COVER (J     17049    HOSE, 1.1/4" X 90 DE
+
+11638         TUBESTACK           15021       IMPELLER (JABSCO 1")     17050     NUT, 1/4" OD PIPE
+
+11728    SETSCREW, M12 X 25       15022       IMPELLER (JABSCO 3/4     17051    OLIVE, 1/4" OD PIPE
+
+11800     HOSE, 3/8" ID, TEXT     15023        GASKET, END COVER       17064   PIPE, 1.1/4" FLANGED
+
+11855    ADAPTOR, 1/4" BSP MA     15071       ELBOW, 1" BSPT MALE      17085   HOSE ASSEMBLY (3/8,
+
+11858    HOSE ASSEMBLY (1/4,      15074        SOCKET, BRASS, 1/4"     17086   PIPE, OIL DRAIN, TUR
+
+11880   HOOD, SWITCH, WATERP      15228        PIPE, 1.1/4" FLANGED    17101    PIPE, 3/4"S.S INTER
+
+11884   HOLDER, LAMP, RED LE      15229        PIPE, 1.1/4" FLANGED    17113    “O° RING, 2.48" ID X
+
+11885   HOLDER, LAMP, YELLOW      15300        PIPE, 1.3/4", MANIFO    17114    OIL COOLER, EC120
+
+11886     BULB, 12V, 1.2W (SIG    15334       (FLANGE, BRASS, STUB     17115   HOUSING, OIL COOLER,
+
+11887     BULB, 24V, 1.2W (SIG    15373         PIPE, 1.1/4" S.S. RE   17166   SETSCREW, M12 X 35
+
+11893     BOLT, 1/2" UNF X 6"     15378         PIPE, 1.1/4" S.S. RE   17206   COUPLING, FLEXIBLE,
+
+11907    TAB HOUSING (180940-     15381       PIPE, REMOTE CLR TO      17225   HOSE ASSEMBLY (3/8,
+
+11924    PULLEY, 125MM, SINGL     15385         TIE, 9MM X 275MM       17237   SWITCH, SINGLE POLE,
+
+
+
+
+                                   Perkins Sabre Marine Parts List
+                                     Contact us today for a quote.
+                                                                                           Unit 1 Castle Street
+
+
+SABRE
+                                                                                   Castlepark Industrial Estate
+                                                                                          Ellon, Aberdeenshire
+                                  | SS ae                                             AB41 9RF, Scotland, UK
+                                                                                    Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                     Email: sales@sabrepm.com
+                                                                                            Web: sabrepm.com
+
+
+17294   GASKET, TURBOCHARGER     18775      BELT, ALTERNATOR (EJ     19696   PIVOT, CONTROL CABLE
+
+17320   GASKET, TURBOCHARGER     18788      CLAMP, VEE BAND (LEH     19720   AUDIBLE WARNING DEVI
+
+17340   ELEMENT, AIR CLEANER     18789      GASKET, STEEL, EXHAU     19734   DAMPER DRIVE PLATE (
+
+17361     STUD, M8 X 36, S.S.    18791      ELBOW 1" BSPT MALE X     19738    SOLENOID, STOP, 24V
+
+17465   THERMOSTAT ASSEMBLY      18806      WASHER, M6, FLAT (BR     19739    RELAY, 12V (LEHMAN N
+
+17505     MANIFOLD, EXHAUST      18876       OLIVE, 10MM OD PIPE     19740    RELAY, 24V (LEHMAN N
+
+17506    PIPE, DRAIN WITH FLA    18891       PIPE, 1.1/4" FLANGED    19741   OIL COOLER (LEHMAN N
+
+17508    SETSCREW, M8 X 25, S    18948       HOSE ASSEMBLY (1/2,     19744   SWITCH, PUSH BUTTON
+
+17538   IMPELLER, COMPRESSOR     19002      ADAPTOR, 3/8" BSP MA     19745    SWITCH, SINGLE POLE
+
+17547   BRACKET, PIPE SUPPOR     19009       NUT, M5, SELF LOCKIN    19747    HOSE, 1" 1D, MOULDED
+
+17582     PIPE, 1.1/4" S.S. WA   19061           AIR CLEANER         19764   CONNECTION KIT, GEAR
+
+17617    ADJUSTER ARM (RAS)      19062      ELEMENT, AIR CLEANER     19793   TACHOMETER 0-4000 LE
+
+17658   COMPLETE ON BOARD SP     19233      SCREW, END COVER, SE     19799   POSITIVE LOCK RECEPT
+
+17929       BOLT, M16 X 50       19234       GASKET, END COVER       19820    STARTER, 24V, S115-2
+
+17954    ADAPTOR 3/8" BSP MAL    19244           SEAL, SPLINE        19845   ADAPTOR, CONDUIT, 25
+
+18013   TUBESTACK, INTERCOOL     19268      PUMP, 1" BSP, RAW WA     19848   MOUNT, ENCLOSURE BOX
+
+18014   INTERCOOLER ASSEMBLY     19269      MOUNT, FLEXIBLE, ENG     19849   LOOM, ENGINE WIRING,
+
+18015   INTERCOOLER ASSEMBLY     19272     SHAFT, RAW WATER PUM      19852   BRACKET, CONTROL BOX
+
+18046         RELAY, 12V         19279      ALTERNATOR, 24V, A12     19863       BULB, RED, 24V
+
+18047         RELAY, 24V         19302      MANIFOLD, EXHAUST 35     19875   MOUNT, FLEXIBLE, ENG
+
+18060    SPACER, 11MM ID X 19    19377      WASHER, M20, SPRING      19879   ADAPTOR, EXHAUST, TU
+
+18068   GEARBOX, MPM IRM 220     19394      PLUG, BLANKING, 10MM     19880   CONNECTOR, EXHAUST,
+
+18153          ‘O° RING          19472      CLAMP, VEE BAND (LEH     19881   EXHAUST OUTLET, WATE
+
+18154    OIL COOLER & FILTER,    19570       SCREW, M5 X 12, PAN     19884   JACKET, THERMAL, EXH
+
+18155    OIL COOLER & FILTER,    19579       NUT, M6, SELF LOCKIN    19898     HOSE, 1.3/4" X 1.3/8
+
+18158    HOUSING, ENGINE OIL     19582      FILTER, FUEL SEDIMEN     19899    HOSE, SUCTION, 25MM
+
+18180    MOUNT, FLEXIBLE, ENG    19600      BELT (LEHMAN NO. 2B2     19901   OIL COOLER (LEHMAN N
+
+18194    MOUNT, FLEXIBLE, ENG    19607       PUMP, 3/4" BSP, RAW     19904     HOSE, 1.3/4" X 90 DE
+
+18357     TIE, 4.8MM X 190MM     19609        HOSE CLIP, SIZE 35,    19917   EXHAUST ELBOW, DRY,
+
+18386    WASHER, M8, FLAT, BR    19610           HOSE, 1" X 3"       19933   HOSE, WIRE REINFORCE
+
+18390       NUT, M8, BRASS       19617        HOSE, 1.3/4" ID, MET   19941   HOSE, WIRE REINFORCE
+
+18408    TRANSDUCER, TACHO       19633     HEADER TANK ASSEMBLY      19945   HOSE, WIRE REINFORCE
+
+18465   LOOM, INTERCONNECTIN     19634      CAP, PRESSURE, 7 PSI     19958    CLIP, PIPE SUPPORT,
+
+18471   GASKET, CYLINDER HEA     19639     HOSE ASSEMBLY, HEADE      19959    CLIP, PIPE SUPPORT,
+
+18520   HEADER TANK/HEAT EXC     19640       HOSE, 1"X 180 DEGE      20110    DAMPER DRIVE PLATE,
+
+18591    RING, PISTON, UPPER     19643      GASKET, INNER, INLET     20300   COUPLING, PROP SHAFT
+
+18592    RING, PISTON, LOWER     19644      GASKET, AIR CLEANER      20310    COUPLING, FLEXIBLE,
+
+18593    RING, PISTON, OIL CO    19646      ELEMENT, AIR CLEANER     20311   COUPLING, GEARBOX (R
+
+18607    ADAPTOR, 1/4" BSP MA    19650      FILTER, CARTRIDGE, O     20312    COUPLING, FLEXIBLE,
+
+18621    HOSE END 1/4" BSP FE    19651     HOSE ASSEMBLY (LEHMA      20313    COUPLING, FLEXIBLE,
+
+18622    HOSE END, 1/4" BSP F    19653     HOSE ASSEMBLY (LEHMA      21077   DAMPER DRIVE PLATE (
+
+18706         INJECTOR           19654      BRACKET, OIL COOLER      21078   ADAPTOR HOUSING, PRM
+
+18758    PIPE, LIFT PUMP TO F    19655      BRACKET, OIL COOLER      21080   COUPLING, PROP SHAFT
+
+18760     HOSE CLIP, SIZE 50,    19656      ADAPTOR, 1/2" BSP MA     26164   BELT (LEHMAN NO 2B24
+
+18761    LIFT PUMP, FUEL (A.C    19687      GASKET, END CAP (LEH     26169   SPRING (LEHMAN NO 2P
+
+18773     NOZZLE ASSEMBLY        19688      ANODE, ZINC, ASSEMBL     26171   CONNECTOR, 3/4" BSPT
+
+
+
+
+                                  Perkins Sabre Marine Parts List
+                                   Contact us today for a quote.
+                                                                                                Unit 1 Castle Street
+
+
+SABRE
+                                                                                        Castlepark Industrial Estate
+                                                                                               Ellon, Aberdeenshire
+                                    | SS ae                                                AB41 9RF, Scotland, UK
+                                                                                         Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                          Email: sales@sabrepm.com
+                                                                                                 Web: sabrepm.com
+
+
+26192   PRINTED CIRCUIT BOAR       2/078       STUD AND NUT KIT, FL    33015   ADAPTOR, 1/4" BSP MA
+
+26201    SCREW, M3 X 16, SLOT      27091       GEARBOX, PRM 750D, 2    33016    HOSE ASSEMBLY (3/8,
+
+26213    FUSE, 5 AMP,INSTRUM       27100       GEARBOX, PRM 1000D,     33017    PIPE, 1.1/4", RAW WA
+
+26240    HOUSING, 2 WAY, POS!      27105       DAMPER DRIVE PLATE,     33018   STRAINER, RAW WATER,
+
+26241    MOUNT, FLEXIBLE, ENG      27113        CLIP, PIPE SUPPORT,    33019     HOSE, 1.3/4" X 90 DE
+
+26263   CONNECTOR,
+             TAB, FAST             27121       MOUNT, FLEXIBLE, ENG    33020     PIPE, 1.1/4", HEAT E
+
+26264   BRACKET,
+           GEAR CONTRO             27122       STUD AND NUT KIT, FL    33021    *O’ RING (RAW WATER
+
+26302    STARTER,
+             12V, S115-1           27125       TAP, DRAIN, METAL (S    33024   BRACKET,
+                                                                                  HEAT EXCHAN
+
+26316    ELBOW, EXHAUST (SHIL      27127      WARNING LIGHT, LOW O     33027   GASKET, MANIFOLD, OU
+
+26319           ‘O° RING           27128       WARNING LIGHT, HIGH     33029    NUT, M10, EXTENDED,
+
+26363   HEATSHIELD,    TURBOCHA    27129      WARNING LIGHT, CHARG     33030   CONNECTOR, LIQUID TI
+
+26379      HOSE, 1.3/4" X 3.1/4    27169       INSULATOR, TERMINAL,    33035   BRACKET,
+                                                                                  REAR LIFTIN
+
+26442    HOSE, SUCTION, WIRE       27170       INSULATOR, TERMINAL,    33036    SHIELD, WASTEGATE
+
+26481         HOSE,
+                1" X 2"            27175       ALTERNATOR, 24V-110     33037   HEATSHIELD,        TURBOCHA
+
+26489    DAMPER DRIVE PLATE,       2/177       DAMPER DRIVE PLATE,     33038    PIPE, OIL FEED,
+                                                                                             TURB
+
+26501    HOSE ASSEMBLY (3/8,       27268       GEARBOX, PRM 7500, 1    33040    PIPE, OIL DRAIN, TUR
+
+26530    PAINT, PERKINS PREST      27309        CAP, 31.8 MM, BLACK    33041    PIPE, DRAIN, WITH FL
+
+26531    PAINT, TOUCH UP, PER      30004       TUBE, NYLON, 5/16"0D    33043    CAPSCREW, M12 X 20,
+
+26620    HOSE ASSEMBLY (1/4,       30006      RESERVOIR, THERMOSTA     33044    PIPE,
+                                                                                 FUEL, LIFT PUM
+
+26642    BAG, POLYTHENE
+                    SELF           30016      PIPE ASSEMBLY, THERM     33045   PIPE,     BOOST CONTROL
+
+26663    GASKET KIT, ENGINE O      30030        OLIVE, 3/16" OD PIPE   33046    PIPE,     THERMOSTART
+
+26667     CLIP,
+           PIPE SUPPORT,           30031        NUT, MALE, 3/16" OD    33049   DUCT, INTERCOOLER
+                                                                                              TO
+
+26685   LOOM, INTERCONNECTIN       30033       ADAPTOR, 3/16" ENOTS    33051   HOUSING,      INTERCOOLER
+
+26686   AIR CLEANER/SILENCER       30066       ELBOW, STEM, 3/16" O    33053       BUSH,       RUBBER
+
+26702     HOSE CLIP,
+                 SIZE 25,          30070         OLIVE, 3/8" (ENOTS)   33054     HOSE,
+                                                                                  1" MOULDED
+
+26756   BRACKET, GEAR CONTRO       30085        PLUG, 1/8" BSPT, SOC   33055     Pipe,1"OD,crankcase
+
+26774     STUD, M16, FLEXIBLE      30086        PLUG, 1/8" NPTF, SOC   33058   CONNECTOR, EXHAUST,
+
+26787    MOUNT, FLEXIBLE, MET      30088        PLUG, 1/4" NPTF, SOC   33059    SPACER,
+                                                                                   11MM ID X 14
+
+26794   BELLOWS ASSEMBLY, EX       30089        PLUG, 1/4" BSPT (STE   33061   HOUSING, AIR CLEANER
+
+26800    FLANGE, TABLE D 3" NO     30117       WASHER, 8MM (FUEL PI    33062   ELEMENT, AIR CLEANER
+
+26804    GASKET, EXHAUST, 4"       30118       NUT, TUBING, 8MM BUN    33063   SUPPORT, AIR CLEANER
+
+26807   FLANGE EXHAUST TABLE       30119        SLEEVE, 5/16" ID RUB   33064    HOSE, TURBO         INTAKE
+
+26821    HOSE ASSEMBLY (3/8,       30120        OLIVE, 5/16" OD PIPE   33065   GASKET, MANIFOLD, IN
+
+26824      HOSE ASSEMBLY           30121         NUT, 5/16" OD PIPE    33066   CIRCLIP,      THERMOSTAT
+
+26832   HOSE ASSEMBLY,
+                  2METR            30150        NUT, FEMALE, 3/16" O   33067   SPACER, THERMOSTAT
+
+26833   HOSE ASSEMBLY,1M,SED       30152        TUBING, PTFE 1/8" ID   33068      TURBOCHARGER
+
+26834    HOSE ASSEMBLY (1/2,       31000        HOSE, 1 METRE X 5/1    33069   FLANGE, TURBO OIL FE
+
+26835   THERMOSTART,
+                 24V DE            33005        HOSE, 3/4" X 2" (TUR   33070   FLANGE, SECURING, IN
+
+26871     HOSE,
+           1/4" ID X 0.87          33006       ADAPTOR, 3/8" BSP MA    33073   BRACKET, REAR MOUNTI
+
+26874   ALTERNATOR, MOTOROLA       33008       ‘O° RING (INTERCOOLE    33074    SPACER, 10.5MM ID X
+
+26901     TAP, BALL VALVE,
+                        3/8        33009        PIPE, 1.3/4", MANIFO   33076   BRACKET, UPPER, HEAT
+
+26902    CONNECTOR,
+              3/8" BSPT            33010      THERMOSTAT, 80 DEG C     33077      HOSE, 2" X 2.9/16"
+
+26933    SCREW, M4 X 16, PAN       33011      HOUSING, THERMOSTAT      33078   WASHER, M8, FLAT (LA
+
+27023   NYLON CONDUIT, HARNE       33012       BRACKET, SUPPORT (PI    33080   BRACKET, MOUNTING, G
+
+27065     GASKET, MANIFOLD         33013        KIT, PIPE, 3 WAY CAS   33081    STUD, M10 X 24 NOMIN
+
+27077    MOUNT, FLEXIBLE,    ENG   33014         HOSE, 1" X 90 DEG     33083    CAPSCREW, M10 X 25,
+
+
+
+
+                                    Perkins Sabre Marine Parts List
+                                      Contact us today for a quote.
+                                                                                               Unit 1 Castle Street
+
+
+SABRE
+                                                                                       Castlepark Industrial Estate
+                                                                                              Ellon, Aberdeenshire
+                                                                                          AB41 9RF, Scotland, UK
+                                                                                        Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                         Email: sales@sabrepm.com
+                                                                                                Web: sabrepm.com
+
+
+33084    “O* RING (SUMP ADAPT       33180      LOOM, INTERCONNECTIN      33332    BRACKET, AUXILIARY A
+
+33085    STUD, M16 X 30 NOMIN       33181            *Y HARNESS          33333         BELT (A43)
+
+33087     HOSE, 2" X 1.3/4", R      33182        HOSE ASSEMBLY (1/2,     33334         BELT (A49)
+
+33088     HOSE, 1.3/4" X 2.1/2      33187            SEAL, SHAFT         33336    HOSE ASSEMBLY (1/2,
+
+33089     HOSE, 2" X 1.3/4", R      33188      BEARING, RAW WATER P      33337    HOSE ASSEMBLY (1/2,
+
+33090         HOSE, 3" X 2.1/2"     33189          RING, RETAINING       33338    ADPT PLATE, SAE 3 H/
+
+33091     HOSE, 1.1/2" X 2.3/8      33190      GEAR, RAW WATER PUMP      33341     PIPE, 1.1/4", WATER
+
+33092          HOSE,
+                 2” X 3"            33191      SHAFT, RAW WATER PUM      33342    BELT GUARD, AUXILIAR
+
+33093     HOSE, 2.1/8" X 2.1/2      33192       SERVICE KIT, RAW WAT     33343    HOSE ASSEMBLY (3/8,
+
+33096     HOSE,
+           2" X 1.1/4", R           33194     THERMOSTART DROPPING       33344    HOSE ASSEMBLY (3/8,
+
+33099   GASKET, EXHAUST, MAN        33202         BOLT, M8 X 35, S.S.    33345   BRACKET, SUPPORT (TU
+
+33101    NUT, M8, EXTENDED
+                         (S         33204      BELT GUARD/LOOM COVE      33346    PIPE, DRAIN, WITH FL
+
+33102   ELBOW, BLEED,      HEADER   33206      FLANGE, WELD, EXHAUS      33347     PIPE, 1.1/4", GEARBO
+
+33104    FLANGE, BY-PASS AND        33210       PLUG, BLANKING, 9.5M     33348     PIPE, 1.1/4", GEARBO
+
+33106   ELBOW, BLEED,      HEADER   33212       BADGE, HEADER TANK,      33349     PIPE, 1.1/4", HEAT E
+
+33107    PIPE, 1.3/4"    FLANGED    33214       CLAMPING RING, TAPPE     33350   BRACKET, MOUNTING, G
+
+33110     HOSE, 1/4" ID X 0.13      33215       FLANGE, FILLER NECK      33351   OIL COOLER, GEARBOX
+
+33111     HOSE,
+           1/4" ID X 0.86           33216       ‘O°’ RING (HEADER TAN    33352   CLAMP, GEARBOX OIL C
+
+33118   SHIELD, WASTEGATE AC        33217        NECK, FILLER (PLATIN    33353     HOSE, 1.1/4" X 90 DE
+
+33119     HOSE,
+           2" X 1.1/4", R           33224        ELBOW, 1.1/2" BSPT M    33354     PIPE, 1.1/4", INTERC
+
+33120   ADAPTOR, POWER TAKE-        33225       CONNECTOR, 1.1/2" BS     33355    ELBOW, BLEED. (OLD
+
+33121    PIPE, FLANGED, EXHAU       33227       SCREW, M4 X 16, CHEE     33356     HOSE, 1/4" ID X 0.43
+
+33124   EXHAUST BELLOWS ASSE        33228       SCREW, M4 X 25, RECE     33357    HOSE ASSEMBLY (3/8,
+
+33125     HOSE, 1.1/4" X 45 DE      33237         PIPE, 5/16" OD X 20    33358    HOSE ASSEMBLY (3/8,
+
+33126     BOLT, M12 X 45 (10.9      33239      GEARBOX, HURTH HSW 6      33359     HOSE, 1" MOULDED
+
+33128    PUMP,
+          1" BSP, BELT D            33241       ADAPTOR PLATE, SAE 3     33360   HEADER TANK ASSEMBLY
+
+33129    PUMP,
+          1" BSP, BELT D            33242       DAMPER DRIVE PLATE,      33362   GEARBOX, HURTH HSW 6
+
+33130    PUMP,
+          1.5" BSP, BELT            33244         MOUNT, FLEXIBLE        33365    BADGE, HEADER TANK,
+
+33131    PUMP,
+          1.5" BSP, BELT            33258        PLUG, BLANKING, 1.1/    33371   HOSE, GEARBOX OIL CO
+
+33132    PULLEY, 125MM, TRIPL       33277      ENGINE TURNING DEVIC      33372   HOSE, RAW WATER PUMP
+
+33133    BUSH, TAPER LOCK, 2"       33279        HOSE ASSEMBLY (3/8,     33373   BRACKET, LOWER, HEAT
+
+33136   COMPLETE ON BOARD SP        33281      ELEMENT, ENGINE BREA      33375    PIPE, 1" OD, CRANKCA
+
+33137    SHIM, ADJUSTMENT, BI       33285         PIPE, 1.1/4", INTERC   33376    PLATE, SECURING, DIP
+
+33138     HOSE, 2.1/8" X 1.1/4      33286        PIPE, 1.1/4", GEARBO    33377     BRACKET, SUPPORT
+
+33141    ADAPTOR,
+            1/2" NPTF M             33314        BOLT, 3/8" UNF X 1.1    33378         GROMMET
+
+33142     HOSE, 1.1/4" X 2.1/2      33315        HOSE ASSEMBLY (3/8,     33383    HOSE ASSEMBLY (3/8,
+
+33143   OIL    COOLER,   GEARBOX    33317      BRACKET, GEAR CONTRO      33384    HOSE ASSEMBLY (3/8,
+
+33144     PIPE, 1.1/4", RAW WA      33321      GEARBOX, HURTH HSW 6      33391    CLIP, PIPE SUPPORT,
+
+33145     PIPE, 1.1/4", GEARBO      33323        HOSE CLIP, SIZE 100,    33392    PIPE, THERMOSTART
+
+33147     PIPE, 1.1/4", INTERC      33324        HOSE, 1" ID X90 DEG     33415   COVER, CYLINDER HEAD
+
+33149   SENDER, TEMPERATURE,        33325         PIPE, 1.1/4", S.S. K   33421     HOSE, 1.3/4" X 2.1/8
+
+33150    RESISTOR, DROPPING,        33326         PIPE, 1"S.S. 3 WAY,    33422   BRACKET, THERMOSTART
+
+33173    CAPSCREW, M6 X 10, S       33327        PLUG, BLANKING, 1.3/    33423    RESISTOR, DROPPING,
+
+33175   TUBESTACK,
+             HEAT EXCH              33329             BELT (A47)         33426   COMPLETE ON BOARD SP
+
+33177   END CAP (BLANKING WI        33330       INLET DUCT, NATURALL     33427    HOSE ASSEMBLY (3/8,
+
+33179   LOOM, INTERCONNECTIN        33331       ELEMENT, AIR CLEANER     33428    HOSE ASSEMBLY (3/8,
+
+
+
+                                     Perkins Sabre Marine Parts List
+                                       Contact us today for a quote.
+                                                                                                   Unit 1 Castle Street
+
+
+SABRE
+                                                                                           Castlepark Industrial Estate
+                                                                                                  Ellon, Aberdeenshire
+                                         | SS ae                                              AB41 9RF, Scotland, UK
+                                                                                            Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                             Email: sales@sabrepm.com
+                                                                                                    Web: sabrepm.com
+
+
+33429   DAMPER DRIVE PLATE (            33542       MANIFOLD, EXHAUST (4     33691     HOSE, 3/8" ID X 0.40
+
+33431   ADAPTOR HOUSING, PRM            33546       BRACKET, UPPER, BELT     33693   JACKET, THERMAL, EXH
+
+33432   EXHAUST ELBOW, HIGH             33548      GASKET, EXHAUST, TUR      33694    JACKET, THERMAL, 90
+
+33434     GASKET, EXHAUST               33550      AIR CLEANER ASSEMBLY      33696   ‘O° RING, TURBOCHARG
+
+33435   EXHAUST BELLOWS ASSE            33551        PIPE, 1.3/4", MANIFO    33701     PIPE, 1.1/4", INTERC
+
+33437   EXHAUST CONNECTOR, 9            33552       HOSE, BY-PASS, FRESH     33702    PIPE, 1.1/4", GEARBO
+
+33439   FLANGE, EXHAUST, WEL            33553       FLANGE, BY-PASS, FRE     33706   EXHAUST OUTLET, WATE
+
+33441   TUBE, EXTENDED DIPST            33559       INLET DUCT, TURBO TO     33708    ADAPTOR, 3/8" BSPT M
+
+33442    SPACER, 10.5MM ID X            33560       HOSE, AIR INLET DUCT     33709    ELBOW, IRON, 3/8" BS
+
+33443   HOSE, WIRE REINFORCE            33563       MANIFOLD, EXHAUST, C     33710    SOCKET, RELAY, WITH
+
+33447    HOSE ASSEMBLY (1/2,            33564      BRACKET, SUPPORT, EX      33713    PIPE, INJECTOR, CYL
+
+33450   EXHAUST OUTLET, MANI            33565      BRACKET, SUPPORT, MA      33717   DRAIN MANIFOLD ASSEM
+
+33462      HOSE, 5/8"   X 2.1/4"        33567      HEATSHIELD, TURBOCHA      33718    PIPE, DRAIN MANIFOLD
+
+33463    HOSE CLIP, SIZE 8-16           33568      PAINT, AEROSOL SPRAY      33719   ALARM TANK ASSEMBLY
+
+33464     HOSE, 3/8" ID X 0.48          33573      EXHAUST OUTLET, WATE      33724     PIPE KIT, FUEL INJ.
+
+33467    HOSE, 1" X 5/8" REDU           33574       DAMPER DRIVE PLATE,      33745   PLUG, BLANKING, ROCK
+
+33473    INSTALLATION DATA, P           33578        HOSE, 1.3/4" X 90 DE    33746   HEADER TANK ASSEMBLY
+
+33487   BRACKET, MOUNTING, A            33585          TUBE, DIPSTICK        33761   WASHER, SEAL, COPPER
+
+33489    SPACER, 8.5MM ID X 1           33586      JACKET, THERMAL, WAT      33762    MOUNTING KIT, ALARM
+
+33492    HOSE ASSEMBLY (3/8,            33587       JACKET, THERMAL, EXH     33771    PIPE, 3 WAY CASTING,
+
+33494    HOSE ASSEMBLY (3/8,            33588       JACKET, THERMAL, EXH     33773    DAMPER DRIVE PLATE,
+
+33495   LOOM, ENGINE WIRING,            33589       DAMPER DRIVE PLATE,      33774   BONDING WIRE, RAW WA
+
+33496   BRACKET, MOUNTING, L            33591       SPRING, SECURING, TH     33777    WASHER, M6, SPRING,
+
+33501   HOSE, RAW WATER PUMP            33654      ADAPTOR, WATER OUTLE      33779   BONDING WIRE, RAW WA
+
+33502     BRACKET, SUPPORT              33655         HOSE, 1/4" ID X 0.11   33781   FILTER ELEMENT, CHAN
+
+33503     PIPE, 1.1/4", R/W PU          33658       TURBOCHARGER (6TG)       33790    SPACER, 9MM ID X 15M
+
+33504     HOSE, 1.1/4" X 90 DE          33660        PIPE, DRAIN, WITH FL    33794     HOSE, 1/4" ID X 0.14
+
+33505    SPACER, OIL FILTER H           33661        PIPE, OIL DRAIN, TUR    33797   HOUSING, AIR CLEANER
+
+33508   BRACKET, MOUNTING, H            33662        PIPE, DRAIN, WITH FL    33803     PIPE, 1.3/4", MANIFO
+
+33510     HOSE, 1.1/4" X 180 D          33663       ELBOW, INLET HOSE TO     33808     STUD, 1/4" UNF X 5"
+
+33513    PIPE, FUEL, LEAK OFF           33664       ELBOW, AIR CLEANER T     33809   TURBOCHARGER(265/300
+
+33514    PIPE, FUEL, SEDIMENT           33669        PIPE, FUEL, LIFT PUM    33810     HEAT EXCHANGER
+
+33517    PIPE, 3 WAY CASTING,           33670      BRACKET, SUPPORT, FU      33811   BRACKET, LOWER, HEAT
+
+33520    ADAPTOR, 1/4" BSP MA           33671      BRACKET, FRONT MOUNT      33812   BRACKET, UPPER, HEAT
+
+33521    HOSE, 28MM X 22MM, 9           33674        PIPE, OIL FEED, TURB    33813   BRACKET, HEAT EXCHAN
+
+33522    HOSE, 28MM X 16MM, 9           33675         HOSE, 2" X 1.3/4", 1   33816   PIPE, THERMOSTART, E
+
+33523    PIPE, 5/8", THERMOST           33677        PIPE, FUEL, FILTERS     33818    PIPE, FUEL RETURN, |
+
+33525    ADAPTOR, 3/4" NPTF X           33678        PIPE, FUEL, INJ PUMP    33819   ADAPTOR, FUEL RETURN
+
+33526     GASKET, MANIFOLD              33679        PIPE, THERMOSTART       33825    ELBOW, 3/16" OD PIPE
+
+33527     HOSE, 1.1/4" X 90 DE          33681      ADAPTOR, OIL SEPARAT      33826   HOSE, BY-PASS, FRESH
+
+33528    PIPE, FUEL, SEDIMENT           33682        *O” RING (CYL BLOCK     33827    ADAPTOR, 3/8" BSP FE
+
+33531    PIPE, OIL FEED, TURB           33683        “O° RING (OIL SEPARA    33833   HOSE, BREATHER TO Al
+
+33533   END CAP, FRONT, HEAD            33684          SEPARATOR, OIL        33835     PIPE, 1.1/4", HEAT E
+
+33538   HEAT EXCHANGER             4G   33685       HOSE, OIL SEPARATOR      33837    HOSE ASSEMBLY (3/8,
+
+33539   TUBESTACK, HEAT EXCH            33689      TUBE, SUMP CONNECTIO      33838   TUBESTACK, HEAT EXCH
+
+33541   JACKET, THERMAL, TUR            33690        HOSE ASSEMBLY (3/8,     33839   END CAP (WITH WATER
+
+
+
+
+                                         Perkins Sabre Marine Parts List
+                                           Contact us today for a quote.
+                                                                                            Unit 1 Castle Street
+
+
+SABRE
+                                                                                    Castlepark Industrial Estate
+                                                                                           Ellon, Aberdeenshire
+                                                                                       AB41 9RF, Scotland, UK
+                                                                                     Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                      Email: sales@sabrepm.com
+                                                                                             Web: sabrepm.com
+
+
+33840    END CAP (BLANKING WI     34002        GASKET, EXHAUST        34150    CAP, PRESSURE, 0.4 B
+
+33843    BRACKET, STOP CABLE      34003     ELBOW, EXHAUST, WATE      34156     PIPE, 1.1/2", MANIFO
+
+33845     HOSE END, 1/4" BSPT     34005      HOUSING, AIR CLEANER     34161    SPACER, 9MM ID X 16M
+
+33848     PLUG, 1/8" NPTF, CYL    34006     HEADER TANK NATURAL       34164   GASKET SET, TOP OVER
+
+33849   WASHER, M16, SHAKEPR      34037       HOSE ASSEMBLY (3/8,     34165   GASKET SET, TOP OVER
+
+33852    NUT, COMPRESSION, 1/     34043     BRACKET, SUMP PUMP S      34167     PIPE, 1.1/4", INTERC
+
+33853     FERRULE, 5/16" OD Pl    34046       FILTER, AIR CLEANER     34195     Bracket, Rear, ZF301
+
+33858      FUSE, BLADE, 10A       34047     SUPPORT, AIR CLEANER      34196     Bracket, Rear, ZF301
+
+33859      FUSE, BLADE, 25A       34048      MOUNT, FLEXIBLE, ENG     34197        COVER, FUSE
+
+33860      FUSE, BLADE, 40A       34054      HOSE ASSEMBLY, 1/4",     34200     EYELET, SAIL, NO. 20
+
+33864       SPLASH GUARD          34055      HOSE ASSEMBLY, 5/16"     34201    RING, TURN-OVER, SAI
+
+33866    SPACER, 5.5MM ID X 1     34056      NUT, COMPRESSION, 1/     34206     BRACKET, SUPPORT
+
+33867    SCREW, M5 X 45, PAN      34057        OLIVE, 1/4" OD PIPE    34227     HOSE, 7MM ID X 0.3M,
+
+33868     CLIP, SUPPORT, SIZE     34058      NUT, COMPRESSION, 1/     34232    HEADER TANK BLACK -
+
+33869     CLIP, SUPPORT, SIZE     34059       OLIVE, 5/16" OD PIPE    34248    SOLENOID, STOP, 12V
+
+33870    WIRE, VE LINK TO STA     34065     ADAPTOR, ENGINE BREA      34270   ADAPTOR, EXHAUST, TU
+
+33872   LOOM, ALTERNATOR TO       34066      HOSE, AIR CLEANER TO     34281    HOSE ASSEMBLY (3/8,
+
+33873   BRACKET, SUPPORT, FU      34067      HOSE, AIR CLEANER TO     34282    HOSE ASSEMBLY (3/8,
+
+33878        NUT, M6, HALF        34068     HOSE, ENGINE BREATHE      34283   HEAT EXCHANGER/HEADE
+
+33879    BRACKET, BELT GUARD      34073       HOSE, 1.1/4" X 90 DE    34297   ELBOW, EXHAUST, WATE
+
+33882     PIPE, FUEL, LIFT PUM    34074      OIL COOLER, GEARBOX      34300    HEAT EXCHANGER           6T
+
+33894   BRACKET, SUPPORT, AL      34080      LOOM, ENGINE WIRING,     34301   END CAPS, HEAT EXCHA
+
+33903    END CAP (WITH WATER      34082     CONNECTOR, EXHAUST,       34303    STUD, M10 X 70 NOMIN
+
+33916   HOSE, ENGINE BREATHE      34083      JACKET, THERMAL, 135     34304    PIPE, 3 WAY CASTING,
+
+33923     PIPE, 1.3/8", HEAT E    34084      “O° RING (RAW WATER      34305   TURBOCHARGER (6TWGM,
+
+33924         BELT COVER          34087      END CAP, STRAIGHT, G     34307     PIPE, 1.1/4", INTERC
+
+33925   BRACKET, UPPER, BELT      34089       HOSE ASSEMBLY (3/8,     34308   EXHAUST OUTLET, WATE
+
+33926    PILLAR, M16 MALE XM      34092           CAP, SCREW          34310    PIPE, BOOST CONTROL
+
+33927      HOSE, 2.1/8" X 1.3/8   34093      CAP WASHER, SCREW        34311     PIPE, THERMOSTART
+
+33928      HOSE, 1.3/4" X 1.3/8   34095      END CAP, 90 DEG, HEA     34312     PIPE, FUEL, LIFT PUM
+
+33929      HEAT EXCHANGER         34096        HOSE, 1/4" ID X 0.21   34316   BRACKET, MOUNTING, H
+
+33931     HOSE, 2" X 1.3/8" RE    34104     TUBESTACK, HEAT EXCH      34317     HOSE, 1" ID X 90 DEG
+
+33939   CONNECTOR, EXHAUST,       34107      SERVICE KIT, RAW WAT     34318    BRACKET, BELT GUARD
+
+33941   EXHAUST OUTLET, WATE      34108     SCREW, END COVER, SE      34319    BRACKET, BELT GUARD
+
+33942    HOSE SET, M130C/M135     34109     SCREW, CAM, RAW WATE      34321    SPACER, 11MM ID X 19
+
+33944          HOSE SET,          34110     CAM, RAW WATER PUMP       34322   GASKET SET, BOTTOM O
+
+33946   EXHAUST OUTLET, WATE      34113      SEAL, MECHANICAL, AS     34332   ELBOW, EXHAUST, WATE
+
+33950   CERTIFICATE, DECLARA      34114     BEARING, RAW WATER P      34340   INTERCOOLER/INLET MA
+
+33955   HEADER TANK NATURAL       34115     SHAFT, RAW WATER PUM      34343    PIPE, THERMOSTART, E
+
+33976   TURBOCHARGER, 4TGM        34117      IMPELLER (JABSCO 3/4     34347   HOSE, RAW WATER PUMP
+
+33981   EXTENSION, BREATHER,      34118        HOSE, 1.3/4" X 1.1/2   34348    HOSE, STRAINER TO HE
+
+33982   AIR CLEANER ASSEMBLY      34127      BULB, WARNING LIGHT,     34351    PIPE, BOOST CONTROL
+
+33984   WATER PUMP, RAW WATE      34135      DAMPER DRIVE PLATE,      34352     HOSE, 1.1/4" X 90 DE
+
+33991     HOSE, 1.1/2" X 90 DE    34136      HEADER TANK BLACK -      34353   FLANGE, EXHAUST ELBO
+
+33992   HOSE, RAW WATER PUMP      34142      SOLENOID, NEGATIVE E     34358   ELBOW, EXHAUST, WATE
+
+33993   CONNECTOR, 28MM HOSE      34148     BRACKET, PIPE SUPPOR      34368      HOSE, 1" X50 DEG
+
+
+
+
+                                   Perkins Sabre Marine Parts List
+
+                                    Contact us today for a quote.
+                                                                                            Unit 1 Castle Street
+
+
+SABRE
+                                                                                    Castlepark Industrial Estate
+                                                                                           Ellon, Aberdeenshire
+                                  | SS ae                                              AB41 9RF, Scotland, UK
+                                                                                     Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                      Email: sales@sabrepm.com
+                                                                                             Web: sabrepm.com
+
+
+34378   BRACKET, SUPPORT, Al     34588       SWITCH, PANEL LIGHT      34796   GASKET, EXHAUST, MAN
+
+34379   BRACKET, SUPPORT, TH     34594         HOSE, 1/4" ID X0.10    34797    HOSE, TURBO INLET DU
+
+34381   END CAP, THERMOSTAT      34597       END CAP, STRAIGHT, G     34807    HOSE, MODINE COOLER
+
+34382    PIPE, 3 WAY, KEEL CO    34600      EXHAUST OUTLET, WATE      34809    HOSE, 42MM TO 38MM R
+
+34383     HOSE, 2" X 1.1/2", R   34602      SCREW, END COVER, SE      34810   GASKET, EXHAUST, TUR
+
+34390   PIPE, THERMOSTART, R     34606       LOOM, ENGINE WIRING,     34819   EXHAUST OUTLET, WATE
+
+34392   BRACKET, SUPPORT, 90     34607         BUZZER, WARNING.       34825   BODY, HEAT EXCHANGER
+
+34393     BRACKET, SUPPORT       34609      VOLTMETER, 24V (OCEA      34826   SENDER/SWITCH, ENGIN
+
+34397   HOUSING, THERMOSTAT      34610       BULB, WARNING LIGHT,     34832   SWITCH, HIGH TEMPERA
+
+34412      HEAT EXCHANGER        34613       WARNING LIGHT, HIGH      34834   ELEMENT, AIR CLEANER
+
+34419     PIPE KIT, FUEL INJ,    34615       OIL COOLER, GEARBOX      34843   SOCKET, RELAY, GLOWP
+
+34439     CAP, BLANKING, 35.5    34619       END CAP, 90 DEGREE,      34846   RELAY, 12V, GLOWPLUG
+
+34440   HOSE, THERMOSTAT HOU     34621       “Y* HARNESS, OCEANLI     34849    INJECTION PIPE ASSEM
+
+34441   HOSE, REDUCER, H/EXC     34623      GASKET, EXHAUST BLAN      34850     PIPE, INJECTOR, CYL.
+
+34442    HOSE, H/EXC TO F/W P    34630       DAMPER DRIVE PLATE,      34851     PIPE, INJECTOR, CYL.
+
+34443   HOSE, ELBOW, REDUCER     34640      HEATSHIELD, TURBOCHA      34852     PIPE, INJECTOR, CYL.
+
+34444   HOSE, ENG OIL COOLER     34641        PIPE, OIL FEED, TURB    34853     PIPE, INJECTOR, CYL.
+
+34446   HOSE, THERMOSTAT BY-     34644      ASSEMBLY, TURBO DRAI      34854     PIPE, INJECTOR, CYL.
+
+34447   PLATE, CLAMPING, RAW     34646       HOSE, TURBO TO INLET     34855     PIPE, INJECTOR, CYL.
+
+34450   BRACKET, FRONT MOUNT     34648      EXHAUST OUTLET, WATE      34856    ADAPTOR, 3/4" NPTF M
+
+34453   ELEMENT, AIR CLEANER     34649        ‘O° RING, TURBO OIL     34866     PLUG, 1/8" BSPT, STE
+
+34455   HOSE, RAW WATER PUMP     34651        HOSE, 25.4MM X 110 D    34871     HOSE, 44.5MM |.D X 6
+
+34457   CONNECTOR, 31.8MM O.     34654       SPACER, 9MM ID X 16M     34884     SETSCREW, M10 X 80
+
+34459    CLIP, RETAINING, COO    34657      CONNECTOR, 31.8MM O.      34888    BULB, RED, INSTRUMEN
+
+34460   PLATE, CYLINDER BLOC     34663       PRINTED CIRCUIT BOAR     34889   BULB AND HOLDER, RED
+
+34461   BRACKET, MOUNTING, H     34669        HOSE, 31.75MM X 90 D    34892   SHROUD, WARNING LIGH
+
+34464   GASKET, CYLINDER HEA     34672       HOSE, AIR CLEANER TO     34907   GAUGE, WATER TEMPERA
+
+34465   MANIFOLD, 4 CYLINDER     34684      HOSE, WIRE REINFORCE      34909   TURBOCHARGER (6TWGM,
+
+34467   HEAT EXCHANGER BODY      34704       CAP, INSULATED BLANK     34910    HOSE ASSEMBLY (3/8,
+
+34468    ADJUSTER ARM, A127,     34710       TOOLBOX, PLASTIC CLE     34912   ADAPTOR HOUSING, PRM
+
+34471     PIPE, 1.3/4", HEAT E   34711         PIPE, 1.1/2", KEEL C   34924    BRACKET, ADJUSTER, 9
+
+34472   BRACKET, SUPPORT, G/     34712      WATER MANIFOLD, KEEL      34928    LOOM, ENGINE WIRING,
+
+34474   CAM, RAW WATER PUMP      34722       WATER PUMP KIT, RAW      34930    MANIFOLD, INLET/EXHA
+
+34477   HOSE, REDUCER, ENGIN     34724      BRACKET, ALTERNATOR       34932   BRACKET, SPEED CONTR
+
+34484   ADAPTOR, POWER TAKE-     34725       PISTON POSITION PROB     34941    SHIM, 0.5 MM, ENGINE
+
+34486   BRACKET, SUPPORT, G/     34728        TUBE, DIPSTICK (INJ     34942    SHIM, 1.0 MM, ENGINE
+
+34487   GASKET, EXHAUST, MAN     34734        ADAPTOR, 1/8" NPTF,     34952    HOSE, ENG CYL BLOCK
+
+34488   GASKET, EXHAUST, MAN     34748        STARTER, 12V, M127,     34962   LABEL, WARNING, COOL
+
+34496    SWITCH, TWIN POLE, O    34751       FITTING INSTRUCTIONS     34966    PISTON POSITION PROB
+
+34509   BRACKET, GEAR CONTRO     34764      FLANGE, BLEED, WATER      34968    LIFT PUMP, FUEL (MOT
+
+34536     HOSE, 1/4" ID X0.15    34767       SPACER, NYLON, 12.7M     34985    PIPE, BOOST CONTROL
+
+34539   OIL COOLER, HURTH HB     34769            BELT COVER          34986    PIPE, FUEL, LEAK OFF
+
+34542   SPACER, DAMPER DRIVE     34785        PLUG, 3/8" NPT X 1/2    34996    LOOM, ENGINE WIRING,
+
+34577   PULLEY, TWIN GROOVE,     34793      HEATSHIELD, TURBOCHA      35005   SPACER, BORG WARNER
+
+34586    DAMPER DRIVE PLATE,     34794        PIPE, OIL FEED, TURB    35017      PIPE, 1.1/4", R. W.
+
+34587   WARNING LIGHT, WATER     34795        PIPE, DRAIN, TURBO      35020   GEARBOX, TACHOMETER
+
+
+
+
+                                  Perkins Sabre Marine Parts List
+
+                                    Contact us today for a quote.
+                                                                                                  Unit 1 Castle Street
+
+
+SABRE
+                                                                                          Castlepark Industrial Estate
+                                                                                                 Ellon, Aberdeenshire
+                                      | SS ae                                                AB41 9RF, Scotland, UK
+                                                                                           Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                            Email: sales@sabrepm.com
+                                                                                                   Web: sabrepm.com
+
+
+35027      PIPE, 1.1/4", R. W.       35161        PIPE, FUEL, LIFT PUM   35480   HEADER
+                                                                                   TANK, REMOTE
+
+35035   BRACKET, FRONT FOOT/         35162        PIPE, FUEL, FILTER T   35481   SIGHT GAUGE, FLUID L
+
+35050   LOOM, INTERCONNECTIN         35167      LOOM, INTERCONNECTING    35487   LOOM, INTERCONNECTIN
+
+35051   LOOM, INTERCONNECTIN         35168       HOSE, BY-PASS, FRESH    35497   PUMP, FUEL INJECTION
+
+35052   LOOM, INTERCONNECTIN         35169       PIPE, 3 WAY CASTING,    35519    PIPE, INJECTOR, CYL
+
+35055   BRACKET,       SUPPORT, RE   35171       BRACKET, REAR, HEAT     35520    PIPE, INJECTOR, CYL
+
+35065   BRACKET, REAR MOUNTI         35172      WASHER, CLAMPING, RA     35521    PIPE, INJECTOR, CYL
+
+35066   BRACKET, REAR MOUNTI         35188      BRACKET, REAR MOUNTI     35522    PIPE, INJECTOR, CYL
+
+35067   SPACER, REAR FOOT, 2         35191        (197-5633) DECAL, CA   35527   ADAPTOR,
+                                                                                     1/2" NPT TO
+
+35080   MOUNT, FLEXIBLE, ENG         35197       HEIGHT ADJUSTER KIT,    35532    PLUG, M10 X 1.5, HEX
+
+35081    PAD-JACKING, HEIGHT         35205      FLYWHEEL HOUSING, SA     35540   HOOK,     CONTROL CABLE,
+
+35082   BRACKET, FRONT MOUNT         35209       PANEL, INSTRUMENT, M    35550   PIVOT,     CONTROL CABLE
+
+35083    BRACKET, IN LINE REA        35211       ASSEMBLY, BASE MAIN     35551     COTTER PIN, 3/32" X
+
+35085   BRACKET, REAR MOUNTI         35212       ASSEMBLY, MAIN STATI    35553   CONNECTOR,
+                                                                                       BALL AND
+
+35086   BRACKET, FRONT MOUNT         35213       ASSEMBLY, MAIN STATI    35567   BRACKET, SUPPORT, TH
+
+35087    HEIGHT ADJUSTER KIT,        35218        WASHER, STARLOCK       35570   HEADER
+                                                                                   TANK KIT, REM
+
+35090   BRACKET, OPTION PLAT         35219       DECAL, SABRE PERKINS    35573   LOOM, INTERCONNECTIN
+
+35095   SPACER BLOCK, MAN SI         35227       (197-0616)DECAL, WAR    35575    VALVE, NON RETURN
+
+35096    SPACER, 10.5MM ID X         35282      PAINT, MATTERHORN WH     35576    “O° RING (M/PAL EXCE
+
+35098    PIPE ASSEMBLY, CYLIN        35294        (198-6479) STICKER,    35580    PIPE, FUEL FILTER TO
+
+35099   INSULATOR COLLAR, NY         35335       LOOM, ENGINE WIRING,    35581    PIPE,
+                                                                                   FUEL, LIFT PUM
+
+35100    NUT, EXTENDED,
+                    M8 X             35350       DRAIN PLUG, FUEL FIL    35583   SOLENOID, EXCESS FUE
+
+35105   LOOM, ALTERNATOR TO          35351       ELEMENT, PRE-FILTER     35600   LOOM,     ENGINE WIRING,
+
+35106    WIRE,
+          LINK, VE (PCB)             35355      FUEL SEDIMENTER/WATE     35601    ‘O° RING, FUEL INJEC
+
+35107    SPACER, 6.5MM ID X 1        35361       ALTERNATOR, 12V, AS1    35615   UNIVERSAL
+                                                                                     BILGE PUMP
+
+35112   SCREW, FLANGED, M12          35362       ALTERNATOR, 24V, AS1    35619   SWITCH, ENGINE
+                                                                                             OIL P
+
+35120     PIPE, 1.3/4", MANIFO       35363         PIPE KIT, FUEL INU.   35633   LOOM, ENGINE WIRING,
+
+35121     PIPE, 1.1/4", JABSCO       35373      BRACKET, FRONT MOUNT     35636   ACTUATOR ASSY (TO SU
+
+35122   HEADER
+          TANK ASSEMBLY              35374       HOSE, 1" X 90 DEGREE    35651       12V SOLENOID
+
+35125    SWITCH, ENGINE OIL P        35384       SPACER, 13MM ID X 25    35652       24V SOLENOID
+
+35126            #NAME?              35390       LOOM, ENGINE WIRING,    35658   BRACKET,
+                                                                                    FRONT FOOT/
+
+35128   HEAT EXCHANGER,
+                    3 PA             35401         PIPE KIT, FUEL INU.   35676   AUDIBLE WARNING DEVI
+
+35131   HOSE, BY-PASS, FRESH         35411       FILTER ASSEMBLY, FUE    35702    CAP, FILLER,        BLACK,
+
+35133   BRACKET,
+           PIPE SUPPOR               35412       ELEMENT, FUEL FILTER    35703        FILLER        NECK
+
+35136   BRACKET, SUPPORT, HE         35413       ELEMENT, FUEL FILTER    35704             ‘O° RING
+
+35137   HOSE, JABSCO RAW WAT         35416        (206-6909) ELEMENT,    35708    TUBE, NYLON, BLACK,
+
+35139      HOSE, 2" X 1.3/4", 1      35417      SEDIMENTER ASSEMBLY,     35711   CONDUIT, NYLON, SCHL
+
+35141   KSB UNIT WITH LOOM P         35419       ELEMENT, FUEL, PRE-F    35763   PULLEY,      MOTOROLA       8SC
+
+35146   INSULATOR, STARTER T         35425       RESISTOR, DROPPING,     35776    COUPLING, FLEXIBLE,
+
+35153   PIPE,    HEAT EXCHANGER      35427      BRACKET, SUPPORT, AU     35780   TACHOURMETER,
+                                                                                          12V (0
+
+35154     PIPE, 1.1/4", RAW WA       35439        HOSE ASSEMBLY (3/8,    35800     PIPE KIT, F.INJ, D/S
+
+35155   HOSE, RAW WATER PUMP         35445      TOOL, IMPELLER REMOV     35818   BRACKET, SUPPORT, Al
+
+35156    PIPE,   RETURN, OIL CO      35448      BRACKET, FRONT FOOT/     35823   PUMP, FUEL INJECTION
+
+35158    PIPE,
+          FEED, OIL COOL             35453        (142-7548) STICKER,    35834   AUDIBLE WARNING DEVI
+
+35159    PIPE 1.3/4"    THERMOST     35455        (205-6463)STICKER, -   35904   BRACKET,       SUPPORT, HE
+
+35160   HOSE,    HEAT EXCHANGER      35464       DRAIN PLUG, FUEL FIL    35920   WASHER, SPACER, M8,
+
+
+
+
+                                      Perkins Sabre Marine Parts List
+
+                                        Contact us today for a quote.
+                                                                                            Unit 1 Castle Street
+
+
+SABRE
+                                                                                    Castlepark Industrial Estate
+                                                                                           Ellon, Aberdeenshire
+                                  | SS ae                                              AB41 9RF, Scotland, UK
+                                                                                     Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                      Email: sales@sabrepm.com
+                                                                                             Web: sabrepm.com
+
+
+35938     PIPE, FUEL, FILTER T   36151        ADAPTOR, 1/8" NPTF,     36313   SWITCH, PRESSURE, Ol
+
+35939    PIPE, FUEL, INJ PUMP    36156       BUSH, TAPER LOCK, 14     36315   SWITCH, HIGH WATER T
+
+35940     PIPE, FUEL, L(OFF RA   36158       PUMP, 1", RAW WATER,     36322    AMMETER (V.D.O., 60-
+
+35945    TUBE, DIPSTICK (4CYL    36160       SENDER, TACHOMETER       36325    RESISTOR, DROPPING,
+
+35946     PIPE, FUEL, FILTER T   36161      TRANSDUCER, TACHO (P      36352   BRACKET, SPEED CONTR
+
+35947     PIPE, FUEL, RETURN,    36164       HOURMETER, 12V (2.2C     36357   WASHER, M8, SHAKEPRO
+
+35948    FUEL PRE-FILTER ASSE    36180       SENDER, ENGINE OIL P     36361   ASSEMBLY, EXTENSION
+
+35957    PIPE, SUMP PUMP TO S    36183       SENDER, ENGINE OIL P     36362   SUPPORT STUD, BELT G
+
+35970   EXHAUST OUTLET, WATE     36186        BOLT, BANJO, M18 X 1    36373   HOURMETER (C2.2 LOOM
+
+35971   BRACKET, FRONT MOUNT     36187      CONNECTOR ELBOW, 90       36374   RELAY, START/-VE EAR
+
+35972   BRACKET, HEAT EXCHAN     36188       ADAPTOR, 1/4" NPT MA     36376      RELAY, RUN, 12V,
+
+35983   ADAPTOR, POWER TAKE-     36190      SENDER, TEMPERATURE,      36377   RELAY, ON/STOP LATCH
+
+35987   ACTUATOR, ELECTRONIC     36191      SENDER, WATER TEMPER      36378   CIRCUIT BREAKER, 20A
+
+35988    GASKET, EXHAUST (C2.    36192      SENDER, TEMPERATURE,      36379   PIPE BRACKET, KEEL C
+
+36014   HOSE, RAW WATER, JAB     36194       ADAPTOR BLOCK, FUEL      36380      KEEL COOLED KIT
+
+36039   PLATE, SUPPORT, GEAR     36196      ADAPTOR, WATER OUTLE      36403    PIPE, FUEL, LYOFF RA
+
+36042   BRACKET, SUPPORT, GE     36206      STUD, MANIFOLD SECUR      36431    KIT, EXPANSION TANK
+
+36043   BRACKET, SUPPORT, GE     36207      STUD, MANIFOLD SECUR      36433   WASHER, COPPER, M18.
+
+36052    GASKET, EX MANIFOLD     36210       SENDER, GEARBOX OIL      36437   FILTER ELEMENT, FUEL
+
+36055   TUBE, PROTECTION, TR     36213      THERMOSTAT, 78 DEG C      36439    SPACER, 13MM ID X 25
+
+36059    ELBOW, 3/4" BSPT MAL    36216      OIL PRESSURE SWITCH,      36443   PRINTED CIRCUIT BOAR
+
+36064   HOSE, THERMOSTAT TO      36217      OIL PRESSURE SWITCH,      36446    RECEPTACLE , 12 WAY
+
+36065   HOSE, FWP TO MANIFOL     36219      FLANGE, EXHAUST OUTL      36447       PLUG, 12 WAY
+
+36088   BEARING, RAW WATER P     36222       BRACKET, LIFTING EYE     36448        WEDGELOCK
+
+36090   END COVER, RAW WATER     36224       HOUSING, EC100, H/EX     36449   SEAT RETENTION, WITH
+
+36091   CAM, RAW WATER PUMP.     36225      END CAP, HEAT EXCHAN      36451   SOCKET, CONTACT, FEM
+
+36092   GEAR, RAW WATER PUMP     36240      SENDER, BOOST PRESSU      36452        FILLER PLUG.
+
+36094      KEY, WOODRUFF         36244       PIPE, FUEL RETURN (C     36456   BRACKET, NEGATIVE EA
+
+36095    ‘O° RING, RAW WATER     36245       HOSE ASSEMBLY, OIL D     36459    CABLE, -VE LINK (ALT
+
+36096      RING, RETAINING       36246      TRANSDUCER, TACHO. (      36464     AIR FILTER (422GM)
+
+36098           SHAFT            36247        BOLT, BANJO M16 X 1.    36502    RELAY, 33RA, 24V (RE
+
+36099          WASHER            36252      GAUGE, BOOST PRESSUR      36513    CLIP, PIPE SUPPORT,
+
+36114    ADAPTOR, 3/8" BSPT M    36254       SWITCH, HIGH EXH TEM     36514      BOLT, M12 X 120
+
+36115    HOSE ASSEMBLY (3/8,     36257        SETSCREW, M14 X 1.5     36537    DAMPER DRIVE PLATE,
+
+36116    PIPE, FUEL, INJ PUMP    36273        BULB, 14V, (C2.2 PAN    36538   SERVICE KIT, RAW WAT
+
+36120   ADAPTOR, PUMP BLEED.     36277      CABLE, INTERCONNECTI      36541   TRAFAG OIL PRESS/WAT
+
+36125    SIPHON BREAK, 1" HOS    36283        HOSE, AIR INLET (C2.    36560   STARTER MOTOR, ISKRA
+
+36127   PLATE, MOUNTING, WIR     36287         PIPE, INJ, CYL 2, DU   36563   HOSE, THERMOSTAT TO
+
+36128    PLATE, COVER, WIRING    36290        "O" RING, DRAIN MANI    36564   HOSE, R/W PUMP TO HE
+
+36135    CLIP, PIPE SUPPORT,     36292       BLANKING CAP (DELPHI     36568    ADAPTOR, 1.25" HOSE
+
+36136     HOSE, 2" X 2", 150DE   36295      CONTROLLER, ELECTONI      36579   LABEL, RAW WATER PRI
+
+36138    ADAPTOR, 1/4" NPTF M    36297      END CAP, HEAT EXCHAN      36609   MANIFOLD, EXHAUST, 4
+
+36139     PIPE, 2", MANIFOLD T   36298               SCREW            36610   GASKET, CYLINDER HEA
+
+36140     SOCKET, 1/2" NPS, S.   36300       SWITCH, PRESSURE, Ol     36612   PIPE, WATER, PUMP TO
+
+36149    PIPE,OIL, LONG, FEED    36307      SWITCH, TEMPERATURE,      36633   RELAY, START/-VE EAR
+
+36150    PIPE,OIL, RETURN (SH    36312       BOOT, INSULATING (RE     36636   RELAY, ON/STOP LATCH
+
+
+
+                                  Perkins Sabre Marine Parts List
+
+                                    Contact us today for a quote.
+                                                                                            Unit 1 Castle Street
+
+
+SABRE
+                                                                                    Castlepark Industrial Estate
+                                                                                           Ellon, Aberdeenshire
+                                 | SS ae                                               AB41 9RF, Scotland, UK
+                                                                                     Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                      Email: sales@sabrepm.com
+                                                                                             Web: sabrepm.com
+
+
+36643   GAUGE, VOLTMETER, 24    36973       ‘O° RING, INTERCOOLE     37171   COVER,EMERGENCY STOP
+
+36751   ALTERNATOR ASSEMBLY,    36975      ADJUSTER ARM, ALTERN      37195     HOSE, AIR FILTER TO
+
+36752   SOLENOID, NEGATIVE E    36976         PIPE KIT, F/INJ, D/S   37196    HOSE, BREATHER TO Al
+
+36756   ACTUATOR, ELECTRONIC    36977      TURBOCHARGER (VISTA       37197      HOSE, BREATHER
+
+36759    RELAY, 24V,40A,HEAVY   36982       GOVERNOR, L SERIES (     37201   ELBOW, EXHAUST OUTLE
+
+36797    PLUG, BUTTON, 9.5MM    37002      ADAPTOR, LEVEL SWITC      37205    JACKET, THERMAL, EXH
+
+36798    PLUG, BLANKING, 1" O   37003        HOSE, 1.25" DIA TO 3    37207   HEATSHIELD, TURBOCHA
+
+36799   CONVERTER, VOLTAGE,     37004        HOSE, 1.25" DIA TO 3    37208    GUARD, FLAME, FUEL P
+
+36809    ADAPTOR, 3/4" NPTF X   37005       SWITCH, LEVEL, FRESH     37211    HOSE, BREATHER TO Al
+
+36812        STICKER, 24V       37012       BELTGUARD, C4.4 OPEN     37212     ADAPTOR, M16 X 1/2"
+
+36814    SPACER, 9MM ID X 19M   37016       PIPE, MANIFOLD TO BL     37213    HOSE, 1/2" BORE (BRE
+
+36840   BADGE, PERKINS/SABRE    37018       WASHER, COPPER, M5       37216        STUD, M6 X 24
+
+36864    MANIFOLD, EXHAUST, 4   37019       HOSE ASSEMBLY, 1/4",     37217     COVER, FUEL PIPES
+
+36865   DUCT, INTERCOOLER TO    37020       HOSE ASSEMBLY, 5/16"     37218   BRACKET, COVER SUPPO
+
+36868   HEADER TANK, ALUMINI    37021       HOSE ASSEMBLY, FUEL      37221      PIPE, 1.1/4", R.W.P
+
+36873    HOSE, F/W PUMP PIPE    37022       HOSE ASSEMBLY, INJ P     37223   HOSE ASSEMBLY, TURBO
+
+36874   HOSE, THERMOSTAT PIP    37023       HOSE ASSEMBLY, INJ P     37224      PIPE, 1.1/4", INT TO
+
+36875   HOSE, REDUCER, F/W P    37024        ADAPTOR, HOSE TAIL      37226     PIPE, OIL FEED, TURB
+
+36877    PIPE, 2", THERMOSTAT   37025        VALVE, NON RETURN       37228    CONVERTER, VOLTAGE,
+
+36878    SPACER, 11.0MM ID X    37026      ADAPTOR, MALE BRANCH      37236    ADAPTOR, OIL FILTER
+
+36880    PIPE, MANIFOLD TO F/   37027       CLIP, SWIVEL, HOSE S     37244    KIT, HEADER TANK, RE
+
+36881   BRACKET, MOUNTING, F    37028       CLIP, SWIVEL, HOSE S     37249    ALARM, AUDIBLE, PANE
+
+36882   HOSE, REDUCER, 15.9M    37029        CLIP, HOSE SUPPORT      37256           SWITCH
+
+36883   HOSE, REDUCER, 15.9M    37032       NUT, COMPRESSION, 3/     37260    BREAKER, CIRCUIT, 15
+
+36884    HOSE, BYPASS, FRESH    37035       HOSE, 25.4MM X 50MM      37262     CONTACT ASSEMBLY
+
+36886    BRACKET, LIFTING EYE   37038            CONNECTOR           40061    PULLEY, SINGLE GROOV
+
+36892   HEADER TANK/EXHAUST     37040          PIN, CONNECTOR        40071    REGULATOR, 24V (A24-
+
+36909   HOSE, CYL BLOCK TOM     37042        NUT, PLASTIC PANEL      40082    ALTERNATOR, 12V, A12
+
+36910   HOSE, HEADER TANK TO    37043          WASHER, LOCK          40140    BELT (17 ACR ALTERNA
+
+36913   SCREW, CAM, RAW WATE    37044      WORKSHOP MANUAL, M13      40186   SWITCH, TEMPERATURE,
+
+36915   CAM, RAW WATER PUMP     37045      BRACKET, PIPE SUPPOR      40197    SOLENOID, STOP, 12V
+
+36916   IMPELLER, RAW WATER     37055      PIPE, HEAT EXCHANGER      40198    SOLENOID, STOP, 24V
+
+36917     O RING, END COVER     37060       HOSE, R.W.P TO INTER     40199      INSULATING BOOT
+
+36918        END COVER          37061      BRACKET, BREATHER MO      40500     THERMOSTART, 12V
+
+36919     SCREW, END COVER      37065        PIPE, MANIFOLD TO F/    40501    THERMOSTART, 24V DE
+
+36920   GEAR, RAW WATER PUMP    37066       PIPE, THERMOSTAT TO      40510     ADAPTOR, 1.1/4" UNF
+
+36921    O RING, CAM SCREW      37068       PIPE, F/W PUMP TO KE     40520    EARTHING PLATE, THER
+
+36934    SPACER, 11.0MM ID X    37072       HOSE, AIR CLEANER TO     40561      FUSE, FAST (LINK)
+
+36936   CONNECTOR, EXHAUST,     37075        PLUG, 1/4" BSP, SOCK    40601    BULB, WARNING LIGHT,
+
+36942    ELEMENT, FUEL FILTER   37158                BOOT            40607    BULB, INSTRUMENT HEA
+
+36944    ELEMENT, FUEL FILTER   37161       BREAKER, 20 AMP (6T-     45119    BELLOWS, EXHAUST, 5"
+
+36956   GASKET, EXHAUST, MAN    37162       BREAKER, 10 AMP (6T-     45564    PIPE, FUEL INJECTOR,
+
+36960    SPACER, 11MM ID X 19   37163         SWITCH, ISOLATOR       45565    PIPE, FUEL INJECTOR,
+
+36961    ALTERNATOR, 12V, 90A   37168                KEY             45566    PIPE, FUEL INJECTOR,
+
+36962    ALTERNATOR, 24V, 55A   37169         BLOCK, TERMINAL        45567    PIPE, FUEL INJECTOR,
+
+36967   BRACKET, SUPPORT, IN    37170              SWITCH            45568    PIPE, FUEL INJECTOR,
+
+
+
+
+                                 Perkins Sabre Marine Parts List
+
+                                   Contact us today for a quote.
+                                                                                                 Unit 1 Castle Street
+
+
+SABRE
+                                                                                         Castlepark Industrial Estate
+                                                                                                Ellon, Aberdeenshire
+                                   | SS ae                                                  AB41 9RF, Scotland, UK
+                                                                                          Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                           Email: sales@sabrepm.com
+                                                                                                  Web: sabrepm.com
+
+
+45569    PIPE, FUEL INJECTOR,     49520        PIPE,INJECTOR,
+                                                           CYL             56354   SETSCREW,
+                                                                                        3/8" UNF X
+
+46499      PUMP, FUEL   LIFT      49530        PIPE,INJECTOR,
+                                                           CYL             56356   SETSCREW,
+                                                                                        3/8" UNF X
+
+46520     HOSE, 2.3/4" X 2.1/2    49540        PIPE,INJECTOR,
+                                                           CYL             56357     BOLT, 3/8" UNF X 1.1
+
+46522     HOSE,
+           1" X 2.1/2" (1         49550        PIPE,INJECTOR,
+                                                           CYL             56358     BOLT, 3/8" UNF X 1.3
+
+46523     HOSE,
+           2" X 2.1/8" (T         50020      GASKET, ROCKER COVER          56410    SETSCREW,
+                                                                                         7/16" UNF
+
+46524     HOSE, 2.1/2" X 2.5/1    50025      GASKET, ROCKER COVER          56416     BOLT, 7/16" UNF X 2"
+
+46621   FILTER ASSEMBLY, FUE      50026      GASKET, ROCKER COVER          56445     BOLT,
+                                                                                      1/2" UNF X 2"
+
+47013      LINER, CAST IRON       50027      GASKET, ROCKER COVER          57258   SETSCREW,
+                                                                                        5/16" UNC
+
+47150         PUSH ROD            50030      GASKET   (HEADER TANK/        57271     BOLT, 5/16" UNC X 2.
+
+47168   ADJUSTER, ROCKER ARM      50031      GASKET, FRESH WATER           57357   SETSCREW, 3/8" UNC X
+
+47169   BANJO, INJECTOR LEAK      50040       GASKET, TIMING HOUSI         57358   SETSCREW, 3/8" UNC X
+
+47190       SPRING, VALVE         50050       GASKET,
+                                                OIL FEED/RET               57359   SETSCREW, 3/8" UNC X
+
+47191    CAP, VALVE STEM (B°      50060       GASKET, MANIFOLD (6          57409   SETSCREW,
+                                                                                        7/16" UNC
+
+47193     SEAL, VALVE STEM        50061       GASKET, MANIFOLD, 4          57460   SETSCREW, 1/2" UNC X
+
+47197   GUIDE, VALVE, STANDA      50069      GASKET, EXHAUST, TUR          57803    STUD,
+                                                                                      3/8" UNC X 1.5
+
+47199    INSERT, INLET VALVE,     50070      GASKET, EXHAUST, TUR          57820     STUD,
+                                                                                       5/16" UNF - 5/
+
+47230    LIFT PUMP,
+                FUEL (BOS         50093      GASKET, CYLINDER HEA          57850     SCREW & WASHER
+
+47245   RING GEAR, FLYWHEEL       50100        GASKET, SUMP SET            57851   STUD, MANIFOLD SECUR
+
+47247   SCREW, RING GEAR SEC      50101      SEAL, CRANKSHAFT
+                                                           REA             57852     NUT, 3/8" UNF, S.S.
+
+48013    GROMMET,
+             1/2" ID X 1          50102      SEAL, CRANKSHAFT
+                                                           FRO             57910   TRANSPILLAR
+                                                                                         (FAST FU
+
+48127    PIPE, FUEL FILTER
+                         TO       50103       GASKET,
+                                                SUMP, SET (4               58011    NUT, M8 (STAINLESS S
+
+48161   INJECTOR ASSEMBLY (T      50130        HEADER
+                                                  TANK SEAL                58040    SCREW,
+                                                                                      M5 X 10, PAN
+
+48167       SHIM, SET (KIT)       50141       GASKET, FLANGE, INTE         58041   SETSCREW, M65 X 12 (H
+
+48169    CAP, DRAIN
+                (FH98 FIL         50150      GASKET, TACHOMETER        D   58042    SCREW,
+                                                                                      M5 X 16, PAN
+
+48291    ‘O° RING (BARREL 126     50160        GASKET,
+                                                  LIFT PUMP                58045    SCREW, M5 X 50, PAN
+
+48316    WASHER
+           , VENT PLUG            50161       GASKET,
+                                                LIFT PUMP TO               58046   SETSCREW, M6 X 12, P
+
+48336   SCREW (BLEED, 27572)      50170        ‘O° RING (INJECTION         58071    SETSCREW, M8 X 20
+
+48340     ‘O° RING (126064/5)     50172         ‘O° RING,
+                                                      7/16" ID X           58079   CAPSCREW, M6 X 20, S
+
+49005       CAP,
+             OIL FILLER           55001       NUT, M3,   SELF LOCKIN       58080    SETSCREW, M12 X 30
+
+49010    SEAL, INJECTOR PIPE,     55002       NUT, M4,   SELF LOCKIN       58085    SETSCREW, M12 X 20
+
+49012   CLAMP ASSEMBLY (INJE      55010        NUT, M5 (HEX. ZINC P        58104   SETSCREW, M10 X 30 (
+
+49014    SEAL, INJECTOR INLET     55020           NUT,
+                                                   M6 (HEX)                58105   SETSCREW, M10 X 25 (
+
+49016   NUT, INJECTOR
+                  LEAK O          55025       NUT, M6, BRASS
+                                                          (HEX)            58118       BOLT,
+                                                                                         M12 X 160
+
+49017   ADAPTOR, INJECTOR LE      55028          NUT,
+                                                  M12 (FULL)               58119     NUT, M8 (HEX. FULL)
+
+49027    TUBE, DIPSTICK, 0 DE     55210        NUT, 1/4" UNF (HEXAG        58201    SETSCREW, M14 X 1.5
+
+49071   VALVE, CRANKCASE BLO      55211         NUT, 1/4" UNF, SELF        58220   NUT, M10 (HEXAGON,
+                                                                                                    F
+
+49098   PULLEY, SINGLE    GROOV   55221        NUT, 5/16" UNF, SELF        58290      BUSH, HANK, M5
+
+49105   THERMOSTAT, 82 DEG C      55230        NUT, 3/8" UNF (HEXAG        58295    SCREW,
+                                                                                       NO. 8 X 12.7
+
+49112   HOUSING, INTERCOOLER      55231         NUT, 3/8" UNF, SELF        58400   SCREW,
+                                                                                     M4 X 10, CHEE
+
+49114     ‘O° RING,
+                4.73" ID X        55245         NUT, 1/2" UNF, SELF        58500    SEAL, 1/2" BSP,     BOND
+
+49115     PLUG,
+            1/4" NPTE (INT        55246            NUT, 1/2" UNF           58511   SEAL,
+                                                                                    1" BSP, BONDED
+
+49200          LIP SEAL           55360        NUT, 1/4" UNC (HEXAG        58600   WASHER, COPPER, INJE
+
+49807    PIPE, TURBO
+                 OIL FEED         55380        NUT, 3/8" UNC (HEXAG        59000   WASHER, 1/4", SPRING
+
+49446    PUMP, INJECTION (P.5     56245       SETSCREW,
+                                                   5/16" UNF               59001   WASHER, M12, SPRING
+
+49500    PIPE, INJECTOR,
+                      CYL         56248       SETSCREW,
+                                                   5/16" UNF               59002    WASHER, M8, SPRING
+
+49510    PIPE, INJECTOR,
+                      CYL         56353       SETSCREW,
+                                                   3/8" UNF X              59004    WASHER, M6, SPRING
+
+
+
+
+                                   Perkins Sabre Marine Parts List
+
+                                     Contact us today for a quote.
+                                                                                             Unit 1 Castle Street
+
+
+SABRE
+                                                                                     Castlepark Industrial Estate
+                                                                                            Ellon, Aberdeenshire
+                                  | SS ae                                               AB41 9RF, Scotland, UK
+                                                                                      Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                       Email: sales@sabrepm.com
+                                                                                              Web: sabrepm.com
+
+
+59005   WASHER, M16, SPRING      66059      FOLLOWER, CAMSHAFT (      81256    BOX & LID, POLYCARBO
+
+59006   WASHER, M14, SPRING      66061        RAIL, INJECTOR LEAK     81310    DOLLY COVER, RED (BU
+
+59010    WASHER, 5/16", SPRIN    66130        BIG END SHELL, 1 PAI    81314     HOLDER, LAMP, RED LE
+
+59030    WASHER, 3/8", SPRING    66145        PLUG, 3/4" NPTF, SOC    81315    HOLDER, LAMP, ORANGE
+
+59040    WASHER, 7/16", SPRIN    66160        PUMP, WATER (80/120     81325    DOLLY COVER, GREY (U
+
+59050    WASHER, 1/2", SPRING    66401      THERMOSTAT, MODIFICA      81326     RESISTOR, 22 OHMS, 2
+
+59061     WASHER, 3/8", FLAT,    66615        TUBE, DIPSTICK (250/    100010    NECK, FILLER (AND OV
+
+59062    WASHER, 7/16", FLAT,    66616        DIPSTICK (300 *B* EN    100061    PLUG, 1/4" BSPT (BRO
+
+59065     WASHER, 5/8", T & C    66700      GASKET, CYLINDER HEA      100317    ADAPTOR, 3/8" BSP MA
+
+59068   WASHER, M5, FLAT (EN     66702      GASKET, CYLINDER HEA      100327     NUT, FLARE, 3/8" X 5
+
+59073    WASHER, 5/16", FLAT     66710       GASKET, TIMING CASE      100550   BELT (WATER PUMP M.A
+
+59074    WASHER, 3/8", FLAT
+                          (      66711      GASKET, TIMING COVER      200020     PLASTIC BAG, 20" X 2
+
+59076    WASHER, 1/2", FLAT
+                          (      66715        GASKET SET, SUMP        200100     (1/4" BSP, FEMALE, P
+
+59078    WASHER, M10, FLAT (B    66719        *O” RING (INJECTION     200101    CAP, 3/8" BSP FEMALE
+
+59079   WASHER, M4, FLAT (BR     66720       SEAL, CYLINDER BLOCK     200103     CAP, 3/8" BSP MALE,
+
+59082    WASHER, 1/4" ID X 1"    66750      GASKET, TURBO MANIFO      200109     PLUG, 1/4" BSP, PLAS
+
+59099     SPACER, 5/16" ID X3    66753       GASKET, MANIFOLD (12     676312         BANJO BOLT
+
+59100     WASHER, 3/8" ID X 3/   66759      GASKET, WATER PUMP/C      676980             BOLT
+
+59102    WASHER, 3/8" ID X 1"    66762      GASKET, WATER PUMP/A      919035           SPACER
+
+59104    WASHER, 5/16" ID X3     66763       GASKET, TIMING CASE      35232         PLATE-SERIAL
+
+59110    WASHER, M3, FLAT, S.    66767       GASKET, OIL FEED, TU     58051    BOLT-SOCKET HEAD (M8
+
+59153   WASHER, M5, SHAKEPRO     66768        GASKET, OIL DRAIN, T    59003      LOCKWASHER (M10)
+
+59154   WASHER, M6, SHAKEPRO     66769     GASKET, TURBOCHARGER       N37281     HOSE, 50MM I.D. x 90
+
+59800     HOSE CLIP, SIZE 45,    66811         HOSE, 3" X 2.1/2" (S   N37287     FILM, INFO (BATTERY
+
+59810     HOSE CLIP, SIZE 55,    66818        FLANGE, TURBO OIL |     N37288   BRACKET, SUPPORT, HE
+
+59812     HOSE CLIP, SIZE 60,    66823      PIPE, TURBOCHARGER O      N37289    HOSE, R.W.P TO HEAT
+
+59813     HOSE CLIP, SIZE 20,    66824      FLANGE ASSEMBLY, TUR      N37290    HOSE, F.W.P TO MANIF
+
+59814     HOSE CLIP, SIZE 30,    66827        PIPE, DRAIN, WITH FL    N37291   HOSE, THERMOSTAT TO
+
+59815     HOSE CLIP, SIZE 70,    66828       PIPE, TURBO OIL FEED     N37293    OUTLET, EXHAUST 2. 1/
+
+59818     HOSE CLIP, SIZE 40,    66837      PIPE ASSEMBLY, THERM      N37297       STUD, M8 X 149
+
+59819     HOSE CLIP, SIZE 50,    66862        PIPE, 1.3/4" FLANGED    N37303   RECEPTACLE, CONNECTO
+
+59820     HOSE CLIP, SIZE 80,    66863         ‘O° RING, 1.88" ID X   N37304     PLUG, CONNECTOR
+
+59821    HOSE CLIP, SIZE 100,    66895        PIPE, 3/16" BUNDY, B    N37324    BASE, CONTROL BOX
+
+60210     PUMP, SUMP DRAIN       70034        SOCKET, 3/8" NPTF, S    N37325    COVER, CONTROL BOX
+
+65066     NUT, M18 X 1.5, THIN   80215       PANEL, ASSEMBLY, ENG     N37326   SUPPORT, CONTROL BOX
+
+65070      *O* RING, 0.5" ID X   81030       TERMINAL, 10MM RING,     N37350   BRACKET, MOUNTING, H
+
+65074    CAPSCREW, M8 X 35, S    81056        HOLDER, PIN, 16 WAY     N37356     PUMP, RAW WATER
+
+65077    PIPE ASSEMBLY, OIL P    81081       HOUSING, TAB (180924     N37390   BADGE, PERKINS/SABRE
+
+65078    ‘O° RING (COOLING JE    81082       HOUSING, RECEPTACLE      N37395        PLUG, WEDGE
+
+65092   PULLEY, CRANKSHAFT (     81083      RECEPTACLE, ELECTRIC      N37410   HOSE ASSEMBLY, INJEC
+
+65093   RINGS, EXPANSION PAI     81084       TERMINAL, TAB (AMP 6     N37411   HOSE ASSEMBLY, INJEC
+
+66019    BOLT, CYLINDER HEAD     81085          TIE, 2MM X 97MM       N37414    ADAPTOR, 3/8" BSP FE
+
+66038         CAMSHAFT           81201       HOLDER, SOCKET, 16 W     N37427   HOSE, R.W.P TO GEARB
+
+66049   BUSH, CONNECTING ROD     81202       CLAMP, CABLE, INSTRU     N37428   HOSE, GEARBOX OIL CO
+
+66056   ROCKER POST, INTERME     81252        HOLDER, FUSE, IN LIN    N37436     RING, SEALING, 8MM
+
+66058   SPRING, VALVE, EXHAU     81254      POLYCARBONATE BOX, E      N37437             NUT
+
+
+
+
+                                  Perkins Sabre Marine Parts List
+
+                                    Contact us today for a quote.
+                                                                                                       Unit 1 Castle Street
+
+
+SABRE
+                                                                                               Castlepark Industrial Estate
+                                                                                                      Ellon, Aberdeenshire
+                                        | SS ae                                                   AB41 9RF, Scotland, UK
+                                                                                                Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                                 Email: sales@sabrepm.com
+                                                                                                        Web: sabrepm.com
+
+
+N37438    HOSE ASSEMBLY (3/8",         N37564     SPEED CONTROL,REM MT          N38005   HEAT EXCHANGER AND G
+
+N37440   PRE-FILTER WITH WATE          N37567              OVERLAY              N38010    GASKET, MANIFOLD TO
+
+N37441   PRE-FILTER WITH WATE          N37573      GASKET,CYL
+                                                        BLOCK TO                N38040      PLUG (M18 STOR)
+
+N37450    HOSE ASSEMBLY (3/8",         N37580      HOSE ASSEMBLY (3/8",         N38043   CONNECTOR, DEUTSCH          (G
+
+N37452   PIPE,   HEAT EXCHANGER        N37581      HOSE ASSEMBLY (3/8",         N38047     HOSE, AIR FILTER TO
+
+N37453    BRACKET,
+             REAR LIFTIN               N37583     ELBOW,EXHAUST, 3" WA          N38071   HARNESS, STARTER REL
+
+N37462    ELBOW, EXHAUST, 3” W         N37587     HOSE,BREATHER
+                                                           TO HEA               N38073   BKT,FUSE SUPPORT PCB
+
+N37463       RELAY, 12V-70A            N37588        BOLT, M8 X 40, S.S         N38074   HOSE, H/EX TO EXHAUS
+
+N37464    LOOM, ENGINE WIRING,         N37606     PANEL,    STANDARD ASSE       N38075    KIT, KEEL COOLED (C2
+
+N37465    CIRCUIT BREAKER, 10A         N37617     HARNESS, EXTENSION       15   N38076   HOSE, THERMOSTAT TO
+
+N37466    CIRCUIT BREAKER, 80A         N37634        LAMP, SIGNAL, 24V          N38078   BRACKET, REGULATOR M
+
+N37467             PLUG                N37635     BRACKET,RESERVOIR
+                                                                 MO             N38082    PIPE, W/PUMP TO HEAT
+
+N37469    COOLER, GEARBOX OIL          N37636      MOTOR, STARTER 12V           N38092   BRACKET,MOUNTING,
+                                                                                                       DUP
+
+N37470   BLANKET,HEAT, EXHAUS          N37646     ELBOW, EXHAUST,3",WA          N38093    TRAY, DRIP, DUPLEX O
+
+N37471    HOSE, H/E PIPE TO EX         N37657       PICK UP, MAGNETIC           N38101    ASSEMBLY, OIL FILTER
+
+N37474   BANJO OIL FEED TURBO          N37658      PICK UP, MAGNETIC,
+                                                                    A           N38102   MANIFOLD, EXHAUST, W
+
+N37477    DUCT,
+           TURBO TO INLET              N37662     BLANKET, TURBO CHARGE         N38104    ASSEMBLY, FUEL FILTE
+
+N37478    HOSE, TURBO TO INLET         N37663      BLANKET, EXHAUST ELB         N38141        STARTER, AIR
+
+N37493    PIPE, TURBO INLET(WIT        N37678        CONNECTOR,RS232            N38143   MANUAL, INSTALLATION
+
+N37494   BRACKET,
+            H/E SUPPORT                N37679      TOOL, SERVICE, L SER         N38147   REGULATOR, BOOST CON
+
+N37495   BKT,FRONT FOOT/OPT P          N37681     ENCLOSURE, STANDARD           N38148     ADAPTOR, 3/16" PIPE
+
+N37499     PIPE, INJECTOR, CYL         N37689        HEAT EXCHANGER             N38150    PIPE, INLET MANIFOLD
+
+N37500     PIPE, INJECTOR, CYL         N37691      SWITCH, LOW OIL PRES         N38151    PIPE, REGULATOR TO |
+
+N37501     PIPE, INJECTOR, CYL         N37693      TRANSMITTER, OIL PRE         N38159           O RING
+
+N37502     PIPE, INJECTOR, CYL         N37793              DECAL, 12V           N38161    BRACKET, OIL COOLER
+
+N37512   BLOCK,CONTACT NORMAL          N37794      PIPE,TURBO OIL DRAIN         N38213   PICKUP, DUAL MAGNETI
+
+N37520   WIRING HARNESS, STAR          N37795      PIPE,TURBO OIL DRAIN         N38214     PLUG, 3 WAY (37165)
+
+N37521    SOLENOID, STOP, INSU         N37796      JACKET, THERMAL,135 D        N38216    SPACER,6.5MM ID X 16
+
+N37523   STOP SOLENOID,ASSEMB          N37797     JACKET, THERMAL,EXHAU         N38224    HOSE, FUEL FEED (FIL
+
+N37524   SOLENOID,COLD START           N37798     JACKET, THERMAL, WAT          N38226   HOSE, FUEL RETURN(ENG
+
+N37526    INVERTER, VOLTAGE, 1         N37804     STAY,SUPPORT, THEMOST         N38228       CLIP, 30MM, S.S
+
+N37529    ENG CORE, C4.4TA TAG         N37805     BRACKET,SUPPORT,THER          N38230     ADAPTOR, TEE 5/16
+
+N37532    HOSE, FUEL LEAK OFF,         N37806       KIT,PIPE,FUEL INJ,D/        N38239    PUMP, FUEL, ELECTRIC
+
+N37537    COOLER, GEARBOX OIL          N37810       PIPE,FUEL,INJ L/OFF         N38240    PUMP, FUEL, ELECTRIC
+
+N37543   LEAD ASSEMBLY, VOLTA          N37811      BLANKET,
+                                                      HEAT, TURBO               N38241    PULLEY, C/SHAFT, TWI
+
+N37544   LEAD ASSEMBLY, VOLTA          N37828     GOVERNOR, CALIBRATED,         N38249    ADAPTOR, M30 X 1.5P
+
+N37552   COOLER,GEARBOX OIL(K          N37846      HOSE ASSEMBLY,
+                                                              INJ P             N38252      TEE, 5/16-1/4 BSP
+
+N37553      PIPE, 1.1/4", R.W.P        N37860        PIPE,TEE,1"X1"X1           N38257   BRACKET, FUEL OUTLET
+
+N37554     PIPE, 1.1/4", INTERC        N37861      ADPT,3/16"ENOTS FEM          N38261   BONDING WIRE, RAW WA
+
+N37555     PIPE, 1.1/4", HEAT E        N37912       ASSEMBLY,
+                                                         PIPE, OIL,             N38265    ADAPTOR, STRAIGHT, 5
+
+N37556     PIPE, 5/8", MANIFOLD        N37913       ASSEMBLY,
+                                                         PIPE, OIL,             N38267       ELEMENT, FUEL
+
+N37557     PIPE, 5/8", MANIFOLD        N37921         HOSE, LEAK OFF            N38268    ELEMENT, OIL (UNBRAN
+
+N37558     PIPE, 5/8", MANIFOLD        N37956     HOSE,RAW WATER 1"BOR          N38270    ELEMENT, OIL (CAT BR
+
+N37559   BRACKET,   SUPPORT,      WA   N37982      LABEL,
+                                                     INLAY INSTRUM              N38306    HOSE, ENGINE OIL, DU
+
+N37560   HOSE,WATER PIPE TOG           N37985      MANIFOLD ISOLATION V         N38309    ASSEMBLY, RADIATOR,
+
+N37561   HOSE, INTERCOOLER
+                        TO             N37988      KIT, SERVICE, RAW WA         N38310    ASSEMBLY, RADIATOR,
+
+
+
+
+                                         Perkins Sabre Marine Parts List
+
+                                          Contact us today for a quote.
+                                                                                             Unit 1 Castle Street
+
+
+SABRE
+                                                                                     Castlepark Industrial Estate
+                                                                                            Ellon, Aberdeenshire
+                                   | SS ae                                              AB41 9RF, Scotland, UK
+                                                                                      Tel: +44 (0)1224 877667
+PLANT & MARINE                                                                       Email: sales@sabrepm.com
+                                                                                              Web: sabrepm.com
+
+
+N38325        RECEPTACLE          N39615     SHAFT, RAW WATER PUM     N40557   HOSE, WIRE REINFORCE
+
+N38337    PLATE,DAMPER DRIVE      N39634       HOSE, F.W.P. TO MAN    N40571   BLANKET, TURBOCHARGE
+
+N38340    MANUAL, SERVICE 1100    N39661       CAP, 50.8 MM X 25 MM   N40573     SETSCREW, M8 X 60
+
+N38401   RESISTOR ASSEMBLY, 5     N39666      24V SPARES KIT, MAJO    N40574       RETAINER, M8
+
+N38460   SWITCH, HIGH WATER T     N39680      HOSE, REDUCER, 54 DI    N40576   SUPPORT STUD, BELT G
+
+N38551   HOSE, RADIATOR TO TH     N39688      ‘O' RING, HEAT EXCHA    N40577   SUPPORT STUD, BELT G
+
+N38581   MANIFOLD, EXHAUST (R     N39690     TUBESTACK, HEAT EXCH     N40585   BRACKET, ENGINE FOO
+
+N38784    PUMP, FUEL, ELECTRIC    N39695      ‘O' RING, INTERCOOLE    N40611    ELBOW, 90 DEG, 8MM T
+
+N38785    PUMP, FUEL, ELECTRIC    N39706        CLAMP-HOSE, 16-27     N40612    PIPE, RELIEF VALVE R
+
+N38813   HOSE, SILICONE NOMEX     N39707        CLAMP-HOSE, 25-40     N40614    PIPE, INJECTION PUMP
+
+N38814   HOSE, SILICONE NOMEX     N39745      GROMMET, 14.3MM ID X    N40618      BADGE, PERKINS
+
+N38918    HOSE, ENGINE OIL, DU    N39764     GASKET, CYLINDER HEA     N40624      KIT, FUEL SYSTEM
+
+N38924    EXH OUTLET, F.W.J. 1    N39792      STARTER MOTOR, 12V      N40626   BRACKET, MTG, THROTT
+
+N38950   THERMOSTAT, 82 DEG (     N39793      STARTER MOTOR, 24V      N40627      LEVER, THROTTLE
+
+N39040   SHROUD, EMERGENCY ST     N39875       CAP, 44.5MM, BLACK     N40640    DECAL, PERKINS, INST
+
+N39069       SEAL-BONDED          N39885      ADAPTOR, M12 X 1.5 X    N40650    SPACER, 17.5 OD x 13
+
+N39073    KIT, ELECTRICAL MATI    N39886          TEE, 8MM PIPE       N40658    DECAL, CONTROL BOX,
+
+N39074     END CAP, BLANKING      N40162       ELBOW, 1/4" BSPT X8    N40682    PLUG, 3/8" BSPT, SOL
+
+N39081   ADAPTOR PLATE, SAE 3     N40163      GASKET,CYL BLOCK TO     N40684   HOSE, BREATHER TO CY
+
+N39375    ELBOW, EXHAUST, 4" (    N40178      ASSEMBLY, MCS 2, CON    N40686   BREATHER, CRANKCASE
+
+N39377   DECAL, COMPONENT LAY     N40206      CONTROLLER, DEIF, MC    N40687    ELEMENT, BREATHER
+
+N39419   MOUNTS, CONTROL BOX      N40222      SPACER BLOCK, OIL FI    N40688   PANEL ASSEMBLY, MAIN
+
+N39441   CAPSCREW, M5 X 35MM      N40290        HOSE, 5/16" ID, PVC   N40690   GAUGE, COOLANT TEMP
+
+N39453   HANDBOOK, USERS, 400     N40294      INTERCOOLER (SINGLE     N40691   GAUGE, OIL PRESSURE
+
+N39468      HOURMETER, 24V        N40296     DECAL, COMPONENT LAY     N40692      GAUGE, VOLTAGE
+
+N39473    HOSE,FUEL RETURN, IN    N40357      CONNECTION, M12 X 8M    N40693    GAUGE, TACHOMETER
+
+N39474    HOSE, OIL FEED, FUEL    N40367       HOSE, 50.8 MM X 70 M   N40695        CONTROLLER
+
+N39478    PLUG, BRASS, 1/4" BS    N40368       HOSE, 76.2 MM X 75 M   N40696        LED, AMBER
+
+N39483    HOSE, 1" ID X 2M LON    N40386       HOSE, 1/4" TEXTILE B   N40697          LED, RED
+
+N39507   BELT COVER, OPEN GEN     N40391     CLIP, CONVOLUTED TUB     N40698   SWITCH, TOGGLE (KEYS
+
+N39512    KIT, MOTORPAL FUEL H    N40398       EXHAUST, 90 DEG, 3.5   N40699   SWITCH, TOGGLE (STAR
+
+N39522    HARNESS, ENGINE OIL     N40401     BELLOWS, EXHAUST, AS     N40700   SWITCH, PUSHBUTTON (
+
+N39523   USERS HANDBOOK, SPAN     N40435      INVERTER, VOLTAGE, 1    N40701   SWITCH, PUSHBUTTON (
+
+N39524     ELBOW, 3/8" X 3/8" S   N40436      CONVERTER, VOLTAGE,     N40704           ALARM
+
+N39527    ALTERNATOR, 12V, 55A    N40473     DUCT, TURBO TO CHARG     N40706    PANEL ASSEMBLY, AUX
+
+N39528    ALTERNATOR, 24V, 35A    N40475      INSTALLATION MANUAL,    N40707        PANEL, AUX
+
+N39530   GASKET, CYLINDER HEA     N40483        HOSE, 2" ID x 30° x   N40709     PANEL, KEYSWITCH
+
+N39531   HEADER TANK AND EXHA     N40508       SPACER, 24 AF HEX X    N40710      RELAY, 12V 300A
+
+N39543    BRACKET, MOUNTING, |    N40509       SPACER, 25 OD X 10.5   N40712   SENSOR, COOLANT LEVE
+
+N39544    HOSE, F.W.P. TO MANI    N40517       COVER, FUEL PIPES      N40713   SENSOR, EXHAUST TEMP
+
+N39545    HOSE, F.W.P. TO MANI    N40518       ASSEMBLY, PIPE, OIL,   N40716      PLUG, RESISTOR
+
+N39546    HOSE, F.W.P. TO MANI    N40520       PIPE, FILLER, R.W.P.   N40717    BREAKER, CIRCUIT, 10
+
+N39547    HOSE, BYPASS (TIER 3    N40526      BOLT, CARRIAGE HEAD,    N40720      RELAY, 24V 300A
+
+N39560    PIPE, TURBO OIL FEED    N40538       ADAPTOR, 1/4" BSPT
+                                                                (     N40722   HARNESS, ENGINE WIRI
+
+N39574    HOSE, R. W. P. TO CH    N40544      HOSE, CAC TO HEAT EX    N40723   HARNESS, CUSTOMER WI
+
+N39612   IMPELLER, RAW WATER      N40556      PIPE, RAV PUMP INLET    N40724   TEE, J1939 CONNECTIO
+
+
+
+
+                                    Perkins Sabre Marine Parts List
+
+                                     Contact us today for a quote.
+

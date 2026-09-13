@@ -1,0 +1,1993 @@
+                    Part No N37347
+
+             ®             GB
+
+
+
+User’s Handbook
+
+
+
+
+                  M92B
+N37347                                                                                             Title
+
+
+
+
+Perkins
+
+M92B
+Marine Diesel Engine
+
+User’s Handbook
+Four cylinder diesel engine for commercial and pleasure
+boat applications
+
+
+
+
+Publication N37347, Issue 7.
+© Proprietary information of Wimborne Marine Power Centre, all rights reserved.
+The information is correct at the time of print.
+Published in December 2013 by Wimborne Marine Power Centre, Wimborne, Dorset, England BH21 7PW
+Tel: +44(0)1202 796000 Fax: +44(0)1202 796001 E -mail: Marine@Perkins.com www.perkins.com/Marine
+Title   N37347
+N37347                                                                                                                 Contents
+
+
+
+
+1 General information..................................................................................1
+  Introduction. ..................................................................................................................1
+  How to care for your engine.........................................................................................2
+  General safety precautions..........................................................................................4
+  Engine guarantee..........................................................................................................5
+  Perkins companies. ......................................................................................................6
+
+2 Engine views. ............................................................................................9
+  Introduction. ..................................................................................................................9
+        Front and left side view (A) of the engine.......................................................9
+        Rear and right side view (B) of the engine. ....................................................10
+
+3 Operation instructions............................................................................. 11
+  How to start the engine. .............................................................................................. 11
+  Basic control panel......................................................................................................12
+  Engine Wiring Harness,...............................................................................................13
+  How to start the engine. ..............................................................................................14
+        How to start a cold engine in cold conditions. ..............................................14
+        How to start a warm engine, or if the ambient temperature is hotter than -
+        5°C (23°F)...........................................................................................................14
+  How to stop the engine................................................................................................15
+  Adjustment of engine speed range. ...........................................................................15
+  Running-in. ...................................................................................................................15
+  Angle of tilt. ..................................................................................................................15
+  Free rotation of the propeller shaft or “trailing”. ......................................................16
+  Operation of the lever for gear selection ..................................................................16
+        Newage PRM 500D reverse gearbox (C).........................................................16
+        Hurth 45 A (D)....................................................................................................16
+  Emergency procedures...............................................................................................17
+        If the engine stops. ...........................................................................................17
+        If there is a reduction in engine speed or a loss of power............................17
+        If a high-pressure fuel pipe is broken or has a crack....................................17
+        If leakage occurs from a low pressure fuel pipe............................................17
+        If leakage of lubricating oil occurs:.................................................................17
+
+4 Preventive maintenance..........................................................................19
+  Preventive maintenance periods................................................................................19
+  Schedules.....................................................................................................................20
+  How to fill the coolant circuit......................................................................................21
+  How to drain the coolant circuit. ................................................................................22
+        Engines fitted with keel coolers. .....................................................................22
+ Contents                                                                                                                   N37347
+
+  How to check the specific gravity of the coolant......................................................23
+  How to drain the raw water system............................................................................24
+  How to check the impeller of the raw water pump....................................................25
+  How to check the drive belt.........................................................................................26
+          How to adjust the belt tension.........................................................................26
+  How to renew the element of the fuel filter................................................................27
+          Fuel pre-filter.....................................................................................................27
+  Atomiser maintenance.................................................................................................28
+          Atomiser faults..................................................................................................28
+  How to remove and to fit an atomiser........................................................................29
+          How to remove. .................................................................................................29
+  How to fit.......................................................................................................................30
+  How to eliminate air from the fuel system.................................................................31
+  How to renew the lubricating oil.................................................................................32
+  How to renew the canister of the lubricating oil filter. .............................................33
+  How to renew the lubricating oil of the Newage PRM 500D reverse gearbox........ 34
+  How to renew the lubricating oil of the ZF 45 A reverse gearbox. ..........................35
+  Air filter. ........................................................................................................................36
+  Restriction indicator. ...................................................................................................37
+  How to check the valve tip clearances.......................................................................38
+  Seacock strainer. .........................................................................................................39
+  Corrosion......................................................................................................................39
+  Supplementary tools....................................................................................................39
+  Power take-off. .............................................................................................................39
+
+5 Engine fluids.............................................................................................41
+  Fuel specification.........................................................................................................41
+  Lubricating oil specification. ......................................................................................42
+  Coolant specification...................................................................................................43
+
+6 Fault diagnosis.........................................................................................45
+  Problems and possible causes...................................................................................45
+  List of possible causes................................................................................................46
+
+7 Engine preservation.................................................................................49
+  Introduction. .................................................................................................................49
+  Procedure. ....................................................................................................................49
+  How to add antifreeze to the raw water system for engine
+  preservation purposes. ...............................................................................................50
+
+8 Parts and service. ....................................................................................51
+  Introduction. .................................................................................................................51
+  Service literature..........................................................................................................51
+  Training. ........................................................................................................................51
+  On-board spares kit.....................................................................................................51
+N37347                                                                                                              Contents
+
+  POWERPART recommended consumable products................................................51
+
+9 General data. ............................................................................................53
+          Engine................................................................................................................53
+          Reverse gearbox...............................................................................................53
+Contents   N37347
+N37347                                                                                           Chapter 1
+
+                                                                                General information
+
+
+Introduction
+The Perkins M92B marine engine is the latest development from Perkins Engines Company Limited together
+with Wimborne Marine Power Centre. The engine is designed specifically for use in commercial and pleasure
+boat applications.
+
+Over sixty years of diesel production experience, together with the latest technology, have been applied to the
+manufacture of your engine to give you reliable and economic power.
+
+Danger is indicated in the text by two methods:
+
+Warning! This indicates that there is a possible danger to the person.
+
+Caution: This indicates that there is a possible danger to the engine.
+
+Note: Is used where the information is important, but there is not a danger.
+
+
+
+
+                                                                                                      Page 1
+ Chapter 1                                                                                            N37347
+
+How to care for your engine
+Warning! Read the “Safety precautions” and remember them. They are given for your protection and must be
+applied at all times.
+
+Caution: Do not clean an engine while it runs. If cold cleaning fluids are applied to a hot engine, certain
+components on the engine may be damaged.
+
+This handbook has been written to assist you to maintain and operate your engine correctly.
+
+To obtain the best performance and the longest life from your engine, you must ensure that the maintenance
+operations are done at the intervals indicated in “Preventative maintenance”. If the engine works in a very
+dusty environment or other adverse conditions, certain maintenance intervals will have to be reduced. Renew
+the filter canister and lubricating oil regularly in order to ensure that the inside of your engine remains clean.
+
+Ensure that all adjustments and repairs are done by personnel who have had the correct training. Perkins
+distributors have this type of personnel available. You can also obtain parts and service from your Perkins
+distributor. If you do not know the address of your nearest distributor, enquire at www.perkins.com/Marine.
+
+The “left side” and “right side” of the engine apply when the engine is seen from the reverse gearbox end.
+
+
+
+
+Page 2
+N37347   Chapter 1
+
+
+
+
+            Page 3
+    Chapter 1                                                                                           N37347
+
+General safety precautions
+These safety precautions are important.You must refer also to the local regulations in the country of use.
+Some items only apply to specific applications.
+
+•     Only use these engines in the type of application for which they have been designed.
+•     Do not change the specification of the engine.
+•     Do not smoke when you put fuel into the tank.
+•     Clean away fuel which has been spilt. Material which has been contaminated by fuel must be moved to a
+      safe place.
+•     Do not put fuel into the tank while the engine runs (unless it is absolutely necessary).
+•     Do not clean, add lubricating oil, or adjust the engine while it runs (unless you have had the correct
+      training; even then extreme care must be used to prevent injury).
+•     Do not make adjustments that you do not understand.
+•     Ensure that the engine does not run in a location where it can cause a concentration of toxic emissions.
+•     Other persons must be kept at a safe distance while the engine, auxiliary equipment or boat is in
+      operation.
+•     Do not permit loose clothing or long hair near moving parts. Warning: Some moving parts cannot be
+      seen clearly while the engine runs.
+•     Keep away from moving parts during engine operation.
+•     Do not operate the engine if a safety guard has been removed.
+•     Do not remove the filler cap or any component of the cooling system while the engine is hot and while
+      the coolant is under pressure, because dangerous hot coolant can be discharged.
+•     Do not use salt water or any other coolant which can cause corrosion in the closed circuit of the cooling
+      system.
+•     Disconnect the battery terminals before a repair is made to the electrical system.
+•     Only one person must control the engine.
+•     Ensure that the engine is operated only from the control panel or from the operators position.
+•     If your skin comes into contact with high-pressure fuel, obtain medical assistance immediately.
+•     Diesel fuel and lubricating oil (especially used lubricating oil) can damage the skin of certain persons.
+      Protect your hands with gloves or a special solution to protect the skin.
+•     Do not wear clothing which is contaminated by lubricating oil. Do not put material which is contaminated
+      with oil into the pockets of clothing.
+•     Discard used lubricating oil in accordance with local regulations to prevent contamination.
+•     Ensure that the control lever of the transmission drive is in the “out-of-drive” position before the engine is
+      started.
+•     Use extreme care if emergency repairs must be made at sea or in adverse conditions.
+•     The combustible material of some components of the engine (for example certain seals) can become
+      extremely dangerous if it is burned. Never allow this burnt material to come into contact with the skin or
+      with the eyes.
+•     Always close the seacock before the removal of any component of the raw water circuit.
+•     Always use a safety cage to protect the operator when a component is to be pressure tested in a
+      container of water. Fit safety wires to secure the plugs which seal the hose connections of a component
+      which is to be pressure tested.
+•     Do not allow compressed air to contact your skin. If compressed air enters your skin, obtain medical help
+      immediately.
+•     Turbochargers operate at high speed and at high temperature. Keep fingers, tools and debris away from
+      inlet and outlet ports of the turbocharger and prevent contact with hot surfaces.
+•     Do not clean an engine while it runs. If cold cleaning fluids are applied to a hot engine, certain
+      components on the engine may be damaged.
+•     Fit only genuine Perkins parts.
+
+Page 4
+N37347                                                                                              Chapter 1
+
+Engine guarantee
+If a claim under guarantee is necessary, the boat owner should make a guarantee claim on the nearest Perkins
+marine distributor or an approved dealer.
+
+If it is difficult to find a Perkins distributor or an approved dealer, consult the Service Department of Wimborne
+Marine Power Centre, Wimborne.
+
+M92B engine - identification letters RE
+
+The engine identification number is shown at two locations on the engine: stamped on a plate at the right side
+of the cylinder block (C1) and shown on a label (D1) fitted to the front of the timing case.
+
+An example of an engine number is: RE51267U123456L.
+
+The components of the engine number are as follows:
+
+RE51267U123456L
+
+RE               Type code letters
+
+51267            Build list number
+
+U                Built in the UK
+
+123456           Engine serial number
+
+L                Year of manufacture
+
+If you need parts, service or information for your engine, you must give the complete engine number to your
+Perkins distributor.
+
+
+
+
+                                                                                                         Page 5
+ Chapter 1                                 N37347
+
+Perkins companies
+
+Australia
+
+Perkins Engines Australia Pty. Ltd,
+Suite 4, 13A Main Street,
+Mornington 3931, Victoria, Australia.
+Telephone: 0061 (0) 597 51877
+Telex: Perkoil AA30816
+Fax: 0061 (0) 0597 1305
+
+France
+
+Perkins France S.A.S,
+“Parc des reflets”
+165 Avenue Du Bois de la Pie
+95700 Roissy Charles de Gaulle, France.
+Telephone: 0033 (01) 49 90 7171
+Fax: 0033 (01) 49 90 7190
+
+Germany
+
+Perkins Motoren GmbH,
+Saalaeckerstrasse 4,
+63801 Kleinostheim,
+Germany.
+Telephone: 0049 6027 5010
+Fax: 0049 6027 501124
+
+Italy
+
+Motori Perkins S.p.A.,
+Via Socrate 8,
+22070 Casnate con Bernate (Como), Italy.
+Telephone: 0039 (0) 31 4633466 / 4633488
+Fax: 0039 (0) 31 565480 / 396001
+
+Japan
+
+Perkins Engines, Inc.,
+Address Building, 8th Floor,
+2-2-19 Akasaka, Minato-ku,
+Tokyo 107-0052, Japan.
+Telephone: 0081 (0) 3 3560 3878
+Fax: 0081 (0) 3 3560 3877
+
+Singapore
+
+Perkins Engines (Asia Pacific) pte Ltd
+20 Harbour Drive
+#07-06A, PSA Vista
+Singapore 117612
+Telephone: (65) 874 7712
+Fax: (65) 874 7722
+
+
+
+
+Page 6
+N37347                                                                                         Chapter 1
+United Kingdom
+
+Perkins Engines Company Ltd,
+Eastfield, Peterborough PE1 5NA,
+England.
+Telephone: 0044 (0) 1733 58 3000
+Telex: 32501 Perken G
+Fax: 0044 (0) 1733 582240
+
+United States of America
+
+Perkins International - North America,
+26200 Town Center Drive,
+Suite 280,
+Novi, Michigan 48375
+USA
+Telephone: 001 248 374 3100
+Fax: 001 248 374 3110
+
+Perkins Engines Latin America Inc,
+
+Suite 620,
+999, Ponce de Leon Boulevard,
+Coral Gables,
+Florida 33134, U.S.A.
+Telephone: 001 305 442 7413
+Telex: 32501 Perken G
+Fax: 001 305 442 7419
+In addition to the above companies, there are Perkins distributors in most countries. Perkins Engines Company
+Ltd., Peterborough or one of the above companies can provide details.
+
+The managers of the marine business for Perkins are:
+
+Wimborne Marine Power Centre,
+
+Ferndown Industrial Estate,
+Wimborne,
+Dorset BH21 7PW,
+England.
+Telephone: 0044 (0) 1202 796000
+Fax: 0044 (0) 1202 796001
+
+
+
+
+                                                                                                    Page 7
+Chapter 1   N37347
+
+
+
+
+Page 8
+N37347                                                                                        Chapter 2
+
+                                                                                        Engine views
+
+
+Introduction
+Perkins engines are built for specific applications and the views that follow do not necessarily match your
+engine’s specification.
+
+Location of engine parts
+
+Front and left side view (A) of the engine
+1. Air cleaner                                        9. Belt cover
+2. Electric fuel pump                                 10. Raw water pump
+3. Fuel filter canister                               11. Calorifier fitting (return)
+4. Heat exchanger                                     12. Oil filler cap
+5. Gearbox oil cooler                                 13. Fresh water pump
+6. Dipstick                                           14. Header tank
+7. Fuel inlet hose                                    15. Oil filler cap
+8. Fuel return hose                                   16. Fresh water filler cap
+
+
+
+
+                                                                                                  Page 9
+Chapter 2                                    N37347
+Rear and right side view (B) of the engine
+17. Front lifting eye
+18. Calorifier fitting (feed)
+19. Alternator
+20. Exhaust elbow
+21. Oil filter
+22. Starter
+23. Lubricating oil sump
+24. Sump pump
+25. Exhaust manifold
+26. Air filter
+
+
+
+
+Page 10
+N37347                                                                                              Chapter 3
+
+                                                                              Operation instructions
+
+
+How to start the engine
+The instrument control panel for single and twin engine installations is shown in figure (A). The switches are
+protected from the entry of water, but if the control panel is in an exposed location, it should be protected by a
+cover when not in use.
+
+Below is a description of the instruments and switches on the main panel.
+
+Panel illumination: the gauges are always illuminated, press the button (A1) to adjust the level of
+illumination.
+
+Engine electrical system / stop switch (A5), which has two positions:
+
+• OFF: Move the switch lever up to switch off the electrical system
+• ON: Move the switch lever down to energise the electrical system.
+Heat / start switch (A4), which is held up to energise the cold start aid (if one is fitted), or held down to
+energise the starter motor.
+
+Stop button (A6) press the button to stop the engine.
+
+Warning lamp (A2) to indicate that there is no electrical charge from the alternator.
+
+Voltmeter (A3) to indicate the condition of the batteries and of the alternator.
+
+Warning lamp (A10) for high coolant temperature
+
+Gauge (A9) to indicate coolant temperature.
+
+Tachometer (A12) to indicate the engine speed.The tachometer also has an hourmeter, this can be used to
+ensure that the engine is maintained at the correct intervals.
+
+Warning lamp (A8) for low lubricating oil pressure.
+
+Gauge (A7) to indicate the lubricating oil pressure of the engine.
+
+Warning lamp (A11) for water in the fuel.
+
+Audible warning device, which operates if the engine has low lubricating oil pressure or high coolant
+temperature. The audible warning device is situated behind the control panel.
+
+Caution: If the audible warning device operates, the warning light(s) on the relevant main panel will indicate
+the engine affected. Reduce the speed of the engine affected to idle and, if necessary, stop the engine.
+
+
+
+
+                                                                                                       Page 11
+ Chapter 3                                                                                         N37347
+
+Basic control panel
+The basic control panel shown in figure (B). The switches are protected from the entry of water, but if the
+control panel is in an exposed location, it should be protected by a cover when not in use.
+
+Below is a description of the instrument and switches on the auxiliary panel.
+
+Caution: If the audible warning device operates, the warning light(s) on the relevant main panel will indicate
+the engine affected. Reduce the speed of the engine affected to idle and, if necessary, stop the engine.
+
+Audible warning device, which operates if the engine has low lubricating oil pressure or high coolant
+temperature.
+
+Engine electrical system / stop switch (B5), which has two positions:
+
+• OFF: Move the switch lever up to switch off the electrical system
+• ON: Move the switch lever down to energise the electrical system.
+Tachometer (B7) to indicate the engine speed.
+
+Heat / start switch (B4), which is held up to energise the cold start aid (if one is fitted), or held down to
+energise the starter motor.
+
+Stop button (B6) press the button to stop the engine.
+
+Warning lamp (B3) to indicate that there is no electrical charge from the alternator.
+
+Warning lamp (B2) for high coolant temperature.
+
+Warning lamp (B1) for low lubricating oil pressure.
+
+
+
+
+Page 12
+N37347                                                                                               Chapter 3
+
+Engine Wiring Harness,
+The engine wiring harness is designed convey information to and from the engine instrument / control panel.
+Within the harness is a circuit breaker and a –ve earth fuse to protect the wiring in the event of a short circuit
+as well as control relays, all of which are housed in an enclosure adjacent to the alternator.
+
+Access to the circuit breaker is from the outside of the control box. This can be used to isolate the control
+system during servicing. The 10A breaker protects the control system to the panel(s). Interruption of this will
+inhibit the instrument / control panel and thus the starting of the engine.
+
+The momentary connection of the –ve line to earth is protected by an 80A fuse located within the enclosure
+adjacent to the 10A breaker.
+
+Within the control box are 4 relays. Three are high current relays designed to control the operation of the starter
+and the glowplugs. During the operation of the glowplugs a negative earth relay momentarily grounds the
+engine to negative. The fourth relay controls the fuel lift pump stop solenoid and cold start advance solenoid.
+
+In addition to monitoring the engine oil pressure and engine coolant temperature the wiring harness also
+connects to a cold start advance solenoid which operates through a temperature switch which opens above
+40OC to 50OC
+
+The fuel is delivered to the fuel injection pump via an electric fuel lift pump. This commences operation in
+tandem with the stop solenoid when the engine circuit switch is operated on the instrument / control panel.
+
+Engine circuit variations due to system voltage.
+
+12v Engines - Engines with 12v systems will have fitted a 12v to 24v inverter (Unit colour red) to operate the
+24v insulated stop solenoid and 24v cold start advance solenoid.
+
+24v Engines - Engines with 24v systems will have fitted a 24v to 12v converter (Unit colour black) to operate
+the 12v fuel lift pump.
+
+Care should be taken to ensure that there is adequate ventilation around the voltage converter / inverter to
+ensure that does not overheat.
+
+Warning! On no account may any additional load be placed on either the inverter or converter as this may
+cause the unit to fail.
+
+Where one engine is required to charge two sets of batteries then one option is to fit a split charge relay. This
+should be connected as follows:
+
+Fit one side of the coil to the charge warning lamp terminal on the alternator. (Ind – violet cable in harness) The
+other side of the coil is connected to the negative connection on the alternator.
+
+The relay contacts are connected with one side going to the positive side of the alternator and the other side
+going to the positive on the second battery. It is important to ensure that the relay and cables are of sufficient
+size to handle the maximum alternator output.
+
+
+
+
+                                                                                                        Page 13
+ Chapter 3                                                                                             N37347
+
+How to start the engine
+Use only this procedure to start the engine; it has been designed to protect the engine and the environment.
+
+Several factors affect engine start, for example:
+
+• The power of the batteries
+• The performance of the starter motor
+• The viscosity of the lubricating oil
+• The installation of a cold start system.
+Diesel engines need a cold starting aid if they are to start in extremely cold conditions. These engines are fitted
+with glow plugs as standard and are only necessary in ambient temperatures colder than -5ºC
+
+Before the engine is started the operator should understand fully the controls and their use.
+
+Preparations for an engine start
+
+1. Ensure that there is more than enough fuel in the tank for the voyage.
+2. Ensure that the fuel supply control (if fitted) is in the open position.
+3. Check that the seacock strainer is clean.
+4. Open the seacock.
+5. Check the amount of coolant in the header tank.
+6. Check the amount of lubricating oil in the sump, and in the reverse gearbox.
+7. Ensure that the control lever for the reverse gearbox is in the neutral position..
+How to start a cold engine in cold conditions
+Caution: Ether type fuels must not be used.
+
+Note: Use this method when the ambient temperature is colder than -5OC (23OF).
+
+1. Switch on the electrical system.
+2. Check that the reverse gearbox is in neutral. Adjust the engine speed control to the minimum speed
+position.
+3. Hold the lever of the heat/start switch in the up position for 15 seconds. Hold the lever of the heat/start
+switch in the down position to engage the starter motor. When the engines starts, release the lever. Adjust
+the engine speed control to give an even idle.
+4. Check that water comes out of the end of the exhaust pipe or out of the separate discharge outlet.
+5. If the engine does not start in 15 seconds, allow the starter motor to cool for 30 seconds. When the
+engine has started, adjust the engine speed control to get an even idle speed. Check that water comes out of
+the end of the exhaust pipe or out of the separate discharge outlet.
+Always ensure that the engine and starter motor are stationary before the starter motor is engaged again.
+
+How to start a warm engine, or if the ambient temperature is hotter than -5°C (23°F).
+1. Switch on the electrical system.
+2. Check that the reverse gearbox is in neutral. Adjust the engine speed control to the minimum speed
+position.
+3. Hold the start switch down to engage the starter motor. When the engine starts, adjust the engine speed
+control to give an even idle speed. Check that water comes out of the end of the exhaust pipe or out of the
+separate discharge outlet.
+Always ensure that the engine and starter motor are stationary before the starter motor is engaged again.
+
+Caution: Do not run the electric fuel lift pump for more than 60 seconds without fuel. The fuel pump can be
+permanently damaged as it relies on the fuel for lubrication.
+
+
+
+
+Page 14
+N37347                                                                                               Chapter 3
+
+How to stop the engine
+1. Adjust the engine speed control to the minimum speed position. Ensure that the control lever for the
+reverse gearbox is in the neutral position. If the engine has operated at high load for a long period of time,
+allow the engine to cool for one to two minutes.
+2. Press the stop button until the engine stops. Release the stop switch or rotate the switch to the off
+position.
+
+
+Adjustment of engine speed range
+The idle or maximum speed settings must not be changed by the engine operator, because this can damage
+the engine or the transmission. The warranty of the engine can be affected if the seals on the fuel injection
+pump are broken during the warranty period by a person who is not approved by Perkins.
+
+
+Running-in
+A gradual running-in of a new engine is not necessary. Prolonged operation at light loads during the early life
+of the engine can cause lubricating oil to enter the exhaust system. Maximum load can be applied to a new
+engine as soon as the engine is put into service and the coolant temperature has reached a minimum of 60OC
+(140OF).
+
+Cautions:
+• The engine will benefit if the load is applied as soon as possible after the engine is put into service.
+• Do not operate the engine at high speeds without a load.
+• Do not overload the engine.
+
+
+Angle of tilt
+For yachts with auxiliary engines, it may be necessary to use the engine during operation against the wind. In
+these conditions, an angle of tilt (port or starboard) up to 25O continuous operation or 35O intermittent operation
+is permissible.
+
+
+
+
+                                                                                                        Page 15
+ Chapter 3                                                                                 N37347
+
+Free rotation of the propeller shaft or “trailing”
+The propeller shaft of both the Newage PRM 500D and the Hurth 45 A reverse gearboxes can be allowed to
+turn continuously with the control lever in the neutral position.
+
+The recommendations of the manufacturer of the reverse gearbox must be followed.
+
+
+Operation of the lever for gear selection
+Newage PRM 500D reverse gearbox (C)
+For same-as-crankshaft rotation, move the lever to the position (C1).
+
+To put the reverse gearbox into neutral, move the lever to the centre position (C2).
+
+For opposite-to-crankshaft rotation, move the lever to the position (C3).
+
+Hurth 45 A (D)
+For same-as-crankshaft rotation, move the lever to the position (D3).
+
+To put the reverse gearbox into neutral, move the lever to the position (D2).
+
+For opposite-to-crankshaft rotation, move the lever to the position (D1).
+
+
+
+
+Page 16
+N37347                                                                                                Chapter 3
+
+Emergency procedures
+If the engine stops
+1. Check that the fuel supply valve (if fitted) is in the open position.
+2. Check the fuel pre-filter (if fitted) and the fuel filters for water. If a warning light for water in the fuel is
+fitted, and it is illuminated, water has entered the pre-filter. Water must be removed before the engine is
+operated. Drain any water found and fit new filters.
+3. Check the amount of fuel in the tank. If the engine has run until the tank is empty, there may be dirt or air
+in the fuel pipes. Change the fuel filter, see section 4. Fill the tank. Eliminate air from the system, see section
+4.
+4. Start the engine again. If the engine still will not start, check that the cables and contacts of the stop
+solenoid are in good condition.
+If there is a reduction in engine speed or a loss of power
+1. Check that the propeller is free of debris.
+2. Check that the induction system is not restricted and that the engine compartment has a good supply of
+air.
+3. Check that the fuel pre-filter or the fuel filter elements are not restricted or contaminated by water. If a
+warning light for water in the fuel is fitted, and it is illuminated, water has entered the pre-filter. Water must be
+removed before the engine is operated. Drain any water found and fit new filters.
+If the warning lamp / audible warning for high coolant temperature operates
+
+Warning! Do not remove the filler cap while the engine is still hot and the system is under pressure, because
+dangerous hot coolant can be discharged.
+
+1. Reduce the engine speed to idle. Stop the engine if there is a leakage of steam or coolant from the
+engine.
+2. Check that the coolant level is correct after the engine has cooled.
+3. Check the seacock and strainer to ensure that there is not a restriction to the supply of water to the
+cooling system.
+4. Check the raw water pump operation. Check the impeller.
+Note: Coolant leakage can be stopped temporarily with adhesive tape, hose and hose clips.
+
+If a high-pressure fuel pipe is broken or has a crack
+Warning! Ensure that fuel does not spray onto the skin. Stop the engine if there is a leakage of high-pressure
+fuel.
+
+1. Stop the engine.
+2. Remove the broken pipe from the engine.
+3. Connect the end of the pipe that is not broken to the fuel injection pump. Put the broken end of the pipe
+into a suitable container.
+4. Operate the engine at a reduced speed on the remainder of the cylinders. Empty the container at regular
+intervals.
+If leakage occurs from a low pressure fuel pipe
+Temporarily stop the leak with a hose and hose clips.
+
+If leakage of lubricating oil occurs:
+1. Stop the engine immediately and try to find the cause.
+2. If the main flow can be reduced, put a suitable container under the leakage point.
+3. Fill the engine with new lubricating oil at the same rate as the loss of oil and frequently check the
+lubricating oil pressure.
+
+
+
+
+                                                                                                          Page 17
+Chapter 3   N37347
+
+
+
+
+Page 18
+N37347                                                                                          Chapter 4
+
+                                                                         Preventive maintenance
+
+
+Preventive maintenance periods
+These preventive maintenance periods apply to average conditions of operation. Check the periods given by
+the manufacturer of the boat in which the engine is installed. If necessary, use the shorter periods. When the
+operation of the engine must conform to the local regulations these periods and procedures may need to be
+adapted to ensure correct operation of the engine.
+
+It is good preventive maintenance to check for leakage and loose fasteners at each service.
+
+These maintenance periods apply only to engines that are operated with fuel and lubricating oil which conform
+to the specifications given in this handbook.
+
+Use the procedures in this section to maintain your engine in accordance with the preventive maintenance
+schedule.
+
+
+
+
+                                                                                                   Page 19
+ Chapter 4                                                                                                                   N37347
+
+Schedules
+The schedules which follow must be applied at the interval (hours or months) which occur first.
+
+A First service at 25/50 hours                   D Every 500 hours or 12 months                  G Non-scheduled maintenance
+
+B Every day or every 8 hours                     E Every 1000 hours
+
+C Every 250 hours or 12 months                   F Every 2000 hours
+
+ A    B    C D E         F    G Operation
+                                  Check the amount of coolant in the header tank
+                                  Check the engine for leakage of oil and coolant
+                                  Check the specific gravity of the coolant (2)
+                                 Check the tension and the condition of the drive belt
+
+                                  Check the impeller of the raw water pump
+                                  Check the sea water strainer
+
+                                  Clean the sediment chamber and the strainer of the fuel lift pump
+                                 Drain water from the fuel pre-filter (1)
+                                  Renew the element of the fuel filter
+                                  Atomiser maintenance (2) (5)
+                                  Ensure that the idle speed is checked and adjusted, if it is necessary (2)
+
+                                  Check the amount of lubricating oil in the sump
+                                  Check the lubricating oil pressure at the gauge
+                                  Renew the engine lubricating oil (4) (6)
+                                  Renew the canister of the lubricating oil filter (6)
+                                  Check the amount of lubricating oil in the reverse gearbox
+                                 Renew the lubricating oil in the reverse gearbox (6)
+
+                                  Renew the engine breather (2) (7)
+                                  Renew the element of the air filter
+                                  Check all hoses and connections
+                                  Check the valve tip clearances of the engine, and adjust if necessary (2)
+
+                                  Check the audible warning system which protects the engine
+                                  Ensure that the alternator, the starter motor, etc. are checked (2)
+                                  Check the engine mounts
+                                  Inspect the electrical system for signs of damage (2)
+(1) If one is fitted.
+(2) By a person who has had the correct training.
+(3) Renew the antifreeze every 2 years.
+(4) The oil change interval will change with the amount of sulphur in the fuel (see the table and the Fuel Specification in section 5). The
+interval to change the canister of the lubricating oil filter is not affected.
+(5) Regular maintenance of the atomisers is not necessary.
+(6) Refer to Wimborne Marine Power Centre for approval to extend intervals.
+(7) Renew the complete engine breather assembly at major engine service or 8000 hours.
+
+
+
+
+Page 20
+N37347                                                                                               Chapter 4
+
+How to fill the coolant circuit
+Warning! If coolant is to be added to the circuit during service, allow the engine to cool before the coolant is
+added. Remove the filler cap slowly as dangerous coolant could be discharged if the coolant is still hot and the
+system is under pressure.
+
+Do not put too much coolant in the coolant circuit. There is a relief valve in the filler cap which will open and
+release hot coolant if too much coolant is added.
+
+Caution: If coolant is added to the circuit during service, it must consist of the same original mixture as used
+to fill the system. See “Coolant specification” in section 5 for details of the correct coolant to be used in the
+circuit.
+
+1. Remove the filler cap (A1) of the header tank and slowly fill the coolant system until the coolant level is
+approximately 12 mm (0.5 in) (A2) below the neck of the filler tube.
+Note: It is necessary to vent air from the system during initial fill, or if he system has been completely drained.
+To vent air, remove the plug (B1)
+
+2.   Fit the filler cap.
+3.   Start the engine. When it has reached its normal temperature of operation, stop it.
+4.   Carefully remove the filler cap of the header tank and add coolant until the level of the coolant is correct.
+5.   Fit the filler cap.
+
+
+
+
+                                                                                                        Page 21
+ Chapter 4                                                                                           N37347
+
+How to drain the coolant circuit
+Warnings!
+• Do not drain the coolant while the engine is still hot and the system is under pressure because dangerous
+  hot coolant can be discharged.
+• Discard used coolant in a safe place and in accordance with local regulations.
+1. Remove the filler cap of the coolant circuit.
+2. Remove the drain plug (C1) from the side of the cylinder block and the drain plug (D1) from the heat
+exchanger. Ensure that the drain holes are not restricted.
+3. After the system has been drained, fit the filler cap and the drain plugs.
+4. Fasten a label in a suitable place to indicate that the coolant system has been drained.
+Caution: The closed circuit system cannot be drained completely. If the coolant is drained for engine
+preservation purposes or for protection from frost, the coolant system must be filled again with an approved
+antifreeze mixture. See “Coolant specification” in section 5 for details of the correct coolant to be used in the
+circuit.
+
+Engines fitted with keel coolers
+The coolant capacity and the method used to drain the coolant circuit of an engine connected to a keel cooler
+will vary in different applications.
+
+Use the instructions given by the keel cooler manufacturer to drain and renew the engine coolant when a keel
+cooler is fitted.
+
+
+
+
+Page 22
+N37347                                                                                               Chapter 4
+
+How to check the specific gravity of the coolant
+For mixtures which contain inhibited ethylene glycol:
+
+1. Operate the engine until it is warm enough to open the thermostat. Continue to run the engine until the
+coolant has circulated the cooling system.
+2. Stop the engine.
+3. Allow the engine to cool until the temperature of the coolant is below 140OF (60OC).
+Warning! Do not drain the coolant while the engine is still hot and the system is under pressure because
+dangerous hot coolant can be discharged.
+
+4. Remove the filler cap of the cooling system.
+5. Drain some coolant from the cooling system into a suitable container.
+6. Use a special coolant hydrometer that will check the temperature and the specific gravity of the coolant,
+follow the manufacturer’s instructions.
+Note: If a special coolant hydrometer is not available, put a hydrometer and a separate thermometer into the
+antifreeze mixture and check the readings on both instruments. Compare the readings with the chart (E).
+
+Specific gravity chart
+A = Percentage antifreeze by volume
+B = Mixture temperature in Fahrenheit
+C = Specific gravity
+D = Mixture temperature in Celsius
+
+7. Adjust the strength of the mixture as necessary.
+Note: If it is necessary to fill or replenish the coolant system in service, mix the coolant to the correct strength
+before it is added to the coolant system.
+
+Caution: An antifreeze to water ratio of 50:50 should be used even in warm ambient temperatures, in order to
+maintain the concentration of the corrosion inhibitor in the antifreeze.
+
+
+
+
+                                                                                                         Page 23
+ Chapter 4                                                                                              N37347
+
+How to drain the raw water system
+Caution: The raw water system cannot be drained completely. If the system is drained for engine preservation
+purposes or for protection from frost, the system must be filled again with an approved antifreeze mixture. See
+“Coolant specification” in section 5 for details of the correct coolant to be used. See section 7 for details of how
+to add antifreeze to the raw water system for engine preservation purposes.
+
+1. Ensure that the seacock is closed.
+2. Loosen the six setscrews (F1) of the cover for the raw water pump and withdraw slightly the cover.
+3. Rotate the crankshaft to ensure that the raw water pump is empty.
+4. Tighten the six setscrews of the cover for the raw water pump (If necessary replace joints).
+Caution: When the raw water system is to be used again, ensure that the seacock is open.
+
+5.   Remove the drain plug (G1) and drain the heat exchanger. Refit the drain plug.
+
+
+
+
+Page 24
+N37347                                                                                          Chapter 4
+
+How to check the impeller of the raw water pump
+1. Ensure that the seacock is closed.
+2. Release the six setscrews which fasten the end plate of the raw water pump and remove the plate.
+When the end plate of the raw water pump is removed, some raw water will flow from the pump.
+3. Remove the rubber end cap (H1) and then pull the impeller from the shaft.
+4. Clean the contact surfaces of the pump body and the end plate.
+5. Inspect the rubber impeller for excessive wear or for damage and renew it, if necessary. If pieces have
+broken off the impeller blades, it is necessary to remove them from the system to avoid damage later. To do
+this:
+6. Remove the outlet hose from the raw water pump. Remove the end cap of the oil cooler for the reverse
+gearbox.
+7. Remove any debris and check that the open ends of the tubes in the oil cooler are clear of broken
+pieces of impeller blades.
+8. Fit the outlet hose to the raw water pump and the end cap to the oil cooler for the reverse gearbox and
+tighten the hose clips. Replenish the coolant circuit .
+9. Apply Spheerol SX2 grease or liquid soap to the blades of the impeller and fit the impeller into the
+housing with the blades bent counter-clockwise (H). Fit the rubber end cap.
+10. Apply POWERPART jointing compound, part number 1861117 to a new joint and fit it to the body with
+the wide area of the joint over the eccentric plate in the body. Fit the end plate and tighten the end plate
+screws.
+11. Open the seacock.
+
+
+
+
+                                                                                                   Page 25
+ Chapter 4                                                                                              N37347
+
+How to check the drive belt
+Press down the belt with the thumb at the centre of the longest free length and check the deflection (I). With
+moderate thumb pressure - 45N (10 lbf) 4,5 kgf - the correct deflection of the belt is 10 mm (3/8 in).
+
+How to adjust the belt tension
+The alternator is driven by a drive belt of a specific design. Use only a Perkins POWERPART drive belt. If this
+is not done, an early failure of the belt may occur.
+
+1. Loosen the pivot fastener (I1) of the alternator and loosen the setscrews (I2) and (I3) of the adjustment
+link.
+2. Change the position of the alternator to give the correct tension. Tighten the pivot fasteners of the
+alternator and the setscrew of the adjustment link.
+3. Check the belt tension again to ensure that it is still correct. If a new belt is fitted, the belt tension must
+be checked again after the first 25 hours of operation.
+
+
+
+
+Page 26
+N37347                                                                                          Chapter 4
+
+How to renew the element of the fuel filter
+Warning! Discard the used canister and fuel oil in a safe place and in accordance with local regulations.
+
+Caution: It is important that only the genuine Perkins parts are used. The use of wrong parts could damage
+the fuel injection equipment.
+
+1. Thoroughly clean the outside surfaces of the fuel filter assembly (J1).
+2. Loosen the drain device (J2) at the bottom of the filter canister and drain the fuel into a suitable
+container.
+3. Turn the clamping ring (J3) to the left to free the filter.
+4. Ensure that the inside of the filter head is clean
+5. Ensure the locating nodes (J4) are in the correct position to slot into the filter head.
+6. Turn the clamping ring to the right to lock in position.
+7. Eliminate the air from the fuel filter.
+Fuel pre-filter
+This will normally be fitted between the fuel tank and the engine. Check the filter bowl for water at regular
+intervals and drain as necessary.
+
+Caution: Do not run the electric fuel lift pump for more than 60 seconds without fuel. The fuel pump can be
+permanently damaged as it relies on the fuel for lubrication.
+
+
+
+
+                                                                                                   Page 27
+ Chapter 4                                                                                           N37347
+
+Atomiser maintenance
+Caution: A faulty atomiser must be renewed by a person who has had the correct training.
+
+Atomiser faults
+Caution: A faulty atomiser must be renewed by a person who has had the correct training.
+
+Regular maintenance of the atomisers is not necessary. The atomiser nozzles should be renewed and not
+cleaned, and renewed only if an atomiser fault occurs. Some of the problems that may indicate that new
+nozzles are needed are listed below:
+
+Engine will not start or is difficult to start
+
+Not enough power
+
+Engine misfires or runs erratically
+
+High fuel consumption
+
+Black exhaust smoke
+
+Engine knocks or vibrates excessively
+
+Excessive engine temperature.
+
+Warnings!
+• If your skin comes into contact with high-pressure fuel, obtain medical assistance immediately.
+• Keep away from moving parts during engine operation. Some moving parts cannot be seen clearly while
+  the engine runs.
+Remove the atomiser cover setscrews (K1) and remove the atomiser cover (K2). In order to find which atomiser
+is defective, operate the engine at fast idle speed. Loosen and tighten the union nuts (L1) of the high-pressure
+fuel pipe at each atomiser. Do not loosen the union nut more than half a turn. When the union nut of the
+defective atomiser is released, it has little or no effect on the engine speed.
+
+
+
+
+Page 28
+N37347                                                                                           Chapter 4
+
+How to remove and to fit an atomiser
+How to remove
+Warning! The combustible material of some components of the engine (for example certain seals) can become
+extremely dangerous if it is burned. Never allow this burnt material to come into contact with the skin or with
+the eyes.
+
+Cautions:
+
+• Atomisers must be removed and fitted by a person with the correct training.
+• Do not allow dirt to enter the fuel system. Before a connection is disconnected, clean thoroughly the
+  area around the connection. After a component has been disconnected, fit a suitable cover to all open
+  connections.
+1. Release the atomiser cover setscrews (M1) and remove the atomiser cover (M2).
+2. Release the fastener (M2) and remove the breather pipe (M3).
+3. Remove the fuel leak-off hose from the connection (N2).
+4. Remove the union nuts of the high-pressure pipe from the atomiser (N1) and from the fuel injection
+pump. Do not bend the pipe. If necessary, remove the pipe clamps. Fit a plastic cap to cover all open
+connections.
+5. Remove the setscrew (N3) and remove the clamp (N4) from the cylinder head.
+6. Remove the atomiser and its seat washer (O1) from its recess in the cylinder head.
+Caution: Remove and discard the seat washer (O1). If the original seat washer remains in the recess, the
+nozzle protrusion will be incorrect when a new seat washer is added.
+
+
+
+
+                                                                                                    Page 29
+ Chapter 4                                                                                               N37347
+
+How to fit
+1. Remove all covers and caps from the component and connections.
+2. Put a new seat washer into the seat recess in the cylinder head.
+Note: Some new atomiser’s have the seat washer (P3) fitted on the atomiser.
+
+3. Ensure that the atomiser seal (P2) is not damaged. Apply a small amount of clean fuel oil to the seal.
+Cautions:
+• The atomiser must be fitted so that the pin or the union (P1) faces away from the atomiser clamp (Q4).
+• If fitted the leak-off hose is a push fit and will need replacing if the hose leaks.
+4. Put the atomiser (Q1) into its recess in the cylinder head.
+5. Fit the clamp (Q4) and the setscrew (Q3). Tighten the setscrew to 35 Nm (26 lbf ft) 3,5 kgf m.
+Caution: Do not tighten the union nuts of the high-pressure pipes more than the recommended torque tension.
+If there is a leakage from the union nut, ensure that the pipe is correctly aligned with the atomiser inlet. Do not
+tighten the atomiser union nut more, as this can cause a restriction at the end of the pipe. This can affect the
+fuel delivery.
+
+6. Remove the plastic cap, fit the high-pressure fuel pipe and tighten the union nuts to 30 Nm (22 lbf ft) 3,0
+kgf m.
+7. If removed earlier, fit the clamps to the high pressure fuel pipes.
+8. Where necessary, fit the fuel leak-off hose to the connectors (Q2).
+9. Check the “O” ring on the breather pipe and replace if necessary. Apply a small amount of clean engine
+oil to the “O” ring and fit the breather pipe into the rocker cover. Tighten the fastener to 9 Nm (7 lbf ft) 0,9 kgf
+m. Fit the breather hose and clip if fitted.
+10. If removed, fit the crossover pipe.
+11. Run the engine and check for leakage of fuel and air. Correct any leakage.
+12. Stop the engine.
+13. Refit the atomiser cover and tighten the setscrews to 6 Nm (4 lbf ft) 0,6 kgf m.
+
+
+
+
+Page 30
+N37347                                                                                         Chapter 4
+
+How to eliminate air from the fuel system
+Cautions:
+• Under no circumstances should any attempt be made to remove the electric fuel lift pump from the filter
+  head as it is not a serviceable item.
+• Do not operate the engine until the air is eliminated from the fuel injection pump.
+• After the air is eliminated, operate the engine at low idle for two minutes.
+The Bosch VE fuel injection pumps will not vent automatically.
+
+1. Remove the atomiser cover.
+2. Loosen the high pressure pipes (R1) at the atomisers.
+3. Switch the control panel to energise the electric lift pump for 30 to 60 seconds.
+4. Operate the starter motor until fuel free from air comes from the connections.
+5. Tighten the union nuts to 30 Nm (22 lbf ft) 3,0 kgf m.
+6. Start the engine and check for leaks.
+7. Fit the atomiser cover and tighten its setscrews.
+Caution: Do not run the electric fuel lift pump for more than 60 seconds without fuel. The fuel pump can be
+permanently damaged as it relies on the fuel for lubrication.
+
+
+
+
+                                                                                                  Page 31
+ Chapter 4                                                                                                 N37347
+
+How to renew the lubricating oil
+Warning! Discard the used lubricating oil in a safe place and in accordance with local regulations.
+
+Note: Renew the filter canister when the lubricating oil is renewed.
+
+1. Using the sump drain pump (S1). Pump the lubricating oil into a suitable container with a capacity of
+approximately 10 litres (17.5 pints), the lubricating oil should be drained while it is still hot.
+2. Remove the container of used lubricating oil.
+3. Clean the area around the filler cap on top of the rocker cover and remove the cap.
+Caution: Do not fill the sump past the notch (T1) on the dipstick (T2) as this can have an adverse affect on on
+the performance of the engine. Excess lubricating oil must be drained from the sump. An excess of lubricating
+oil could enter the engine breather valve. This could cause the engine speed to increase rapidly without
+control.
+
+4. Add slowly, approximately 7,0 litres (15.8 pints) of new and clean lubricating oil of an approved
+specification to the engine. Allow the oil enough time to pass to the sump, remove the dipstick (T2) and
+ensure that the lubricating oil is to the full mark (T1). The oil level must not be above the full mark. If it is, the
+engine could be damaged.
+5. Fit the filler cap and ensure that the dipstick is fitted correctly in the dipstick tube.
+6. Start the engine and check for lubricating oil leakage. Stop the engine. After 15 minutes check the oil
+level on the dipstick and, if necessary, put more lubricating oil into the sump.
+
+
+
+
+Page 32
+N37347                                                                                              Chapter 4
+
+How to renew the canister of the lubricating oil filter
+Warning! Discard the used canister and lubricating oil in a safe place and in accordance with local
+regulations.
+
+1. Clean thoroughly the outside surfaces of the oil filter.
+2. Use a strap wrench or similar tool to just loosen the filter canister (U1). Put a suitable container under
+the filter assembly to retain spilt oil. Remove and discard safely the canister. Ensure that the adaptor (U3) is
+secure in the lubricating oil cooler.
+3. Clean the contact face of the lubricating oil cooler.
+4. Lubricate the seal (U2) on top of the canister with clean engine lubricating oil.
+5. Fit the new canister and tighten by hand until the seal contacts the cylinder block. Tighten the canister a
+further 1/2 to 3/4 of a turn by hand only. Do not use a strap wrench.
+6. Ensure that there is lubricating oil in the sump. Start the engine and run at idle speed until oil pressure
+is obtained. Check for leakage from the filter. Stop the engine. After 15 minutes check the oil level on the
+dipstick and, if necessary, put more lubricating oil into the sump.
+Do not fill the sump past the notch on the dipstick.
+
+Cautions:
+• The canister contains a valve and special tube to ensure that lubricating oil does not drain from the filter.
+• Therefore, ensure that the correct Perkins POWERPART canister is used.
+
+
+
+
+                                                                                                       Page 33
+ Chapter 4                                                                                               N37347
+
+How to renew the lubricating oil of the Newage PRM 500D reverse gearbox
+Caution: In service the lubricating oil of these reverse gearboxes should be checked with the lubricating oil
+cold. Always check the lubricating oil level before the transmission is used.
+
+1. Put a suitable container with a capacity of at least 3 litres (5 pints) under the reverse gearbox. Remove
+the drain plug (V3) and its sealing washer and drain the oil from the reverse gearbox.
+2. Inspect the sealing washer for the plug and, if necessary, renew it. Fit the drain plug and its sealing
+washer. Tighten the plug.
+3. Rotate the hexagonal head of the dipstick (V1) counter-clockwise to release the dipstick and remove
+it from the dipstick / filler tube. Ensure that the sealing washer is not lost. Add lubricating oil of the correct
+specification through the dipstick / filler tube, see section 9 for the correct quantity and specification.
+4. Ensure that the sealing washer is on the dipstick. Fit the dipstick fully into the dipstick / filler tube.
+Rotate the hexagonal end of the dipstick clockwise until the dipstick is tight in the tube.
+5. Ensure that the reverse gearbox is in neutral (lever in the centre position). Start the engine to allow the
+lubricating oil in the reverse gearbox to circulate around the system, approximately 15 seconds. Stop the
+engine and wait approximately two minutes.
+6. Remove and clean the dipstick. Insert and tighten the dipstick finger tight into the dipstick / filler tube,
+then immediately remove the dipstick to check the oil level. Check that the oil is at the full mark (V2 ) and, if
+necessary, add more lubricating oil.
+7. Ensure that the sealing washer is on the dipstick. Fit the dipstick fully into the dipstick / filler tube. Rotate
+the hexagonal end of the dipstick clockwise until the dipstick is tight in the tube.
+
+
+
+
+Page 34
+N37347                                                                                             Chapter 4
+
+How to renew the lubricating oil of the ZF 45 A reverse gearbox
+Note: When the lubricating oil of the reverse gearbox is renewed, the filter element should also be renewed.
+
+1. Turn the filler cap (W1) counter-clockwise with a 6 mm Allen Key (W2) and remove the cap together with
+the filter that is fitted to the cap.
+2. As there is no drain plug, the lubricating oil must be removed with a pump (X1). Connect a hose (X2)
+to the pump. Push the hose into the suction tube (X3) and down to the bottom of the housing. Operate the
+pump to remove the lubricating oil; approximately 2,0 litres (3.3 pints) 2.1 US quarts.
+3. The outside diameter of the hose must not be more than 16,0 mm (0.625 in).
+4. Add 2,0 litres (3.3 pints) 2.1 US quarts of ATF transmission fluid, see Section 9.
+5. Pull the filter element (X4) off the filler cap. Fit the new ‘O’ rings (X2) and (X3) and push a new filter
+element onto the filler cap.
+6. Fit the filter and filler cap assembly and turn the Allen Key clockwise to fasten the filler cap.
+7. Turn the handle of the dipstick (Y1) counter-clockwise to release the dipstick. Remove the dipstick.
+Clean the dipstick and check the level of the lubricating oil. The level should be between the minimum
+and the maximum marks (Y2). Add more lubricating oil if necessary. Insert the dipstick and turn the handle
+clockwise to fasten it.
+8. With the gear lever in the neutral position, run the engine at idle speed for a few minutes. This will
+ensure that the lubricating oil has circulated around the oil cooler and its pipes. Stop the engine and check
+the oil level again. Add more oil, if necessary. Insert and fasten the dipstick.
+Caution: Some oil could flow back from the oil filter after the engine is stopped. This could cause the oil level
+to be over the maximum mark on the dipstick. If this occurs do not remove the excess oil.
+
+Note: In service the level of the oil can be checked with the oil hot or cold. Always check the oil level before
+the transmission is used.
+
+
+
+
+                                                                                                      Page 35
+ Chapter 4                                                                                                   N37347
+
+Air filter
+Caution: Do not operate the engine if there is a blockage in the air filter or the induction hose. This can cause
+lubricating oil to enter the cylinders through the breather valve.
+
+Environmental conditions have an important effect on the frequency at which the air filter needs service.
+
+Air filters have automatic dust valves (Z1) through which dust is expelled from the filter. The rubber dust valve
+must be kept clean. Ensure that the sides of the valves close completely together and that they can separate
+freely.
+
+If a restriction indicator (AA) is fitted, it will indicate precisely when the air filter element needs replacement. This
+prevents the premature removal of the filter element which causes extra cost or late removal of the element
+which can cause loss of engine power. The filter element must be renewed according to the manufacturers
+recommendations.
+
+
+
+
+Page 36
+N37347                                                                                                   Chapter 4
+
+Restriction indicator
+The restriction indicator is fitted on the air filter outlet or between the air filter and the induction manifold.
+
+When the red warning indicator (BB1) is seen through the clear panel (BB2) after the engine has stopped, the
+air filter element must be removed for service.
+
+After a clean element has been fitted, press the rubber bottom (BB3) or the button (BB4) of the restriction
+indicator to reset the red warning indicator.
+
+
+
+
+                                                                                                            Page 37
+ Chapter 4                                                                                          N37347
+
+How to check the valve tip clearances
+The valve tip clearances are checked between the top of the valve stem and the rocker lever (CC), with the
+engine cold. The correct clearance for inlet valves is 0,20 mm (0.008 in) and 0,45 mm (0.018 in) for exhaust
+valves. The valve positions are shown at (DD).
+
+The sequence of valves from number 1 cylinder is shown in the table below.
+
+Note: Number 1 cylinder is the furthest cylinder from the flywheel end of the engine.
+
+1. Rotate the crankshaft in the normal direction of rotation until the inlet valve (DD7) of number 4 cylinder
+has just opened and the exhaust valve (DD8) of the same cylinder has not closed completely. Check the
+clearances of the valves (DD1 and DD2) of number 1 cylinder and adjust them, if necessary.
+2. Set the valves (DD3 and DD4) of number 2 cylinder as indicated above for number 4 cylinder. Then
+check / adjust the clearances of the valves (DD5 and DD6) of number 3 cylinder.
+3. Set the valves (DD1 and DD2) of number 1 cylinder. Then check / adjust the clearances of the valves
+(DD7 and DD8) of number 4 cylinder.
+4. Set the valves (DD5 and DD6) of number 3 cylinder. Then check / adjust the clearances of the valves
+(DD3 and DD4) of number 2 cylinder.
+ Cylinder                    1            2             3            4
+ and
+ valve number            1       2    3       4    5        6   7        8
+ Valve
+ I = Inlet               I       E    I       E     I       E    I       E
+ E = Exhaust
+
+
+
+
+Page 38
+N37347                                                                                             Chapter 4
+
+Seacock strainer
+The seacock strainer must be cleaned regularly, especially if there is a large amount of small debris in the
+water.
+
+
+Corrosion
+This can occur when two different metals are in contact near to, or in, sea water. For example, a brass or bronze
+pipe fitted into aluminium can cause rapid corrosion. For this reason, special precautions are necessary when
+an engine is installed. In this situation, some components will be connected to a sacrificial anode fitted to the
+hull. Specialist manufacturers will advise on the maintenance of these anodes.
+
+
+Supplementary tools
+A general tool kit and an on-board spares kit are available from your Perkins distributor. It is recommended that
+the tools and other parts, listed below, are also retained on-board:
+
+Wire, 20 SWG (1 mm in diameter)
+
+Insulation tape
+
+Jointing compound
+
+Magnet (keep this away from the compass)
+
+Mechanical fingers
+
+Self-gripping wrench
+
+Suitable lagging material
+
+Rubber olives for the low-pressure fuel system 1
+
+A small hacksaw, with extra blades
+
+Negative line protection fuse, rated at 80 amperes 1
+
+1 Also available in the On-board spares kit.
+
+
+Power take-off
+A power take-off is available, which is either belt driven off the crankshaft pulley, or driven axially off the
+crankshaft pulley, for details refer to:
+
+
+Wimborne Marine Power Centre
+
+22 Cobham Road
+Ferndown Industrial Estate,
+Wimborne,
+Dorset BH21 7PW
+Tel: (44) (0)1202 796000
+Fax: 44) (0)1202 796001
+
+
+
+
+                                                                                                      Page 39
+Chapter 4   N37347
+
+
+
+
+Page 40
+N37347                                                                                                 Chapter 5
+
+                                                                                                Engine fluids
+
+
+Fuel specification
+To get the correct power and performance from your engine, use good quality fuel. The recommended fuel
+specification for Perkins engines is indicated below:
+
+Cetane number: 45 minimum
+
+Viscosity: 2.5/4.5 centistokes at 40OC
+
+Density: 0,835/0,855 kg/litre
+
+Sulphur: 0.2% of mass, maximum
+
+Distillation: 85% at 350OC
+
+Cetane number indicates ignition performance. A fuel with a low cetane number can cause cold start problems
+and affect combustion.
+
+Viscosity is the resistance to flow and engine performance can be affected if it is outside the limits.
+
+Density: A lower density reduces engine power, a higher density increases engine power and exhaust
+smoke.
+
+Sulphur: A high amount of sulphur (not normally found in Europe, North America or Australasia) can cause
+engine wear. Where only high sulphur fuels are available, it is necessary to use a highly alkaline lubricating oil
+in the engine or to renew the lubricating oil more frequently, see table below.
+
+    Fuel sulphur             Oil change
+    content (%)               interval
+         <0.5                   Normal
+      0.5 to 1.0           75% of normal
+         >1.0              50% of normal
+
+Distillation: This is an indication of the mixture of different hydrocarbons in the fuel. A high ratio of light-weight
+hydrocarbons can affect the combustion characteristics.
+
+Low temperature fuels
+
+Special winter fuels may be available for engine operation at temperatures below 0OC. These fuels have a
+lower viscosity and also limit the wax formation in the fuel at low temperatures. If wax formation occurs, this
+could stop the fuel flow through the filter.
+
+If you need advice on adjustments to an engine setting or to the lubricating oil change periods which may be
+necessary because of the standard of the available fuel, consult your nearest Perkins distributor or Wimborne
+Marine Power Centre,
+
+
+
+
+                                                                                                           Page 41
+ Chapter 5                                                                                               N37347
+
+Lubricating oil specification
+Use only a good quality lubricating which is not less than the specification below:
+
+Engines should use a good quality lubricating oil to the minimum specification of:
+
+API CG-4
+
+API CH-4
+
+ACEA E3
+
+ACEA E5
+
+The type of lubricating oil to be used may be affected by the quality of the fuel which is available..
+
+Always ensure that the correct viscosity grade of lubricating oil is used for the ambient temperature range in
+which the engine will run as shown in the chart (A).
+
+Viscosity chart
+
+A = Recommended viscosity
+
+B = Ambient temperature
+
+
+
+
+Page 42
+N37347                                                                                               Chapter 5
+
+Coolant specification
+The quality of the coolant which is used can have a great effect on the efficiency and life of the cooling system.
+The recommendations indicated below can help to maintain a good cooling system and to protect it against
+frost and/or corrosion.
+
+If the correct procedures are not used, Engines Ltd cannot be held responsible for damage caused by frost or
+corrosion, or for loss of cooling efficiency.
+
+The correct coolant/anti-freeze to use is ‘Extended Life Coolant’.
+
+                                        Extended Life Coolant
+                                        Qty: 5 litres – Part No 60061
+                                        Qty: 25 litres – Part No 60062
+
+The coolant mixture must be a 50/50 mix with clean water.
+
+‘Extended Life Coolant’ has a service life of 6000 service hours or 6 years which ever is sooner.
+
+‘Extended Life Coolant’ should not be mixed with other products.
+
+Unlike many protective coolants, ‘Extended Life Coolant’ does not coat components with a protective layer to
+prevent corrosion. Instead it uses virtually non-depleting corrosion inhibitors.
+
+An alternative to ‘Extend Life Coolant’ is Havoline (XLC) Extended Life Coolant/Anti-freeze.
+
+Caution: Using a coolant/anti-freeze which coats components with a protective layer to prevent corrosion may
+impair t.he efficiency of the cooling system and lead to the engine overheating.
+
+An anti-freeze which contains the correct inhibitor must be used at all times to prevent damage to the engine
+by corrosion, because of the use of aluminium in the coolant circuit.
+
+If frost protection is not necessary, it is still extremely important to use an approved anti-freeze mixture because
+this gives a protection against corrosion and also raises the boiling point of the coolant.
+
+Note: If combustion gases are released into the coolant circuit, the coolant must be renewed after repair of
+the fault.
+
+
+
+
+                                                                                                         Page 43
+Chapter 5   N37347
+
+
+
+
+Page 44
+N37347                                                                                                              Chapter 6
+
+                                                                                                         Fault diagnosis
+
+
+Problems and possible causes
+                                                                                               Possible causes
+                          Engine problem                                                                  Checks by the
+                                                                            Checks by the user
+                                                                                                        workshop personnel
+ The starter motor turns the engine too slowly                             1, 2, 3, 4
+                                                                           5, 6, 7, 8, 9, 10, 12, 13, 34, 35, 36, 37, 38, 42,
+ The engine does not start
+                                                                           14, 15, 17                 43, 44
+                                                                           5, 7, 8, 9, 10, 11, 12, 34, 36, 37, 38, 40, 42,
+ The engine is difficult to start
+                                                                           13, 14, 15, 16, 17, 19 43
+                                                                           8, 9, 10, 11, 12, 13, 16, 34, 36, 37, 38, 39, 40,
+ Not enough power
+                                                                           18, 19, 20, 21            41, 43, 63
+                                                                           8, 9, 10, 12, 13, 15, 20, 34, 36, 37, 38, 39, 40,
+ Misfire
+                                                                           22                        41, 43
+                                                                           11, 13, 15, 17, 18, 19, 34, 36, 37, 38, 39, 40,
+ High fuel consumption
+                                                                           23, 22                  42, 43, 44, 63
+                                                                           11, 13, 15, 17, 19, 21, 34, 36, 37, 38, 39, 40,
+ Black exhaust smoke
+                                                                           22                      42, 43, 44, 63
+                                                                                                       36, 37, 38, 39, 42, 44,
+ Blue or white exhaust smoke                                               4, 15, 21, 23
+                                                                                                       45, 52, 58, 61, 62
+ The pressure of the lubricating oil system is too low                     4, 24, 25, 26               46, 47, 48, 50, 51, 59,
+                                                                           9, 13, 15, 17, 20, 22, 36, 37, 40, 42, 44, 46,
+ The engine knocks
+                                                                           23                     52, 53, 60
+                                                                           8, 9, 10, 11, 12, 13, 15, 36, 38, 40, 41, 44, 52,
+ The engine runs erratically
+                                                                           16, 18, 20, 22, 23        60,
+                                                                                                       36, 38, 39, 40, 41, 44,
+ Vibration                                                                 13, 18, 20, 27, 28
+                                                                                                       52, 54
+ The pressure of the lubricating oil system is too high                    4, 25                       49
+                                                                           11, 13, 15, 19, 27, 29, 34, 36, 37, 39, 52, 55,
+ The engine oil temperature is too high
+                                                                           30, 32, 65, 66, 67, 68 56, 57, 69
+ Crankcase pressure                                                        31, 33                      39, 42, 44, 45, 52, 61
+                                                                                                       37, 39, 40, 42, 43, 44,
+ Bad compression                                                           11, 22
+                                                                                                       45, 53, 60
+ The engine starts and stops                                               10, 11, 12
+
+
+
+                                                                                               Possible causes
+                   Reverse gearbox problem                                                                Checks by the
+                                                                            Checks by the user
+                                                                                                        workshop personnel
+ Delay of gear engagement (1)                                              70, 71
+ No transmission                                                           72                          75
+ The boat does not reach maximum speed                 (2)
+                                                                           73, 74                      75, 76, 77
+(1) Propeller rotates only after a delay of several seconds or only after engine speed is increased.
+(2) Temperature of the reverse gearbox is high.
+
+
+
+
+                                                                                                                       Page 45
+Chapter 6                                                                                  N37347
+
+List of possible causes
+1. Battery capacity low.
+2. Bad electrical connections.
+3. Fault in starter motor.
+4. Wrong grade of lubricating oil.
+5. Starter motor turns engine too slowly.
+6. Fuel tank empty.
+7. Fault in stop solenoid, contacts or cables.
+8. Restriction in a fuel pipe.
+9. Fault in fuel lift pump.
+10. Dirty fuel filter element.
+11. Restriction in air induction system.
+12. Air in fuel system.
+13. Faulty atomisers or atomisers of an incorrect type.
+14. Cold start system used incorrectly.
+15. Fault in cold start system.
+16. Restriction in fuel tank vent.
+17. Wrong type or grade of fuel used.
+18. Restricted movement of engine speed control.
+19. Restriction in exhaust pipe.
+20. Engine temperature is too high.
+21. Engine temperature is too low.
+22. Incorrect valve tip clearances.
+23. Too much oil or oil of wrong type is used in wet type air cleaner, if one is fitted.
+24. Not enough lubricating oil in sump.
+25. Defective gauge.
+26. Dirty lubricating oil filter element.
+27. Fan damaged.
+28. Fault in engine mounting or flywheel housing.
+29. Too much lubricating oil in sump.
+30. Restriction in air or water passages.
+31. Restriction in breather pipe.
+32. Insufficient coolant in system.
+33. Vacuum pipe leaks or fault in exhauster.
+34. Fault in fuel injection pump.
+35. Broken drive on fuel injection pump.
+36. Timing of fuel injection pump is incorrect.
+37. Valve timing is incorrect.
+38. Bad compression.
+39. Cylinder head gasket leaks.
+40. Valves are not free.
+41. Wrong high-pressure pipes fitted.
+42. Worn cylinder bores.
+43. Leakage between valves and seats.
+44. Piston rings are not free or they are worn or broken.
+45. Valve stems and/or guides are worn.
+
+Page 46
+N37347                                                                                        Chapter 6
+46. Crankshaft bearings are worn or damaged.
+47. Lubricating oil pump is worn.
+48. Relief valve does not close.
+49. Relief valve does not open.
+50. Relief valve spring is broken.
+51. Fault in suction pipe of lubricating oil pump.
+52. Piston is damaged.
+53. Piston height is incorrect.
+54. Flywheel housing or flywheel is not aligned correctly.
+55. Fault in thermostat or thermostat is of an incorrect type.
+56. Restriction in coolant passages.
+57. Fault in water pump.
+58. Valve stem seal is damaged.
+59. Restriction in sump strainer.
+60. Valve spring is broken.
+61. Breather assembly worn or broken.
+62. Vent hole for breather valve is restricted.
+63. Leakage in the induction system.
+64. Spare.
+65. Drive belt for water pump is loose.
+66. Restriction in the sea cock or the raw water strainer.
+67. Insufficient coolant in circuit.
+68. Restriction in the heat exchanger or the oil cooler.
+69. Fault in raw water pump.
+70. Movement of control lever of reverse gearbox is not equal in both directions.
+71. Insufficient movement of control cable for reverse gearbox.
+72. Control cable for reverse gearbox is not free, radii are too small or cable is broken.
+73. Wrong type of lubricating oil in reverse gearbox.
+74. A lubricating oil cooler is needed for the reverse gearbox for conditions of operation.
+75. Worn or broken drive components.
+76. Incorrect size of propeller or not correctly matched.
+77. Propeller damaged
+
+
+
+
+                                                                                                Page 47
+Chapter 6   N37347
+
+
+
+
+Page 48
+N37347                                                                                              Chapter 7
+
+                                                                                  Engine preservation
+
+
+Introduction
+The recommendations indicated below are designed to prevent damage to the engine when it is withdrawn
+from service for a prolonged period. Use these procedures after the engine is withdrawn from service. The
+instructions for the use of POWERPART products are given on the outside of each container.
+
+
+Procedure
+1. Completely clean the outside of the engine.
+2. When a preservative fuel is to be used, drain the fuel system and fill it with the preservative fuel.
+POWERPART Lay-Up 1 can be added to the normal fuel to change it to a preservative fuel. If preservative
+fuel is not used, the system can be completely filled with normal fuel but the fuel must be drained and
+discarded at the end of the storage period together with the fuel filter canister.
+3. Operate the engine until it is warm. Then correct leakages of fuel, lubricating oil or air. Stop the engine
+and drain the lubricating oil from the sump.
+4. Renew the canister of the lubricating oil filter.
+5. Fill the sump to the full mark with new and clean lubricating oil and add POWERPART Lay-up 2 to
+the oil to protect the engine against corrosion. If POWERPART Lay-Up 2 is not available, use a correct
+preservative fluid instead of the lubricating oil. If a preservative fluid is used, this must be drained and the
+lubricating oil sump must be filled to the correct level with normal lubricating oil at the end of the storage
+period.
+6. Drain the coolant circuit. In order to protect the cooling system against corrosion, fill it with an approved
+antifreeze mixture because this gives protection against corrosion.
+Caution: If protection against frost is not necessary and a corrosion inhibitor is to be used, it is recommended
+that you consult the Service Department, Wimborne Marine Power Centre
+
+7. Operate the engine for a short period in order to circulate the lubricating oil and the coolant in the
+engine.
+8. Close the seacock and drain the raw water cooling system.
+Caution: The raw water system cannot be drained completely. If the system is drained for engine preservation
+purposes or for protection from frost, the system must be filled again with an approved antifreeze mixture.
+
+9. Remove the impeller from the raw water pump and put the impeller in a dark place for storage. Before
+the impeller is fitted at the end of the storage period, lubricate lightly the blades and each end of the impeller
+and the inside of the pump with Spheerol SX2 grease or glycerine.
+Caution: The raw water pump must never run in a dry condition because this can damage the impeller
+blades.
+
+10. Remove the atomisers and spray POWERPART Lay-Up 2 for one to two seconds into each cylinder
+bore with the piston at BDC.
+11. Slowly turn the crankshaft one revolution and then fit the atomisers, complete with new seat washers.
+12. Spray POWERPART Lay-Up 2 into the induction manifold. Seal the manifold and breather outlet with
+waterproof tape.
+13. Remove the exhaust pipe. Spray POWERPART Lay-Up 2 into the exhaust manifold. Seal the manifold
+with waterproof tape.
+14. Disconnect the battery. Then put the battery into safe storage in a fully charged condition. Before the
+battery is put into storage, protect its terminals against corrosion. POWERPART Lay-Up 3 can be used on
+the terminals.
+15. Seal the vent pipe of the fuel tank or the fuel filler cap with waterproof tape.
+16. Remove the alternator drive belt and put it into storage.
+
+
+
+
+                                                                                                       Page 49
+ Chapter 7                                                                                            N37347
+17. In order to prevent corrosion, spray the engine with POWERPART Lay-Up 3. Do not spray the area
+inside the alternator cooling fan.
+18. If the transmission is not to be used for at least a year, fill the reverse gearbox completely with its normal
+lubricating oil. This will have to be drained and the normal amount of new lubricating oil added when the
+engine is returned to service.
+Caution: After a period in storage, but before the engine is started, operate the starter motor with the stop
+solenoid disconnected until oil pressure is indicated. Oil pressure is indicated when the low pressure warning
+light is extinguished. Connect the stop solenoid.
+
+If the engine protection is done correctly according to the above recommendations, no corrosion damage will
+normally occur. Perkins or Wimborne Marine Power Centre are not responsible for damage which may occur
+when an engine is in storage after a period in service.
+
+
+How to add antifreeze to the raw water system for engine preservation purposes
+Before antifreeze is added to the raw water system the system should be flushed out with fresh water. To do
+this operate the engine for one to two minutes with the seacock closed and with a supply of fresh water through
+the open top of the raw water strainer.
+
+1. Obtain two empty, clean containers each with a capacity of approximately 9,0 litres (2 UK gallons) 9.6
+US quarts. Also obtain 4,5 litre (1 UK gallon) 5 US quarts of POWERPART antifreeze.
+2. Remove the hose from the raw water connection on the exhaust elbow and put the end of the hose into
+one of the containers.
+3. Remove the cover from the top of the raw water strainer, and with the seacock closed, add some
+antifreeze through the open top of the raw water strainer. Start the engine and run the engine at idle speed,
+then continue to add the remainder of the antifreeze through the open top of the strainer.
+4. Operate the engine for several minutes. During this period, change the containers around, pour the
+antifreeze/water solution from the container at the outlet (hose end) into the strainer.
+5. When the antifreeze is mixed thoroughly and has been circulated through the raw water system, stop
+the engine. Fit the top of the raw water strainer.
+6. Connect the hose to the raw water connection on the exhaust elbow.
+7. Put a label on the engine to make the operator aware that antifreeze is in the raw water system and
+must be drained before the seacock is opened and the engine operated.
+
+
+
+
+Page 50
+N37347                                                                                                  Chapter 8
+
+                                                                                          Parts and service
+
+
+Introduction
+If problems occur with your engine or with the components fitted onto it, your Perkins distributor can make the
+necessary repairs and will ensure that only the correct parts are fitted and that the work is done correctly.
+
+
+Service literature
+Workshop manuals, installation drawings and other service publications are available from your Perkins
+distributor at a nominal cost.
+
+
+Training
+Local training for the correct operation, service and overhaul of engines is available at certain Perkins
+distributors. If special training is necessary, your Perkins distributor can advise you how to obtain it at the
+Wimborne Marine Power Centre, Wimborne, Dorset.
+
+
+On-board spares kit
+The contents of this kit has been carefully prepared to ensure that it is correct for the original engine specification
+and the owner’s / operator’s needs.
+
+
+POWERPART recommended consumable products
+Perkins have made available the products recommended below in order to assist in the correct operation,
+service and maintenance of your engine and your machine. The instructions for the use of each product are
+given on the outside of each container. These products are available from your Perkins distributor.
+
+POWERPART Antifreeze
+
+Protects the cooling system against frost and corrosion.
+
+POWERPART Easy Flush
+
+Cleans the cooling system. Part number 21825001.
+
+POWERPART Gasket and flange sealant
+
+To seal flat faces of components where no joint is used. Especially suitable for aluminium components. Part
+number 21820518.
+
+POWERPART Gasket remover
+
+An aerosol for the removal of sealants and adhesives. Part number 21820116.
+
+POWERPART Griptite
+
+To improve the grip of worn tools and fasteners. Part number 21820129.
+
+POWERPART Hydraulic threadseal
+
+To retain and seal pipe connections with fine threads. Especially suitable for hydraulic and pneumatic systems.
+Part number 21820121.
+
+POWERPART Industrial grade super glue
+
+Instant adhesive designed for metals, plastics and rubbers. Part number 21820125.
+
+                                                                                                           Page 51
+ Chapter 8                                                                                      N37347
+POWERPART Lay-Up 1
+
+A diesel fuel additive for protection against corrosion. Part number 1772204.
+
+POWERPART Lay-Up 2
+
+Protects the inside of the engine and of other closed systems. Part number 1762811.
+
+POWERPART Lay-Up 3
+
+Protects outside metal parts. Part number 1734115.
+
+POWERPART Metal repair putty
+
+Designed for external repair of metal and plastic. Part number 21820126.
+
+POWERPART Pipe sealant and sealant primer
+
+To retain and seal pipe connections with coarse threads. Pressure systems can be used immediately. Part
+number 21820122.
+
+POWERPART Radiator stop leak
+
+For the repair of radiator leaks. Part number 21820127.
+
+POWERPART Retainer (high strength)
+
+To retain components which have an interference fit. Currently Loctite 638. Part number 21820638.
+
+POWERPART Safety cleaner
+
+General cleaner in an aerosol container. Part number 21820128.
+
+POWERPART Silicone adhesive
+
+An RTV silicone adhesive for application where low pressure tests occur before the adhesive sets. Used for
+sealing flange where oil resistance is needed and movement of the joint occurs. Part number 21826038.
+
+POWERPART Silicone RTV sealing and jointing compound
+
+Silicone rubber sealant which prevents leakage through gaps. Currently Hylosil. Part number 1861108.
+
+POWERPART Stud and bearing lock
+
+To provide a heavy duty seal to components that have a light interference fit. Part number 21820119 or
+21820120.
+
+POWERPART Threadlock and nutlock
+
+To retain small fasteners where easy removal is necessary. Part number 21820117 or 21820118.
+
+POWERPART Universal jointing compound
+
+Universal jointing compound which seals joints. Currently Hylomar. Part number 1861117.
+
+
+
+
+Page 52
+N37347                                                                                                                                         Chapter 9
+
+                                                                                                                                      General data
+
+
+Engine
+Number of cylinders.........................................................................................................................................4
+Cylinder arrangement...............................................................................................................................In line
+Cycle............................................................................................................................................... Four stroke
+Induction system................................................................................................................. Naturally aspirated
+Combustion system....................................................................................................................Direct injection
+Nominal bore..................................................................................................................... 105,00 mm (4.13 in)
+Stroke.................................................................................................................................. 127,0 mm (5.00 in)
+Compression ratio................................................................................................................................. 18.23:1
+Cubic capacity...................................................................................................................4,4 litres (269.00 in3)
+Firing order.......................................................................................................................................... 1, 3, 4, 2
+Valve tip clearances (hot or cold)
+Inlet. .................................................................................................................................... 0,20 mm (0.008 in)
+Exhaust............................................................................................................................... 0,45 mm (0.018 in)
+Lubricating oil pressure ............................................................ a minimum of 207 kPa (30 lbf/in2) 2,1 kgf/cm2
+(max engine speed and normal engine temperature)
+Capacity of a typical lubricating oil system: (1)
+- includes oil filter. ................................................................................................................8,5 litres (15 pints)
+- sump only...........................................................................................................................7 litres (12.3 pints)
+Typical coolant capacity (engine only). ...........................................................................8,75 litres (15.4 pints)
+Direction of rotation.....................................................................................................Clockwise from the front
+Battery:
+12V system. .............................................................................................................One 12V, 520A to BS3911
+24V system. ............................................................................................................. Two 12V, 440A to BS3911
+Weight of the M92B engine (wet).............................................................................................. 423 kg (933 lb)
+Weight of the engine with a PRM 500D reverse gearbox. ....................................................... 504 kg (1111 lb)
+Weight of the engine with a ZF 45 A reverse gearbox. ........................................................... 460 kg (1014 lb)
+
+
+(1) The sump capacity will vary according to the installation angle. Do not exceed the “Full” mark on the
+  dipstick.
+
+Reverse gearbox
+Newage PRM 500D
+- Lubricating oil capacity (1) .................................................................................................2,5 litre (4.40 pints)
+- Lubricating oil specification.......................................................... Engine lubricating oil API CD or ACEA E2
+ZF 45 A
+- Lubricating oil capacity (1) .................................................................................................2,0 litre (3.52 pints)
+- Lubricating oil specification.................................................................................................................. ATF oil
+(1) The reverse gearbox capacity will vary according to the installation angle of the transmission. The oil
+  capacity given does not include the oil cooler or the pipes for the oil cooler.
+
+
+                                                                                                                                                    Page 53
+Chapter 9   N37347
+
+
+
+
+Page 54
+                      California
+               Proposition 65 Warning
+Diesel engine exhaust and some of its constituents are
+known to the State of California to cause cancer, birth
+        defects, and other reproductive harm.
+All information in this document is substantially
+correct at time of printing and may be altered      Wimborne Marine Power Centre
+subsequently.                                       22 Cobham Road,
+Part No. N37347 issue 7
+Produced in England ©2013 by Wimborne
+                                                    Ferndown Industrial Estate,
+Marine Power Centre                                 Wimborne, Dorset, BH21 7PW, England.
+                                                    Tel: +44 (0)1202 796000,
+                                                    Fax: +44 (0)1202 796001
+                                                    E-mail: Marine@Perkins.com
+
+
+                                                    Web: www.perkins.com/Marine
+
