@@ -1,0 +1,1271 @@
+Sabre SPi-Lite AR30459U224683H - M92
+
+
+
+
+                                         AR30459U224683H
+
+
+
+
+02/07/2018 15:43:36    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite AR30459U224683H - M92
+
+ R Area                       PLATEID    Plate Description
+
+
+    ENGINE CORE               6411       Engine Core Assembly, Part No. 34355 (!)
+    ENGINE CORE               6415       Badge, Perkins/Sabre M92
+    ENGINE CORE               6651       Belt cover
+    ENGINE CORE               6696       Badge, manifold, Perkins/Sabre
+    LUBRICATION               6444       Adaptor, oil filter/cooler head
+    LUBRICATION               6496       Oil filter and cooler
+    LUBRICATION               6545       Dipstick and tube, (INJ PUMP SIDE CAT
+                                         3054/M92/M115T)
+
+    LUBRICATION               6869       Sump pump, hose and mounting bracket
+    COOLING                   6437       Heat exchanger
+    COOLING                   6492       Header tank assembly
+    COOLING                   6507       Calorifier fittings
+    COOLING                   6527       Water pump, raw water (2/3 Cam)
+    COOLING                   6536       Cooling system, fresh water circuit
+    COOLING                   6831       Exhaust manifold
+    COOLING                   7446       Cooling System, Raw Water Circuit
+    AIR INTAKE AND EXHAUST6441           Blanking plate, exhaust manifold
+    AIR INTAKE AND EXHAUST6498           Exhaust outlet, wet x 3"
+    AIR INTAKE AND EXHAUST6619           Air filter assembly and breather
+    FUEL SYSTEM               6439       Bracket, speed control/manual stop control.
+    FUEL SYSTEM               6884       low pressure fuel system
+    ELECTRICAL                6485       Belt, mounting brackets and hardware, A127/AS128
+                                         alternator
+
+    ELECTRICAL                6516       Relays (12V)
+    ELECTRICAL                6531       Bonding stud, cylinder block
+    ELECTRICAL                6569       Engine wiring loom support bkt and hardware (no
+                                         loom)
+
+    ELECTRICAL                6601       Starter, M127 (12V), Magneti Marelli
+    ELECTRICAL                6688       Interconnecting loom, 8 metre, engine to panel
+    ELECTRICAL                6810       Main station instrument panel, 12V (S/PERKINS)
+    ELECTRICAL                6842       Loom, engine wiring, unscreened
+    ELECTRICAL                6856       Alternator, AS128-90 amp (12V)
+    ELECTRICAL                6865       Alarm switches/sender, water temperature and oil
+                                         pressure
+
+    ELECTRICAL                6866       Gauge sender, water temperature
+    GEARBOX                   6493       Flywheel and gearbox bell housing
+    GEARBOX                   6602       Adaption kit, M127 starter to bell/SAE3 housing
+    PTO                       6054       Engine turning device
+    ENGINE MOUNTS AND MISC5637           Engine stillage, Perkins, Part no. PK134
+    ENGINE MOUNTS AND MISC6706           Mounts, flexible, with height adjustment bolts and
+                                         shims
+
+
+
+02/07/2018 15:43:37    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite AR30459U224683H - M92
+
+ R Area                       PLATEID    Plate Description
+
+
+    ENGINE MOUNTS AND MISC6886           Front feet, engine mounting, 550mm centres, 16.5mm
+                                         slots.
+
+    ENGINE MOUNTS AND MISC6887           Rear feet, engine mounting, 16.5mm slot
+    ENGINE MOUNTS AND MISC6938           Installation manual, TPD1317
+    ENGINE MOUNTS AND MISC6965           Miscellaneous materials, M92
+    ENGINE MOUNTS AND MISC6996           Users Handbook, Eng/French/Spanish, Part number
+                                         TPD1397EFS
+
+
+
+
+02/07/2018 15:43:37    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite 6411-Engine Core Assembly, Part No. 34355 (!)
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34355          ENGINE CORE ASSEMBLY, M92 (AR 50750)                            1
+
+
+
+
+02/07/2018 15:43:46    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite 6411-Engine Core Assembly, Part No. 34355 (!)
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34355          ENGINE CORE ASSEMBLY, M92 (AR 50750)                            1
+
+
+
+
+02/07/2018 15:43:58    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Badge, Perkins/Sabre M92
+
+
+
+
+02/07/2018 15:44:04    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Badge, Perkins/Sabre M92
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34478          BADGE, PERKINS/SABRE M92                                        1
+
+
+
+
+02/07/2018 15:44:04    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Belt cover
+
+
+
+
+02/07/2018 15:44:09    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Belt cover
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34769          BELT COVER                                                      1
+    2      33482          GROMMET, 14.3MM ID X 19MM EFFECTIVE OD                          3
+    3      33483          SPACER, 8.2MM ID X 14.3MM OD X 8.5MM                            3
+    4      33484          WASHER, 5/16" ID X 1" OD, FLAT                                  3
+    5      58070          SETSCREW, M8 X 25 (HEX HEAD)                                    3
+    6      33926          PILLAR, M16 MALE X M8 FEMALE, 24MM HEX                          2
+    7      34770          PILLAR, M12 MALE X M8 FEMALE, 24MM HEX                          1
+
+
+
+
+02/07/2018 15:44:09    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Badge, manifold, Perkins/Sabre
+
+
+
+
+02/07/2018 15:44:14    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Badge, manifold, Perkins/Sabre
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34314          BADGE, MANIFOLD, PERKINS/SABRE                                  1
+
+
+
+
+02/07/2018 15:44:14    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Adaptor, oil filter/cooler head
+
+
+
+
+02/07/2018 15:44:19    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Adaptor, oil filter/cooler head
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34389          ADAPTOR, OIL FILTER/COOLER HEAD (M92/M115T)                     1
+    2      3686T006       GASKET, FILTER HEAD                                             2
+    3      34785          PLUG, 3/8" NPT X 1/2", SOCKET SETSCREW                          1
+    4      2313M078       STUD                                                            4
+    5      2318A604       NUT, FLANGED, M10                                               4
+    6      2314J003       BOLT, FLANGED, M10 X 25                                         4
+
+
+
+
+02/07/2018 15:44:20    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Oil filter and cooler
+
+
+
+
+02/07/2018 15:44:25    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Oil filter and cooler
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      P2654403       OIL FILTER                                                      1
+    2      2486A208       CONNECTOR                                                       1
+    3      2486A205       OIL COOLER                                                      1
+    4      33813131       SEAL, INJECTOR          (225)                                   1
+    5      3773K051       FILTER HEAD                                                     1
+    6      0650594        PLUG, 1/8" NPTF                                                 1
+
+
+
+
+02/07/2018 15:44:25    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Dipstick and tube, (INJ PUMP SIDE CAT 3054/M92/M115T)
+
+
+
+
+02/07/2018 15:44:29    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Dipstick and tube, (INJ PUMP SIDE CAT 3054/M92/M115T)
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      2314J003       BOLT, FLANGED, M10 X 25                                         2
+    2      P3823D024      BRACKET                                                         1
+    3      2314H001       BOLT, FLANGED, M8 X 14                                          1
+    4      2318A603       NUT, FLANGED, M8                  (INTERCOOLER)                 1
+    5      P3656P009      CLIP                                                            1
+    6      34728          TUBE, DIPSTICK (INJ PUMP SIDE M92/115T)                         1
+    7      P3178C122      DIPSTICK                                                        1
+    8      33812116       OLIVE, RUBBER                                                   1
+
+
+
+
+02/07/2018 15:44:30    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Sump pump, hose and mounting bracket
+
+
+
+
+02/07/2018 15:44:34    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Sump pump, hose and mounting bracket
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      2314H002       BOLT, FLANGED, M8 X 16                                          2
+    2      35430          BRACKET, SUMP PUMP SUPPORT                                      1
+    3      59078          WASHER, M10, FLAT (BRIGHT PRESSED STEEL)                        1
+    4      2314J019       BOLT, FLANGED, M10 X 110                                        1
+    5      60210          PUMP, SUMP DRAIN                                                1
+    6      35439          HOSE ASSEMBLY (3/8, 90+90 SHORT)                                1
+    7      33006          ADAPTOR, 3/8" BSP MALE X 3/4" UNF MALE WITH 'O' RING            1
+                          GROOVE
+
+    8      33084          'O' RING (SUMP ADAPTOR)                                         1
+    9      19958          CLIP, PIPE SUPPORT, SIZE 32MM                                   2
+    10     2314H001       BOLT, FLANGED, M8 X 14                                          2
+
+
+
+
+02/07/2018 15:44:34    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Heat exchanger
+
+
+
+
+02/07/2018 15:44:39    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Heat exchanger
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34384          HEAT EXCHANGER                     (M92)                        1
+    2      33903          END CAP (WITH WATER OUTLETS)                                    1
+    3      33902          END CAP (BLANKING WITH DRAIN)                                   1
+    4      2314F005       BOLT, FLANGED, M6 X 20                                          12
+    5      10161          TUBESTACK, 3", EC120                                            1
+    6      10171          'O' RING                                                        2
+    7      33948          PLUG, 1/4" BSP, PLASTIC                                         1
+    8      34467          HEAT EXCHANGER BODY                                             1
+    9      2314J018       BOLT, FLANGED, M10 X 100                                        1
+    10     2314J051       BOLT, FLANGED, M10 X 130, SEALANT COATED                        1
+
+
+
+
+02/07/2018 15:44:40    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Header tank assembly
+
+
+
+
+02/07/2018 15:44:44    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Header tank assembly
+
+ R Item       Part No     Description                                                        Qty
+
+
+
+    1      34136          HEADER TANK (SCREW CAP) (OLD HT)                                   1
+    2      34150          CAP, PRESSURE, 0.4 BAR        (OLD HT)                             1
+    3      2314J009       BOLT, FLANGED, M10 X 55                                            3
+    4      33075          WASHER, M10, FLAT (LARGE 0D)                                       3
+    5      33053          BUSH, RUBBER                                                       6
+    6      33059          SPACER, 11MM ID X 14MM OD X 40.5MM                                 3
+    7      34227          HOSE, 7MM ID X 0.3M, SILICONE RUBBER              (OLD HT)         1
+    10     34461          BRACKET, MOUNTING, HEADER TANK, LOWER (M92)                        1
+    11     2314J011       BOLT, FLANGED, M10 X 65                                            2
+    13     34651          HOSE, 25.4MM X 110 DEG, H/TANK TO F/W PIPE. (M92)                  1
+    15     34594          HOSE, 1/4" ID X 0.10M, TEXTILE BRAID              (OLD HT)         1
+    16     34469          ELBOW, BLEED, HEADER TANK TO WATER OUTLET             (OLD HT)     1
+    17     33355          ELBOW, BLEED.      (OLD HT)                                        1
+    18     33356          HOSE, 1/4" ID X 0.43M, TEXTILE BRAID              (OLD HT)         1
+    19     19609          HOSE CLIP, SIZE 35, S.S.                                           2
+    20     33030          CONNECTOR, LIQUID TIGHT                                            2
+    21     15396          CLIP, PIPE SUPPORT, SIZE 3/0.69                                    2
+    22     33845          HOSE END, 1/4" BSPT MALE, STRAIGHT, PUSH IN             (OLD HT)   1
+    23     34591          BOLT, BANJO M14 X 1.5 (M92)                                        1
+    24     34592          BANJO, WITH 5/16" HOSE CONNECTION (M92)             (OLD HT)       1
+    25     34593          WASHER, COPPER, 9/16"ID (M92)         (OLD HT)                     2
+    26     34239          NYLON CONDUIT, 16MM OD X 1.0M         (OLD HT)           (NEW      1
+                          DRAIN)
+
+
+
+
+02/07/2018 15:44:45    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Calorifier fittings
+
+
+
+
+02/07/2018 15:44:49    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Calorifier fittings
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      33708          ADAPTOR, 3/8" BSPT MALE X 3/8" BSPT MALE                        1
+    2      26901          TAP, BALL VALVE, 3/8" BSP FEMALE              RAS DONKEY        2
+    3      26902          CONNECTOR, 3/8" BSPT MALE X 1/2" HOSE             RAS DONKEY    2
+    4      34605          ADAPTOR, 1/2" NPTF MALE X 3/8" BSPT MALE                        1
+    5      18357          TIE, 4.8MM X 190MM                                              2
+
+
+
+
+02/07/2018 15:44:50    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Water pump, raw water (2/3 Cam)
+
+
+
+
+02/07/2018 15:44:54    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Water pump, raw water (2/3 Cam)
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34658          WATER PUMP, RAW WATER (M92/M130, 2/3 CAM)                       1
+    2      33189          RING, RETAINING                                                 1
+    3      33188          BEARING, RAW WATER PUMP                                         2
+    4      33191          SHAFT, RAW WATER PUMP                                           1
+    5      33187          SEAL, SHAFT                                                     1
+    6      34913          BODY, RAW WATER PUMP                                            1
+    7      34109          SCREW, CAM, RAW WATER PUMP          (M92/M115T)                 1
+    8      33186          SEAL, MECHANICAL, ASSEMBLY                                      1
+    9      33192          SERVICE KIT, RAW WATER PUMP                                     1
+    10     11175          RING, RETAINING                                                 1
+    11     15014          WEARPLATE (JABSCO 1")                                           1
+    12     34474          CAM, RAW WATER PUMP (M92 2/3 CAM)                               1
+    13     15021          IMPELLER (JABSCO 1")                                            1
+    14     19244          SEAL, SPLINE                                                    1
+    15     19234          GASKET, END COVER                                    (15019)    1
+    16     15015          END COVER (JABSCO 1")                                           1
+    17     34602          SCREW, END COVER, SEA WATER PUMP (S.S HEX HEAD, M5 X            6
+                          8MM)
+
+    18     2314J034       BOLT, FLANGED, M10 X 30, SEALANT COATED           (2314J204)    1
+    19     33021          'O' RING (RAW WATER PUMP)                                       1
+    20     2314H601       SETSCREW, M8 X 10 FLANGE HEAD WITH PRECOAT 30                   2
+    21     33190          GEAR, RAW WATER PUMP                                            1
+    22     34447          PLATE, CLAMPING, RAW WATER PUMP                                 1
+    23     34448          WASHER, CLAMPING, RAW WATER PUMP                                1
+    24     2313M060       STUD, M8 X 30 NOMINAL LENGTH, SEALANT COATED                    2
+    25     2313M058       STUD, M8 X 20 NOMINAL LENGTH, SEALANT COATED                    1
+    26     2318A603       NUT, FLANGED, M8                  (INTERCOOLER)                 2
+
+
+
+
+02/07/2018 15:44:55    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Cooling system, fresh water circuit
+
+
+
+
+02/07/2018 15:44:59    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Cooling system, fresh water circuit
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34391          ADAPTOR, WATER OUTLET, CYLINDER HEAD (M92)          (OLD HT)    1
+    2      3686D007       JOINT                                                           1
+    3      2313M060       STUD, M8 X 30 NOMINAL LENGTH, SEALANT COATED                    1
+    4      34466          NUT, EXTENDED, M8/M10 (M92)                                     1
+    5      59810          HOSE CLIP, SIZE 55, S.S.                                        5
+    6      33088          HOSE, 1.3/4" X 2.1/2"                                           1
+    7      2314H004       BOLT, FLANGED, M8 X 25                                          5
+    8      34439          CAP, BLANKING, 35.5 I.D X 30 LONG                               1
+    9      2318A603       NUT, FLANGED, M8                  (INTERCOOLER)                 3
+    10     59812          HOSE CLIP, SIZE 60, S.S.                                        2
+    11     34443          HOSE, ELBOW, REDUCER, F/W PUMP TO W/PIPE (M92)                  1
+    12     34471          PIPE, 1.3/4", HEAT EXCHANGER TO FRESH WATER PUMP (M92) 1
+    13     2313H238       STUD                                                            1
+    14     19518          SPACER, 8.5MM ID X 20MM OD X 12MM                               1
+    15     19959          CLIP, PIPE SUPPORT, SIZE 44MM                                   1
+    16     34444          HOSE, ENG OIL COOLER TO BLOCK (M92)                             1
+    17     3346C006       ADAPTOR                                                         1
+    18     2314H008       BOLT, FLANGED, M8 X 45                                          2
+    19     34442          HOSE, H/EXC TO F/W PUMP PIPE (M92)                              1
+    20     34446          HOSE, THERMOSTAT BY-PASS TO HEAT EXCHANGER (M92)                1
+    21     59800          HOSE CLIP, SIZE 45, S.S.                                        3
+    22     P4133L027      THERM. HOUSING                                                  1
+    23     P3381J008      RING                                                            1
+    24     P2485C036      THERMOSTAT                                                      1
+    25     P2415A090      O RING                                                          1
+    26     P2415H492      O RING                                                          1
+    27     P4133L036      CONNECTION                                                      1
+    28     P2314H004      BOLT, FLANGED, M8 X 25                                          4
+    29     34440          HOSE, THERMOSTAT HOUSING TO H/EXCHANGER (M92)                   1
+    30     P2314K161      SCREW                                                           2
+    31     3482A006       HOSE, 5/8" ID X 90 DEG                                          1
+    32     26702          HOSE CLIP, SIZE 25, S.S.                                        4
+    33     2314H010       BOLT, FLANGED, M8 X 55              (INTERCOOLER)               1
+    34     2314H013       BOLT, FLANGED, M8 X 70                                          1
+    35     30089          PLUG, 1/4" BSPT (STEEL - F/W USE)                               1
+    36     34785          PLUG, 3/8" NPT X 1/2", SOCKET SETSCREW                          1
+    37     0650594        PLUG, 1/8" NPTF                                                 1
+    38     P2415A102      O RING (DAVE BECK)                                              1
+    39     59815          HOSE CLIP, SIZE 70, S.S. (HI-GRIP, M.A.N.)                      1
+
+
+02/07/2018 15:45:00    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Exhaust manifold
+
+
+
+
+02/07/2018 15:45:04    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Exhaust manifold
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34465          MANIFOLD, 4 CYLINDER INLET AND EXHAUST (M92/M115T)              1
+    2      34464          GASKET, CYLINDER HEAD TO EXHAUST AND INLET MANIFOLDS            2
+                          (M92)
+
+    3      2314J020       BOLT, FLANGED, M10 X 120                                        4
+    4      2314H052       BOLT, FLANGED, M8 X 130, SEALANT COATED                         1
+    5      2318A603       NUT, FLANGED, M8                  (INTERCOOLER)                 8
+    6      35009          STUD, M10 X M8, X 45MM OVERALL LENGTH (MANIFOLD)                8
+    7      34481          GRUBSCREW, M8 X 8MM LONG                                        4
+    8      30089          PLUG, 1/4" BSPT (STEEL - F/W USE)                               1
+
+
+
+
+02/07/2018 15:45:05    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Cooling System, Raw Water Circuit
+
+
+
+
+02/07/2018 15:45:09    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Cooling System, Raw Water Circuit
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    2      34455          HOSE, RAW WATER PUMP TO GEARBOX OIL COOLER (M92)                1
+    3      34457          CONNECTOR, 31.8MM O.D, STRAIGHT (M92)                           1
+    4      34619          END CAP, 90 DEGREE, GEARBOX OIL COOLER                          1
+    5      34747          HOSE CLIP, SIZE 60, "MIKALOR"                                   2
+    6      34615          OIL COOLER, GEARBOX                      M92/M115T              1
+    7      34597          END CAP, STRAIGHT, GEARBOX OIL COOLER (M92)                     1
+    8      34441          HOSE, REDUCER, H/EXCHANGER TO W/INJ EX ELBOW (M92)              1
+    9      59818          HOSE CLIP, SIZE 40, S.S.                                        5
+    10     100061         PLUG, 1/4" BSPT (BRONZE - R/W USE)                              1
+    11     34472          BRACKET, SUPPORT, G/BOX OIL COOLER, (UPPER) (M92)               1
+    12     18060          SPACER, 11MM ID X 19MM OD X 9MM                                 2
+    13     33442          SPACER, 10.5MM ID X 20MM OD X 29.4MM LONG                       1
+    14     2314J008       BOLT, FLANGED, M10 X 50                                         1
+    15     2318A603       NUT, FLANGED, M8                  (INTERCOOLER)                 2
+    16     2314H002       BOLT, FLANGED, M8 X 16                                          2
+    17     33125          HOSE, 1.1/4" X 45 DEG ELBOW                                     1
+    18     2314J005       BOLT, FLANGED, M10 X 35                                         2
+    19     34486          BRACKET, SUPPORT, G/BOX OIL COOLER, (LOWER) (M92)               1
+    20     19609          HOSE CLIP, SIZE 35, S.S.                                        1
+    21     33779          BONDING WIRE, RAW WATER PIPE                                    1
+    22     2318E207       NUT, M6, BRASS                                                  1
+    23     33777          WASHER, M6, SPRING, PHOSPHOR BRONZE                             1
+    24     34616          PIPE, 31.8MM O.D X 45 DEG, WITH 1/4" BSP BLEED (M92)            1
+    25     36622          CLIP, SWIVEL, HOSE SUPPORT                                      1
+    26     36623          CLIP, SWIVEL, PIPE SUPPORT                                      1
+    27     59800          HOSE CLIP, SIZE 45, S.S.                                        2
+
+
+
+
+02/07/2018 15:45:10    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Blanking plate, exhaust manifold
+
+
+
+
+02/07/2018 15:45:14    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Blanking plate, exhaust manifold
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      2314J002       BOLT, FLANGED, M10 X 20                                         4
+    2      34623          GASKET, EXHAUST BLANKING PLATE (M92)                            1
+    3      34463          PLATE, COVER, EXHAUST OUTLET (M92)                              1
+
+
+
+
+02/07/2018 15:45:15    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Exhaust outlet, wet x 3"
+
+
+
+
+02/07/2018 15:45:20    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Exhaust outlet, wet x 3"
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      37765461       ELBOW, EXHAUST, WATER INJECTED, 3" OUTLET                       1
+    2      34856          ADAPTOR, 3/4" NPTF MALE X 1.1/8" HOSE                           1
+    3      34488          GASKET, EXHAUST, MANIFOLD OUTLET (M92)                          1
+    4      33081          STUD, M10 X 24 NOMINAL LENGTH, S.S.                             4
+    5      66145          PLUG, 3/4" NPTF, SOCKET SET SCREW                               1
+    6      58220          NUT, M10 (HEXAGON, FULL)                                        4
+    7      59003          WASHER, M10, SPRING                                             4
+
+
+
+
+02/07/2018 15:45:20    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Air filter assembly and breather
+
+
+
+
+02/07/2018 15:45:25    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Air filter assembly and breather
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34477          HOSE, REDUCER, ENGINE BREATHER PIPE (M92)                       1
+    2      26702          HOSE CLIP, SIZE 25, S.S.                                        4
+    3      34475          PIPE, ENGINE BREATHER (M92)                                     1
+    4      34821121       HOSE, 5/8" ID X 90 DEG                                          1
+    5      34480          PLATE, COVER, INLET MANIFOLD (M92)                              1
+    6      2314H001       BOLT, FLANGED, M8 X 14                                          4
+    7      34894          AIR CLEANER ASSEMBLY                                            1
+    8      59820          HOSE CLIP, SIZE 80, S.S.                                        1
+    9      33064          HOSE, TURBO INTAKE                                              1
+    10     33323          HOSE CLIP, SIZE 100, S.S.                                       1
+    11     2314H003       BOLT, FLANGED, M8 X 20                                          4
+    12     34893          DUCT, AIR CLEANER TO INLET MANIFOLD (60MM)                      1
+    13     33062          ELEMENT, AIR CLEANER (TURBO)                                    1
+    14     33063          SUPPORT, AIR CLEANER ELEMENT                                    1
+    15     33061          HOUSING, AIR CLEANER                                            1
+    16     2314J001       BOLT, FLANGED, M10 X 16                                         2
+    17     34786          BRACKET, SUPPORT, AIR CLEANER                                   1
+    18     2314F005       BOLT, FLANGED, M6 X 20                                          1
+    19     59082          WASHER, 1/4" ID X 1" OD, FLAT                                   1
+    20     19579          NUT, M6, SELF LOCKING                                           1
+
+
+
+
+02/07/2018 15:45:25    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Bracket, speed control/manual stop control.
+
+
+
+
+02/07/2018 15:45:30    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Bracket, speed control/manual stop control.
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34458          BRACKET, SPEED CONTROL                                          1
+    2      2314F005       BOLT, FLANGED, M6 X 20                                          2
+    3      2318A602       NUT, FLANGED, M6                                                2
+    4      35540          HOOK, CONTROL CABLE, 33 SERIES                                  1
+    5      2314E604       SCREW                                                           2
+    6      2663702        CLAMP AND STOP COLLAR KIT (A410 CABLE)                          1
+    7      2318D205       NUT, M5, SELF LOCKING (INDUSTRIAL TYPE)                         2
+    8      35550          PIVOT, CONTROL CABLE, 33 SERIES                                 1
+    9      18806          WASHER, M6, FLAT (BRIGHT PRESSED STEEL)                         2
+    10     35551          COTTER PIN, 3/32" X 1" (BRASS)                                  1
+    11     34617          BRACKET, MANUAL STOP CONTROL                                    1
+    12     18806          WASHER, M6, FLAT (BRIGHT PRESSED STEEL)                         3
+    13     58095          SETSCREW, M5 X 10                                               2
+    14     59153          WASHER, M5, SHAKEPROOF                                          2
+    15     2318A601       NUT, FLANGED, M5                                                1
+
+
+
+
+02/07/2018 15:45:30    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite low pressure fuel system
+
+
+
+
+02/07/2018 15:45:35    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite low pressure fuel system
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      P3432A025      PIPE,FUEL                                                       1
+    2      33225412       NUT, 3/16" OD PIPE                                              3
+    3      P4121A025      PIPE,AIR BLEED(SABMW/1)                                         1
+    4      P3353D004      UNION NUT                                                       1
+    5      P33811112      OLIVE, 3/16" OD PIPE                                            4
+    6      P4122M014      PIPE,FUEL                                                       1
+    7      P4122A015      PIPE,FUEL                                                       1
+    9      2318A604       NUT, FLANGED, M10                                               2
+    10     P4125T012      PIPE,FUEL                                                       1
+    11     33532129       NUT, COMPRESSION, 1/2" UNS MALE X 5/16" OD PIPE                 6
+    12     33811114       OLIVE, RUBBER                                                   6
+    13     3656P004       CLIP                                                            1
+    14     3656P008       CLIP                                                            1
+    15     P3831E011      BRACKET                                                         1
+    16     2314J004       BOLT, FLANGED, M10 X 30                                         2
+    17     2314J002       BOLT, FLANGED, M10 X 20                                         2
+    18     35411          FILTER ASSEMBLY, FUEL (4TGM/4GM/6TG/6TW/M85T/M92/M115T)1
+    19     35412          ELEMENT, FUEL FILTER (PERKINS LOGO)                             1
+    20     35350          DRAIN PLUG, FUEL FILTER, METAL                                  1
+    21     P3218R013      BOLT, BANJO                                                     1
+    22     P2415928       SEAL, 1/8" BSP, BONDED                                          2
+    23     P3172X004      CONNECTION                                                      1
+    24     P0650204       PLUG, 1/2" UNF, HEX HEAD                                        1
+    25     P0920154       WASHER, 1/4" BSP, SEALING                                       1
+    26     2314F006       BOLT, FLANGED, M6 X 25 (HEAT EXCHANGER END CAP                  1
+                          RETAINING)
+
+    27     P0920496       WASHER                                                          1
+    28     2318A602       NUT, FLANGED, M6                                                1
+    29     P3653R002      BRACKET                                                         1
+    30     2314F002       BOLT, FLANGED, M6 X 12                                          1
+
+
+
+
+02/07/2018 15:45:36    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Belt, mounting brackets and hardware, A127/AS128 alternator
+
+
+
+
+02/07/2018 15:45:41    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Belt, mounting brackets and hardware, A127/AS128 alternator
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34452          BRACKET, MOUNTING, ALTERNATOR (A127, M92)                       1
+    2      2314J003       BOLT, FLANGED, M10 X 25                                         1
+    3      2314H003       BOLT, FLANGED, M8 X 20                                          2
+    4      2314H008       BOLT, FLANGED, M8 X 45                                          1
+    5      2314H006       BOLT, FLANGED, M8 X 35            (INTERCOOLER)                 1
+    6      33134418       SPACER, 8.8MM ID X 19MM OD X 6.5MM                              1
+    7      59077          WASHER, M8, FLAT (BRIGHT PRESSED STEEL)                         2
+    8      11992          NUT, M8, SELF LOCKING                                           2
+    9      34468          ADJUSTER ARM, A127, ALTERNATOR (M92)                            1
+    10     2314J602       BOLT, FLANGED, M12 X 25                                         1
+    11     2614B542       BELT (1175MM OD)                                                1
+    12     2314H013       BOLT, FLANGED, M8 X 70                                          2
+    13     3822A021       BRACKET                                                         1
+    14     2314H004       BOLT, FLANGED, M8 X 25                                          1
+    15     33078          WASHER, M8, FLAT (LARGE OD)                                     1
+
+
+
+
+02/07/2018 15:45:42    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Relays (12V)
+
+
+
+
+02/07/2018 15:45:46    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Relays (12V)
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      19739          RELAY, 12V (LEHMAN NO EI600A)                                   2
+    6      59068          WASHER, M5, FLAT (ENGINE OIL COOLER)                            2
+    7      59153          WASHER, M5, SHAKEPROOF                                          2
+    8      19570          SCREW, M5 X 12, PAN HEAD                                        2
+
+
+
+
+02/07/2018 15:45:47    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Bonding stud, cylinder block
+
+
+
+
+02/07/2018 15:45:56    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Bonding stud, cylinder block
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      2313H321       STUD                                                            1
+    2      59081          WASHER, M12, FLAT (PLATED PRESSED STEEL)                        2
+    3      59001          WASHER, M12, SPRING (SINGLE COIL, FLAT SECT., ZINC              1
+                          PLATED)
+
+    4      55028          NUT, M12 (FULL)                                                 1
+
+
+
+
+02/07/2018 15:45:57    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Engine wiring loom support bkt and hardware (no loom)
+
+
+
+
+02/07/2018 15:46:02    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Engine wiring loom support bkt and hardware (no loom)
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34768          BRACKET, SUPPORT, ENGINE WIRING HARNESS (M92)                   1
+    2      2314H003       BOLT, FLANGED, M8 X 20                                          2
+
+
+
+
+02/07/2018 15:46:02    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Starter, M127 (12V), Magneti Marelli
+
+
+
+
+02/07/2018 15:46:08    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Starter, M127 (12V), Magneti Marelli
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    9      34748          STARTER, 12V, M127, 2.8 KW, NEGATIVE EARTH                      1
+
+
+
+
+02/07/2018 15:46:08    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Interconnecting loom, 8 metre, engine to panel
+
+
+
+
+02/07/2018 15:46:13    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Interconnecting loom, 8 metre, engine to panel
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      35050          LOOM, INTERCONNECTING, 8 METRE                                  1
+
+
+
+
+02/07/2018 15:46:13    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Main station instrument panel, 12V (S/PERKINS)
+
+
+
+
+02/07/2018 15:46:18    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Main station instrument panel, 12V (S/PERKINS)
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      35210          ASSEMBLY, BASE MAIN STATION INSTRUMENT PANEL, 12 VOLT           1
+    2      35219          DECAL, SABRE PERKINS, INSTRUMENT PANEL                          1
+    3      35218          WASHER, STARLOCK                                                2
+    4      35212          ASSEMBLY, MAIN STATION INSTRUMENT PANEL, 12 VOLT                1
+                          (S/PERK)
+
+    5      34636          OPERATION SHEET, OCEANLINE INSTRUMENT PANEL                     1
+    6      35391          INFORMATION SHEET, PERKINS/SABRE INSTRUMENT PANEL               1
+    7      35392          CUT OUT TEMPLATE, PERKINS/SABRE MAIN INSTRUMENT PANEL           1
+    8      34905          TACHOURMETER, 12V/24V OCEANLINE 0-4000                          1
+                          RPM)(INSTRU.PANEL)
+
+    9      34907          GAUGE, WATER TEMPERATURE, 12V (OCEAN LINE INT                   1
+                          BLACK-INSTRPAN
+
+    10     34906          GAUGE, OIL PRESSURE, 12V (OCEAN LINE INT                        1
+                          BLACK-INSTRUPANEL)
+
+    11     34908          VOLTMETER, 12V (OCEAN/LINE INT BLACK-STANDARD)                  1
+    12     27174          BULB HOLDER        (OCEAN LINE)                                 3
+    13     34496          SWITCH, TWIN POLE, ON-OFF                                       1
+    14     17237          SWITCH, SINGLE POLE, MOM./OFF/MOM.                (NEW PAN)     1
+    15     19744          SWITCH, PUSH BUTTON                                             1
+    16     34588          SWITCH, PANEL LIGHT                                             1
+    17     34587          WARNING LIGHT, WATER IN FUEL, 12V                               1
+    18     34607          BUZZER, WARNING. (OCEANLINE PANEL)                              1
+    19     35209          PANEL, INSTRUMENT, MAIN STATION                                 1
+    20     34888          BULB, RED, INSTRUMENT HEAD, 12V                                 8
+    21     34127          BULB, WARNING LIGHT, 12V, 1.2W                                  2
+    22     58292          SCREW, NO. 8 X 3/4", SELF TAPPING, S.S.                         4
+    23     34889          BULB AND HOLDER, RED, WARNING LIGHT, 12V.                       3
+    24     34892          SHROUD, WARNING LIGHT, RUBBER                                   3
+
+
+
+
+02/07/2018 15:46:18    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Loom, engine wiring, unscreened
+
+
+
+
+02/07/2018 15:46:23    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Loom, engine wiring, unscreened
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      35335          LOOM, ENGINE WIRING, UNSCREENED           (M92, NEW OCT 2000)   1
+    2      33860          FUSE, BLADE, 40A                                                1
+    3      33859          FUSE, BLADE, 25A                                                1
+    4      33858          FUSE, BLADE, 10A                                                1
+    5      34767          SPACER, NYLON, 12.7MM O.D. X 6.3 I.D. X 32MM LONG               2
+    6      2314F010       SCREW, M6 X 45 NOMINAL LENGTH                                   2
+    7      26642          BAG, POLYTHENE SELF SEAL, 4" X 5.1/2"                           1
+    8      34476          COVER, FUSE                                                     1
+    9      19009          NUT, M5, SELF LOCKING                                           2
+    10     59071          WASHER, 3/16", FLAT (BRIGHT PRESSED STEEL)                      1
+    11     35146          INSULATOR, STARTER TERMINAL, BLACK                              1
+    12     35102          INSULATOR, STARTER TERMINAL, RED                                1
+    13     15401          CLIP, PIPE SUPPORT, SIZE 5/0.81                                 1
+    14     2314F002       BOLT, FLANGED, M6 X 12                                          1
+    15     27170          INSULATOR, TERMINAL, RED                                        1
+    16     18357          TIE, 4.8MM X 190MM                                              1
+    17     15396          CLIP, PIPE SUPPORT, SIZE 3/0.69                                 1
+    18     15385          TIE, 9MM X 275MM                                                1
+    19     2314J001       BOLT, FLANGED, M10 X 16                                         1
+
+
+
+
+02/07/2018 15:46:23    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Alternator, AS128-90 amp (12V)
+
+
+
+
+02/07/2018 15:46:27    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Alternator, AS128-90 amp (12V)
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      35361          ALTERNATOR, 12V, AS128-90 AMP                                   1
+
+
+
+
+02/07/2018 15:46:28    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Alarm switches/sender, water temperature and oil pressure
+
+
+
+
+02/07/2018 15:46:34    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Alarm switches/sender, water temperature and oil pressure
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      34832          SWITCH, HIGH TEMPERATURE, 96 DEGREE                             1
+    2      34826          SENDER/SWITCH, ENGINE OIL PRESSURE, 0-5 BAR         (VDO)       1
+    3      34734          ADAPTOR, 1/8" NPTF, MALE/FOUR FEMALES                           1
+    4      30086          PLUG, 1/8" NPTF, SOCKET SET SCREW                               3
+
+
+
+
+02/07/2018 15:46:35    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Gauge sender, water temperature
+
+
+
+
+02/07/2018 15:46:39    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Gauge sender, water temperature
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      33149          SENDER, TEMPERATURE, WATER                                      1
+    2      P2411157       WASHER, 5/8", ALUMINIUM                                         1
+
+
+
+
+02/07/2018 15:46:40    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Flywheel and gearbox bell housing
+
+
+
+
+02/07/2018 15:46:44    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Flywheel and gearbox bell housing
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      0350025        DOWEL                                                           2
+    2      34460          PLATE, CYLINDER BLOCK TO BELL HOUSING (M92)                     1
+    3      32455119       DOWEL                                                           2
+    5      2314J204       BOLT, FLANGED, M10 X 30, 10.9 GRADE                             6
+    6      56354          SETSCREW, 3/8" UNF X 1"                                         2
+    7      59030          WASHER, 3/8", SPRING                                            10
+    8      41112248       FLYWHEEL                                                        1
+    9      31162121       RING GEAR, FLYWHEEL (B.W. HOUSING)                              1
+    10     33117127       WASHER, 1/2" FLAT, FLYWHEEL SECURING                            6
+    11     0096803        BOLT, 1/2" UNF X 1.1/2", 'V' QUALITY                            6
+    13     37136483       BELL HOUSING, GEARBOX                                           1
+    14     56354          SETSCREW, 3/8" UNF X 1"                                         8
+    16     0650594        PLUG, 1/8" NPTF                                                 1
+    17     59061          WASHER, 3/8", FLAT, T and C (HEAVY)                             1
+
+
+
+
+02/07/2018 15:46:45    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Adaption kit, M127 starter to bell/SAE3 housing
+
+
+
+
+02/07/2018 15:46:49    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Adaption kit, M127 starter to bell/SAE3 housing
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      55230          NUT, 3/8" UNF (HEXAGONAL)                                       3
+    2      59030          WASHER, 3/8", SPRING                                            3
+    3      P0826412       STUD, 3/8" UNF X 1.1/2"                                         3
+    3      P0826419       STUD, 3/8" UNF X 2"                                             3
+    4      18376          NUT, M8, EXTENDED, BRASS                                        1
+    5      33078          WASHER, M8, FLAT (LARGE OD)                                     2
+    6      2314H002       BOLT, FLANGED, M8 X 16                                          1
+    7      19799          POSITIVE LOCK RECEPTACLE                                        1
+    8      19800          POSITIVE LOCK HOUSING                                           1
+    9      33183          BUTTSPLICE, BLUE                                                2
+    10     81024          TERMINAL, 8MM RING, BLUE                                        1
+
+
+
+
+02/07/2018 15:46:50    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Engine turning device
+
+
+
+
+02/07/2018 15:46:55    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Engine turning device
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      33915          ENGINE TURNING DEVICE (4TGM)                                    1
+    2      26729          SETSCREW, 7/16" UNF X 1"                                        2
+    3      59040          WASHER, 7/16", SPRING (ZINC PLATED, FLAT SECTION)               2
+
+
+
+
+02/07/2018 15:46:55    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite 5637-Engine stillage, Perkins, Part no. PK134
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      PK134          STILLAGE BASE, M90/M65, CONTAINER LOADS                         1
+
+
+
+
+02/07/2018 15:47:00    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Mounts, flexible, with height adjustment bolts and shims
+
+
+
+
+02/07/2018 15:47:06    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Mounts, flexible, with height adjustment bolts and shims
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      17929          BOLT, M16 X 50                                                  4
+    2      59005          WASHER, M16, SPRING                                             4
+    3      59065          WASHER, 5/8", T and C (HEAVY, PLATED)                           4
+    4      18194          MOUNT, FLEXIBLE, ENGINE, 65 SHORE                               4
+    5      34884          SETSCREW, M10 X 80                                              4
+    6      58220          NUT, M10 (HEXAGON, FULL)                                        4
+    7      35081          PAD, JACKING, HEIGHT ADJUSTING BOLT                             4
+    8      34941          SHIM, 0.5 MM, ENGINE MOUNTING                                   8
+    9      34942          SHIM, 1.0 MM, ENGINE MOUNTING                                   44
+    10     35087          HEIGHT ADJUSTER KIT, ENGINE MOUNTS                              1
+
+
+
+
+02/07/2018 15:47:06    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Front feet, engine mounting, 550mm centres, 16.5mm slots.
+
+
+
+
+02/07/2018 15:47:11    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Front feet, engine mounting, 550mm centres, 16.5mm slots.
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      35373          BRACKET, FRONT MOUNTING FOOT, 550MM CENTRES                     2
+    5      2313M100       STUD, M12 X 30 NOMINAL LENGTH                                   8
+    6      2318A605       NUT, FLANGED, M12                            (225)              8
+
+
+
+
+02/07/2018 15:47:12    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Rear feet, engine mounting, 16.5mm slot
+
+
+
+
+02/07/2018 15:47:16    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite Rear feet, engine mounting, 16.5mm slot
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      35085          BRACKET, REAR MOUNTING FOOT, 550MM CENTRES                      2
+    2      0826806        STUD, 1/2" UNF X 1.3/4"                                         4
+    3      59050          WASHER, 1/2", SPRING                                            4
+    4      55246          NUT, 1/2" UNF                                                   4
+
+
+
+
+02/07/2018 15:47:17    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite 6938-Installation manual, TPD1317
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      TPD1317        INSTALLATION MANUAL, M92/M115T/M130-M300TI                      1
+
+
+
+
+02/07/2018 15:47:21    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite 6965-Miscellaneous materials, M92
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      27309          CAP, 31.8 MM, BLACK                                             2
+    2      26531          PAINT, TOUCH UP, PERKINS PRESTIGE BLUE, 125 ML                  1
+    3      26001          PRE - PAINT (PRE - CLEAN) NOW SUPPLIED IN 5 LITRE TINS 1.5
+    4      26002          STANDARD GUN CLEANER                                            0.3
+    5      35343          PAINT, PRIMER BASE, GREY, LITRES (750 2PK EPOXY)                0.86
+    6      60100          GAS OIL, LITRES                                                 22
+    7      60120          OIL, SHELL RIMULA X 20W/20, LITRES                              9.25
+    8      P2368384       BAG, PLASTIC, ENGINE COVER, 84" X 60" (LARGE)(2286 X            1
+                          1200MM)
+
+    9      200006         LABEL, GEARBOX OIL QUANTITY                                     1
+    10     200007         LABEL, ENGINE DIPSTICK                                          1
+    11     200009         LABEL, EXHAUST CONNECTION                                       1
+    12     3181A005       LABEL, ENGINE TYPE                                              1
+    13     34664          INSTALLATION DATA, PERKINS/SABRE M92                            1
+    15     33474          STATEMENT ON WARRANTY                                           1
+    16     33787          LABEL, PROTECTION AGAINST CORROSION                             1
+    17     33950          CERTIFICATE, DECLARATION OF INCORPORATION                       1
+    18     PK125          STILLAGE BASE, M90/M65                                          1
+    19     27070          LABEL, EMISSIONS, CALIFORNIA                                    1
+    20     60060          ANTI-FREEZE, LITRES                                             10
+    21     17398          LABEL, ANTIFREEZE CONTENT                                       1
+    22     P26420462      CAP, FUEL SCREW SEALING, ANTI TAMPER                            1
+    23     35453          (142-7548) STICKER, BATTERY TERMINAL CONNECTIONS                1
+    24     35344          22-99 750 CURING AGENT                                          0.2
+    25     35345          NO 1 THINNERS                                                   0.3
+    26     35346          PAINT, PERKINS PRESTIGE BLUE, LITRES (2 PACK 800 TOP            0.89
+                          COAT)
+
+    27     35341          800 SERIES CURING AGENT                                         0.2
+    28     35342          THINNERS, (25-03 THINNERS)                                      0.3
+    29     200101         CAP, 3/8" BSP FEMALE, PLASTIC                                   2
+    30     200100         (1/4" BSP, FEMALE, PLASTIC CAPS)                                2
+    31     3181E003       LABEL                                                           1
+
+
+
+
+02/07/2018 15:47:26    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+Sabre SPi-Lite 6996-Users Handbook, Eng/French/Spanish, Part number TPD1397EFS
+
+ R Item       Part No     Description                                                      Qty
+
+
+
+    1      TPD1397EFS     USERS HANDBOOK, M92 AND M115T                                   1
+    2      60414          FOLDER, PLASTIC WITH ZIP                                        1
+
+
+
+
+02/07/2018 15:47:31    Copyright of Sabre Engines Ltd. This information is subject to change.
+PDF created with pdfFactory Pro trial version www.software-partners.co.uk
+

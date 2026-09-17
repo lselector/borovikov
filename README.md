@@ -40,8 +40,9 @@ The type code is the useful part. Because it is `AR`, the correct
 factory repair manual is the Perkins New 1000 Series workshop
 manual covering models AJ to AS, publication TPD 1350E. That
 manual is in `resources/`, along with the M92 user handbook, the
-Sabre marine installation manual, and the Perkins parts book for
-build list AR50750, which is this exact engine.
+Sabre marine installation manual, and two parts books: Perkins
+build list AR50750 for the base engine, and a Sabre SPi-Lite
+print for the marine equipment bolted on top of it.
 
 ## Resources
 

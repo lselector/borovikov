@@ -19,9 +19,10 @@ Files are split three ways:
 | `perkins_sabre_marine_installation_manual_TPD1317E.pdf` | TPD 1317E | 94 | **Marine.** Installation, and every wiring diagram. Figure 4 is the M92 |
 | `perkins_1000_series_workshop_manual_TPD1350_AJ-AS_YG-YK.pdf` | TPD 1350E Issue 4, Dec 2001 | 370 | **The repair manual for this engine.** Covers type AR |
 | `perkins_PartsBook_AR50750-04.pdf` | Perkins AR50750, 16 Sep 2026 | 152 | **Parts book for this build list.** Base engine only; the Sabre marine equipment is not in it. Real text layer, so numbers in the text version are exact |
+| `sabre_perkins_M92_parts.pdf` | Sabre SPi-Lite, 2 Jul 2018 | 81 | **Illustrated parts book for the marine equipment.** Heat exchanger, raw water pump, exhaust, header tank, electrics, mounts. Printed against M92 `AR30459U224683H`, a different build from ours, so confirm numbers |
 | `perkins_sabre_M92_sales_brochure.pdf` | Trans Atlantic Diesels | 2 | **Marine.** M92 ratings and construction |
 | `perkins_engine_number_guide.pdf` | PP3000/05/15 | 4 | Official serial number decoding tables |
-| `sabre_perkins_marine_parts_list.pdf` | Sabre Plant & Marine | - | **Marine.** Impellers, raw water pump cams, tubestacks, anodes, exhaust bellows, gearbox couplings |
+| `sabre_perkins_marine_parts_list.pdf` | Sabre Plant & Marine | - | **Marine.** The flat stock list behind the Sabre parts book, same five digit numbers, no drawings |
 | `prm_500_workshop_manual.pdf` | PRM 500, Issue 2, June 2000 | 60 | **Marine.** Full teardown for the PRM 500D |
 | `zf_hurth_HBW_360_450_630_repair_manual.pdf` | ZF Marine 310.01.0001 | 107 | **Marine.** Covers the HBW 450. Four languages |
 
@@ -67,7 +68,7 @@ searching across every manual at once:
 grep -n -i "valve tip clearance" resources/_txt_versions/*.txt
 ```
 
-All fifteen manuals are searchable here: ten carry a real text
+All sixteen manuals are searchable here: eleven carry a real text
 layer, and the other five are represented by their `_OCR`
 copies. The folder is flat, so text from `_more_resources/` sits
 alongside the rest; filenames match the PDFs they came from.
@@ -113,14 +114,17 @@ your eyes before ordering.
 
 ## Not here
 
-Parts information for the marine equipment: heat exchanger, raw
-water pump, marine exhaust, alternator. The AR50750 book covers
-the base engine only, and no publication number for an M92
-marine parts book is known. (TPD 1399E, once named here, is the
-M65 / M85T installation manual, not an M92 parts book.) Until
-then, `sabre_perkins_marine_parts_list.pdf` and
-[Sabre Plant & Marine](https://www.sabrepm.com/downloads) cover
-common marine items.
+A Sabre parts print made against our own engine number. Both
+halves of the engine are now documented: the base engine by the
+AR50750 book, the marine equipment by `sabre_perkins_M92_parts.pdf`.
+But that Sabre book was printed against M92 `AR30459U224683H`,
+so confirm any marine number against `AR50750U038560F` before
+ordering. Sabre Plant & Marine or a distributor can print one
+for this engine.
+
+(An earlier version of this file named "TPD 1399" as the marine
+parts book. That was wrong: TPD 1399E is the M65 / M85T
+installation manual. The marine book is a Sabre SPi-Lite print.)
 
 Free route, in a browser on a laptop: register the engine at
 [myengine.perkins.com](https://myengine.perkins.com/), the
@@ -154,6 +158,10 @@ SBrown@clarkepsi.com, 913-928-6993 (desk), 913-284-2137 (mobile).
 - Web: [perkins.com](https://www.perkins.com),
   [myengine.perkins.com](https://myengine.perkins.com)
 
+**Trans Atlantic Diesels** (US Perkins marine specialist, source
+of the M92 data sheet): Diane Boothe, Diane@tadinc.com,
+804-642-9296, [tadiesels.com](https://www.tadiesels.com)
+
 **Sabre Plant & Marine** (source of the marine parts list):
 
 - Phone: +44 (0)1224 877667
@@ -169,7 +177,8 @@ SBrown@clarkepsi.com, 913-928-6993 (desk), 913-284-2137 (mobile).
 - M92 data sheet: tadiesels.com
 - Marine parts list: sabrepm.com/downloads
 - PRM and ZF manuals: public marine manual archives
-- Parts books AR81148 and AR50750: supplied by the owner
+- Parts books AR81148, AR50750 and the Sabre SPi-Lite M92 book:
+  supplied by the owner
 
 All are publicly posted copies of manufacturer literature. For
 current official documents and for parts information tied to a

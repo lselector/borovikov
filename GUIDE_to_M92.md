@@ -69,7 +69,7 @@ Parts desk: `AR50750U038560F` (TPL 1396/2400). Online: [myengine.perkins.com](ht
 | CAV DPA rebuild | Delphi / Lucas CAV | **Wrong pump family** | _more |
 | PRM owners handbook | PRM Newage | Gearbox servicing, generic | _more |
 | Jabsco impeller pumps | Jabsco / Xylem | General, not the 29640 | _more |
-| **Marine equipment parts** | No number known | Heat exchanger, raw water, exhaust | **Missing** |
+| **Sabre marine parts book** | SPi-Lite, AR30459, 81 pp | **Marine equipment, illustrated** | resources |
 
 "resources" means `resources/`, the documents that describe this
 engine in a boat. "_more" means `resources/_more_resources/`,
@@ -79,34 +79,24 @@ section 2.
 
 ### What is not here, and where to get it
 
-**The parts book for build list 50750 is no longer missing.**
-`resources/perkins_PartsBook_AR50750-04.pdf` carries `AR50750`
-on its front page, so it is the book for this engine. See
-"What the AR50750 book covers" below and section 12.
+**Both parts books are now here.** The base engine is in
+`resources/perkins_PartsBook_AR50750-04.pdf`, against your own
+build list. The marine equipment Sabre bolted on top is in
+`resources/sabre_perkins_M92_parts.pdf`. Between them the whole
+engine has exploded plates and part numbers. See "The two parts
+books" below and section 12.
 
-**A parts book for the marine equipment.** AR50750 lists the
-engine as Perkins shipped it to Sabre for marinising. The heat
-exchanger, raw water pump, exhaust manifold, marine exhaust
-elbow, alternator, starter and panel were added afterwards, and
-they are not in it.
+**One caution on the Sabre book.** It was printed against engine
+`AR30459U224683H`, a different M92 build from yours. The marine
+equipment on an M92 changed little, so it is the right book for
+identifying a heat exchanger or a raw water pump, but confirm a
+number against `AR50750U038560F` before you spend money.
 
-No publication number for an M92 marine parts book has turned
-up. An earlier draft of this guide named TPD 1399. That was
-wrong: TPD 1399E is the installation manual for the M65 and
-M85T. For marine equipment parts, go to:
-
-- A Perkins distributor, quoting `AR50750U038560F`
-- Wimborne Marine Power Centre (contact details below)
-- `sabre_perkins_marine_parts_list.pdf` in `resources/`, for
-  impellers, cams, tubestacks and anodes
-- [Sabre Plant & Marine](https://www.sabrepm.com/downloads)
-
-**Why the reseller sites do not have it.** Places like
-HeyDownloads carry Perkins industrial, agricultural and
-construction literature in bulk. Marine Sabre publications come
-out of Wimborne, are a far smaller catalogue, and rarely appear
-there at all. Searching harder on those sites is unlikely to
-work. Go to Perkins instead, which is free anyway.
+**What is still missing:** a Sabre book printed against your own
+engine number. Ask a distributor or Sabre Plant & Marine; the
+contacts are below. An earlier draft of this guide said the
+marine book was "TPD 1399". That was wrong, and the real
+document turned out to be this Sabre SPi-Lite print.
 
 ### Where to actually get it
 
@@ -203,6 +193,17 @@ literature and questions.
 | My Engine | [myengine.perkins.com](https://myengine.perkins.com) |
 | Wimborne Marine Power Centre | Marine@Perkins.com, +44 (0)1202 796000 |
 
+**Trans Atlantic Diesels**, a US Perkins marine specialist and
+the source of the M92 data sheet in `resources/`.
+
+| | |
+|---|---|
+| Contact | Diane Boothe |
+| Company | Trans Atlantic Diesels, Inc. |
+| Email | [Diane@tadinc.com](mailto:Diane@tadinc.com) |
+| Phone | 804-642-9296 |
+| Web | [tadiesels.com](https://www.tadiesels.com) |
+
 **Sabre Plant & Marine**, who issued
 `sabre_perkins_marine_parts_list.pdf`.
 
@@ -214,15 +215,18 @@ literature and questions.
 | Web | [sabrepm.com](https://www.sabrepm.com) |
 | Address | Unit 1 Castle Street, Castlepark Industrial Estate, Ellon, Aberdeenshire AB41 9RF, Scotland |
 
-**What to ask for.** The illustrated parts book for the marine
-equipment on a Perkins Sabre M92, engine `AR50750U038560F`:
-heat exchanger, raw water pump, exhaust manifold and elbow,
-alternator and panel. Ask for the document's title and number
-too, so it can be recorded here.
+**What to ask for.** A Sabre SPi-Lite parts print for engine
+`AR50750U038560F`. That is the marine equipment book, and the
+copy here was printed against a different M92, `AR30459U224683H`.
+Sabre part numbers are five digits, such as `15021` for the
+impeller.
 
-### What the AR50750 book covers
+### The two parts books
 
-`perkins_PartsBook_AR50750-04.pdf`, 152 pages, dated
+They split the engine between them: Perkins built the base
+engine, Sabre marinised it, and each documents its own half.
+
+**`perkins_PartsBook_AR50750-04.pdf`**, 152 pages, dated
 16 September 2026. Its front page shows build list
 `AR50750` and engine `1004-42`, which matches the plate. Unlike
 AR81148 it has a real text layer, so the numbers in its text
@@ -234,18 +238,40 @@ wrong book. On this build those pages hold only a blanking plug
 or a screw: the base engine left Perkins with those holes closed
 off, and Sabre fitted the marine equipment later.
 
-| Covered well | Not covered |
+| In the Perkins book | In the Sabre book |
 |---|---|
-| Overhaul, gasket, valve train and thrust washer kits | Heat exchanger and tubestack |
-| Short engine, block, crankshaft, pistons, con rods | Raw water pump (Jabsco 29640) |
-| Cylinder head, rocker shaft, timing gears, camshaft | Exhaust manifold and marine elbow |
-| Oil pump, sump, oil cooler, oil filter head | Alternator, starter, senders, panel wiring |
-| Injection pump, injectors, HP pipes, lift pump, fuel filter | Flywheel housing and gearbox adaptor |
-| Fresh water pump, thermostat and housing | Anything else Sabre added |
+| Overhaul, gasket, valve train and thrust washer kits | Heat exchanger, tubestack, end caps |
+| Short engine, block, crankshaft, pistons, con rods | Raw water pump, impeller, cam, wearplate |
+| Cylinder head, rocker shaft, timing gears, camshaft | Exhaust manifold and water injected elbow |
+| Oil pump, sump, oil filter head | Header tank, hoses, calorifier fittings |
+| Injection pump, injectors, HP pipes, lift pump, fuel filter | Alternator, starter, relays, loom, panel |
+| Fresh water pump, thermostat and housing | Alarm switches and senders |
+| Base engine part number history | Flywheel, bell housing, engine feet, badges |
 
-For the right hand column, use a distributor, Wimborne, or the
-Sabre parts list. AR81148 in `_more_resources/` is now
-superseded; keep it only as a second opinion.
+AR81148 in `_more_resources/` is now superseded; keep it only as
+a second opinion.
+
+**`sabre_perkins_M92_parts.pdf`**, 81 pages, a "Sabre SPi-Lite"
+print dated 2 July 2018, made against engine
+`AR30459U224683H`. Around 40 plates, each a drawing followed by
+its parts table, grouped as engine core, lubrication, cooling,
+air intake and exhaust, fuel, electrical, gearbox, PTO, and
+mounts. It carries a text layer, so its numbers are exact.
+
+It uses **five digit Sabre numbers** (`34384` for the heat
+exchanger) and quotes Perkins numbers where a Perkins part was
+used (`3686T006` for the filter head gasket). Those five digit
+numbers are the same series as
+`sabre_perkins_marine_parts_list.pdf`, which is the flat stock
+list for this book. Use the book for the picture and the
+assembly, the stock list to check a number is still sold.
+
+It lists the raw water pump under Sabre numbers rather than the
+Jabsco 29640 part number, but the parts inside it are marked
+"JABSCO 1 inch": impeller `15021`, wearplate `15014`, end cover
+`15015`, end cover gasket `19234`, cam `34474`. Its thermostat,
+Perkins `2485C036`, is the same one the AR50750 book lists,
+which is a useful cross check that the two books agree.
 
 **Wiring diagrams are not a separate publication.** They are in
 chapter 7 of the installation manual, from page 37. Yours is
@@ -349,9 +375,10 @@ These are the documents that describe *this* engine, in a boat.
 | `perkins_sabre_marine_installation_manual_TPD1317E.pdf` | Perkins Sabre installation manual, TPD 1317E, 94 pages | **Marine.** Cooling, exhaust, shaft, electrical, and every wiring diagram |
 | `perkins_1000_series_workshop_manual_TPD1350_AJ-AS_YG-YK.pdf` | Factory workshop manual, TPD 1350E Issue 4, December 2001, 370 pages | **The repair manual for your engine.** Covers type AR. Teardown, clearances, torques, timing, overhaul |
 | `perkins_PartsBook_AR50750-04.pdf` | Perkins parts book for build list AR50750, dated 16 September 2026, 152 pages | **Your exact build list.** Base engine parts, kits and part number history. Not the marine equipment |
+| `sabre_perkins_M92_parts.pdf` | Sabre SPi-Lite parts book for M92 `AR30459U224683H`, 2 July 2018, 81 pages | **Marine, illustrated.** Heat exchanger, raw water pump, exhaust, header tank, electrics, mounts. A different M92 build, so confirm numbers against yours |
 | `perkins_sabre_M92_sales_brochure.pdf` | Trans Atlantic Diesels M92 data sheet, 2 pages | **Marine.** Ratings and construction of the M92 |
 | `perkins_engine_number_guide.pdf` | Perkins Engine Number Guide, PP3000/05/15 | The official serial decoding tables used in section 1 |
-| `sabre_perkins_marine_parts_list.pdf` | Sabre Plant & Marine parts list, 2.5 MB | **Marine.** Impellers, cams, tubestacks, anodes, exhaust bellows, gearbox couplings. A supplier stock list, not an engine catalogue, and some descriptions are cut off |
+| `sabre_perkins_marine_parts_list.pdf` | Sabre Plant & Marine parts list, 2.5 MB | **Marine.** The flat stock list behind the Sabre parts book: same five digit numbers, no drawings, and some descriptions cut off at the column edge |
 | `prm_500_workshop_manual.pdf` | PRM 500 Workshop Manual, Issue 2, June 2000, 60 pages | **Marine.** Full teardown for the PRM 500D gearbox |
 | `zf_hurth_HBW_360_450_630_repair_manual.pdf` | ZF Marine Repair Manual 310.01.0001, 107 pages | **Marine.** Covers the HBW 450 gearbox. Four languages |
 
@@ -401,14 +428,15 @@ Every manual is searchable from the command line:
 grep -n -i "valve tip clearance" resources/_txt_versions/*.txt
 ```
 
-Ten of the fifteen PDFs carry a real text layer. The other
+Eleven of the sixteen PDFs carry a real text layer. The other
 five arrived as page images from a scanner, so each has a
 searchable twin next to it with `_OCR` in the name, and the text
 of those is here too.
 
-`perkins_PartsBook_AR50750-04.txt` is the one to grep for a part
-number. It came from the PDF's own text, so its numbers are
-exact. Some entries read "ERROR: INCORRECT CUT OUT FORMAT"; that
+`perkins_PartsBook_AR50750-04.txt` and
+`sabre_perkins_M92_parts.txt` are the ones to grep for a part
+number. Both came from their PDF's own text, so their numbers
+are exact. Some entries read "ERROR: INCORRECT CUT OUT FORMAT"; that
 is in the Perkins original, not an extraction fault. It appears
 where a "from" or "up to" engine number should be, so ask a
 distributor which part applies to serial `U038560F`.
@@ -424,16 +452,15 @@ off the image.
 
 ### The one gap left
 
-**Parts for the marine equipment.** The base engine is now
-covered by the AR50750 book. What Sabre bolted on, the heat
-exchanger, raw water pump, marine exhaust, alternator and panel,
-has no parts book here, and no publication number for one is
-known. Wimborne or a distributor can identify parts against
-`AR50750U038560F`.
+**A Sabre parts print against your own engine number.** The
+marine equipment is now documented, but by a book drawn against
+`AR30459U224683H` rather than `AR50750U038560F`. Sabre Plant &
+Marine or a distributor can produce one for your engine, and
+until then any marine number wants confirming before you order.
 
 Everything else is covered: engine repair, base engine parts,
-marine servicing, installation, wiring, both gearbox options and
-pump removal.
+marine equipment parts, marine servicing, installation, wiring,
+both gearbox options and pump removal.
 
 ### Official Perkins sources
 
@@ -470,7 +497,7 @@ on it.
 ### Parts suppliers
 
 - [Parts4Engines M92 collection](https://parts4engines.com/en-us/collections/perkins-m92-parts). Filters, pumps, impellers, service kits. Lists the Jabsco 29640-1101 bronze sea water pump as original equipment on the M92
-- [Trans Atlantic Diesels](https://www.tadiesels.com/). US based Perkins marine specialist, also the source of the M92 data sheet
+- [Trans Atlantic Diesels](https://www.tadiesels.com/). US based Perkins marine specialist, also the source of the M92 data sheet. Diane Boothe, Diane@tadinc.com, 804-642-9296
 - [Lancing Marine](https://www.lancingmarine.com/). Perkins, PRM and Jabsco parts
 - [Sabre Plant & Marine downloads](https://www.sabrepm.com/downloads). Can supply workshop and parts manuals
 - [Maritimus](https://www.maritimusboote.de/Perkins-Sabre-marine-dengines-Spare-Parts). European Perkins Sabre spares
@@ -759,7 +786,10 @@ a spare end plate joint aboard, and check the cam for wear while
 you are in there.
 
 The pump itself is a Jabsco 29640-1101 bronze unit as original
-equipment.
+equipment. The Sabre parts book lists it as `34658` and its
+internals as 1 inch Jabsco parts: impeller `15021`, wearplate
+`15014`, end cover `15015`, end cover gasket `19234`, cam
+`34474`, and a pump service kit `33192`.
 
 ### Fuel filter
 
@@ -1238,7 +1268,8 @@ Known original equipment:
 
 | Part | Detail |
 |---|---|
-| Sea water pump | Jabsco 29640-1101, bronze |
+| Sea water pump | Jabsco 29640-1101, bronze (Sabre `34658`) |
+| Impeller, wearplate, end cover | Sabre `15021`, `15014`, `15015` |
 | Cooling system cleaner | POWERPART Easy Flush, 21825001 |
 | Raw water pump joint compound | POWERPART jointing compound, 1861117 |
 | Gasket and flange sealant | POWERPART, 21820518 |
@@ -1250,7 +1281,12 @@ Known original equipment:
 Filter service kits covering air, fuel and oil for the M92 are
 sold as a set, which is the easy way to buy them.
 
-### Working from the parts book
+### Working from the parts books
+
+Two books, split at the point where Perkins handed the engine to
+Sabre. Base engine below, marine equipment further down.
+
+#### The Perkins book, base engine
 
 `resources/perkins_PartsBook_AR50750-04.pdf` is the parts book
 for your build list. Use the Engine Breakdown at page 6 to go
@@ -1295,6 +1331,44 @@ engine oil filter canister is listed only in a history entry,
 `2654403`; confirm the current number with a distributor. These
 are 2026 numbers from Perkins' system, so they already reflect
 supersessions since 1999.
+
+#### The Sabre book, marine equipment
+
+`resources/sabre_perkins_M92_parts.pdf` covers everything Sabre
+added. It opens with a plate index: an area (cooling, electrical
+and so on), a plate ID, and a description. Find your assembly
+there, then go to that plate, where a drawing is followed by a
+table of item number, part number, description and quantity.
+
+Sabre numbers are five digits. Where Sabre fitted a Perkins
+part, the Perkins number appears instead, which is how the two
+books tie together.
+
+Marine numbers worth having to hand:
+
+| Part | Number | Plate |
+|---|---|---|
+| Impeller, Jabsco 1 inch | `15021` | Water pump, raw water |
+| Wearplate / end cover / cover gasket | `15014` / `15015` / `19234` | Water pump, raw water |
+| Cam, raw water pump | `34474` | Water pump, raw water |
+| Raw water pump service kit | `33192` | Water pump, raw water |
+| Raw water pump, complete | `34658` | Water pump, raw water |
+| Heat exchanger | `34384` | Heat exchanger |
+| Tubestack, 3 inch EC120 | `10161` | Heat exchanger |
+| Tubestack O rings | `10171` | Heat exchanger |
+| End caps, outlet / blanking | `33903` / `33902` | Heat exchanger |
+| Inlet and exhaust manifold | `34465` | Exhaust manifold |
+| Manifold to head gasket | `34464` | Exhaust manifold |
+| Exhaust elbow, water injected, 3 inch | `37765461` | Exhaust outlet |
+| Oil filter / oil cooler | `P2654403` / `2486A205` | Oil filter and cooler |
+| Thermostat | `P2485C036` | Fresh water circuit |
+| High temperature switch, 96 deg | `34832` | Alarm switches |
+| Oil pressure sender, 0 to 5 bar | `34826` | Alarm switches |
+
+That book was printed against `AR30459U224683H`. It is the right
+book for the M92 marine equipment, but it is not your engine, so
+read a number off it and then confirm it against
+`AR50750U038560F` before ordering.
 
 ### Never order from the OCR text
 
@@ -1378,6 +1452,7 @@ Short list, and all of it is in the handbooks.
 - ZF Marine Repair Manual, HBW 360 / 360A / 450 / 630, document 310.01.0001
 - Extract from Perkins Workshop Manual TPD 1312, Lucas/Delphi DP 200 Series chapter
 - Perkins Parts Book AR50750, 1004-42, dated 16 September 2026
+- Sabre SPi-Lite parts book, M92 `AR30459U224683H`, Sabre Engines Ltd, 2 July 2018
 - Perkins Parts Book AR81148, 1004-42, dated 19 June 2001
 - [Trans Atlantic Diesels: Perkins Sabre M92 data sheet](http://www.tadiesels.com/releases/P-Sabre_M92.pdf)
 - [Parts4Engines: Perkins M92 parts](https://parts4engines.com/en-us/collections/perkins-m92-parts)

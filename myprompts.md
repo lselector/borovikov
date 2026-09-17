@@ -166,7 +166,7 @@ but it only the list - no pictures or descriptions. Is there a book with picture
 
 So what is the name of the book I need for sabre_perkins_marine_parts ?
 
-==================
+-----------------------------
 
 For resources and questions 
 please add Perkins contact info
@@ -196,3 +196,30 @@ Cincinnati, OH 45241
 SBrown@clarkepsi.com
 913-928-6993 desk
 913-284-2137 m
+
+-----------------------------
+
+I have added a book:
+"resources/sabre_perkins_M92_parts.pdf"
+
+Please process/add it.
+
+-----------------------------
+
+Please add the following contact:
+
+Diane Boothe
+Trans Atlantic Diesels, Inc.
+(T) 804-642-9296
+Diane@tadinc.com
+https://www.tadiesels.com
+
+-----------------------------
+
+-----------------------------
+
+-----------------------------
+
+-----------------------------
+
+-----------------------------
