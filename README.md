@@ -39,8 +39,9 @@ free and runs in a browser.
 The type code is the useful part. Because it is `AR`, the correct
 factory repair manual is the Perkins New 1000 Series workshop
 manual covering models AJ to AS, publication TPD 1350E. That
-manual is in `resources/`, along with the M92 user handbook and
-the Sabre marine installation manual.
+manual is in `resources/`, along with the M92 user handbook, the
+Sabre marine installation manual, and the Perkins parts book for
+build list AR50750, which is this exact engine.
 
 ## Resources
 
@@ -48,7 +49,7 @@ See `resources/README.md` for the file list, or section 2 of
 `GUIDE_to_M92.md` for the same list plus online sources, parts
 suppliers, forums and video.
 
-Nine of the PDFs are also present as extracted plain text, so
+Every PDF is also present as extracted plain text, so
 they can be searched from the command line:
 
 ```bash

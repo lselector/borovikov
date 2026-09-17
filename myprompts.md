@@ -145,8 +145,54 @@ Please update the GUIDE with information of _txt_versions and with warning that 
 
 ---------------------------------------
 
+I have added PDF file
+"resources/perkins_PartsBook_AR50750-04.pdf"
+
+please create a text veersion of it and put it into resources/_txt_versions/
+
+Also please update md and pdf versions of the GUIDE
 
 ---------------------------------------
 
+What is the "TPD 1399, the Sabre marine parts book" ?
+
+Yes, please make suggested changes.
 
 ---------------------------------------
+
+We have file "resources/sabre_perkins_marine_parts_list.pdf"
+
+but it only the list - no pictures or descriptions. Is there a book with pictures and descriptions? Can you search web and download it?
+
+So what is the name of the book I need for sabre_perkins_marine_parts ?
+
+==================
+
+For resources and questions 
+please add Perkins contact info
+
+For Perkins:
+
+US: 888-737-5364 ( 888-PERK-ENG )
+Perkins Engines Inc., 1600 W Kingsbury St, Seguin, TX 78155, USA
+UK: +44 (0) 1733 583000
+https://www.perkins.com
+https://myengine.perkins.com
+email: perkinsmarine@perkins.com
+
+For Sabre Marine Parts:
++44 (0) 1224 877667
+sales@sabrepm.com
+accounts@sabrepm.com
+https://www.sabrepm.com
+
+Also add this local dealer
+recommended by Perkins
+
+Sarah Brown
+Clarke Power Solutions
+3133 E. Kemper Road
+Cincinnati, OH 45241
+SBrown@clarkepsi.com
+913-928-6993 desk
+913-284-2137 m
